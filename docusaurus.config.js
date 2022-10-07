@@ -146,3 +146,16 @@ module.exports = {
         },
     },
 };
+// add language selector
+module.exports = {
+    themeConfig: {
+        navbar: {
+            items: [
+                {
+                    type: "localeDropdown",
+                    position: "right",
+                },
+            ],
+        },
+    },
+};
