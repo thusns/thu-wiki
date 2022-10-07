@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
     title: "THU Wiki",
     tagline: "Tsinghua University Student Network Service Team",
-    url: "https://docs2.thusns.tk",
+    url: "https://docs.thusns.tk",
     baseUrl: "/",
     onBrokenLinks: "throw",
     onBrokenMarkdownLinks: "warn",
