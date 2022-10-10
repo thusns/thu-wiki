@@ -6,7 +6,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-    title: "THU Wiki",
+    title: "SNS Wiki",
     tagline: "Tsinghua University Student Network Service Team",
     url: "https://docs2.thusns.tk",
     baseUrl: "/",
@@ -23,8 +23,8 @@ const config = {
     // metadata like html lang. For example, if your site is Chinese, you may want
     // to replace "en" with "zh-Hans".
     i18n: {
-        defaultLocale: "zh-Hans",
-        locales: ["en,zh-Hans"],
+        defaultLocale: "en",
+        locales: ["en"],
     },
 
     presets: [
@@ -57,7 +57,7 @@ const config = {
         /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
         ({
             navbar: {
-                title: "THU Wiki",
+                title: "SNS Wiki",
                 logo: {
                     alt: "My Site Logo",
                     src: "img/logo.svg",
@@ -120,7 +120,7 @@ const config = {
                         ],
                     },
                 ],
-                copyright: `Copyright © ${new Date().getFullYear()} THU Wiki. Built with Docusaurus.`,
+                copyright: `Copyright © ${new Date().getFullYear()} SNS Wiki. Built with Docusaurus.`,
             },
             prism: {
                 theme: lightCodeTheme,
