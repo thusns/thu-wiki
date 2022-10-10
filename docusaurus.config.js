@@ -23,8 +23,8 @@ const config = {
     // metadata like html lang. For example, if your site is Chinese, you may want
     // to replace "en" with "zh-Hans".
     i18n: {
-        defaultLocale: "en",
-        locales: ["en"],
+        defaultLocale: "zh-Hans",
+        locales: ["en,zh-Hans"],
     },
 
     presets: [
@@ -130,19 +130,3 @@ const config = {
 };
 
 module.exports = config;
-// add internalization (Support Chinese)
-module.exports = {
-    i18n: {
-        defaultLocale: "en",
-        locales: ["en", "zh-Hans", "fa"],
-        localeConfigs: {
-            en: {
-                htmlLang: "en-GB",
-            },
-            // 如果你不需要覆盖默认值，你可以忽略这个语言（比如 zh-Hans）
-            fa: {
-                direction: "rtl",
-            },
-        },
-    },
-};
