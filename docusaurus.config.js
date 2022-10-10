@@ -6,9 +6,9 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-    title: "THU Wiki",
+    title: "SNS Wiki",
     tagline: "Tsinghua University Student Network Service Team",
-    url: "https://docs.thusns.tk",
+    url: "https://docs2.thusns.tk",
     baseUrl: "/",
     onBrokenLinks: "throw",
     onBrokenMarkdownLinks: "warn",
@@ -57,7 +57,7 @@ const config = {
         /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
         ({
             navbar: {
-                title: "THU Wiki",
+                title: "SNS Wiki",
                 logo: {
                     alt: "My Site Logo",
                     src: "img/logo.svg",
@@ -120,7 +120,7 @@ const config = {
                         ],
                     },
                 ],
-                copyright: `Copyright © ${new Date().getFullYear()} THU Wiki. Built with Docusaurus.`,
+                copyright: `Copyright © ${new Date().getFullYear()} SNS Wiki. Built with Docusaurus.`,
             },
             prism: {
                 theme: lightCodeTheme,
@@ -130,32 +130,3 @@ const config = {
 };
 
 module.exports = config;
-// add internalization (Support Chinese)
-module.exports = {
-    i18n: {
-        defaultLocale: "en",
-        locales: ["en", "zh-Hans", "fa"],
-        localeConfigs: {
-            en: {
-                htmlLang: "en-GB",
-            },
-            // 如果你不需要覆盖默认值，你可以忽略这个语言（比如 zh-Hans）
-            fa: {
-                direction: "rtl",
-            },
-        },
-    },
-};
-// add language selector
-module.exports = {
-    themeConfig: {
-        navbar: {
-            items: [
-                {
-                    type: "localeDropdown",
-                    position: "right",
-                },
-            ],
-        },
-    },
-};
