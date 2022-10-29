@@ -6,7 +6,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-    title: "SNS Wiki",
+    title: "THU Wiki",
     tagline: "Tsinghua University Student Network Service Team",
     url: "https://docs2.thusns.tk",
     baseUrl: "/",
@@ -57,7 +57,7 @@ const config = {
         /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
         ({
             navbar: {
-                title: "SNS Wiki",
+                title: "THU Wiki",
                 logo: {
                     alt: "My Site Logo",
                     src: "img/logo.svg",
@@ -120,7 +120,7 @@ const config = {
                         ],
                     },
                 ],
-                copyright: `Copyright © ${new Date().getFullYear()} SNS Wiki. Built with Docusaurus.`,
+                copyright: `Copyright © ${new Date().getFullYear()} THU Wiki. Built with Docusaurus.`,
             },
             prism: {
                 theme: lightCodeTheme,
