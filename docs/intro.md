@@ -20,6 +20,8 @@ sidebar_position: 1
 
 信息化技术中心用户服务热线 每天8:00-22:00 62784859
 
+学生社区管理服务中心 62783333
+
 # 信息化
 
 校园信息化相关问题请咨询84859热线 或 发邮件至its@tsinghua.edu.cn
@@ -75,3 +77,18 @@ sidebar_position: 1
 
 1. 拨打热线 (010)62784859
 2. 若为滥发邮件封禁，自助修改密码15分钟后解封。
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+docs/intro.md at main · thusns/docs · GitHub
