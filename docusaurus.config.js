@@ -8,10 +8,10 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
     title: "THU Wiki",
     tagline: "Tsinghua University Student Network Service Team",
-    url: "https://docs2.thusns.tk",
+    url: "https://thu.wiki",
     baseUrl: "/",
     onBrokenLinks: "throw",
-    onBrokenMarkdownLinks: "warn",
+    onBrokenMarkdownLinks: "ignore", //Default: "warn"
     favicon: "img/favicon.ico",
 
     // GitHub pages deployment config.
@@ -131,7 +131,7 @@ const config = {
                 appId: "IMFQQHMSMK",
 
                 // Public API key: it is safe to commit it
-                apiKey: "YOUR_SEARCH_API_KEY",
+                apiKey: "0b2e2cb84bd26d9c1303a331bcccede4",
 
                 indexName: "thu-wiki-index",
 
