@@ -128,12 +128,12 @@ const config = {
             },
             algolia: {
                 // The application ID provided by Algolia
-                appId: "IMFQQHMSMK",
+                appId: "6EWYEL4M0G",
 
                 // Public API key: it is safe to commit it
-                apiKey: "0b2e2cb84bd26d9c1303a331bcccede4",
+                apiKey: "bb452535c88de607c2cffc81a3ad6ed5",
 
-                indexName: "thu-wiki-index",
+                indexName: "thu",
 
                 // Optional: see doc section below
                 contextualSearch: true,
