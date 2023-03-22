@@ -1,6 +1,4 @@
----
-sidebar_position: 1
----
+## sidebar_position: 1
 
 # its
 
@@ -30,18 +28,18 @@ sidebar_position: 1
 
 电子身份=学号+账号
 校园网、电子邮件、信息门户、网络学堂、图书馆以及学校认可的其他校园网络信息服务资源共用一套账号密码。
-*清华家园网不属于网络信息服务*
+_清华家园网不属于网络信息服务_
 使用电子身份服务系统（ID系统）<https://id.tsinghua.edu.cn>修改密码和绑定手机号。
 
-### 改密码
+### 修改密码
 
 1. ID系统
 2. 自服务系统<http://usereg.tsinghua.edu.cn>
 3. “清华大学信息服务”企业微信号-认证助手
 
-### 忘记密码
+### 重置密码
 
-1. 自助重置：在ID系统的“已有账号”页面，点击“忘记密码”，短信验证码重置。或信息门户首页的“忘记密码”。
+1. 自助重置（账号需绑定手机）：在ID系统的“已有账号”页面，点击“忘记密码”，短信验证码重置。或信息门户首页的“忘记密码”。
 2. 人工重置：前往李兆基B104用户服务大厅。所需证件：本人办理，持校园卡即可；代办人办理需持其本人的校园卡及办理人的校园卡，复印件无效。
 3. 邮件申请：本人手持校园卡自拍照片（卡正面的学号和姓名要清晰），然后发送邮件至its@tsinghua.edu.cn，邮件标题为“重置密码”。
 
@@ -51,7 +49,7 @@ sidebar_position: 1
 
 在校正式注册的本科生和研究生账号
 基本服务：动态IPv4、IPv6地址，5个联网权限、1个电子邮箱。
-费用：0元/月，疫情期间，超出50GB校外IPv4入流量不收费，即*无限量免费使用*。
+费用：0元/月，疫情期间，超出50GB校外IPv4入流量不收费，即_无限量免费使用_。
 
 ### 有线网
 
@@ -68,27 +66,27 @@ sidebar_position: 1
 ### 常见问题
 
 登录错误提示：
-*用户名或密码错误，或登录受到限制*
+_用户名或密码错误，或登录受到限制_
 
 1. 检查域名：mails（学生版）
 2. 检查用户名和密码
 
-*用户已锁定，请联系管理员*
+_用户已锁定，请联系管理员_
 
 1. 拨打热线 (010)62784859
 2. 若为滥发邮件封禁，自助修改密码15分钟后解封。
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-docs/intro.md at main · thusns/docs · GitHub
+   Footer
+   © 2022 GitHub, Inc.
+   Footer navigation
+   Terms
+   Privacy
+   Security
+   Status
+   Docs
+   Contact GitHub
+   Pricing
+   API
+   Training
+   Blog
+   About
+   docs/intro.md at main · thusns/docs · GitHub
