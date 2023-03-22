@@ -1,4 +1,6 @@
-## sidebar_position: 1
+---
+sidebar_position: 1
+---
 
 # its
 
@@ -75,18 +77,18 @@ _用户已锁定，请联系管理员_
 
 1. 拨打热线 (010)62784859
 2. 若为滥发邮件封禁，自助修改密码15分钟后解封。
-   Footer
-   © 2022 GitHub, Inc.
-   Footer navigation
-   Terms
-   Privacy
-   Security
-   Status
-   Docs
-   Contact GitHub
-   Pricing
-   API
-   Training
-   Blog
-   About
-   docs/intro.md at main · thusns/docs · GitHub
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+docs/intro.md at main · thusns/docs · GitHub
