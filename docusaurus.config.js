@@ -196,11 +196,12 @@ module.exports = {
             {
               tagName: 'link',
               rel: 'icon',
-              href: 'static/img/docusaurus.png',
+              href: '/img/docusaurus.png',
+            },
             {
               tagName: 'link',
               rel: 'manifest',
-              href: 'static/manifest.json', 
+              href: '/manifest.json',
             },
             {
               tagName: 'meta',
@@ -220,18 +221,18 @@ module.exports = {
             {
               tagName: 'link',
               rel: 'apple-touch-icon',
-              href: '/static/img/docusaurus.png',
+              href: '/img/docusaurus.png',
             },
             {
               tagName: 'link',
               rel: 'mask-icon',
-              href: '/static/img/docusaurus.svg',
+              href: '/img/docusaurus.svg',
               color: 'rgb(37, 194, 160)',
             },
             {
               tagName: 'meta',
               name: 'msapplication-TileImage',
-              content: 'static/img/docusaurus.png',
+              content: '/img/docusaurus.png',
             },
             {
               tagName: 'meta',
