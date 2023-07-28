@@ -72,7 +72,7 @@ const config = {
                         position: "left",
                         label: "指南",
                     },
-                    { to: "/sns-blog", label: "SNS Blog", position: "left" },
+                    { to: "/blog", label: "SNS Blog", position: "left" },
                     { to: "/thu-services", label: "THU Services", position: "left" },
                     
                     // Right
