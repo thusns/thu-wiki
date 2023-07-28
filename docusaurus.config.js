@@ -264,10 +264,7 @@ module.exports = {
     themeConfig: {
       docs: {
         sidebar: {
-              autoCollapseCategories: true,
-              hideable: true,
-
-            
+            hideable: true,
         },
       },
     },
