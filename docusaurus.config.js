@@ -23,7 +23,7 @@ const config = {
     // metadata like html lang. For example, if your site is Chinese, you may want
     // to replace "en" with "zh-Hans".
     i18n: {
-        defaultLocale: "en",
+        defaultLocale: "zh-Hans",
         locales: ["zh-Hans", "en"],
     },
 
@@ -37,7 +37,7 @@ const config = {
                     // Please change this to your repo.
                     // Remove this to remove the "edit this page" links.
                     editUrl:
-                        "https://github.com/thusns/thu-wiki/tree/main/docs/",
+                        "https://github.com/thusns/thu-wiki/tree/main/",
                 },
                 blog: {
                     // disabled showReadingTime, because it's not supoorted by official preset-classic
@@ -45,7 +45,7 @@ const config = {
                     // Please change this to your repo.
                     // Remove this to remove the "edit this page" links.
                     editUrl:
-                        "https://github.com/thusns/thu-wiki/tree/main/blog/",
+                        "https://github.com/thusns/thu-wiki/tree/main/",
                 },
                 // not duplicate
                 // docs: {
