@@ -83,7 +83,7 @@ const config = {
                         position: "left",
                         label: "指南",
                     },
-                    { to: "/blog", label: "SNS Blog", position: "left" },
+                    { to: "/blog", label: "博客", position: "left" },
                     // {
                     //     // THU Services
                     //     type: "doc",
