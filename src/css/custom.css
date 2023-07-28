@@ -5,7 +5,7 @@
  */
 
 /* You can override the default Infima variables here. */
-:root {
+/* :root {
   --ifm-color-primary: #2e8555;
   --ifm-color-primary-dark: #29784c;
   --ifm-color-primary-darker: #277148;
@@ -15,10 +15,20 @@
   --ifm-color-primary-lightest: #3cad6e;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
-}
+} */
+/* Tsinghua Purple */
+:root {
+    --ifm-color-primary: #9c27b0;
+    --ifm-color-primary-dark: #8c239e;
+    --ifm-color-primary-darker: #852196;
+    --ifm-color-primary-darkest: #6d1b7b;
+    --ifm-color-primary-light: #ac2bc2;
+    --ifm-color-primary-lighter: #b32dca;
+    --ifm-color-primary-lightest: #c042d5;
+  }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
-[data-theme='dark'] {
+/* [data-theme='dark'] {
   --ifm-color-primary: #25c2a0;
   --ifm-color-primary-dark: #21af90;
   --ifm-color-primary-darker: #1fa588;
@@ -27,4 +37,14 @@
   --ifm-color-primary-lighter: #32d8b4;
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
-}
+} */
+
+[data-theme='dark'] {
+    --ifm-color-primary: #f274ff;
+    --ifm-color-primary-dark: #ef4fff;
+    --ifm-color-primary-darker: #ed3cff;
+    --ifm-color-primary-darkest: #e805ff;
+    --ifm-color-primary-light: #f599ff;
+    --ifm-color-primary-lighter: #f7acff;
+    --ifm-color-primary-lightest: #fce3ff;
+  }
