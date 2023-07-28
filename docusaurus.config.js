@@ -17,14 +17,14 @@ const config = {
     // GitHub pages deployment config.
     // If you aren't using GitHub pages, you don't need these.
     organizationName: "thusns", // Usually your GitHub org/user name.
-    projectName: "docs", // Usually your repo name.
+    projectName: "thu-wiki", // Usually your repo name.
 
     // Even if you don't use internalization, you can use this field to set useful
     // metadata like html lang. For example, if your site is Chinese, you may want
     // to replace "en" with "zh-Hans".
     i18n: {
-        defaultLocale: "en",
-        locales: ["en"],
+        defaultLocale: "zh-Hans",
+        locales: ["zh-Hans", "en"],
     },
 
     presets: [
@@ -37,14 +37,14 @@ const config = {
                     // Please change this to your repo.
                     // Remove this to remove the "edit this page" links.
                     editUrl:
-                        "https://github.com/thusns/docs/tree/main/packages/create-docusaurus/templates/shared/",
+                        "https://github.com/thusns/thu-wiki/tree/main/docs/",
                 },
                 blog: {
                     showReadingTime: true,
                     // Please change this to your repo.
                     // Remove this to remove the "edit this page" links.
                     editUrl:
-                        "https://github.com/thusns/docs/tree/main/packages/create-docusaurus/templates/shared/",
+                        "https://github.com/thusns/thu-wiki/tree/main/blog/",
                 },
                 theme: {
                     customCss: require.resolve("./src/css/custom.css"),
@@ -57,53 +57,69 @@ const config = {
         /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
         ({
             navbar: {
+                hideOnScroll: true,
+                // Right
                 title: "THU Wiki",
                 logo: {
-                    alt: "My Site Logo",
+                    alt: "THU Wiki Logo",
                     src: "img/logo.svg",
                 },
                 items: [
                     {
+                        // main documentation
                         type: "doc",
                         docId: "intro",
                         position: "left",
-                        label: "Tutorial",
+                        label: "指南",
                     },
-                    { to: "/blog", label: "Blog", position: "left" },
+                    { to: "/sns-blog", label: "SNS Blog", position: "left" },
+                    { to: "/thu-services", label: "THU Services", position: "left" },
+                    
+                    // Right
                     {
-                        href: "https://github.com/thusns/docs",
-                        label: "GitHub",
-                        position: "right",
-                    },
+                        type: 'localeDropdown',
+                        position: 'right',
+                        dropdownItemsAfter: [
+                          {
+                            type: 'html',
+                            value: '<hr style="margin: 0.3rem 0;">',
+                          },
+                          {
+                            href: 'https://github.com/facebook/docusaurus/issues/3526',
+                            label: 'Help Us Translate',
+                          },
+                        ],
+                      },
+                      {
+                        href: 'https://github.com/facebook/docusaurus',
+                        position: 'right',
+                        className: 'header-github-link',
+                        'aria-label': 'GitHub repository',
+                      },
+
+                    // },
                 ],
             },
             footer: {
                 style: "dark",
                 links: [
                     {
-                        title: "Docs",
+                        title: "Learn",
                         items: [
                             {
-                                label: "Tutorial",
+                                label: "指南",
                                 to: "/docs/intro",
                             },
                         ],
                     },
                     {
-                        title: "Community",
+                        title: "Links",
                         items: [
                             {
-                                label: "Stack Overflow",
-                                href: "https://stackoverflow.com/questions/tagged/docusaurus",
+                                label: "Open Sourced on GitHub",
+                                href: "https://github.com/thusns/thu-wiki",
                             },
-                            {
-                                label: "Discord",
-                                href: "https://discordapp.com/invite/docusaurus",
-                            },
-                            {
-                                label: "Twitter",
-                                href: "https://twitter.com/docusaurus",
-                            },
+                        
                         ],
                     },
                     {
@@ -115,12 +131,12 @@ const config = {
                             },
                             {
                                 label: "GitHub",
-                                href: "https://github.com/thusns/docs",
+                                href: "https://github.com/thusns/thu-wiki",
                             },
                         ],
                     },
                 ],
-                copyright: `Copyright © ${new Date().getFullYear()} THU Wiki. Built with Docusaurus.`,
+                copyright: `Copyright © ${new Date().getFullYear()} THU Wiki.`,
             },
             prism: {
                 theme: lightCodeTheme,

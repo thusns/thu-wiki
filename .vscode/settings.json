@@ -18,5 +18,15 @@
         "titleBar.inactiveBackground": "#9c27b099",
         "titleBar.inactiveForeground": "#e7e7e799"
     },
-    "peacock.color": "#9c27b0"
+    "peacock.color": "#9c27b0",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/.github": true
+    },
+    "hide-files.files": []
 }

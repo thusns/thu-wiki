@@ -1,1 +1,14 @@
-{}
+{
+    "docusaurus.config.js": {
+        "description": "Docusaurus配置文件"
+    },
+    "docs": {
+        "description": "main-documents"
+    },
+    "images": {
+        "description": "main-documents-images"
+    },
+    "blog": {
+        "description": "/blog"
+    }
+}
