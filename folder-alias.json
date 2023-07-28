@@ -10,5 +10,8 @@
     },
     "blog": {
         "description": "/blog"
+    },
+    "TODO.md": {
+        "description": "TODO"
     }
 }
