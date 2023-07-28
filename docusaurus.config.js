@@ -46,6 +46,13 @@ const config = {
                     editUrl:
                         "https://github.com/thusns/thu-wiki/tree/main/blog/",
                 },
+                thuservices: {
+                    showReadingTime: true,
+                    // Please change this to your repo.
+                    // Remove this to remove the "edit this page" links.
+                    editUrl:
+                        "https://github.com/thusns/thu-wiki/tree/main/thu-services",
+                },
                 theme: {
                     customCss: require.resolve("./src/css/custom.css"),
                 },
@@ -73,7 +80,7 @@ const config = {
                         label: "指南",
                     },
                     { to: "/blog", label: "SNS Blog", position: "left" },
-                    { to: "/thu-services", label: "THU Services", position: "left" },
+                    { to: "/thuservices", label: "THU Services", position: "left" },
                     
                     // Right
                     {
