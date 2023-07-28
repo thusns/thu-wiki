@@ -40,20 +40,23 @@ const config = {
                         "https://github.com/thusns/thu-wiki/tree/main/docs/",
                 },
                 blog: {
-                    showReadingTime: true,
+                    // disabled showReadingTime, because it's not supoorted by official preset-classic
+                    // showReadingTime: true,
                     // Please change this to your repo.
                     // Remove this to remove the "edit this page" links.
                     editUrl:
                         "https://github.com/thusns/thu-wiki/tree/main/blog/",
                 },
                 // not duplicate
-                docs: {
-                    showReadingTime: true,
-                    // Please change this to your repo.
-                    // Remove this to remove the "edit this page" links.
-                    editUrl:
-                        "https://github.com/thusns/thu-wiki/tree/main/thu-services",
-                },
+                // docs: {
+                //     sidebarPath: require.resolve("./sidebars.js"),
+                //     // disabled showReadingTime, because it's not supoorted by official preset-classic
+                //     // showReadingTime: true,
+                //     // Please change this to your repo.
+                //     // Remove this to remove the "edit this page" links.
+                //     editUrl:
+                //         "https://github.com/thusns/thu-wiki/tree/main/thu-services",
+                // },
                 theme: {
                     customCss: require.resolve("./src/css/custom.css"),
                 },
@@ -81,13 +84,13 @@ const config = {
                         label: "指南",
                     },
                     { to: "/blog", label: "SNS Blog", position: "left" },
-                    {
-                        // THU Services
-                        type: "doc",
-                        docId: "welcome",
-                        position: "left",
-                        label: "THU Services",
-                    },
+                    // {
+                    //     // THU Services
+                    //     type: "doc",
+                    //     docId: "welcome",
+                    //     position: "left",
+                    //     label: "THU Services",
+                    // },
                     
                     // Right
                     {
