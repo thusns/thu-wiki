@@ -46,7 +46,8 @@ const config = {
                     editUrl:
                         "https://github.com/thusns/thu-wiki/tree/main/blog/",
                 },
-                thuservices: {
+                // not duplicate
+                docs: {
                     showReadingTime: true,
                     // Please change this to your repo.
                     // Remove this to remove the "edit this page" links.
@@ -80,7 +81,13 @@ const config = {
                         label: "指南",
                     },
                     { to: "/blog", label: "SNS Blog", position: "left" },
-                    { to: "/thuservices", label: "THU Services", position: "left" },
+                    {
+                        // THU Services
+                        type: "doc",
+                        docId: "welcome",
+                        position: "left",
+                        label: "THU Services",
+                    },
                     
                     // Right
                     {
