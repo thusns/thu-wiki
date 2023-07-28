@@ -167,6 +167,8 @@ const config = {
                 apiKey: "bb452535c88de607c2cffc81a3ad6ed5",
 
                 indexName: "thu",
+                // Send search events to Algolia to improve search quality.
+                insights: true,
 
                 // Optional: see doc section below
                 contextualSearch: true,
