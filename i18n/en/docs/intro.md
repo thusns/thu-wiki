@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 ---
+# ENGLISH
 
 # its
 
@@ -32,7 +33,7 @@ sidebar_position: 1
 
 # 信息化
 
-校园信息化相关问题请咨询84859热线 或 发邮件至its@tsinghua.edu.cn
+校园信息化相关问题请咨询84859热线 或 发邮件至<its@tsinghua.edu.cn>
 
 ## 电子身份
 
@@ -51,7 +52,7 @@ _清华家园网不属于网络信息服务_
 
 1. 自助重置（账号需绑定手机）：在ID系统的“已有账号”页面，点击“忘记密码”，短信验证码重置。或信息门户首页的“忘记密码”。
 2. 人工重置：前往李兆基B104用户服务大厅。所需证件：本人办理，持校园卡即可；代办人办理需持其本人的校园卡及办理人的校园卡，复印件无效。
-3. 邮件申请：本人手持校园卡自拍照片（卡正面的学号和姓名要清晰），然后发送邮件至its@tsinghua.edu.cn，邮件标题为“重置密码”。
+3. 邮件申请：本人手持校园卡自拍照片（卡正面的学号和姓名要清晰），然后发送邮件至<its@tsinghua.edu.cn>，邮件标题为“重置密码”。
 
 ## 校园网
 
@@ -85,18 +86,3 @@ _用户已锁定，请联系管理员_
 
 1. 拨打热线 (010)62784859
 2. 若为滥发邮件封禁，自助修改密码15分钟后解封。
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-docs/intro.md at main · thusns/docs · GitHub
