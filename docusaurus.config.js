@@ -111,6 +111,7 @@ const config = {
                         href: 'https://github.com/thusns/thu-wiki',
                         position: 'right',
                         className: 'header-github-link',
+                        label: 'GitHub',
                         'aria-label': 'GitHub repository',
                     },
                 ],
