@@ -1,6 +1,6 @@
 # 常用校外网站
 
-校内网站请参考 <info.md>
+校内网站请参考 info.md
 
 ## thu.services
 
