@@ -152,7 +152,7 @@ const config = {
                         ],
                     },
                 ],
-                copyright: `Copyright © ${new Date().getFullYear()} THU Wiki.`,
+                copyright: `Copyright © ${new Date().getFullYear()} THU Wiki. Built with Docusaurus.`,
             },
             prism: {
                 theme: lightCodeTheme,
