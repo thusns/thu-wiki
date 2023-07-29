@@ -188,8 +188,7 @@ const config = {
 module.exports = {
     plugins: [
         [
-        // '@docusaurus/plugin-pwa',
-        'pwa',
+        '@docusaurus/plugin-pwa',
             {
               // debug: isDeployPreview,
               offlineModeActivationStrategies: [
