@@ -120,7 +120,7 @@ const config = {
                 style: "dark",
                 links: [
                     {
-                        title: "Learn",
+                        title: "文档",
                         items: [
                             {
                                 label: "指南",
@@ -129,25 +129,25 @@ const config = {
                         ],
                     },
                     {
-                        title: "Links",
+                        title: "链接",
                         items: [
                             {
-                                label: "Open Sourced on GitHub",
+                                label: "在GitHub上开源",
                                 href: "https://github.com/thusns/thu-wiki",
                             },
                         
                         ],
                     },
                     {
-                        title: "More",
+                        title: "更多",
                         items: [
                             {
                                 label: "Blog",
                                 to: "/blog",
                             },
                             {
-                                label: "GitHub",
-                                href: "https://github.com/thusns/thu-wiki",
+                                label: "/thu-services",
+                                href: "https://thu.wiki/docs/category/thu-services",
                             },
                         ],
                     },
