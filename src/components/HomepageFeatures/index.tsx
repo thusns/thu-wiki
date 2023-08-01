@@ -1,6 +1,8 @@
 import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
+// import Chatbot from '../Chatbot';
+
 
 type FeatureItem = {
     title: string;
@@ -37,6 +39,8 @@ const FeatureList: FeatureItem[] = [
         ),
     },
 ];
+
+export default HomePage;
 
 function Feature({ title, Svg, description }: FeatureItem) {
     return (
