@@ -116,17 +116,6 @@ const config = {
                     },
                 ],
             },
-            //Chatbase
-            scripts: [
-                {
-                  src: 'https://www.chatbase.co/embed.min.js',
-                  id: 'thu-wiki-ylguypwnl',
-                  async: true,
-                  defer: true,
-                  'data-chatbot-id': 'thu-wiki-ylguypwnl',
-                },
-            ],
-            // Chatbase
             footer: {
                 style: "dark",
                 links: [
