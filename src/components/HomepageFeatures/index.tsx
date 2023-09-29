@@ -8,6 +8,28 @@ type FeatureItem = {
     description: JSX.Element;
 };
 
+// START of AI Assistant component
+import { useEffect } from 'react';
+
+const ChatApp = () => {
+    useEffect(() => {
+        const script = document.createElement('script');
+        script.src = 'https://udify.app/embed.min.js';
+        script.id = 'gPiwVj80px4bod7T';
+        script.defer = true;
+        document.body.appendChild(script);
+
+        return () => {
+            document.body.removeChild(script);
+        };
+    }, []);
+
+    return <div />;
+};
+
+// END of AI Assistant component
+
+
 const FeatureList: FeatureItem[] = [
     {
         title: '易于使用',
@@ -62,6 +84,7 @@ export default function HomepageFeatures(): JSX.Element {
                     ))}
                 </div>
             </div>
+            <ChatApp />
         </section>
     );
 }
