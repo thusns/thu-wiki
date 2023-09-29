@@ -16,6 +16,7 @@ Our deployment is also running on Vercel. You can deploy your own THU Wiki with 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/thusns/thu-wiki)
 
 _Live Example: <https://thu.wiki>_
+![thuwiki-homepage](assets/wiki-homepage.png)
 
 ### Deploy locally
 
