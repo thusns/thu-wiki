@@ -85,6 +85,10 @@ const config = {
                         label: "指南",
                     },
                     { to: "/blog", label: "博客", position: "left" },
+                    {
+                        href: 'https://udify.app/chat/UgNXSNlgoZZLemMi',
+                        label: 'Ask AI',
+                    },
                     // {
                     //     // THU Services
                     //     type: "doc",

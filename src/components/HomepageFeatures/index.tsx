@@ -84,19 +84,6 @@ export default function HomepageFeatures(): JSX.Element {
                     ))}
                 </div>
             </div>
-            <ChatApp />
-            {
-                <div className="container">
-                    <div className="row">
-                        <div className="col col--6 col--offset-3">
-                            <div className="text--center padding-horiz--md">
-                                <h3>AI Assistant</h3>
-                                <>THU Wiki AI Assistant is here to help you.</>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            }
         </section>
     );
 }
