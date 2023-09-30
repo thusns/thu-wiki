@@ -86,7 +86,7 @@ const config = {
                     },
                     { to: "/blog", label: "博客", position: "left" },
                     {
-                        href: 'https://udify.app/chat/UgNXSNlgoZZLemMi',
+                        href: 'https://udify.app/chat/gPiwVj80px4bod7T',
                         label: 'Ask AI',
                     },
                     // {
