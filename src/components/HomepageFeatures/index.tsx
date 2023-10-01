@@ -11,7 +11,7 @@ type FeatureItem = {
 // START of AI Assistant component
 import { useEffect } from 'react';
 
-const ChatApp = () => {
+export function ChatApp() {
     useEffect(() => {
         const script = document.createElement('script');
         script.src = 'https://udify.app/embed.min.js';
@@ -25,8 +25,7 @@ const ChatApp = () => {
     }, []);
 
     return <div />;
-};
-
+}
 // END of AI Assistant component
 
 
