@@ -11,7 +11,7 @@ type FeatureItem = {
 // START of AI Assistant component
 import { useEffect } from 'react';
 
-export function ChatApp() {
+function ChatApp() {
     useEffect(() => {
         const script = document.createElement('script');
         script.src = 'https://udify.app/embed.min.js';
@@ -73,7 +73,7 @@ function Feature({ title, Svg, description }: FeatureItem) {
     );
 }
 
-export default function HomepageFeatures(): JSX.Element {
+export default function HomepageFeatures() {
     return (
         <section className={styles.features}>
             <div className="container">
@@ -81,6 +81,13 @@ export default function HomepageFeatures(): JSX.Element {
                     {FeatureList.map((props, idx) => (
                         <Feature key={idx} {...props} />
                     ))}
+                </div>
+                <div className="row">
+                    <div className="col col--4"></div>
+                    <div className="col col--4">
+                        <ChatApp />
+                    </div>
+                    <div className="col col--4"></div>
                 </div>
             </div>
         </section>
