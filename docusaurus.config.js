@@ -27,7 +27,6 @@ const config = {
         // Suppport some languages
         locales: ["en", "zh-Hans", "zh-Hant", "ja", "ar", "ru", "fr", "es", "de", "pt", "ko"],
     },
-
     presets: [
         [
             "classic",
@@ -159,6 +158,16 @@ const config = {
                 ],
                 copyright: `Copyright © ${new Date().getFullYear()} THU Wiki. Built with Docusaurus.`,
             },
+            // Comment Support START
+            giscus: {
+                repo: 'thusns/thuwiki-giscus',
+                repoId: 'R_kgDOKan1Cg',
+                category: 'Announcements',
+                categoryId: 'DIC_kwDOKan1Cs4CZxpc',
+                theme: 'light',
+                darkTheme: 'dark',
+            },
+            // Comment Support END
             prism: {
                 theme: lightCodeTheme,
                 darkTheme: darkCodeTheme,
@@ -255,25 +264,6 @@ module.exports = {
     ],
 };
 //PWA Support END
-
-// Comment Support START
-<script src="https://giscus.app/client.js"
-        data-repo="thusns/thuwiki-giscus"
-        data-repo-id="R_kgDOKan1Cg"
-        data-category="Announcements"
-        data-category-id="DIC_kwDOKan1Cs4CZxpc"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="1"
-        data-input-position="top"
-        data-theme="preferred_color_scheme"
-        data-lang="zh-CN"
-        crossorigin="anonymous"
-        async>
-</script>
-
-// Comment Support END
 
 module.exports = {
     themeConfig: {
