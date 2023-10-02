@@ -200,9 +200,8 @@ const config = {
         }),
 };
 // PWA Support START
-module.exports = {
-    plugins: [
-        [
+plugins: [
+    [
         '@docusaurus/plugin-pwa',
         {
             debug: true,
@@ -213,80 +212,79 @@ module.exports = {
             ],
             pwaHead: [
                 {
-                tagName: 'link',
-                rel: 'icon',
-                href: '/img/docusaurus.png',
+                    tagName: 'link',
+                    rel: 'icon',
+                    href: '/img/docusaurus.png',
                 },
                 {
-                tagName: 'link',
-                rel: 'manifest',
-                href: '/manifest.json',
+                    tagName: 'link',
+                    rel: 'manifest',
+                    href: '/manifest.json',
                 },
                 {
-                tagName: 'meta',
-                name: 'theme-color',
-                content: 'rgb(37, 194, 160)',
+                    tagName: 'meta',
+                    name: 'theme-color',
+                    content: 'rgb(37, 194, 160)',
                 },
                 {
-                tagName: 'meta',
-                name: 'apple-mobile-web-app-capable',
-                content: 'yes',
+                    tagName: 'meta',
+                    name: 'apple-mobile-web-app-capable',
+                    content: 'yes',
                 },
                 {
-                tagName: 'meta',
-                name: 'apple-mobile-web-app-status-bar-style',
-                content: '#000',
+                    tagName: 'meta',
+                    name: 'apple-mobile-web-app-status-bar-style',
+                    content: '#000',
                 },
                 {
-                tagName: 'link',
-                rel: 'apple-touch-icon',
-                href: '/img/docusaurus.png',
+                    tagName: 'link',
+                    rel: 'apple-touch-icon',
+                    href: '/img/docusaurus.png',
                 },
                 {
-                tagName: 'link',
-                rel: 'mask-icon',
-                href: '/img/docusaurus.svg',
-                color: 'rgb(37, 194, 160)',
+                    tagName: 'link',
+                    rel: 'mask-icon',
+                    href: '/img/docusaurus.svg',
+                    color: 'rgb(37, 194, 160)',
                 },
                 {
-                tagName: 'meta',
-                name: 'msapplication-TileImage',
-                content: '/img/docusaurus.png',
+                    tagName: 'meta',
+                    name: 'msapplication-TileImage',
+                    content: '/img/docusaurus.png',
                 },
                 {
-                tagName: 'meta',
-                name: 'msapplication-TileColor',
-                content: '#000',
+                    tagName: 'meta',
+                    name: 'msapplication-TileColor',
+                    content: '#000',
                 },
-                    ],
+            ],
         },
     ],
-    ],
-};
-//PWA Support END
 
-module.exports = {
-    themeConfig: {
-        announcementBar: {
-        id: 'support_us',
-        content:
-            'We are looking to revamp our docs, please fill <a target="_blank" rel="noopener noreferrer" href="#">this survey</a>',
-        backgroundColor: '#fafbfc',
-        textColor: '#091E42',
-        isCloseable: false,
-    },
-    },
-};
+    //PWA Support END
 
-
-module.exports = {
-    themeConfig: {
-    docs: {
-        sidebar: {
-            hideable: true,
+    module.exports = {
+        themeConfig: {
+            announcementBar: {
+                id: 'support_us',
+                content:
+                    'We are looking to revamp our docs, please fill <a target="_blank" rel="noopener noreferrer" href="#">this survey</a>',
+                backgroundColor: '#fafbfc',
+                textColor: '#091E42',
+                isCloseable: false,
+            },
         },
     },
-    },
-};
 
-module.exports = config;
+
+    module.exports = {
+        themeConfig: {
+            docs: {
+                sidebar: {
+                    hideable: true,
+                },
+            },
+        },
+    },
+
+    module.exports = config;
