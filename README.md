@@ -1,4 +1,4 @@
-# THU Wiki
+# THU Wiki Project
 
 Welcome, this is the source code repo of the [THU Wiki](https://thu.wiki).
 
