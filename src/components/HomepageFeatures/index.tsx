@@ -8,25 +8,6 @@ type FeatureItem = {
     description: JSX.Element;
 };
 
-// START of AI Assistant component
-import { useEffect } from 'react';
-
-function ChatApp() {
-    useEffect(() => {
-        const script = document.createElement('script');
-        script.src = 'https://udify.app/embed.min.js';
-        script.id = 'gPiwVj80px4bod7T';
-        script.defer = true;
-        document.body.appendChild(script);
-
-        return () => {
-            document.body.removeChild(script);
-        };
-    }, []);
-
-    return <div />;
-}
-// END of AI Assistant component
 
 
 const FeatureList: FeatureItem[] = [
@@ -81,13 +62,6 @@ export default function HomepageFeatures() {
                     {FeatureList.map((props, idx) => (
                         <Feature key={idx} {...props} />
                     ))}
-                </div>
-                <div className="row">
-                    <div className="col col--4"></div>
-                    <div className="col col--4">
-                        <ChatApp />
-                    </div>
-                    <div className="col col--4"></div>
                 </div>
             </div>
         </section>

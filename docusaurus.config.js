@@ -75,8 +75,9 @@ const config = {
 						position: "left"
 					},
 					{
-						href: 'https://udify.app/chat/gPiwVj80px4bod7T',
+						to: '/chat',
 						label: 'Ask AI',
+						position: 'left',
 					},
 					// {
 					//     // THU Services
