@@ -22,3 +22,4 @@ yarn-error.log*
 .vercel
 # TODO.md
 /TODO.md
+CLAUDE.md
