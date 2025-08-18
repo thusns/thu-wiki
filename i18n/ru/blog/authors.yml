@@ -1,0 +1,17 @@
+thuwiki-team:
+  name: THU Wiki Team
+  title: THU Wiki Maintainers
+  url: https://github.com/thusns/thu-wiki
+  image_url: https://github.com/thusns.png
+
+thu-contributor:
+  name: THU Contributor
+  title: Tsinghua University Student
+  url: https://github.com/thusns/thu-wiki
+  image_url: https://github.com/thusns.png
+
+thu-sns:
+  name: THU SNS Team
+  title: Tsinghua University Student Network Service Team
+  url: https://github.com/thusns
+  image_url: https://github.com/thusns.png
