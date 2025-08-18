@@ -20,7 +20,7 @@ const defaultConfig: Partial<GiscusProps> & { darkTheme: string } = {
     darkTheme: 'dark',
 }
 
-export default function Comment(): JSX.Element {
+export default function Comment(): React.JSX.Element {
     const themeConfig = useThemeConfig() as CustomThemeConfig
     const { i18n } = useDocusaurusContext()
 

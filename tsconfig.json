@@ -4,6 +4,7 @@
   "compilerOptions": {
     "noImplicitAny": true,
     "noUnusedLocals": true,
-    "baseUrl": "."
+    "baseUrl": ".",
+    "jsx": "react-jsx"
   }
 }
