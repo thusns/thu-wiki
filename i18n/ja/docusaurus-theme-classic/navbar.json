@@ -1,0 +1,26 @@
+{
+  "title": {
+    "message": "THU Wiki",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "THU Wiki Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.指南": {
+    "message": "ガイド",
+    "description": "Navbar item with label 指南"
+  },
+  "item.label.博客": {
+    "message": "ブログ",
+    "description": "Navbar item with label 博客"
+  },
+  "item.label.Ask AI": {
+    "message": "AI に質問",
+    "description": "Navbar item with label Ask AI"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}

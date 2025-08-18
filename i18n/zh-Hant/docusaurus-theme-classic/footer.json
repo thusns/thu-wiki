@@ -1,0 +1,34 @@
+{
+  "link.title.文档": {
+    "message": "文檔",
+    "description": "The title of the footer links column with title=文档 in the footer"
+  },
+  "link.title.链接": {
+    "message": "連結",
+    "description": "The title of the footer links column with title=链接 in the footer"
+  },
+  "link.title.更多": {
+    "message": "更多",
+    "description": "The title of the footer links column with title=更多 in the footer"
+  },
+  "link.item.label.指南": {
+    "message": "指南",
+    "description": "The label of footer link with label=指南 linking to /docs/intro"
+  },
+  "link.item.label.在GitHub上开源": {
+    "message": "在GitHub上開源",
+    "description": "The label of footer link with label=在GitHub上开源 linking to https://github.com/thusns/thu-wiki"
+  },
+  "link.item.label.Blog": {
+    "message": "部落格",
+    "description": "The label of footer link with label=Blog linking to /blog"
+  },
+  "link.item.label./thu-services": {
+    "message": "/thu-services",
+    "description": "The label of footer link with label=/thu-services linking to https://thu.wiki/docs/category/thu-services"
+  },
+  "copyright": {
+    "message": "版權所有 © 2025 THU Wiki. 使用 Docusaurus 構建。",
+    "description": "The footer copyright"
+  }
+}

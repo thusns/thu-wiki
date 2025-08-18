@@ -1,0 +1,34 @@
+{
+  "link.title.文档": {
+    "message": "الوثائق",
+    "description": "The title of the footer links column with title=文档 in the footer"
+  },
+  "link.title.链接": {
+    "message": "الروابط",
+    "description": "The title of the footer links column with title=链接 in the footer"
+  },
+  "link.title.更多": {
+    "message": "المزيد",
+    "description": "The title of the footer links column with title=更多 in the footer"
+  },
+  "link.item.label.指南": {
+    "message": "الدليل",
+    "description": "The label of footer link with label=指南 linking to /docs/intro"
+  },
+  "link.item.label.在GitHub上开源": {
+    "message": "مفتوح المصدر على GitHub",
+    "description": "The label of footer link with label=在GitHub上开源 linking to https://github.com/thusns/thu-wiki"
+  },
+  "link.item.label.Blog": {
+    "message": "المدونة",
+    "description": "The label of footer link with label=Blog linking to /blog"
+  },
+  "link.item.label./thu-services": {
+    "message": "/thu-services",
+    "description": "The label of footer link with label=/thu-services linking to https://thu.wiki/docs/category/thu-services"
+  },
+  "copyright": {
+    "message": "حقوق الطبع والنشر © 2025 THU Wiki. تم إنشاؤها باستخدام Docusaurus.",
+    "description": "The footer copyright"
+  }
+}

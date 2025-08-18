@@ -1,0 +1,94 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.THU Services": {
+    "message": "THU Services",
+    "description": "The label for category THU Services in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.THU Services.link.generated-index.description": {
+    "message": "Credit: thu.services",
+    "description": "The generated-index page description for category THU Services in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.体育": {
+    "message": "体育",
+    "description": "The label for category 体育 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.马约翰杯竞赛总规程": {
+    "message": "马约翰杯竞赛总规程",
+    "description": "The label for category 马约翰杯竞赛总规程 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.“马约翰杯”极限飞盘": {
+    "message": "“马约翰杯”极限飞盘",
+    "description": "The label for category “马约翰杯”极限飞盘 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.新生赤足运动会": {
+    "message": "新生赤足运动会",
+    "description": "The label for category 新生赤足运动会 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.各院所机关热线": {
+    "message": "各院所机关热线",
+    "description": "The label for category 各院所机关热线 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.学习相关": {
+    "message": "学习相关",
+    "description": "The label for category 学习相关 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.授课老师特点（": {
+    "message": "授课老师特点（",
+    "description": "The label for category 授课老师特点（ in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.选课": {
+    "message": "选课",
+    "description": "The label for category 选课 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.志愿": {
+    "message": "志愿",
+    "description": "The label for category 志愿 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.本科大事件相关": {
+    "message": "本科大事件相关",
+    "description": "The label for category 本科大事件相关 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.校内外生活": {
+    "message": "校内外生活",
+    "description": "The label for category 校内外生活 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.校内办事": {
+    "message": "校内办事",
+    "description": "The label for category 校内办事 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.衣食住行": {
+    "message": "衣食住行",
+    "description": "The label for category 衣食住行 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.北京旅游指南": {
+    "message": "北京旅游指南",
+    "description": "The label for category 北京旅游指南 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.校园历史文化": {
+    "message": "校园历史文化",
+    "description": "The label for category 校园历史文化 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.社会实践": {
+    "message": "社会实践",
+    "description": "The label for category 社会实践 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.社团": {
+    "message": "社团",
+    "description": "The label for category 社团 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.学生社团": {
+    "message": "学生社团",
+    "description": "The label for category 学生社团 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.科研": {
+    "message": "科研",
+    "description": "The label for category 科研 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.经验分享": {
+    "message": "经验分享",
+    "description": "The label for category 经验分享 in sidebar tutorialSidebar"
+  }
+}

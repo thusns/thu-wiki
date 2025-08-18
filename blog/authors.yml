@@ -1,17 +1,17 @@
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
+thuwiki-team:
+  name: THU Wiki Team
+  title: THU Wiki Maintainers
+  url: https://github.com/thusns/thu-wiki
+  image_url: https://github.com/thusns.png
 
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
+thu-contributor:
+  name: THU Contributor
+  title: Tsinghua University Student
+  url: https://github.com/thusns/thu-wiki
+  image_url: https://github.com/thusns.png
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+thu-sns:
+  name: THU SNS Team
+  title: Tsinghua University Student Network Service Team
+  url: https://github.com/thusns
+  image_url: https://github.com/thusns.png

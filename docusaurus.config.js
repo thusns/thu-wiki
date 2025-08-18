@@ -17,8 +17,65 @@ const config = {
 
 	i18n: {
 		defaultLocale: "zh-Hans",
-		// Suppport some languages
-		locales: ["en", "zh-Hans", "zh-Hant", "ja", "ar", "ru", "fr", "es", "de", "pt", "ko"],
+		locales: ["zh-Hans", "en", "zh-Hant", "ja", "ar", "ru", "fr", "es", "de", "pt", "ko"],
+		path: 'i18n',
+		localeConfigs: {
+			"zh-Hans": {
+				label: "简体中文",
+				direction: "ltr",
+				htmlLang: 'zh-Hans',
+			},
+			"en": {
+				label: "English",
+				direction: "ltr",
+				htmlLang: 'en',
+			},
+			"zh-Hant": {
+				label: "繁體中文",
+				direction: "ltr",
+				htmlLang: 'zh-Hant',
+			},
+			"ja": {
+				label: "日本語",
+				direction: "ltr",
+				htmlLang: 'ja',
+			},
+			"ar": {
+				label: "العربية",
+				direction: "rtl",
+				htmlLang: 'ar',
+			},
+			"ru": {
+				label: "Русский",
+				direction: "ltr",
+				htmlLang: 'ru',
+			},
+			"fr": {
+				label: "Français",
+				direction: "ltr",
+				htmlLang: 'fr',
+			},
+			"es": {
+				label: "Español",
+				direction: "ltr",
+				htmlLang: 'es',
+			},
+			"de": {
+				label: "Deutsch",
+				direction: "ltr",
+				htmlLang: 'de',
+			},
+			"pt": {
+				label: "Português",
+				direction: "ltr",
+				htmlLang: 'pt',
+			},
+			"ko": {
+				label: "한국어",
+				direction: "ltr",
+				htmlLang: 'ko',
+			},
+		},
 	},
 	presets: [
 		[
@@ -50,6 +107,7 @@ const config = {
 			}),
 		],
 	],
+
 
 	themeConfig:
 		/** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -89,17 +147,8 @@ const config = {
 
 					// Right
 					{
-						type: 'localeDropdown',
+						type: 'custom-LanguageSwitcher',
 						position: 'right',
-						dropdownItemsAfter: [{
-								type: 'html',
-								value: '<hr style="margin: 0.3rem 0;">',
-							},
-							{
-								href: 'https://github.com/thusns/thu-wiki/issues/4',
-								label: 'Help Us Translate',
-							},
-						],
 					},
 					{
 						href: 'https://github.com/thusns/thu-wiki',
