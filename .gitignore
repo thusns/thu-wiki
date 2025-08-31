@@ -23,3 +23,6 @@ yarn-error.log*
 # TODO.md
 /TODO.md
 CLAUDE.md
+.vscode/folder-enhance.json
+.vscode/settings.json
+.vscode/settings.json
