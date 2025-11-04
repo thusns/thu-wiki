@@ -279,9 +279,9 @@ c7w 版本：项目地址在[此](https://github.com/c7w/TsinghuaMoocCaptionCraw
 
 项目地址在[此](https://github.com/Lancern/thufood-tgbot)
 
-BOT 地址为 <https://t.me/thufood_bot>
+BOT 地址为 https://t.me/thufood_bot
 
-类似的有 <https://t.me/thufoodbot>
+类似的有 https://t.me/thufoodbot
 
 ## 清华大学计算机系课程攻略
 
@@ -301,15 +301,15 @@ BOT 地址为 <https://t.me/thufood_bot>
 
 Colleguide: A platform to rate schools, professors, and courses
 
-<https://www.colleguide.com/>
+https://www.colleguide.com/
 
 ## 有关计算机系的事实
 
-<https://github.com/jiegec/dcst-facts>
+https://github.com/jiegec/dcst-facts
 
 ## NFSee 校园卡
 
-<https://github.com/nfcim/nfsee>
+https://github.com/nfcim/nfsee
 
 ## 课程信息共享计划
 
@@ -321,7 +321,7 @@ https://github.com/Wsky51/THU-CS912-kaoyan
 
 ## 清华成绩刮刮乐
 
-<https://github.com/summivox/thu-scratch>
+https://github.com/summivox/thu-scratch
 
 * 安装Chrome插件或Userscript
 * 登录info
@@ -332,22 +332,22 @@ https://github.com/Wsky51/THU-CS912-kaoyan
 
 全部内容来源精品洞和个人收藏。
 
-<https://github.com/pb0316/thuhole_memories>
+https://github.com/pb0316/thuhole_memories
 
 ## thuhole database backup
 
 在洗完数据后，大部分不涉及个人隐私的有意义的树洞备份在此GitHub仓库。
 
-<https://github.com/thuhole/database_backup>
+https://github.com/thuhole/database_backup
 
 ## 计算机系学生科协技能引导文档
 
 本技能引导文档由清华大学计算机系学生科协维护，目标在于让计算机类与计算机系的学生能够快速地掌握某些特定的技能，并且通过给出这些技能在课程、科研与实习中可能运用的方式，节省同学们收集相关资料的时间，同时提升同学们学习新技能的能力。
 
-<https://docs.net9.org/>
+https://docs.net9.org/
 
 ## 清华大学研究生社会实践系统爬虫
 
 Crawl structured data from https://thshijian.tsinghua.edu.cn (清华大学研究生社会实践系统). Use at your own risk.
 
-<https://github.com/Harry-Chen/thshijian-crawler>
+https://github.com/Harry-Chen/thshijian-crawler

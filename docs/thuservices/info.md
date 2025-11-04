@@ -113,17 +113,17 @@
 
 ## eduroam
 
-访问 <https://guestman.tsinghua.edu.cn:8443/> 可注册。注：只可用于清华校外。
+访问 https://guestman.tsinghua.edu.cn:8443/ 可注册。注：只可用于清华校外。
 
 ## cksqs 查询GPA
 
 注：目前该方式已基本失效，只可以在二学位系统开放时访问
 
-登录过 INFO 后，访问 <http://jxgl.cic.tsinghua.edu.cn/jxpg/f/xssq/exwfx/xssqb/cksqs>，即可查看 GPA。
+登录过 INFO 后，访问 http://jxgl.cic.tsinghua.edu.cn/jxpg/f/xssq/exwfx/xssqb/cksqs ，即可查看 GPA。
 
 ## 清华大学后勤综合服务平台
 
-<https://pt.tsinghua.edu.cn/>
+https://pt.tsinghua.edu.cn/
 
 其中包含
 
@@ -137,17 +137,17 @@
 
 ## 邮编、邮寄地址及邮条
 
-<https://www.tsinghua.edu.cn/xssqglfwzx/info/1043/1174.htm>
+https://www.tsinghua.edu.cn/xssqglfwzx/info/1043/1174.htm
 
 虽然标注了：「在注册过程中，同学如留有Email地址，那么，当同学有新邮条或汇款单时，系统会通过Email自动通知同学」，但笔者并未收到过相关邮件。
 
 ## 清华大学校园一卡通自助查询系统
 
-<http://ecard.tsinghua.edu.cn/user/Index.do>
+http://ecard.tsinghua.edu.cn/user/Index.do
 
 ## ACM/IEEE/知网等论文下载（Shibboleth或OpenAthens）
 
-参考 <http://lib.tsinghua.edu.cn/tjfw/xwfw.htm> 中的机构身份认证。
+参考 http://lib.tsinghua.edu.cn/tjfw/xwfw.htm 中的机构身份认证。
 
 ## 火车票报销凭证
 
@@ -181,11 +181,11 @@
 
 ## LibGuides at Tsinghua University
 
-<https://tsinghua.cn.libguides.com/>
+https://tsinghua.cn.libguides.com/
 
 ## 清新时报
 
-<https://qxcm.tsjc.tsinghua.edu.cn/pc/folder120>
+https://qxcm.tsjc.tsinghua.edu.cn/pc/folder120
 
 ## 各食堂进入人数
 
