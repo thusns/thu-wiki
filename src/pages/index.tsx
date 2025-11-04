@@ -12,13 +12,16 @@ function HomepageHeader() {
     return (
         <header className={clsx('hero hero--primary', styles.heroBanner)}>
             <div className="container">
-                <h1 className="hero__title">{siteConfig.title}</h1>
-                <p className="hero__subtitle">{siteConfig.tagline}</p>
+                <h1 className="hero__title">欢迎来到 {siteConfig.title}</h1>
+                <p className="hero__subtitle">清华大学学生百科全书 | 你的校园生活指南</p>
+                <p style={{ fontSize: '1.1rem', marginTop: '1rem', marginBottom: '2rem' }}>
+                    从入学到毕业，THU Wiki 为你提供全方位的校园生活信息，包括学习、生活、社团、体育等各个方面。
+                </p>
                 <div className={styles.buttons}>
                     <Link
                         className="button button--secondary button--lg"
                         to="/docs/intro">
-                        Get Started
+                        开始探索 →
                     </Link>
                 </div>
             </div>

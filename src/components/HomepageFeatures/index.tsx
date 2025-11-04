@@ -12,29 +12,32 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
     {
-        title: '易于使用',
+        title: '📚 全面的信息覆盖',
         Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
         description: (
             <>
-                THU Wiki在设计之初就考虑到了获取和使用的便捷性，完美适配各种设备，让你可以随时随地获取你想要的信息。
+                涵盖校园网使用、选课指南、体育活动、社团信息、就医流程等方方面面，
+                让你快速了解清华大学的校园生活。
             </>
         ),
     },
     {
-        title: '专注于重要事项',
+        title: '🎯 由学生编写',
         Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
         description: (
             <>
-                THU Wiki致力于为你提供最新、最全面的信息，让你可以专注于重要的事情。
+                由清华大学学生网络服务团队和热心同学共同维护，
+                内容真实可靠，贴近学生实际需求。
             </>
         ),
     },
     {
-        title: '强大检索功能',
+        title: '🔍 便捷的搜索体验',
         Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
         description: (
             <>
-                THU Wiki拥有强大的检索功能，让你可以快速找到你想要的信息。将来还会支持基于语义的检索，让你可以更加方便地获取信息。
+                强大的搜索功能，让你快速找到需要的信息。
+                支持多语言，完美适配各种设备。
             </>
         ),
     },
