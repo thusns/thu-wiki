@@ -1,9 +1,9 @@
 # LaTeX 等模板
 
 
-ppt 模板：<https://github.com/atomiechen/THU-PPT-Theme>
+ppt 模板： https://github.com/atomiechen/THU-PPT-Theme
 
-以下模板均可在 <https://overleaf.tsinghua.edu.cn/templates/> 中找到并使用。
+以下模板均可在 https://overleaf.tsinghua.edu.cn/templates/ 中找到并使用。
 
 ## 《如何使用 LaTeX 排版论文》讲稿
 
@@ -33,23 +33,23 @@ A LaTeX beamer theme template for Tsinghua students.
 
 项目地址在[此](https://github.com/Trinkle23897/THU-Beamer-Theme)
 
-Overleaf模板位于：<https://www.overleaf.com/latex/templates/thu-beamer-theme/vwnqmzndvwyb> ，可以直接点开
+Overleaf模板位于： https://www.overleaf.com/latex/templates/thu-beamer-theme/vwnqmzndvwyb ，可以直接点开
 
 ## 清华大学中文Beamer 模板
 
-<https://www.overleaf.com/latex/templates/qing-hua-da-xue-zhong-wen-beamer-mo-ban/djcnhxpwhrks>
+https://www.overleaf.com/latex/templates/qing-hua-da-xue-zhong-wen-beamer-mo-ban/djcnhxpwhrks
 
 ## TsinghuaBeamear
 
-<https://www.overleaf.com/latex/templates/tsinghuabeamer/gwchbskgbvrm>
+https://www.overleaf.com/latex/templates/tsinghuabeamer/gwchbskgbvrm
 
 ## Report Presentation for Tsinghua University
 
-<https://www.overleaf.com/latex/templates/report-presentation-for-tsinghua-university/yxcbdvyctybp>
+https://www.overleaf.com/latex/templates/report-presentation-for-tsinghua-university/yxcbdvyctybp
 
 ## thubeamer
 
-<https://github.com/YangLaTeX/thubeamer>
+https://github.com/YangLaTeX/thubeamer
 
 ## THU coursework Template
 
@@ -59,26 +59,26 @@ LaTeX package for students in Tsinghua University to write coursework more effic
 
 ## 清华大学近代物理实验报告模版
 
-<https://www.overleaf.com/latex/templates/thu-emp-qing-hua-da-xue-jin-dai-wu-li-shi-yan-bao-gao-mo-ban/mbgqcryqhwqd>
+https://www.overleaf.com/latex/templates/thu-emp-qing-hua-da-xue-jin-dai-wu-li-shi-yan-bao-gao-mo-ban/mbgqcryqhwqd
 
 ## THU Letter of Recommendation Template
 
-<https://www.overleaf.com/latex/templates/thu-letter-of-recommendation-template/ghjfgfhykprk>
+https://www.overleaf.com/latex/templates/thu-letter-of-recommendation-template/ghjfgfhykprk
 
 ## A Simple Tsinghua Letterhead Template
 
-<https://www.overleaf.com/latex/templates/a-simple-tsinghua-letterhead-template/zhpywsjswnjs>
+https://www.overleaf.com/latex/templates/a-simple-tsinghua-letterhead-template/zhpywsjswnjs
 
 ## CV-tsinghua-template
 
-<https://github.com/K-Wu/CV-tsinghua-template>
+https://github.com/K-Wu/CV-tsinghua-template
 
 ## THU-Exam-LaTeX-Template
 
-<https://github.com/VicaYang/THU-Exam-LaTeX-Template>
+https://github.com/VicaYang/THU-Exam-LaTeX-Template
 
 ## ilatex
 
 课程作业, 实验报告模板
 
-<https://github.com/liblaf/ilatex>
+https://github.com/liblaf/ilatex

@@ -411,7 +411,7 @@ Apr 02 07:00:34 Zenith dhcpcd[497]: enp3s0: adding address 2402:f000:4:3:888:192
 >
 > **更新** 的测试发现，我们并不知道你校的 DHCPv6 是如何工作的，其如何工作完全是玄学。有的开启了 Anonymize 即可使用，有的开启了也尝试失败。
 >
-> 一些体验可以参考 <https://pwe.cat/zijing-dhcpv6/>
+> 一些体验可以参考 https://pwe.cat/zijing-dhcpv6/
 
 最近的尝试发现，使用较新版本的 `systemd-networkd` 能稳定获取地址。
 
@@ -523,15 +523,15 @@ cmd> nslookup -q=TXT win10.harrychen.xyz
 
 ### ITS
 
-访问 <https://its.tsinghua.edu.cn> 登录后即可获得 Win10，杀毒软件，WPS，MS Visio，MS Visual Studio，MATLAB 等正版软件的下载方式
+访问 https://its.tsinghua.edu.cn 登录后即可获得 Win10，杀毒软件，WPS，MS Visio，MS Visual Studio，MATLAB 等正版软件的下载方式
 
 ### TUNA
 
-访问 <https://mirrors.tuna.tsinghua.edu.cn> ，点击获取下载链接即可。
+访问 https://mirrors.tuna.tsinghua.edu.cn ，点击获取下载链接即可。
 
 ## 校内 IP 段
 
-校内共有 6 个 /16，可参考 <https://bgp.he.net/AS45576>
+校内共有 6 个 /16，可参考 https://bgp.he.net/AS45576
 
 ```
 ; 重要校园服务基本位于此网段，例如主页
