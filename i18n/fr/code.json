@@ -1,0 +1,50 @@
+{
+  "homepage.title": {
+    "message": "Bienvenue sur {siteTitle}",
+    "description": "The homepage welcome title"
+  },
+  "homepage.subtitle": {
+    "message": "Encyclopédie étudiante de l'Université Tsinghua | Guide de la vie universitaire",
+    "description": "The homepage subtitle"
+  },
+  "homepage.description": {
+    "message": "De l'inscription à l'obtention du diplôme, THU Wiki vous offre des informations complètes sur la vie universitaire, couvrant les études, la vie quotidienne, les associations, le sport et bien plus encore.",
+    "description": "The homepage description paragraph"
+  },
+  "homepage.cta": {
+    "message": "Commencer l'exploration →",
+    "description": "The homepage call-to-action button label"
+  },
+  "homepage.layoutTitle": {
+    "message": "Présentation de {siteTitle}",
+    "description": "The homepage layout title"
+  },
+  "homepage.layoutDescription": {
+    "message": "THU Wiki - Encyclopédie étudiante de l'Université Tsinghua",
+    "description": "The homepage meta description"
+  },
+  "homepage.features.comprehensive.title": {
+    "message": "📚 Couverture complète",
+    "description": "Title for the comprehensive coverage feature"
+  },
+  "homepage.features.comprehensive.description": {
+    "message": "Couvre l'utilisation du réseau universitaire, les guides de sélection de cours, les activités sportives, les informations sur les associations, les procédures médicales et bien plus — découvrez rapidement la vie sur le campus de l'Université Tsinghua.",
+    "description": "Description for the comprehensive coverage feature"
+  },
+  "homepage.features.studentWritten.title": {
+    "message": "🎯 Rédigé par des étudiants",
+    "description": "Title for the student-written feature"
+  },
+  "homepage.features.studentWritten.description": {
+    "message": "Maintenu conjointement par l'équipe du service réseau étudiant de l'Université Tsinghua et des étudiants enthousiastes, offrant un contenu fiable qui répond aux besoins réels des étudiants.",
+    "description": "Description for the student-written feature"
+  },
+  "homepage.features.search.title": {
+    "message": "🔍 Recherche pratique",
+    "description": "Title for the search experience feature"
+  },
+  "homepage.features.search.description": {
+    "message": "Une fonctionnalité de recherche puissante pour trouver rapidement les informations dont vous avez besoin. Prend en charge plusieurs langues et s'adapte parfaitement à tous les appareils.",
+    "description": "Description for the search experience feature"
+  }
+}

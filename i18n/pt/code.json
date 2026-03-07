@@ -1,0 +1,50 @@
+{
+  "homepage.title": {
+    "message": "Bem-vindo ao {siteTitle}",
+    "description": "The homepage welcome title"
+  },
+  "homepage.subtitle": {
+    "message": "Enciclopédia estudantil da Universidade de Tsinghua | Guia de vida no campus",
+    "description": "The homepage subtitle"
+  },
+  "homepage.description": {
+    "message": "Da matrícula à formatura, o THU Wiki oferece informações abrangentes sobre a vida no campus, incluindo estudos, vida diária, clubes, esportes e muito mais.",
+    "description": "The homepage description paragraph"
+  },
+  "homepage.cta": {
+    "message": "Começar a explorar →",
+    "description": "The homepage call-to-action button label"
+  },
+  "homepage.layoutTitle": {
+    "message": "Apresentando {siteTitle}",
+    "description": "The homepage layout title"
+  },
+  "homepage.layoutDescription": {
+    "message": "THU Wiki - Enciclopédia estudantil da Universidade de Tsinghua",
+    "description": "The homepage meta description"
+  },
+  "homepage.features.comprehensive.title": {
+    "message": "📚 Cobertura abrangente",
+    "description": "Title for the comprehensive coverage feature"
+  },
+  "homepage.features.comprehensive.description": {
+    "message": "Abrange o uso da rede do campus, guias de seleção de cursos, atividades esportivas, informações sobre clubes, procedimentos médicos e muito mais — conheça rapidamente a vida no campus da Universidade de Tsinghua.",
+    "description": "Description for the comprehensive coverage feature"
+  },
+  "homepage.features.studentWritten.title": {
+    "message": "🎯 Escrito por estudantes",
+    "description": "Title for the student-written feature"
+  },
+  "homepage.features.studentWritten.description": {
+    "message": "Mantido em conjunto pela equipe de serviço de rede estudantil da Universidade de Tsinghua e estudantes entusiastas, oferecendo conteúdo confiável que atende às necessidades reais dos estudantes.",
+    "description": "Description for the student-written feature"
+  },
+  "homepage.features.search.title": {
+    "message": "🔍 Pesquisa conveniente",
+    "description": "Title for the search experience feature"
+  },
+  "homepage.features.search.description": {
+    "message": "Funcionalidade de pesquisa poderosa para encontrar rapidamente as informações de que você precisa. Suporta vários idiomas e se adapta perfeitamente a todos os dispositivos.",
+    "description": "Description for the search experience feature"
+  }
+}

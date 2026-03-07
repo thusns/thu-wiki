@@ -1,0 +1,50 @@
+{
+  "homepage.title": {
+    "message": "Добро пожаловать в {siteTitle}",
+    "description": "The homepage welcome title"
+  },
+  "homepage.subtitle": {
+    "message": "Студенческая энциклопедия университета Цинхуа | Гид по университетской жизни",
+    "description": "The homepage subtitle"
+  },
+  "homepage.description": {
+    "message": "От поступления до выпуска — THU Wiki предоставляет всестороннюю информацию о жизни в кампусе, включая учёбу, быт, клубы, спорт и многое другое.",
+    "description": "The homepage description paragraph"
+  },
+  "homepage.cta": {
+    "message": "Начать изучение →",
+    "description": "The homepage call-to-action button label"
+  },
+  "homepage.layoutTitle": {
+    "message": "Знакомьтесь: {siteTitle}",
+    "description": "The homepage layout title"
+  },
+  "homepage.layoutDescription": {
+    "message": "THU Wiki — Студенческая энциклопедия университета Цинхуа",
+    "description": "The homepage meta description"
+  },
+  "homepage.features.comprehensive.title": {
+    "message": "📚 Полный охват информации",
+    "description": "Title for the comprehensive coverage feature"
+  },
+  "homepage.features.comprehensive.description": {
+    "message": "Охватывает использование университетской сети, руководства по выбору курсов, спортивные мероприятия, информацию о клубах, медицинские процедуры и многое другое — быстро узнайте о жизни в кампусе университета Цинхуа.",
+    "description": "Description for the comprehensive coverage feature"
+  },
+  "homepage.features.studentWritten.title": {
+    "message": "🎯 Написано студентами",
+    "description": "Title for the student-written feature"
+  },
+  "homepage.features.studentWritten.description": {
+    "message": "Совместно поддерживается командой студенческой сетевой службы университета Цинхуа и неравнодушными студентами, предоставляя достоверный контент, отвечающий реальным потребностям студентов.",
+    "description": "Description for the student-written feature"
+  },
+  "homepage.features.search.title": {
+    "message": "🔍 Удобный поиск",
+    "description": "Title for the search experience feature"
+  },
+  "homepage.features.search.description": {
+    "message": "Мощная функция поиска поможет быстро найти нужную информацию. Поддержка нескольких языков и идеальная адаптация для всех устройств.",
+    "description": "Description for the search experience feature"
+  }
+}

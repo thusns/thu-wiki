@@ -1,0 +1,50 @@
+{
+  "homepage.title": {
+    "message": "{siteTitle} へようこそ",
+    "description": "The homepage welcome title"
+  },
+  "homepage.subtitle": {
+    "message": "清華大学学生百科事典 | キャンパスライフガイド",
+    "description": "The homepage subtitle"
+  },
+  "homepage.description": {
+    "message": "入学から卒業まで、THU Wiki は学習、生活、サークル、スポーツなど、キャンパスライフに関する総合的な情報を提供します。",
+    "description": "The homepage description paragraph"
+  },
+  "homepage.cta": {
+    "message": "探索を始める →",
+    "description": "The homepage call-to-action button label"
+  },
+  "homepage.layoutTitle": {
+    "message": "{siteTitle} の紹介",
+    "description": "The homepage layout title"
+  },
+  "homepage.layoutDescription": {
+    "message": "THU Wiki - 清華大学学生百科事典",
+    "description": "The homepage meta description"
+  },
+  "homepage.features.comprehensive.title": {
+    "message": "📚 包括的な情報",
+    "description": "Title for the comprehensive coverage feature"
+  },
+  "homepage.features.comprehensive.description": {
+    "message": "キャンパスネットワーク、履修ガイド、スポーツ活動、サークル情報、医療手続きなど、清華大学のキャンパスライフを素早く把握できます。",
+    "description": "Description for the comprehensive coverage feature"
+  },
+  "homepage.features.studentWritten.title": {
+    "message": "🎯 学生による執筆",
+    "description": "Title for the student-written feature"
+  },
+  "homepage.features.studentWritten.description": {
+    "message": "清華大学学生ネットワークサービスチームと熱心な学生が共同で管理し、信頼性の高いコンテンツを提供しています。",
+    "description": "Description for the student-written feature"
+  },
+  "homepage.features.search.title": {
+    "message": "🔍 便利な検索体験",
+    "description": "Title for the search experience feature"
+  },
+  "homepage.features.search.description": {
+    "message": "強力な検索機能で必要な情報をすばやく見つけられます。多言語対応で、あらゆるデバイスに最適化されています。",
+    "description": "Description for the search experience feature"
+  }
+}

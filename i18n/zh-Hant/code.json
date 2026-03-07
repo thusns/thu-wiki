@@ -1,0 +1,50 @@
+{
+  "homepage.title": {
+    "message": "歡迎來到 {siteTitle}",
+    "description": "The homepage welcome title"
+  },
+  "homepage.subtitle": {
+    "message": "清華大學學生百科全書 | 你的校園生活指南",
+    "description": "The homepage subtitle"
+  },
+  "homepage.description": {
+    "message": "從入學到畢業，THU Wiki 為你提供全方位的校園生活資訊，包括學習、生活、社團、體育等各個方面。",
+    "description": "The homepage description paragraph"
+  },
+  "homepage.cta": {
+    "message": "開始探索 →",
+    "description": "The homepage call-to-action button label"
+  },
+  "homepage.layoutTitle": {
+    "message": "介紹 {siteTitle}",
+    "description": "The homepage layout title"
+  },
+  "homepage.layoutDescription": {
+    "message": "THU Wiki - 清華大學學生百科全書",
+    "description": "The homepage meta description"
+  },
+  "homepage.features.comprehensive.title": {
+    "message": "📚 全面的資訊覆蓋",
+    "description": "Title for the comprehensive coverage feature"
+  },
+  "homepage.features.comprehensive.description": {
+    "message": "涵蓋校園網使用、選課指南、體育活動、社團資訊、就醫流程等方方面面，讓你快速了解清華大學的校園生活。",
+    "description": "Description for the comprehensive coverage feature"
+  },
+  "homepage.features.studentWritten.title": {
+    "message": "🎯 由學生編寫",
+    "description": "Title for the student-written feature"
+  },
+  "homepage.features.studentWritten.description": {
+    "message": "由清華大學學生網路服務團隊和熱心同學共同維護，內容真實可靠，貼近學生實際需求。",
+    "description": "Description for the student-written feature"
+  },
+  "homepage.features.search.title": {
+    "message": "🔍 便捷的搜尋體驗",
+    "description": "Title for the search experience feature"
+  },
+  "homepage.features.search.description": {
+    "message": "強大的搜尋功能，讓你快速找到需要的資訊。支援多語言，完美適配各種設備。",
+    "description": "Description for the search experience feature"
+  }
+}

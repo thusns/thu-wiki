@@ -1,0 +1,50 @@
+{
+  "homepage.title": {
+    "message": "مرحبًا بكم في {siteTitle}",
+    "description": "The homepage welcome title"
+  },
+  "homepage.subtitle": {
+    "message": "موسوعة طلاب جامعة تسينغهوا | دليل الحياة الجامعية",
+    "description": "The homepage subtitle"
+  },
+  "homepage.description": {
+    "message": "من القبول إلى التخرج، يوفر THU Wiki معلومات شاملة عن الحياة الجامعية، بما في ذلك الدراسة والحياة اليومية والأندية والرياضة وغيرها.",
+    "description": "The homepage description paragraph"
+  },
+  "homepage.cta": {
+    "message": "ابدأ الاستكشاف ←",
+    "description": "The homepage call-to-action button label"
+  },
+  "homepage.layoutTitle": {
+    "message": "تقديم {siteTitle}",
+    "description": "The homepage layout title"
+  },
+  "homepage.layoutDescription": {
+    "message": "THU Wiki - موسوعة طلاب جامعة تسينغهوا",
+    "description": "The homepage meta description"
+  },
+  "homepage.features.comprehensive.title": {
+    "message": "📚 تغطية شاملة",
+    "description": "Title for the comprehensive coverage feature"
+  },
+  "homepage.features.comprehensive.description": {
+    "message": "تغطي استخدام شبكة الحرم الجامعي، أدلة اختيار المقررات، الأنشطة الرياضية، معلومات الأندية، إجراءات الرعاية الصحية وغيرها، لتتعرف بسرعة على الحياة الجامعية في جامعة تسينغهوا.",
+    "description": "Description for the comprehensive coverage feature"
+  },
+  "homepage.features.studentWritten.title": {
+    "message": "🎯 بقلم الطلاب",
+    "description": "Title for the student-written feature"
+  },
+  "homepage.features.studentWritten.description": {
+    "message": "يتم صيانته بشكل مشترك من قبل فريق خدمة شبكة الطلاب في جامعة تسينغهوا والطلاب المتحمسين، مما يوفر محتوى موثوقًا يلبي احتياجات الطلاب الفعلية.",
+    "description": "Description for the student-written feature"
+  },
+  "homepage.features.search.title": {
+    "message": "🔍 تجربة بحث مريحة",
+    "description": "Title for the search experience feature"
+  },
+  "homepage.features.search.description": {
+    "message": "وظيفة بحث قوية تساعدك في العثور بسرعة على المعلومات التي تحتاجها. يدعم لغات متعددة ويتكيف بشكل مثالي مع جميع الأجهزة.",
+    "description": "Description for the search experience feature"
+  }
+}
