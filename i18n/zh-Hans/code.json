@@ -412,5 +412,53 @@
   "theme.tags.tagsPageTitle": {
     "message": "标签",
     "description": "The title of the tag list page"
+  },
+  "homepage.title": {
+    "message": "欢迎来到 {siteTitle}",
+    "description": "The homepage welcome title"
+  },
+  "homepage.subtitle": {
+    "message": "清华大学学生百科全书 | 你的校园生活指南",
+    "description": "The homepage subtitle"
+  },
+  "homepage.description": {
+    "message": "从入学到毕业，THU Wiki 为你提供全方位的校园生活信息，包括学习、生活、社团、体育等各个方面。",
+    "description": "The homepage description paragraph"
+  },
+  "homepage.cta": {
+    "message": "开始探索 →",
+    "description": "The homepage call-to-action button label"
+  },
+  "homepage.layoutTitle": {
+    "message": "介绍 {siteTitle}",
+    "description": "The homepage layout title"
+  },
+  "homepage.layoutDescription": {
+    "message": "THU Wiki - 清华大学学生百科全书",
+    "description": "The homepage meta description"
+  },
+  "homepage.features.comprehensive.title": {
+    "message": "📚 全面的信息覆盖",
+    "description": "Title for the comprehensive coverage feature"
+  },
+  "homepage.features.comprehensive.description": {
+    "message": "涵盖校园网使用、选课指南、体育活动、社团信息、就医流程等方方面面，让你快速了解清华大学的校园生活。",
+    "description": "Description for the comprehensive coverage feature"
+  },
+  "homepage.features.studentWritten.title": {
+    "message": "🎯 由学生编写",
+    "description": "Title for the student-written feature"
+  },
+  "homepage.features.studentWritten.description": {
+    "message": "由清华大学学生网络服务团队和热心同学共同维护，内容真实可靠，贴近学生实际需求。",
+    "description": "Description for the student-written feature"
+  },
+  "homepage.features.search.title": {
+    "message": "🔍 便捷的搜索体验",
+    "description": "Title for the search experience feature"
+  },
+  "homepage.features.search.description": {
+    "message": "强大的搜索功能，让你快速找到需要的信息。支持多语言，完美适配各种设备。",
+    "description": "Description for the search experience feature"
   }
 }

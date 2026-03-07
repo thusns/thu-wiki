@@ -1,0 +1,50 @@
+{
+  "homepage.title": {
+    "message": "Welcome to {siteTitle}",
+    "description": "The homepage welcome title"
+  },
+  "homepage.subtitle": {
+    "message": "Tsinghua University Student Encyclopedia | Your Campus Life Guide",
+    "description": "The homepage subtitle"
+  },
+  "homepage.description": {
+    "message": "From enrollment to graduation, THU Wiki provides comprehensive campus life information, covering academics, daily life, clubs, sports, and more.",
+    "description": "The homepage description paragraph"
+  },
+  "homepage.cta": {
+    "message": "Start Exploring →",
+    "description": "The homepage call-to-action button label"
+  },
+  "homepage.layoutTitle": {
+    "message": "Introducing {siteTitle}",
+    "description": "The homepage layout title"
+  },
+  "homepage.layoutDescription": {
+    "message": "THU Wiki - Tsinghua University Student Encyclopedia",
+    "description": "The homepage meta description"
+  },
+  "homepage.features.comprehensive.title": {
+    "message": "📚 Comprehensive Coverage",
+    "description": "Title for the comprehensive coverage feature"
+  },
+  "homepage.features.comprehensive.description": {
+    "message": "Covering campus network usage, course selection guides, sports activities, club information, medical procedures, and much more — quickly get to know campus life at Tsinghua University.",
+    "description": "Description for the comprehensive coverage feature"
+  },
+  "homepage.features.studentWritten.title": {
+    "message": "🎯 Written by Students",
+    "description": "Title for the student-written feature"
+  },
+  "homepage.features.studentWritten.description": {
+    "message": "Jointly maintained by the Tsinghua University Student Network Service Team and enthusiastic students, offering reliable content that closely meets students' real needs.",
+    "description": "Description for the student-written feature"
+  },
+  "homepage.features.search.title": {
+    "message": "🔍 Convenient Search Experience",
+    "description": "Title for the search experience feature"
+  },
+  "homepage.features.search.description": {
+    "message": "Powerful search functionality to help you quickly find the information you need. Supports multiple languages and adapts perfectly to all devices.",
+    "description": "Description for the search experience feature"
+  }
+}

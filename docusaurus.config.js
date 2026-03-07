@@ -10,8 +10,13 @@ const config = {
   url: "https://thu.wiki",
   baseUrl: "/",
   onBrokenLinks: "throw",
-  onBrokenMarkdownLinks: "ignore", //Default: "warn"
   favicon: "img/favicon.ico",
+
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: "ignore",
+    },
+  },
 
   organizationName: "thusns",
   projectName: "thu-wiki",

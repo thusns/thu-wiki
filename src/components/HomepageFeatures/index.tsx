@@ -1,6 +1,7 @@
 import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
+import Translate, {translate} from '@docusaurus/Translate';
 
 type FeatureItem = {
     title: string;
@@ -12,33 +13,51 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
     {
-        title: '📚 全面的信息覆盖',
+        title: translate({
+            id: 'homepage.features.comprehensive.title',
+            message: '📚 全面的信息覆盖',
+            description: 'Title for the comprehensive coverage feature',
+        }),
         Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
         description: (
-            <>
+            <Translate
+                id="homepage.features.comprehensive.description"
+                description="Description for the comprehensive coverage feature">
                 涵盖校园网使用、选课指南、体育活动、社团信息、就医流程等方方面面，
                 让你快速了解清华大学的校园生活。
-            </>
+            </Translate>
         ),
     },
     {
-        title: '🎯 由学生编写',
+        title: translate({
+            id: 'homepage.features.studentWritten.title',
+            message: '🎯 由学生编写',
+            description: 'Title for the student-written feature',
+        }),
         Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
         description: (
-            <>
+            <Translate
+                id="homepage.features.studentWritten.description"
+                description="Description for the student-written feature">
                 由清华大学学生网络服务团队和热心同学共同维护，
                 内容真实可靠，贴近学生实际需求。
-            </>
+            </Translate>
         ),
     },
     {
-        title: '🔍 便捷的搜索体验',
+        title: translate({
+            id: 'homepage.features.search.title',
+            message: '🔍 便捷的搜索体验',
+            description: 'Title for the search experience feature',
+        }),
         Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
         description: (
-            <>
+            <Translate
+                id="homepage.features.search.description"
+                description="Description for the search experience feature">
                 强大的搜索功能，让你快速找到需要的信息。
                 支持多语言，完美适配各种设备。
-            </>
+            </Translate>
         ),
     },
 ];
