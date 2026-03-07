@@ -32,7 +32,9 @@ You can deploy your own instance by clicking the button:
 
 [![Deploy with Vercel](https://pfst.cf2.poecdn.net/base/image/0b6702bc48a306ae096b9bb54af7eac9374171e76690dffa79d239e3c86088e8?pmaid=581574603)](https://vercel.com/new/clone?repository-url=https://github.com/thusns/thu-wiki)
 
-**Live example:** <https://wiki.thusns.org>
+**Live example:** <https://wiki.thusns.org/en>
+
+![IMG_7743](https://github.com/user-attachments/assets/89732838-f9cb-4923-8afa-301d091c9d0a)
 
 ## Run Locally
 
