@@ -1,194 +1,194 @@
-# INFO重要信息集合
+# Important INFO Information Collection
 
-## 校历
+## Academic Calendar
 
-快速访问路径：INFO（校外需要 VPN）->登录->综合->右上角校历
+Quick access: INFO (VPN required off-campus) -> Login -> General -> Calendar in upper right corner
 
-### 2022-2023学年 
+### 2022-2023 Academic Year
 
-![2022 - 2023 学年 春季](image/cal/2022-2023-2-cn.jpg)
+![2022 - 2023 Academic Year Spring](image/cal/2022-2023-2-cn.jpg)
 
-![2023 - 2024 学年 秋季](image/cal/2023-2024qiuji.jpg)
+![2023 - 2024 Academic Year Fall](image/cal/2023-2024qiuji.jpg)
 
-![2023 - 2024 学年 春季](image/cal/2023-2024chunji.jpg)
+![2023 - 2024 Academic Year Spring](image/cal/2023-2024chunji.jpg)
 
-## 本科专业培养方案
+## Undergraduate Major Training Programs
 
-[清华官网培养方案链接](https://www.tsinghua.edu.cn/jyjx/bksjy/bkzy.htm)
+[Tsinghua Official Website Training Programs Link](https://www.tsinghua.edu.cn/jyjx/bksjy/bkzy.htm)
 
-[计算机系 19 级培养方案 info 版本（需要已经登录 info）](http://zhjw.cic.tsinghua.edu.cn/jhBks.vjhBksPyfakzbBs.do?m=pyfakzFrame&fajhh=193024111&theModule=pyfa)
+[CS Department Class of 2019 Training Program INFO Version (requires INFO login)](http://zhjw.cic.tsinghua.edu.cn/jhBks.vjhBksPyfakzbBs.do?m=pyfakzFrame&fajhh=193024111&theModule=pyfa)
 
-可以注意到，上述地址中的 193024111 中的 19 表明是 19 级的培养方案，后面的 3024111 是
-院系相关代码
+Note that in the above URL, the "19" in "193024111" indicates the Class of 2019 training program, and the following "3024111" is the department code.
 
-[各级各院系培养方案（需要已经登录 info）](http://zhjw.cic.tsinghua.edu.cn/jhBks.vjhBksPyfabBs.do?theModule=pyfa)
+[Training Programs for All Years and Departments (requires INFO login)](http://zhjw.cic.tsinghua.edu.cn/jhBks.vjhBksPyfabBs.do?theModule=pyfa)
 
-此处为各年级各院系的索引
+This is the index for all years and all departments.
 
-## 学校宣传资料
+## University Promotional Materials
 
-### INFO 版本
+### INFO Version
 
-包括清华大学校标、校徽、校色，清华大学校歌、歌词，清华展览，清华概览中文版、清华
-英文宣传册，清华大学宣传片中文版、英文版，以及清华大学二级单位标志规范相关材料。
+Includes Tsinghua University logo, emblem, and official colors; Tsinghua University school song and lyrics; Tsinghua exhibitions; Tsinghua overview (Chinese version), Tsinghua English brochure; Tsinghua University promotional video (Chinese and English versions); and Tsinghua University secondary unit logo standards and related materials.
 
-快速访问路径：INFO -> 首页 -> 页面底部中间
+Quick access: INFO -> Homepage -> Bottom center of page
 
-[学校宣传资料（校外需要 VPN）](http://info.tsinghua.edu.cn/html/xxxczl/xczlxz.htm)
+[University Promotional Materials (VPN required off-campus)](http://info.tsinghua.edu.cn/html/xxxczl/xczlxz.htm)
 
-### 主页版本
+### Homepage Version
 
-清华概况、宣传册、校歌、宣传片。
+Tsinghua overview, brochures, school song, promotional videos.
 
-[学校宣传资料](https://www.tsinghua.edu.cn/zjqh/syxx/xczy.htm)
+[University Promotional Materials](https://www.tsinghua.edu.cn/zjqh/syxx/xczy.htm)
 
-## 选课时间表
+## Course Registration Schedule
 
-快速访问路径：[ACADEMIC](http://academic.tsinghua.edu.cn/)（校外需要 VPN）->登录
-->左侧选课专栏->本科生选课下“选课时间安排”
+Quick access: [ACADEMIC](http://academic.tsinghua.edu.cn/) (VPN required off-campus) -> Login -> Course Registration section on the left -> "Course Registration Schedule" under Undergraduate Course Registration
 
-## 选课快捷方式
+## Course Registration Shortcut
 
-[选课登录（校内或 SSLVPN）（选课时间内有效）](http://zhjwxk.cic.tsinghua.edu.cn/xklogin.do)
+[Course Registration Login (On-campus or SSLVPN) (Valid during registration period)](http://zhjwxk.cic.tsinghua.edu.cn/xklogin.do)
 
-## 选课系统相关说明
+## Course Registration System Notes
 
-你校有两套甚至三套选课系统，分别是 zhjw, zhjwxk 以及 zhjwxkyw。后两者在选课时间内
-开启，前者会在平时开启。
+The university has two or even three course registration systems: zhjw, zhjwxk, and zhjwxkyw. The latter two are activated during registration periods, while the former is available at other times.
 
-对于前者，通常访问路径是 [ACADEMIC](http://academic.tsinghua.edu.cn/)（校外需要VPN）
-->登录->左侧选课专栏->本科生选课。通常用于在非选课时间内查看开课信息。
+For the first system, the typical access path is [ACADEMIC](http://academic.tsinghua.edu.cn/) (VPN required off-campus) -> Login -> Course Registration section on the left -> Undergraduate Course Registration. This is usually used to view course information outside of registration periods.
 
-中者可以通过快捷方式进入，也可以通过 info/academic 登录后的中间界面登录，webvpn
-也是指向这个选课系统三，这种登录方式当且仅当在选课时间内才可行。
+The second system can be accessed via the shortcut, or through the intermediate interface after logging into INFO/ACADEMIC. WebVPN also points to this registration system. This login method is only available during registration periods.
 
-后者与中者类似，只需在操作时改相关 url。
+The third system is similar to the second; you only need to modify the relevant URL during operation.
 
-## 期末考试时间/地点查询
+## Final Exam Time/Location Query
 
-之前在 Info 中会有筛选方式，可惜由于一些原因，该功能被 Info 删除。现在 Info 中只有所有课程的考试信息。
+Previously, INFO had filtering options for this, but unfortunately, this feature was removed from INFO for some reasons. Currently, INFO only shows exam information for all courses.
 
-现在需要在 [ACADEMIC](http://academic.tsinghua.edu.cn/) 中登录后，进入门户，在本学期课程中查看
+You now need to log in to [ACADEMIC](http://academic.tsinghua.edu.cn/), enter the portal, and check the current semester courses.
 
-## 历年本科生开课目录
+## Historical Undergraduate Course Catalogs
 
-[历年本科生开课目录（校内或 SSLVPN）](http://announce.cic.tsinghua.edu.cn/node/25833)
+[Historical Undergraduate Course Catalogs (On-campus or SSLVPN)](http://announce.cic.tsinghua.edu.cn/node/25833)
 
-## 清华大学迎新系统
+## Tsinghua University New Student Orientation System
 
-清华大学迎新系统是考生在现场查询报名信息，以及报名流程是否完成的网站
+The Tsinghua University New Student Orientation System is a website for admitted students to check their enrollment information and whether the registration process is complete.
 
-[清华大学迎新系统](http://szyx.cic.tsinghua.edu.cn/index.jsp)
+[Tsinghua University New Student Orientation System](http://szyx.cic.tsinghua.edu.cn/index.jsp)
 
-## 注册标志（用于学生火车票）
+## Registration Mark (For Student Train Tickets)
 
-快速访问路径：INFO（校外需要 VPN）->登录->综合->右上角照片处“学籍信息”->历年注册标志
+Quick access: INFO (VPN required off-campus) -> Login -> General -> "Student Status Information" at the photo in the upper right -> Historical Registration Marks
 
-可在 [utils.md](utils.md) 部分找到别的注册标志。
+Alternative registration marks can be found in the [utils.md](utils.md) section.
 
-## 校内校车
+## Campus Shuttle Buses
 
-[校内交通介绍](https://www.tsinghua.edu.cn/zjqh/syxx/xyjt.htm)
-[校车交通路线图](https://www.tsinghua.edu.cn/__local/3/BB/BE/7260A578E48A6BA827528DE4F74_004A1626_73CEC.png)
+[Campus Transportation Information](https://www.tsinghua.edu.cn/zjqh/syxx/xyjt.htm)
+[Campus Shuttle Route Map](https://www.tsinghua.edu.cn/__local/3/BB/BE/7260A578E48A6BA827528DE4F74_004A1626_73CEC.png)
 
-校车实时运行情况可以使用“校内交通介绍”中提到的 APP 与/或小程序
+Real-time shuttle operation status can be checked using the APP and/or mini program mentioned in "Campus Transportation Information."
 
-## 校内地图（静态版）
+## Campus Map (Static Version)
 
-[校内地图](https://www.tsinghua.edu.cn/zjqh/xyfg/xydt.htm)
+[Campus Map](https://www.tsinghua.edu.cn/zjqh/xyfg/xydt.htm)
 
-## 清华大学调查问卷系统
+## Tsinghua University Survey System
 
-[清华大学调查问卷系统](https://wenjuan.tsinghua.edu.cn)
+[Tsinghua University Survey System](https://wenjuan.tsinghua.edu.cn)
 
-## 清华紫荆码
+## Tsinghua Zijing Code
 
-其链接为 [https://zijing.tsinghua.edu.cn/tp\_jp/h6?m=jp#act=jp/serviceapplication](https://zijing.tsinghua.edu.cn/tp_jp/h6?m=jp#act=jp/serviceapplication)
+The link is [https://zijing.tsinghua.edu.cn/tp_jp/h6?m=jp#act=jp/serviceapplication](https://zijing.tsinghua.edu.cn/tp_jp/h6?m=jp#act=jp/serviceapplication)
 
-使用方法为，首次打开登录后，再次打开该网页（或直接刷新），即可呈现紫荆码。这样可以不受制于微信平台。
+Usage: After logging in on the first visit, open the page again (or simply refresh) to display the Zijing Code. This allows you to use it without being tied to the WeChat platform.
 
-注意，这种方式下「地点扫码」不能使用。
+Note: The "Location QR Scan" feature cannot be used with this method.
 
-可以使用浏览器创建桌面快捷方式，以移动端 Chrome 为例，在打开网页后通过「添加到主屏幕」的选项安装快捷方式。
+You can create a desktop shortcut using your browser. For example, on mobile Chrome, after opening the page, use the "Add to Home Screen" option to install a shortcut.
 
 ## eduroam
 
-访问 <https://guestman.tsinghua.edu.cn:8443/> 可注册。注：只可用于清华校外。
+Visit https://guestman.tsinghua.edu.cn:8443/ to register. Note: This can only be used outside Tsinghua campus.
 
-## cksqs 查询GPA
+## cksqs GPA Query
 
-注：目前该方式已基本失效，只可以在二学位系统开放时访问
+Note: This method is currently mostly non-functional; it can only be accessed when the double-degree system is open.
 
-登录过 INFO 后，访问 <http://jxgl.cic.tsinghua.edu.cn/jxpg/f/xssq/exwfx/xssqb/cksqs>，即可查看 GPA。
+After logging into INFO, visit http://jxgl.cic.tsinghua.edu.cn/jxpg/f/xssq/exwfx/xssqb/cksqs to view your GPA.
 
-## 清华大学后勤综合服务平台
+## Tsinghua University Logistics Comprehensive Service Platform
 
-<https://pt.tsinghua.edu.cn/>
+https://pt.tsinghua.edu.cn/
 
-其中包含
+This includes:
 
-### 校内各单位（包括校医院）电话号码
-### 校医院各科室挂号
-### 校园地图（动态版）
-可定位自身所在，可查看道路路障情况（针对机动车），可分类查找校内的各种设施。
-### 网上报修
-### 客房服务
-### 订车服务
+### Phone Numbers of Campus Units (Including Campus Hospital)
 
-## 邮编、邮寄地址及邮条
+### Campus Hospital Department Registration
 
-<https://www.tsinghua.edu.cn/xssqglfwzx/info/1043/1174.htm>
+### Campus Map (Dynamic Version)
 
-虽然标注了：「在注册过程中，同学如留有Email地址，那么，当同学有新邮条或汇款单时，系统会通过Email自动通知同学」，但笔者并未收到过相关邮件。
+Can locate your current position, view road barrier conditions (for motor vehicles), and search for various campus facilities by category.
 
-## 清华大学校园一卡通自助查询系统
+### Online Repair Request
 
-<http://ecard.tsinghua.edu.cn/user/Index.do>
+### Guest Room Services
 
-## ACM/IEEE/知网等论文下载（Shibboleth或OpenAthens）
+### Vehicle Booking Services
 
-参考 <http://lib.tsinghua.edu.cn/tjfw/xwfw.htm> 中的机构身份认证。
+## Postal Code, Mailing Address and Mail Slips
 
-## 火车票报销凭证
+https://www.tsinghua.edu.cn/xssqglfwzx/info/1043/1174.htm
 
-在紫荆一号楼的东侧，通往桃李的路上，有一台取火车票报销凭证机器
+Although it states: "During the registration process, if a student provides an email address, the system will automatically notify the student via email when there are new mail slips or money orders," the author has never received such emails.
 
-## DIVI 注册设备
+## Tsinghua University Campus Card Self-Service Query System
 
-在连接 DIVI 后访问 register.your.device
+http://ecard.tsinghua.edu.cn/user/Index.do
 
-## 清华大学邮箱
+## ACM/IEEE/CNKI Paper Downloads (Shibboleth or OpenAthens)
 
-学生邮箱为 abbr@mails.tsinghua.edu.cn ，同时可以用 abbr@mails.thu.edu.cn 收到邮件。
+Refer to the institutional identity authentication at http://lib.tsinghua.edu.cn/tjfw/xwfw.htm.
 
-教师邮箱为 abbr@mail.tsinghua.edu.cn ，同时可以用 abbr@tsinghua.edu.cn ，两者等价。
+## Train Ticket Reimbursement Vouchers
 
-没有特别的邮件列表实现，一般使用教师邮箱并用群组转发实现邮件列表。
+On the east side of Zijing Building No. 1, on the road to Taoli, there is a machine for obtaining train ticket reimbursement vouchers.
 
-没有 abbr@thu.edu.cn 。
+## DIVI Device Registration
 
-清华同时有 tsinghua.edu 的域名，尽管有解析，未见使用（注：隔壁 ustc.edu 被用作校友邮箱）
+Visit register.your.device after connecting to DIVI.
 
-### 清华大学校友邮箱
+## Tsinghua University Email
 
-访问 https://mailservice.tsinghua.org.cn/ 即可激活。
+Student email: abbr@mails.tsinghua.edu.cn. Emails can also be received at abbr@mails.thu.edu.cn.
 
-可获得 abbr@tsinghua.org.cn 的邮箱。
+Faculty email: abbr@mail.tsinghua.edu.cn. Can also use abbr@tsinghua.edu.cn; the two are equivalent.
 
-## 清华大学 Overleaf 服务
+There is no dedicated mailing list implementation; generally, faculty email with group forwarding is used to implement mailing lists.
 
-访问 https://overleaf.tsinghua.edu.cn/ 即可。
+There is no abbr@thu.edu.cn.
+
+Tsinghua also owns the domain tsinghua.edu, which has DNS records but has not been seen in use. (Note: The neighboring USTC uses ustc.edu for alumni email.)
+
+### Tsinghua University Alumni Email
+
+Visit https://mailservice.tsinghua.org.cn/ to activate.
+
+You can obtain an email address: abbr@tsinghua.org.cn.
+
+## Tsinghua University Overleaf Service
+
+Visit https://overleaf.tsinghua.edu.cn/ to access.
 
 ## LibGuides at Tsinghua University
 
-<https://tsinghua.cn.libguides.com/>
+https://tsinghua.cn.libguides.com/
 
-## 清新时报
+## Tsinghua Youth Daily
 
-<https://qxcm.tsjc.tsinghua.edu.cn/pc/folder120>
+https://qxcm.tsjc.tsinghua.edu.cn/pc/folder120
 
-## 各食堂进入人数
+## Dining Hall Occupancy
 
-> 微信->清华大学信息服务->学生食堂进入人数
+> WeChat -> Tsinghua University Information Services -> Student Dining Hall Occupancy
 
-已关闭
+This service has been discontinued.

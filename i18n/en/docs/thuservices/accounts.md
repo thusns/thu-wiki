@@ -1,287 +1,287 @@
-# 公众帐号们
+# Public Accounts
 
-此页收录微信公众号、收录知乎、收录各平台上的公开的 [redacted]
+This page collects WeChat official accounts, Zhihu accounts, and public accounts on various platforms. [redacted]
 
-本平台还可能会推出信息流服务，整合以下公众号发送的实时信息
+This platform may also launch an information feed service to aggregate real-time information from the following official accounts.
 
-## 微信公众号
+## WeChat Official Accounts
 
-- 官方帐号
-    - 清华大学
-    - 清华大学社会实践
-    - 清华体育
-    - 清华大学图书馆
-    - 清华大学新清华学堂
-    - 清华大学医院
-    - 清华好读书
-    - 清华红十字会
-    - 清华后勤
-    - 清华家园网
-    - 清华职业辅导
-    - 清华信息化
-    - 清华大学信息服务
-    - 清华大学艺术博物馆
-    - 清华家园网
-    - 清华海外学习
-    - 清华资产
-    - 清华青年科创
-    - 学在清华
-    - 行在清华
-    - 平安清华
-    - 清华大学本科教学
-    - 荷塘雨课堂
-    - THU学生资助
-    - 文素THU
-    - 清华大学国际教育
-    - 清华青年科创
-    - 清华海外学习
-    - 清华就业
-    - 清华大学体育代表队
-    - 人文清华讲坛
-    - THU学术之路工作室
-    - 清华时事大讲堂
-    - 清华大学游泳馆
-    - 紫荆之声
-- 院系帐号
-    - 清华大学交叉信息研究院
-    - 清华大学工业工程系
-    - 清华大学文学创作与研究中心
-    - 清华大学集成电路学院
-    - 清华大学电子工程系
-    - 清华大学精密仪器系
-    - 清华大学材料学院
-    - 清华大学法学院
-    - 清华大学iCenter创客空间
-    - 清华大学建筑学院
-    - 清华大学经济管理学院
-    - 清华大学土木工程系暨建设管理系
-    - 清华大学医学院
-    - 清华大学药学院
-    - 清华大学新雅书院
-    - 清华大学社会科学学院
-    - 清华大学丘成桐数学科学中心
-    - 清华大学美术学院
+- Official Accounts
+    - Tsinghua University
+    - Tsinghua University Social Practice
+    - Tsinghua Sports
+    - Tsinghua University Library
+    - Tsinghua University New Tsinghua Auditorium
+    - Tsinghua University Hospital
+    - Tsinghua Good Reads
+    - Tsinghua Red Cross
+    - Tsinghua Logistics
+    - Tsinghua Home Network
+    - Tsinghua Career Counseling
+    - Tsinghua Informatization
+    - Tsinghua University Information Services
+    - Tsinghua University Art Museum
+    - Tsinghua Home Network
+    - Tsinghua Overseas Studies
+    - Tsinghua Assets
+    - Tsinghua Youth Innovation
+    - Learning at Tsinghua
+    - Traveling at Tsinghua
+    - Safe Tsinghua
+    - Tsinghua University Undergraduate Teaching
+    - Hetang Rain Classroom
+    - THU Student Financial Aid
+    - Wensu THU
+    - Tsinghua University International Education
+    - Tsinghua Youth Innovation
+    - Tsinghua Overseas Studies
+    - Tsinghua Employment
+    - Tsinghua University Sports Teams
+    - Renwen Tsinghua Forum
+    - THU Academic Path Studio
+    - Tsinghua Current Affairs Forum
+    - Tsinghua University Swimming Pool
+    - Voice of Zijing
+- Department Accounts
+    - Tsinghua University Institute for Interdisciplinary Information Sciences
+    - Tsinghua University Department of Industrial Engineering
+    - Tsinghua University Center for Literary Creation and Research
+    - Tsinghua University School of Integrated Circuits
+    - Tsinghua University Department of Electronic Engineering
+    - Tsinghua University Department of Precision Instruments
+    - Tsinghua University School of Materials Science and Engineering
+    - Tsinghua University School of Law
+    - Tsinghua University iCenter Maker Space
+    - Tsinghua University School of Architecture
+    - Tsinghua University School of Economics and Management
+    - Tsinghua University Department of Civil Engineering and Construction Management
+    - Tsinghua University School of Medicine
+    - Tsinghua University School of Pharmaceutical Sciences
+    - Tsinghua University Xinya College
+    - Tsinghua University School of Social Sciences
+    - Tsinghua University Yau Mathematical Sciences Center
+    - Tsinghua University Academy of Arts & Design
     - TsinghuaLogic
     - Tsinghua HPC
-- 学生组织帐号
-    - 清华大学清新时报
-    - 清华小五爷园
-    - 艾生权
-    - 茶园资讯
-    - 微爱意
-    - 清华大学小研在线
-    - 清华小清心
-    - THU摄影队
-    - 学生清华
-    - 乐学
-    - THU 探求纵坐标
-    - THU 次世代
-    - 清华大学学生社团
-    - 清华大学学生网络安全技术协会
-    - 清华天协
-    - GRID天格计划
-    - 基础学科拔尖学生培养计划力学班
-    - 科技服务队
-    - thu勤工之家
-    - THU文苑
-    - THU语协
-    - 天空工场 Skyworks
-    - 图书馆助理分队
-    - 学生网服SNS
-    - 清华研读间
-    - E研E行
-    - 大清幻协
-    - 酒井算协
+- Student Organization Accounts
+    - Tsinghua University Youth Daily
+    - Tsinghua Xiaowuye Garden
+    - Ai Sheng Quan
+    - Tea Garden News
+    - Wei Ai Yi
+    - Tsinghua University Graduate Student Online
+    - Tsinghua Xiaoqingxin
+    - THU Photography Team
+    - Student Tsinghua
+    - Le Xue
+    - THU Exploring the Y-Axis
+    - THU Next Generation
+    - Tsinghua University Student Clubs
+    - Tsinghua University Student Cybersecurity Association
+    - Tsinghua Astronomy Association
+    - GRID Tiange Project
+    - Fundamental Discipline Talent Program Mechanics Class
+    - Science & Technology Service Team
+    - THU Work-Study Home
+    - THU Wenyuan
+    - THU Language Association
+    - Skyworks
+    - Library Assistant Team
+    - Student Network Service SNS
+    - Tsinghua Reading Room
+    - E Yan E Xing
+    - Tsinghua Fantasy Association
+    - Jiujing Algorithm Association
     - TEDxTHU
-    - 小研在路上
-    - 建院学生会THU
-    - 清华大学学生会
-    - 清华大学小研在身边
-    - 贵系男篮
-    - 酒井资讯
-    - 软小宣
-    - 紫冬话语
-    - 公管声音
-    - E研E行
-    - 社氏有声
-    - 建院宣传中心
-    - 清华大学文体之声
+    - Grad Students on the Road
+    - Architecture School Student Union THU
+    - Tsinghua University Student Union
+    - Tsinghua University Grad Students at Your Side
+    - CS Department Men's Basketball
+    - Jiujing News
+    - Software School Publicity
+    - Zidong Huayu
+    - Public Administration Voice
+    - E Yan E Xing
+    - Sociology Voice
+    - Architecture School Publicity Center
+    - Tsinghua University Sports & Arts Voice
     - SAEPA
-    - 清华大学学生公益
-    - 科协THU
-    - 小唐心
-    - THU小动物保护
-    - 清软小研
-    - 清华经管 家园
-    - 清华x-lab
+    - Tsinghua University Student Public Welfare
+    - Science Association THU
+    - Xiao Tang Xin
+    - THU Animal Protection
+    - Tsinghua Software Grad Students
+    - Tsinghua SEM Home
+    - Tsinghua x-lab
     - Runislove
-    - 清华山野
-    - 酒井科协
-    - 清华学生马协
+    - Tsinghua Mountaineering Club
+    - Jiujing Science Association
+    - Tsinghua Student Equestrian Association
     - Lawgic
-    - 数无穹
-    - THU益创咨询
-    - 清物语
+    - Shu Wu Qiong
+    - THU Yichuang Consulting
+    - Qing Wu Yu
     - CurlingTHU
-    - 清华航院学生会
-    - THU辩论队
+    - Tsinghua Aerospace School Student Union
+    - THU Debate Team
     - THUBodybuilding
-    - 清华大学电影协会
+    - Tsinghua University Film Association
     - SKITHU
-    - THU文创社
-    - THU学生区块链
-    - 清华车协
-    - 清华飞盘THUultimate
+    - THU Creative Cultural Society
+    - THU Student Blockchain
+    - Tsinghua Cycling Association
+    - Tsinghua Frisbee THUultimate
     - TsinghuaShuo
     - THUSAGA
-    - THU水球
-    - 清华大学求是学会
-    - 清华课改之声
-    - THURS清华轮滑社
-    - THU交通人
-    - THU体能康复
+    - THU Water Polo
+    - Tsinghua University Qiushi Society
+    - Tsinghua Curriculum Reform Voice
+    - THURS Tsinghua Roller Skating Club
+    - THU Transportation
+    - THU Physical Fitness & Rehabilitation
     - THUAIChallenge
-    - THU时代论坛
-    - THU植协君
-    - 酒井实践
-    - 清小禅
-- 班级帐号
-    - 茶园八字班
-    - 环酒肆
-    - 八一见君
-    - 电机能源85
-    - 工82的爸爸们
-    - 工91和它的朋友们
+    - THU Times Forum
+    - THU Botany Association
+    - Jiujing Practice
+    - Tsinghua Chan
+- Class Accounts
+    - Tea Garden Class of 2018
+    - Huan Jiu Si
+    - Ba Yi Jian Jun
+    - Electrical Engineering Energy 85
+    - Class 82 Engineering Dads
+    - Class 91 Engineering and Friends
     - BEST86
-    - 不二材心
-    - 材霸山河
-    - 材八一集团
-    - 电机能源85
-    - 电子巴士
-    - 共筑85
-    - 核82ers
-    - 戏诸侯
-    - i医捌
-    - 建环bar
-    - 计科玖壹
-    - 力8幼儿园
-    - new 计84
-    - Real 计86
-    - 软叭酱
-    - 生86生发灵研发中心
-    - THSA82工作室
-    - THU無82
+    - Bu Er Cai Xin
+    - Cai Ba Shan He
+    - Materials Class 81 Group
+    - Electrical Engineering Energy 85
+    - Electronic Bus
+    - Gong Zhu 85
+    - Nuclear 82ers
+    - Xi Zhu Hou
+    - i Yi Ba
+    - Jian Huan Bar
+    - CS Class 91
+    - Mechanics Class 8 Kindergarten
+    - new CS 84
+    - Real CS 86
+    - Software Class 8
+    - Bio 86 Hair Growth R&D Center
+    - THSA82 Studio
+    - THU Wu 82
     - TsinghuaCS62
-    - 未闻砼名
-    - 智90
-    - 无事常登七三宝殿
-    - 一瓶经82的拉菲
-    - THU计91
-    - 八建八三
-    - 建陆壹Studio
-    - 建63的非建筑
-    - 博思桂花班
-    - 化73family
-    - 鬼屋乌漆漆
-    - 无中生九
-    - 紫冬鎏意
-    - 七字烽火台
-    - 水木紫冬 一见钟情
-    - 相约酒捌
-    - 雅苑新声
-    - 雅集众秀
-    - moment一柒一会
-    - 雅风新颂
-    - 清化久谊
-    - 清化捌壹
-    - 清化 | 一起柒壹
-    - 清化宝碘
-    - 清化、BSci63
-    - 清化六一
-    - 新旧合冶故事站
+    - Wei Wen Tong Ming
+    - Zhi 90
+    - Wu Shi Chang Deng Qi San Bao Dian
+    - Yi Ping Jing 82 De Lafite
+    - THU CS 91
+    - Ba Jian Ba San
+    - Architecture 61 Studio
+    - Architecture 63 Non-Architecture
+    - Bo Si Gui Hua Ban
+    - Chemistry 73 Family
+    - Gui Wu Wu Qi Qi
+    - Wu Zhong Sheng Jiu
+    - Zidong Liu Yi
+    - Qi Zi Feng Huo Tai
+    - Shuimu Zidong Yi Jian Zhong Qing
+    - Xiang Yue Jiu Ba
+    - Ya Yuan Xin Sheng
+    - Ya Ji Zhong Xiu
+    - moment Yi Qi Yi Hui
+    - Ya Feng Xin Song
+    - Qing Hua Jiu Yi
+    - Qing Hua Ba Yi
+    - Qing Hua | Yi Qi Qi Yi
+    - Qing Hua Bao Dian
+    - Qing Hua, BSci63
+    - Qing Hua Liu Yi
+    - Xin Jiu He Ye Gu Shi Zhan
     - 9s2SciLife
-    - 软joy
-    - 就爱软
-    - 汝安玖叁
-    - 吾久悟
-    - 拔丝小苹果
-    - 久爱清数
-    - 数九归一
-    - 八三一心
-    - 疯吧少年
-    - THU九春三秋
-    - 爱意81
-    - 青春不二
-    - 清华电机93
-    - 青梅视传
-    - 爱建久矣
-    - 自动扒衣
-    - 八二印象
-    - 紫冬Base
-    - 紫冬巴士
-    - 紫冬五村
-    - 自86666
-    - THU环82
-    - 园子里的小经零
-    - 经83的小木屋
-    - 拔丝小苹果
-    - 我们的捌伍
-    - 捌字壹瞥
-    - 环81捌气壹旧
-    - 青春不二
-    - 航014大家庭
-    - 氢化铀
-    - 数九三伏
-    - 九二永动机
-    - 未央机械小喇叭
+    - Ruan Joy
+    - Jiu Ai Ruan
+    - Ru An Jiu San
+    - Wu Jiu Wu
+    - Ba Si Xiao Ping Guo
+    - Jiu Ai Qing Shu
+    - Shu Jiu Gui Yi
+    - Ba San Yi Xin
+    - Feng Ba Shao Nian
+    - THU Jiu Chun San Qiu
+    - Ai Yi 81
+    - Qing Chun Bu Er
+    - Tsinghua Electrical Engineering 93
+    - Qing Mei Shi Chuan
+    - Ai Jian Jiu Yi
+    - Zidong Ba Yi
+    - Ba Er Yin Xiang
+    - Zidong Base
+    - Zidong Bus
+    - Zidong Wu Cun
+    - Zi 86666
+    - THU Huan 82
+    - Yuan Zi Li De Xiao Jing Ling
+    - Jing 83 De Xiao Mu Wu
+    - Ba Si Xiao Ping Guo
+    - Wo Men De Ba Wu
+    - Ba Zi Yi Pie
+    - Huan 81 Ba Qi Yi Jiu
+    - Qing Chun Bu Er
+    - Hang 014 Da Jia Ting
+    - Qing Hua You
+    - Shu Jiu San Fu
+    - Jiu Er Yong Dong Ji
+    - Weiyang Mechanical Trumpet
     - 233LIFE
-    - 九零之陵
-    - 零一灵艺
-    - 无中生九
-    - 零零2020
-    - 机器巫
-- 奇妙帐号
-    - 清华微生活
-    - 海昇自助洗衣
-    - 捷利智能校园
-    - 近邻宝校园
+    - Jiu Ling Zhi Ling
+    - Ling Yi Ling Yi
+    - Wu Zhong Sheng Jiu
+    - Ling Ling 2020
+    - Ji Qi Wu
+- Miscellaneous Accounts
+    - Tsinghua Micro Life
+    - Haisheng Self-Service Laundry
+    - Jieli Smart Campus
+    - Jinlinbao Campus
     - | Just Lose It |
-    - 全元光滑
-    - 北大讲堂票务
-    - 北京大学百周年纪念讲堂
-    - 北京大学前沿计算研究中心
-    - Learn Helper 网络学堂助手
-    - 清青实验
-    - THUInfo 信息助手
-    - 叉院学姐
-- 个人帐号
-    - 半潮生
-    - 漫士呓语
-    - 白兔与旧故
-    - osci的碎碎念小铺
-    - 覆曦
-    - my的深夜食堂
-    - 今天也想吃肉
-    - 饶老师的寸光
-    - 文刀日肥
-    - 五道口葬爱家族幼儿园
+    - Quan Yuan Guang Hua
+    - PKU Auditorium Ticketing
+    - Peking University Centennial Memorial Hall
+    - Peking University Center for Frontier Computing
+    - Learn Helper Web Learning Assistant
+    - Qingqing Lab
+    - THUInfo Assistant
+    - IIIS Senior Sister
+- Personal Accounts
+    - Ban Chao Sheng
+    - Man Shi Yi Yu
+    - Bai Tu Yu Jiu Gu
+    - osci's Rambling Shop
+    - Fu Xi
+    - my's Late Night Cafeteria
+    - Today I Also Want Meat
+    - Teacher Rao's Thoughts
+    - Wen Dao Ri Fei
+    - Wudaokou Funeral Love Family Kindergarten
     - AlphaLyrae
-    - 有关风月
-    - 宇宙的杂货铺
-    - 精神病人欢乐多
-    - 球状阿慧
-    - 未知坐标戏
-    - 星渊乱谈
-    - 北极星校园观察
-    - 不愿正常
-    - 乱纪元
+    - About Romance
+    - Universe's General Store
+    - Happy Patients (Jingshen Bingren Huanle Duo)
+    - Spherical Ahui
+    - Unknown Coordinate Play
+    - Xingyuan Random Talk
+    - North Star Campus Observer
+    - Refusing Normalcy
+    - Chaotic Era
 
-（注：对于个人帐号，需要与号主沟通成功后才能收录在此）
+(Note: Personal accounts are only included after successful communication with the account owner.)
 
-（注：对于个人帐号，信息流服务需要进行单独沟通）
+(Note: For personal accounts, the information feed service requires separate communication.)
 
-## 知乎
+## Zhihu
 
-* 方政清
-* 孙孟越
-* 孙恒
+- Fang Zhengqing
+- Sun Mengyue
+- Sun Heng

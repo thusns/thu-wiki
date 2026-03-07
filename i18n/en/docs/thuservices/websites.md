@@ -1,56 +1,56 @@
-# 常用校外网站
+# Commonly Used External Websites
 
-校内网站请参考 info.md
+For on-campus websites, please refer to info.md.
 
 ## thu.services
 
-即本站！
+This site!
 
-## T大树洞
+## THU Tree Hole
 
-注：现已停止服务
+Note: This service has been discontinued.
 
-戴上面具，卸下防备
-在匿名的树洞里，做回真实的自己
+Put on a mask, let down your guard.
+In the anonymous tree hole, be your true self.
 
-<https://thuhole.com/>
+https://thuhole.com/
 
-## 闭社 - 清华站
+## Closed Social - Tsinghua Station
 
-<https://thu.closed.social/>
+https://thu.closed.social/
 
-## 在线退学
+## Online Dropout
 
-<https://tuixue.online/>
+https://tuixue.online/
 
-本站对其中提到的各个工具都做了收录
+This site has included all the various tools mentioned there.
 
-## 未名 BBS
+## Weiming BBS
 
-<https://bbs.pku.edu.cn/>
+https://bbs.pku.edu.cn/
 
-## 水木 BBS
+## Shuimu BBS
 
-<https://www.newsmth.net/>
+https://www.newsmth.net/
 
-现在与清华的相关性以及常用性存疑
+Its current relevance to and common usage by Tsinghua community is questionable.
 
-## 沙雕园的博客
+## Shadiaoyuan's Blog
 
-<https://blog.shadiao.online/>
+https://blog.shadiao.online/
 
-“精神病人欢乐多”的个人网站
+Personal website of "Happy Patients" (Jingshen Bingren Huanle Duo).
 
-## PT 站
+## PT Sites
 
-由于相关策略，本站不收录常用 PT 站
+Due to related policies, this site does not list commonly used PT sites.
 
-## 星期四 Thursday
+## Thursday
 
 https://tsinghua.app/
 
-内含
+Contains:
 
-* 星期四 多功能社区
-* courseX
-* learnX
+- Thursday - Multi-functional Community
+- courseX
+- learnX
