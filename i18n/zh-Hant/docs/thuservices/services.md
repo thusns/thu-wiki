@@ -1,8 +1,8 @@
-# 清华服务使用指北（主要面向 Linux 用户）
+# 清華服務使用指北（主要面向 Linux 用戶）
 
-本文将重点关注清华一些服务在 Linux 机器，包括远端服务器上的使用说明
+本文將重點放在清華一些服務在 Linux 機器，包括遠端伺服器上的使用說明
 
-以及校园专供 Windows 10 的激活指南
+以及校園專供 Windows 10 的啟動指南
 
 
 ## DNS/NTP
@@ -14,13 +14,13 @@
 2402:f000:1:801::8:29
 ```
 
-按照校园网建议，在配置 DNS 和 NTP 时，至少要使用校园网提供的服务。
+依照校園網建議，在設定 DNS 和 NTP 時，至少要使用校園網路提供的服務。
 
-目前，校园网内只能使用校园网提供的 DNS，其余 DNS 不保证工作。
+目前，校園網內只能使用校園網路提供的 DNS，其餘 DNS 不保證工作。
 
 ## SSLVPN
 
-在 Linux 机器上没有 PULSE SECURE 客户端，除了可以使用 WEB VPN 外，也可使用 `openconnect` 来做到连接清华VPN。
+在 Linux 機器上沒有 PULSE SECURE 用戶端，除了可以使用 WEB VPN 外，也可使用 `openconnect` 來做到連線清華VPN。
 
 若是 Debian 系，包括 Ubuntu，可以使用
 
@@ -34,57 +34,57 @@ $ apt-get install openconnect
 $ pacman -S openconnect
 ```
 
-安装此软件。其余发行版请自行查阅相应源。
+安裝此軟體。其餘發行版請自行查閱相應源。
 
-安装完毕后，使用
+安裝完畢後，使用
 
 >
 > $ openconnect --juniper https://sslvpn.tsinghua.edu.cn
 >
 
-指定协议为 Juniper 的情况下，客户端不会被分配 IPv6 地址，如果改成 Pulse Connect Secure 则可以获取到一个 IPv6 地址。同时还需要指定 UserAgent 才能正确地获取 IPv6 路由，否则会尝试将所有 IPv6 流量路由到 VPN。
+指定協定為 Juniper 的情況下，用戶端不會被指派 IPv6 位址，如果改成 Pulse Connect Secure 則可以取得到一個 IPv6 位址。同時也需要指定 UserAgent 才能正確取得 IPv6 路由，否則會嘗試將所有 IPv6 流量路由到 VPN。
 
-用如下的方式可以正确获取 IPv6 地址和路由（具体是 2402:f000::/32）：
+用如下的方式可以正確取得 IPv6 位址和路由（具體是 2402:f000::/32）：
 
 ```bash
 openconnect --protocol=pulse https://sslvpn.tsinghua.edu.cn --useragent Pulse-Secure/9.1.11.6725
 ```
 
-输入帐号和密码后即连接上校园网，可以访问校内服务（INFO/USEREG）。
+輸入帳號及密碼後即連接上校園網，可存取校內服務（INFO/USEREG）。
 
-值得注意的是，与清华无关的流量依旧按照原有路由发出，此行为与 Windows 下不同。（此项需求证）
+值得注意的是，與清華無關的流量依舊依照原有路由發出，此行為與 Windows 下不同。 （此項需求證）
 
-## 上网认证
+## 上網認證
 
-### 校园网基础知识
+### 校園網基礎知識
 
-[清华大学校园网使用简介](https://its.tsinghua.edu.cn/helpsystem/train/CampusNetworkLectureNotes201909.pdf)（由于网页升级链接已失效，可参阅本站的[备份](file/CampusNetworkLectureNotes201909.pdf)）
+[清华大学校园网使用简介](https://its.tsinghua.edu.cn/helpsystem/train/CampusNetworkLectureNotes201909.pdf)（由於網頁升級連結已失效，可參閱本站的[备份](file/CampusNetworkLectureNotes201909.pdf)）
 
 [准入上网使用说明](http://166.111.5.8/commsoft/helpsystem/wirednetwork/RealNameAuthentication20190121.pdf)（本站[备份](file/RealNameAuthentication20190121.pdf)）
 
-[清华大学校园网有线局域网用户准入系统使用说明（问与答）](https://its.tsinghua.edu.cn/helpsystem/wirednetwork/RealNameAuthenticationFAQ20190614.pdf)（由于网页升级链接已失效，可参阅本站的[备份](file/RealNameAuthenticationFAQ20190614.pdf)）
+[清华大学校园网有线局域网用户准入系统使用说明（问与答）](https://its.tsinghua.edu.cn/helpsystem/wirednetwork/RealNameAuthenticationFAQ20190614.pdf)（由於網頁升級連結已失效，可參閱本站的[备份](file/RealNameAuthenticationFAQ20190614.pdf)）
 
-上述文件太长不看版：在校园网中上网分为两步，一步是准入，另一步是准出。
+上述文件太長不看版：在校園網中上網分為兩步，一步是准入，另一步是準出。
 
-没有准入与准出时，机器只能 ping 通 `166.111.8.28` 与 `2402:f000:1:801::8:28`，如果你有相应 v4 与 v6 地址。校内其他地址不通。
+沒有准入與準出時，機器只能 ping 通 `166.111.8.28` 與 `2402:f000:1:801::8:28`，如果你有相應 v4 與 v6 位址。校內其他地址不通。
 
-对于 IPv4 而言，当有准入而没有准出时，机器可以 ping 通校内机器，但不能 ping 通校外机器，即不能上外网。只有当有准入而且有准出时，机器可以连接外网。
+對於 IPv4 而言，當有准入而沒有準出時，機器可以 ping 通校內機器，但不能 ping 通校外機器，即不能上網。只有當有准入而且有準出時，機器可以連接外網。
 
-对于 IPv6 而言，v6 只有准入这一步，有了准入，即可以连接外网。
+對 IPv6 而言，v6 只有准入這一步驟，有了存取，即可以連接外網。
 
-对于 2 层接入的机器（紫荆宿舍网，教学楼无线网络，一些院系的网络），v4 认证与 v6 认证是联动进行的，即当 v4 准入时，v6 同时也准入。对于 3 层接入的机器（一些院系的网络），v4 与 v6 需要分别准入。
+對於 2 層接入的機器（紫荊宿舍網，教學樓無線網絡，一些院系的網絡），v4 認證與 v6 認證是聯動進行的，即當 v4 准入時，v6 同時也准入。對於 3 層接取的機器（某些系的網路），v4 與 v6 需要分別准入。
 
-`Tsinghua-Secure` 使用的是另一套认证系统。
+`Tsinghua-Secure` 使用的是另一套認證系統。
 
-### 命令行认证 自动认证
+### 命令列認證 自動認證
 
-参见 [utils.md](utils.md) 中的认证工具汇总。
+請參閱 [utils.md](utils.md) 中的認證工具總計。
 
-以下参考 [GoAuthing](https://github.com/z4yx/GoAuthing)
+以下參考 [GoAuthing](https://github.com/z4yx/GoAuthing)
 
-#### 命令行认证
+#### 命令列認證
 
-该软件实现了七个主要功能，分别是
+該軟體實現了七個主要功能，分別是
 
 ```bash
 auth-thu auth # v4准入
@@ -96,65 +96,65 @@ auth-thu logout # 解除v4准出
 auth-thu online # 保持机器在线
 ```
 
-普通用户将其放在家目录下，作为命令行工具使用，即可满足大部分认证需求。
+普通用戶將其放在家目錄下，作為命令列工具使用，即可滿足大部分認證需求。
 
-已知问题：在用户通过`auth-thu auth -C`（仅准入）后调用`auth-thu login`（仅准出），准出会失败。
+已知問題：在使用者通過`auth-thu auth -C`（僅准入）後呼叫`auth-thu login`（僅準出），准出會失敗。
 
-#### 自动认证
+#### 自動認證
 
-对于系统管理员来说，可能存在服务器实现自动认证的需求。
+對於系統管理員來說，可能存在伺服器實現自動認證的需求。
 
-下载好文件以后请合理放置在相应目录（如 /usr/local/bin）下，同时将配置文件放在合理目录下，即可使用
+下載好檔案以後請合理放置在對應目錄（如 /usr/local/bin）下，同時將設定檔放在合理目錄下，即可使用
 
-要做到自动 **准出**，需将其中附带的 `goauthing.service` 或 `goauthing@.service` 放置 `/etc/systemd/system/` 文件夹下 ，并调整相应内容以符合程序文件以及配置文件的路径，使用
+要做到自動 **準出**，需將其中附帶的 `goauthing.service` 或 `goauthing@.service` 放置 `/etc/systemd/system/` 文件夾下 ，並調整相應內容以符合程序文件以及配置文件的路徑，使用
 
 ``` bash
 $ systemctl enable goauthing.service
 ```
 
-启动相应服务，即可达到自动认证的目的。如果要实现账户信息储存在用户家目录中而不是 `/etc` 中，可以参考 `goauthing@.service`。
+啟動對應服務，即可達到自動認證的目的。如果要實現帳戶資訊儲存在使用者家庭目錄中而非 `/etc` 中，可以參考 `goauthing@.service`。
 
-如果要实现 `v6` 的自动准入，可参考 `goauthing6.service` 和 `goauthing6@.service`。如果只要 v4 的自动准入，需要将 `goauthing.service` 中的 `auth` 变为 `auth -C`，且删除 `login` 一行。
+若要實現 `v6` 的自動存取，可參考 `goauthing6.service` 和 `goauthing6@.service`。如果只要 v4 的自動准入，需要將 `goauthing.service` 中的 `auth` 變成 `auth -C`，且刪除 `login` 一行。
 
-如果有打包者将此打包，请 PR。目前在 AUR 中存在 `auth-thu-bin` 包（`auth-thu` 包已经过时）。
+如果有打包者將此打包，請 PR。目前在 AUR 中存在 `auth-thu-bin` 套件（`auth-thu` 套件已經過時）。
 
-### 远端服务器代认证
+### 遠端伺服器代認證
 
-（从笔者的经历来看，usereg 的对准入准出成功和失败的反馈较少，建议采用命令行以及网页认证，而只将 usereg 作为状态面板使用）
+（從筆者的經驗來看，usereg 的對准入準出成功和失敗的回饋較少，建議採用命令列以及網頁認證，而只將 usereg 作為狀態面板使用）
 
-在某些服务器上无法使用浏览器打开 [net.tsinghua.edu.cn](https://net.tsinghua.edu.cn) 来认证，只能使用 [命令行工具](### 命令行认证 自动认证) 或「准入代认证」的方式来实现准入。
+在某些伺服器上無法使用瀏覽器開啟 [net.tsinghua.edu.cn](https://net.tsinghua.edu.cn) 來認證，只能使用 [命令行工具](### 命令行认证 自动认证) 或「存取代認證」的方式來實現存取。
 
-对于代认证，需要先知道服务器的 IPv4 地址，形如 `166.111.x.x` 或 `59.66.x.x` 或 `101.x.x.x`，之后打开 [usereg.tsinghua.edu.cn](https://usereg.tsinghua.edu.cn) 「准入代认证」部分，填入 IP 即可准入，在准入时可以选择是否打开准出。
+對於代認證，需要先知道伺服器的 IPv4 位址，形如 `166.111.x.x` 或 `59.66.x.x` 或 `101.x.x.x`，之後開啟 [usereg.tsinghua.edu.cn](https://usereg.tsinghua.edu.cn) “准入代認證”部分，進入代入認證中
 
-对于某些三层接入的机器，如果要实现 v6 的准入，也可在「准入代认证」中实现准入。
+對於某些三層接取的機器，如果要實現 v6 的准入，也可在「准入代認證」中實現准入。
 
-对于有些服务器存在准入但没有准出的情况，可以使用「连线其他 IP」实现准出。 
+對於有些伺服器存在准入但沒有準出的情況，可以使用「連線其他 IP」來實現準出。
 
-关于准入与准出的问题，欢迎 PR。
+關於准入與准出的問題，歡迎 PR。
 
-关于 IPv4 和 IPv6 在准入准出上线与掉线时的表现，以及校内二层接入/三层接入的表现，欢迎 PR
+關於 IPv4 與 IPv6 在准入准出上線與斷線時的表現，以及校內二層接取/三層接取的表現，歡迎 PR
 
-### 远端服务器网页认证
+### 遠端伺服器網頁認證
 
-有时 `usereg` 中的信息并不准确，如果此时还能 `ssh` 登录机器，除了之前提到的「命令行认证」外，还可以在登录时使用选项
+有時 `usereg` 中的資訊並不準確，如果此時還能 `ssh` 登入機器，除了先前提到的「命令列認證」外，還可以在登入時使用選項
 
 ```
 ssh -D <port> host
 ```
 
-这样在本地会搭建一个以 `<port>` 为端口的 socks5 代理，如果在浏览器中使用该代理，即可与往常一样实现网页认证。
+這樣在本地會搭建一個以 `<port>` 為連接埠的 socks5 代理，如果在瀏覽器中使用該代理，即可與往常一樣實現網頁認證。
 
-尤其要注意的是，不能直接访问 auth4/auth6 来进行认证（参考问与答），需要通过跳转的方式来访问 auth4/auth6 以获取正确的 ac\_id. 一般情况下可以访问 info/learn/login 来跳转，也可通过 3.3.3.3 和 [3:3:3::3] 来跳转。后者对于三层接入的用户来说是一个较为方便的访问 auth6 的方案。
+尤其要注意的是，不能直接訪問 auth4/auth6 來進行認證（參考問與答），需要通過跳轉的方式來訪問 auth4/auth6 以獲取正確的 ac\_id.3.3 可以訪問 info/learn/login 來跳轉，也可通過 3.3.3.3 和 [3:3:3::3] 一般。後者對於三層存取的使用者來說是較為方便的存取 auth6 的方案。
 
 ### Tsinghua-Secure
 
-如果是校内环境，首先连接 `Tsinghua-Secure无线网使用指南` 进入 [usereg.tsinghua.edu.cn](https://usereg.tsinghua.edu.cn) , 登录后在 `自注册及修改口令处` 设置 Tsinghua-Secure 使用的密码，此密码不需要与 info 密码相同。
+如果是校內環境，先連線 `Tsinghua-Secure无线网使用指南` 進入 [usereg.tsinghua.edu.cn](https://usereg.tsinghua.edu.cn) , 登入後在 `自注册及修改口令处` 設定 Tsinghua-Secure 使用的密碼，此密碼不需要與 info 密碼相同。
 
 #### NetworkManager
 
-设置好后，可以使用 `NetworkManager` 连接该 Wifi，可以参考 its 的文档 [清华大学无线校园网 802.1x 认证登录客户端配置说明](https://its.tsinghua.edu.cn/info/1333/2318.htm)（本站[备份](file/tsinghua-secure-config.pdf)）
+設定好後，可以使用 `NetworkManager` 連接該 Wifi，可以參考 its 的文件 [清华大学无线校园网 802.1x 认证登录客户端配置说明](https://its.tsinghua.edu.cn/info/1333/2318.htm)（本站[备份](file/tsinghua-secure-config.pdf)）
 
-样例配置 `/etc/NetworkManager/system-connections/Tsinghua-Secure.nmconnection` 如下
+範例配置 `/etc/NetworkManager/system-connections/Tsinghua-Secure.nmconnection` 如下
 
 ```
 [connection]
@@ -193,22 +193,22 @@ token=::114:514:1919:810
 [proxy]
 ```
 
-该样例配置仅启用了 IPv6 并获取特定后缀（请自行挑选后缀以免地址相撞），同时使用了 `@tsinghua` 的 `identity` 以保证不占用准出名额。
+此範例配置僅啟用了 IPv6 並取得特定後綴（請自行挑選後綴以免位址相撞），同時使用了 `@tsinghua` 的 `identity` 以保證不佔用準出名額。
 
-特别要注意的是，如果你同时符合下面三个条件：
+特別要注意的是，如果你同時符合下面三個條件：
 
-1.  `NetworkManager` 使用了 `wpa_supplicant` 后端 
-1.  使用了 3.0.0 及以上版本的 `openssl`
-1.  使用的发行版没有给 `wpa_supplicant` 打上 [修复 tls 1.0/1.1 连接的 patch](https://launchpad.net/ubuntu/+source/wpa/2:2.10-6ubuntu2) （目前确认 Ubuntu 有 patch，NixOS 没有 patch）
+1.  `NetworkManager` 使用了 `wpa_supplicant` 後端
+1.  使用了 3.0.0 以上版本的 `openssl`
+1.  使用的發行版沒有給 `wpa_supplicant` 打上 [修复 tls 1.0/1.1 连接的 patch](https://launchpad.net/ubuntu/+source/wpa/2:2.10-6ubuntu2) （目前確認 Ubuntu 有 patch，NixOS 沒有 patch）
 
-那么你的 `NetworkManager` 可能由于 tls 1.0 连接被禁用而连不上 `Tsinghua-Secure`，此时有以下两种解决方法，任意一种都能解决：
+那麼你的 `NetworkManager` 可能因為 tls 1.0 連接被停用而連不上 `Tsinghua-Secure`，此時有以下兩種解決方法，任一種都能解決：
 
-1.  升级 NetworkManager 到 `1.41.5-dev` 及以上，准确的说是确保 [这个 commit](https://gitlab.freedesktop.org/NetworkManager/NetworkManager/-/commit/98dd4180ec163af63fe1e0fda00158ac7f0047df) 已经被包含。在上述配置文件的 `[802-1x]` 一节中加入一行 `phase1-auth-flags=32`（`NetworkManager` 中 `tls-1-0-enable` 这一选项对应 `0x20`，换算成十进制是 `32`，这一换算关系目前没有在文档里记录，所以不保证 32 这个数字始终有效。更能保证有效的方法是手动用 `nmcli` 设置 `Tsinghua-Secure` 中设置 `802-1x.phase1-auth-flags` 为 `tls-1-0-enable`）。
-1.  给自己的 `wpa_supplicant` 打上前面提到的 patch。
+1.  升級 NetworkManager 到 `1.41.5-dev` 及以上，準確的說是確保 [这个 commit](https://gitlab.freedesktop.org/NetworkManager/NetworkManager/-/commit/98dd4180ec163af63fe1e0fda00158ac7f0047df) 已經被包含。在上述設定檔的 `[802-1x]` 一節中加入一行 `phase1-auth-flags=32`（`NetworkManager` 中 `tls-1-0-enable` 此選項對應 `0x20`是換算成十進制，換算成十進制`32`，這項換算關係目前沒有在文件裡記錄，所以不保證 32 這個數字總是有效。
+1.  給自己的 `wpa_supplicant` 打上前面提到的 patch。
 
 #### wpa_supplicant
 
-也可使用 `wpa_supplicant` 完成相应 wifi 连接。安装 `wpa_supplicant`，编辑 `/etc/wpa_supplicant/wpa_supplicant-nl80211-XXXX.conf`， 其中 `XXXX` 是本机网卡名称，输入以下配置
+也可使用 `wpa_supplicant` 完成對應 wifi 連線。安裝 `wpa_supplicant`，編輯 `/etc/wpa_supplicant/wpa_supplicant-nl80211-XXXX.conf`， 其中 `XXXX` 是本機網路卡名稱，輸入下列配置
 
 ```
 ctrl_interface=/var/run/wpa_supplicant
@@ -229,21 +229,21 @@ network={
 }     
 ```
 
-其中 `username` 与 `password` 为自己帐号相应信息。之后输入
+其中 `username` 與 `password` 為自己帳號對應資訊。之後輸入
 
 ```
 $ systemctl enable --now wpa_supplicant-nl80211@XXXX.service
 ```
 
-即可连接。
+即可連接。
 
-注：本配置由[orv](http://hep.tsinghua.edu.cn/~orv)贡献。
+註：本配置由[orv](http://hep.tsinghua.edu.cn/~orv)貢獻。
 
 #### iwd
 
-由于 Tsinghua-Secure 的证书问题（dhparams 中 p 的长度仅为 1024，不符合 [Linux 内核的 1536 长度需求](https://elixir.bootlin.com/linux/v6.0/source/crypto/dh.c#L52)），而 iwd 依赖于内核的密码学工具，默认使用 iwd 无法连接。
+由於 Tsinghua-Secure 的憑證問題（dhparams 中 p 的長度只有 1024，不符合 [Linux 内核的 1536 长度需求](https://elixir.bootlin.com/linux/v6.0/source/crypto/dh.c#L52)），而 iwd 依賴核心的密碼學工具，預設使用 iwd 無法連線。
 
-[NickCao](https://github.com/NickCao) 为此提供了 [dhack 内核模块](https://github.com/NickCao/dhack) 与 ell 工具补丁（如下）；前者通过劫持相应符号实现补丁，后者在 nix 构建软件包时直接替换源码中的参数。用户可以依此类推自行构建内核与工具。
+[NickCao](https://github.com/NickCao) 為此提供了 [dhack 内核模块](https://github.com/NickCao/dhack) 與 ell 工具補丁（如下）；前者通過劫持相應符號實現補丁，後者在 nix 構建軟體包時直接替換源碼中的參數。用戶可以依此類推自行建立核心與工具。
 
 ```nix
 iwd.override {
@@ -269,85 +269,85 @@ EAP-PEAP-Phase2-Password=<passwd>
 AutoConnect=true
 ```
 
-### Tsinghua-Secure 仅校内登录方式
+### Tsinghua-Secure 僅校內登入方式
 
-我们注意到，连接 Tsinghua-Secure 后获取的 IPv4 地址会自动进入准出表中，有可能在未预期的情况下挤占掉线已有的准出设备。
+我們注意到，連接 Tsinghua-Secure 後取得的 IPv4 位址會自動進入準出表中，有可能在未預期的情況下擠佔斷線已有的準出設備。
 
-经过测试发现，如果在登录时使用的 username 为「username@tsinghua」（例如lh14@tsinghua），那么其登录行为与「仅校内登录」一样。这种情况下v4只有准入，v6有准入与准出。
+經過測試發現，如果登入時使用的 username 為「username@tsinghua」（例如lh14@tsinghua），那麼其登入行為與「僅校內登入」一樣。這種情況下v4只有准入，v6有准入與準出。
 
-在使用该方式认证后，笔者测试可以通过「net.tsinghua.edu.cn」进行准出，但有线网中这个行为不一样。
+使用此方式認證後，筆者測驗可以透過「net.tsinghua.edu.cn」來準出，但有線網中這個行為不一樣。
 
-## 校园网特性讨论
+## 校園網特性討論
 
-### 二层隔离/邻居发现隔离
+### 二層隔離/鄰居發現隔離
 
-校园网的一大特性，是二层隔离/邻居发现隔离。对于v4来说，是前者；对于v6来说，是后者。这个机制为了安全而设计，但对不少开发者/使用者来说较为不方便。
+校園網的一大特性，是二層隔離/鄰居發現隔離。對v4來說，是前者；對v6來說，是後者。這個機制為了安全而設計，但對不少開發者/使用者來說較為不方便。
 
-这个特性本质上是核心交换机对广播域进行了划分，甚至使得只有一个客户端与网关在一个广播域中。
+這個特性本質上是核心交換器對廣播域進行了劃分，甚至使得只有一個客戶端與網關在一個廣播域中。
 
 #### IPv4
 
-当我们分配到例如 59.66.130.xx/24 的 IP 时，如果我们想连接 59.66.130.yy/24，我们可能会发现无法连接。注意到这两个在一个 /24 中，即一个二层中，这种情况下两台机器会通过ARP发现对方，但在学校的一些机制下，ARP不能工作。
+當我們分配到例如 59.66.130.xx/24 的 IP 時，如果我們想要連接 59.66.130.yy/24，我們可能會發現無法連線。注意到這兩個在一個 /24 中，即一個二層中，這種情況下兩台機器會透過ARP發現對方，但在學校的一些機制下，ARP不能工作。
 
-这种情况下，需要在两台机器上增加以下路由。
+這種情況下，需要在兩台機器上增加以下路由。
 
 ```bash
 ip r a 59.66.130.0/24 via 59.66.130.1
 ip r a 59.66.130.1 dev eth0
 ```
 
-需要根据实际情况修改相应参数。
+需根據實際情況修改對應參數。
 
 #### IPv6
 
-紫荆的 IPv6 不存在该问题，由于其地址是 /128 的。
+紫荊的 IPv6 不存在該問題，由於其位址是 /128 的。
 
-当我们在一个 Tsinghua-Secure 下时，我们会通过 SLAAC 分配地址，即大家的地址都在一个同一个 /64 下，当互相之间想通信时，需要通过 NDP 进行发现。由于校园网的一些机制，NDP可能不会成功。
+當我們在一個 Tsinghua-Secure 下時，我們會透過 SLAAC 分配地址，即大家的地址都在一個同一個 /64 下，當互相之間想通信時，需要透過 NDP 進行發現。由於校園網的一些機制，NDP可能不會成功。
 
-这种情况下，需要在两台机器上增加以下路由
+這種情況下，需要在兩台機器上增加以下路由
 
 ```bash
 ip r a 2402:f000:2:b801::/64 via fe80::xxxx dev wlan0
 ```
-参数需要根据实际情况确认，第一个为 /64 的前缀，可以参考获得的地址或者参考 RA 来书写，第二个为网关的 LL 地址，与默认路由中显示的地址相同，第三个为无线网卡。
+參數需要根據實際情況確認，第一個為 /64 的前綴，可以參考獲得的位址或參考 RA 來書寫，第二個為網關的 LL 位址，與預設路由中顯示的位址相同，第三個為無線網路卡。
 
-### 低端口阻断
+### 低埠阻斷
 
-按照前面的「使用简介」文档，IPv4 对 0 到 1024，8000 到 8100，3389 以及 9100 端口进行阻断。另外由于众所周知的原因，1080、4781、7890 端口也被阻断。
+依照前面的「使用簡介」文檔，IPv4 對 0 到 1024，8000 到 8100，3389 以及 9100 連接埠進行阻斷。另外由於眾所周知的原因，1080、4781、7890 埠也被阻斷。
 
-2022 年秋季开始，IPv6 对低端口部分进行阻断。
+2022 年秋季開始，IPv6 對低埠部分進行阻斷。
 
-### 动态 IP
+### 動態 IP
 
-对于动态IP，我们可以使用 DDNS 解决，各大提供商，例如 DNSPod，dns.he.net，cloudflare 都提供了该服务。
+對於動態IP，我們可以使用 DDNS 解決，各大供應商，例如 DNSPod，dns.he.net，cloudflare 都提供了該服務。
 
-以 dns.he.net 为例，先增加一个 A/AAAA 记录，并选择使用 DDNS，创建好后创建更新 Token，记为 T。我们书写以下脚本
+以 dns.he.net 為例，先增加一個 A/AAAA 記錄，並選擇使用 DDNS，在建立好後建立更新 Token，記為 T。我們書寫以下腳本
 
 ```
 #!/bin/sh
 curl -4 "https://domain.example.com:T@dyn.dns.he.net/nic/update?hostname=domain.example.com"
 ```
-注意Token为其中的T。其余参数按照需要修改。
+注意Token為其中的T。其餘參數依需求修改。
 
-并用 cron 定期执行该脚本，例如每五分钟一次。可以参考 https://crontab.guru/ 命令获取具体阐释。
+並用 cron 定期執行該腳本，例如每五分鐘一次。可以參考 https://crontab.guru/ 指令取得具體闡釋。
 
-#### IPv6 静态后缀或短 IPv6 地址
+#### IPv6 靜態後綴或短 IPv6 位址
 
-我们知道，在 SLAAC 下（常见于Tsinghua-Secure），IPv6 地址的后64位可以由客户端自行决定，这时我们可以配置静态后缀，乃至短后缀，如果一个机器只在一个地点下，几乎可以认为前缀固定（需要验证）。
+我們知道，在 SLAAC 下（常見於Tsinghua-Secure），IPv6 位址的後64位元可以由客戶端自行決定，這時我們可以配置靜態後綴，乃至短後綴，如果一個機器只在一個地點下，幾乎可以認為前綴固定（需要驗證）。
 
-（吐槽：token 这套工具，几乎不在标准里面被提及，文档也少（IPv6 的文档本来就少），还是很小众的东西；毕竟谁需要静态后缀呢，同一个子网下的机器，与其使用静态后缀进行通信（没错，没有只有后缀的路由项，所以到网内另一台机器需要时刻加上前缀），不如配一个静态的私有地址）
+（吐槽：token 這套工具，幾乎不在標準裡面被提及，文檔也少（IPv6 的文檔本來就少），還是很小眾的東西；畢竟誰需要靜態後綴呢，同一個子網下的機器，與其使用靜態後綴進行通信（沒錯，沒有隻有後綴的路由項，所以到網內另一台機器需要一個靜態後綴的靜態
 
-往常我们分配到的 IPv6 较复杂，这是因为使用了 EUI64 或者隐私扩展，对于EUI64，可以在地址中发现 `ff:fe` 的字段。
+往常我們分配到的 IPv6 較複雜，這是因為使用了 EUI64 或隱私擴展，對於EUI64，可以在位址中發現 `ff:fe` 的欄位。
 
-我们可以通过 iproute2 或传统套件配置静态后缀，后者的使用方法请谷歌，前者的方法在此给出。
+我們可以透過 iproute2 或傳統套件配置靜態後綴，後者的使用方法請谷歌，前者的方法在此給出。
 
 ```bash
 ip token set ::114:514:1919:810/64 dev wlan0
 ```
 
-在运行此命令 **之前**，我们需要注意，我们需要将网卡的 `forwarding` 关闭（ **在配置时** ，配置后可以打开转发），并打开 `accept_ra` 与 `autoconf`，并将其他 dhcp 客户端的 v6 功能关闭。
+在執行此命令 **之前**，我們需要注意，我們需要將網卡的 `forwarding` 關閉（ **在配置時** ，配置後可以打開轉送），並打開 `accept_ra` 與 `autoconf`，並將其他 dhcp 客戶端的 v6 功能。
 
-（吐槽：dhcpcd 虽然说是个 dhcp 客户端，它把 SLAAC 的事情也接管了，就很恼。按照传统只需要开了 `accept_ra` 与 `autoconf`，Linux 内核就会自动配置v6地址。如果 `forwarding=1`时，我们需要使 `accept_ra=2`）
+（吐槽：dhcpcd 雖然說是個 dhcp 用戶端，它把 SLAAC 的事情也接管了，就很惱。按照傳統只需要開了 `accept_ra` 與 `autoconf`，Linux 內核就會自動配置v6地址。如果 __THU_KI_ `accept_ra=2`）
 
 ```bash
 sysctl net/ipv6/conf/wlan0/accept_ra=1
@@ -355,11 +355,11 @@ sysctl net/ipv6/conf/wlan0/autoconf=1
 sysctl net/ipv6/conf/wlan0/forwarding=0
 ```
 
-以上命令的一些参数请按需替换。我们可以将以上命令放在启动脚本中，使得自动配置 token。
+以上命令的一些參數請按需替換。我們可以將以上指令放在啟動腳本中，使得自動設定 token。
 
-#### 尝试获取某一特定IPv4、IPv6地址
+#### 嘗試取得某一特定IPv4、IPv6位址
 
-你校对于DHCP请求（v4与v6术语不同，不严谨表述）中的特定地址请求是宽容的。
+你校對於DHCP請求（v4與v6術語不同，不嚴謹表述）中的特定地址請求是寬容的。
 
 dhcpcd 配置
 
@@ -369,9 +369,9 @@ request 59.66.190.254
 ia_na 64:1a:ff:ff/2402:f000:4:3:888:1926:8:17
 ```
 
-配置中某些信息已经经过编辑，请参考 man page 与实际网络环境来进行配置。
+配置中某些資訊已編輯，請參考 man page 與實際網路環境來進行設定。
 
-以下附上一些 log，来探究该配置生效的过程。笔者认为，需要在旧 lease 失效或旧地址被人抢占后该配置才能使用。
+以下附上一些 log，來探討該配置生效的過程。筆者認為，需要在舊 lease 失效或舊地址被人搶佔後該配置才能使用。
 
 ```
 Apr 02 07:00:21 Zenith dhcpcd[497]: enp3s0: IAID 64:1a:ff:ff
@@ -386,76 +386,76 @@ Apr 02 07:00:34 Zenith dhcpcd[497]: enp3s0: REPLY6 received from fe80::9629:2fff
 Apr 02 07:00:34 Zenith dhcpcd[497]: enp3s0: adding address 2402:f000:4:3:888:1926:8:17/128
 ```
 
-### 院系网（三层接入）的 IPv6
+### 系所網路（三層存取）的 IPv6
 
-有些院系网是三层接入的校园网在网内配置的是 SLAAC。
+有些系所網是三層連接的校園網在網內配置的是 SLAAC。
 
-一些机器（例如 Windows 的默认设置和一些 Linux 的默认设置）配置了隐私扩展后，在 SLAAC 环境下其 IPv6 地址会不断改变，由于学校的准入是对 IPv6 地址进行的，具体表现就是在用 auth6 准入 IPv6 一段时间后就失去了准入，需要重新登录 auth6。
+有些機器（例如 Windows 的預設設定和一些 Linux 的預設設定）配置了隱私擴充後，在 SLAAC 環境下其 IPv6 位址會不斷改變，由於學校的存取是對 IPv6 位址進行的，具體表現就是在用 auth6 准入 IPv6 一段時間後就失去了准入 auth6。
 
-一种方法是关掉 IPv6 隐私临时地址（可 Google 查阅相关资料），另一种方式是使用自动准入客户端，例如前面提到的 auth-thu 的 goauthing6.service
+一種方法是關掉 IPv6 隱私臨時位址（可 Google 查閱相關資料），另一種方式是使用自動存取用戶端，例如前面提到的 auth-thu 的 goauthing6.service
 
 ### 不符合 RFC 的 DHCPv6
 
-> 你校的 DHCPv6 server 会不承认某些 DUID，对于这样的 DHCP 请求会不予回应。即使向学校反映该问题，学校尝试让厂商修复后，该问题仍然存在。
+> 你校的 DHCPv6 server 會不承認某些 DUID，對於這樣的 DHCP 請求會不回應。即使向學校反映問題，學校嘗試讓廠商修復後，問題仍然存在。
 >
-> 根据相关人士消息，只有 DUID Type 1，也就是 DUID-LLT 被承认，以下给出 dhcpcd 的相应配置方式。
+> 根據相關人士訊息，只有 DUID Type 1，也就是 DUID-LLT 被承認，以下給出 dhcpcd 的相應配置方式。
 >
-> 首先将 `/etc/dhcpcd.conf` 中的 `duid` 打开，同时保证没有开启 `clientid`。然后我们检查下列文件
+> 先將 `/etc/dhcpcd.conf` 中的 `duid` 打開，同時確保沒有開啟 `clientid`。然後我們檢查下列文件
 >
 > ```
 > $ cat /var/lib/dhcpcd/duid
 > 00:01:00:01:26:53:6d:9d:ff:ff:ff:ff:ff:ff
 > ```
 >
-> 若以 `00:01` 开头，则表明为 DUID-LLT，否则（或文件不存在）需要改为上述格式。同时需要检查一下最后的 `ff:ff:ff:ff:ff:ff` 是否为相关网卡的MAC地址，如果不是需要更改为相应地址。
+> 若以 `00:01` 開頭，則表示為 DUID-LLT，否則（或檔案不存在）需要改為上述格式。同時需要檢查最後的 `ff:ff:ff:ff:ff:ff` 是否為相關網路卡的MAC位址，如果不是需要變更為對應位址。
 >
-> **更新** 的测试发现，我们并不知道你校的 DHCPv6 是如何工作的，其如何工作完全是玄学。有的开启了 Anonymize 即可使用，有的开启了也尝试失败。
+> **更新** 的測試發現，我們並不知道你校的 DHCPv6 是如何運作的，其如何工作完全是玄學。有的開啟了 Anonymize 即可使用，有的開啟了也嘗試失敗。
 >
-> 一些体验可以参考 <https://pwe.cat/zijing-dhcpv6/>
+> 一些經驗可以參考 https://pwe.cat/zijing-dhcpv6/
 
-最近的尝试发现，使用较新版本的 `systemd-networkd` 能稳定获取地址。
+最近的嘗試發現，使用較新版本的 `systemd-networkd` 能穩定取得位址。
 
-### 30分钟无流量掉准入
+### 30分鐘無流量掉入
 
-根据之前提到的《准入上网使用说明》，计算机长时间（目前为 30 分钟）不使用网络时，认证系统会关闭其网络连接； <del>服务器如有必要可每 10 分钟 ping 1 次 ping.tsinghua.edu.cn。</del>（已失效）
+根據先前提到的《准入上網使用說明》，電腦長時間（目前為 30 分鐘）不使用網路時，認證系統會關閉其網路連線； <del>伺服器如有必要可每 10 分鐘 ping 1 次 ping.tsinghua.edu.cn。 </del>（已失效）
 
-### 掉准出后无法准出
+### 掉准出後無法準出
 
-某些长久运行的机器可能掉准出，即无法连接校外网。这种情况下，不少同学可能在 usereg 或命令行中尝试 **准出** ，但是发现准出不成功。 **在 usereg 上，即使显示机器在准出表中，在机器上也无法访问校外网** 。我们认为这是校园网的某些设备的状态同步可能出现了问题。
+某些長久運作的機器可能掉準出，即無法連接校外網。這種情況下，不少同學可能在 usereg 或命令列中嘗試 **準出** ，但是發現準出不成功。 **在 usereg 上，即使顯示機器在準出表中，在機器上也無法存取校外網路** 。我們認為這是校園網的某些設備的狀態同步可能出現了問題。
 
-对于这种问题，有一种可能的解决尝试，就是先将登出 **准入** ，然后再准入并准出，这样可能会刷新学校某些机器的状态，从而使得准出能成功。注意！登出准入是非常危险的操作！您可能会经历 ssh 断线，从而与机器永久失联！请在充分了解该操作的意义与知道如何在登出准入后恢复准入的情况下操作！
+對於這種問題，有一種可能的解決嘗試，就是先將登出 **准入** ，然後再准入並准出，這樣可能會刷新學校某些機器的狀態，從而使得准出能成功。注意！登出准入是非常危險的操作！您可能會經歷 ssh 斷線，從而與機器永久失聯！請在充分了解該操作的意義與知道如何在登出准入後恢復准入的情況下操作！
 
-### 准入后（仅校内登录后）无法准出
+### 進入後（僅校內登入後）無法準出
 
-上文中我们提到了 Tsinghua-Secure 仅校内登录的方法，命令行（请查阅相关参数）与网页端（准入界面的仅校内复选框）也有相应的仅校内登录方案。但是有同学观测到在仅校内登录后，通过 net.tsinghua.edu.cn 来进行准出无法准出，usereg 准出也无法成功。这与上面的问题一样应该也是某些设备状态的问题，目前无解。
+上文中我們提到了 Tsinghua-Secure 僅校內登入的方法，命令列（請查閱相關參數）與網頁端（准入介面的僅校內複選框）也有對應的僅校內登入方案。但有同學觀測到在僅校內登入後，透過 net.tsinghua.edu.cn 來進行準出無法準出，usereg 準出也無法成功。這與上面的問題一樣應該也是某些設備狀態的問題，目前無解。
 
-### 未准入时其他机器能 ping 通，但不能 ssh
+### 未准入時其他機器能 ping 通，但不能 ssh
 
-不能 ssh 是预策略（参考本章校园网基础知识一节中的《清华大学校园网有线局域网用户准入系统使用说明（问与答）》）决定的
+不能 ssh 是預策略（參考本章校園網基礎知識一節中的《清華大學校園網有線電視局域網用戶准入系統使用說明（問與答）》）決定的
 
-能 ping 通也是预策略决定的，不过这一点没有文档；即，未准入时放行 ICMP reply 包。
+能 ping 通也是預先策略決定的，不過這一點沒有文件；即，未准入時放行 ICMP reply 套件。
 
-## 清华云盘
+## 清華雲盤
 
-建议使用 [seafile.com/download](https://seafile.com/download) 中的 Linux 客户端，而不是 Terminal 客户端，因为 Terminal 客户端需要独立密码，此密码不同于 INFO 密码，不能获得，故不能通过 Terminal 客户端登录。
+建議使用 [seafile.com/download](https://seafile.com/download) 中的 Linux 用戶端，而不是 Terminal 用戶端，因為 Terminal 用戶端需要獨立密碼，此密碼不同於 INFO 密碼，不能取得，故不能透過 Terminal 用戶端登入。
 
-由于手动安装软件的方式是不为推崇的，请使用包管理器获取相应软件。对 Arch Linux 用户，Linux 客户端就是
+由於手動安裝軟體的方式是不為推崇的，請使用套件管理器取得對應軟體。對 Arch Linux 用戶，Linux 用戶端就是
 
 ```bash
 pacman -S seafile-client
 ```
 
-而非 `pacman -S seafile`，此包为 Terminal 客户端。其余发行版请自行找到对应包。
+而非 `pacman -S seafile`，此套件為 Terminal 用戶端。其餘發行版請自行找到對應包。
 
-### 使用 Terminal 客户端
+### 使用 Terminal 客戶端
 
-Terminal 客户端在 8.0.4 版本后以后支持使用 Token 进行同步，你可以在 [install_linux_client](https://help.seafile.com/syncing_client/install_linux_client/) 中找到大部分发行版 AMD64 架构的源，如果你所使用的包管理器中 `seafile` 或 `seafile-cli` 版本号低于 `8.0.4`，可以安装并参考后面替换部分文件的方法，也可以直接手动编译最新版。
+Terminal 用戶端在 8.0.4 版本後以後支援使用 Token 進行同步，你可以在 [install_linux_client](https://help.seafile.com/syncing_client/install_linux_client/) 中找到大部分發行版 AMD64 架構的來源，如果你所使用的套件管理器中 `seafile` 或 __THU_WIKI_TOKEN_WI__ `8.0.4`，可以安裝並參考後面替換部分檔案的方法，也可以直接手動編譯最新版。
 
-#### 获取 Token
+#### 獲取 Token
 
-在浏览器中登录清华云盘，Cookie 中的 `seahub_auth` 应该为 `用户名（学号@tsinghua.edu.cn）@Token` 的模式，最后一段即为 Token 。每个账户的 Token 是唯一的，并且不会过期。
+在瀏覽器中登入清華雲盤，Cookie 中的 `seahub_auth` 應該為 `用户名（学号@tsinghua.edu.cn）@Token` 的模式，最後一段即為 Token 。每個帳戶的 Token 是唯一的，不會過期。
 
-在能正常运行 `seaf-cli` 后，可以使用命令行进行同步操作
+在能正常運作 `seaf-cli` 後，可以使用命令列進行同步操作
 
 ```
 seaf-cli init -d ~
@@ -464,9 +464,9 @@ seaf-cli sync -l <library-id> -s https://cloud.tsinghua.edu.cn -d <place-directo
 seaf-cli desync -d <existing-folder>
 ```
 
-#### 替换部分文件实现 Token 登录
+#### token 登入
 
-`seaf-cli` 实质上是通过 `pysearpc` 与 `seaf-daemon` 通讯，因此大部分发行版默认源中较低版本的 `seafile` 在只替换 `seaf-cli` 的情况下也能正常工作。这里提供一种安装 Terminal 客户端后替换 `seaf-cli` 实现 Token 登录的简单办法。
+`seaf-cli` 實質上是透過 `pysearpc` 與 `seaf-daemon` 通訊，因此大部分發行版預設來源中較低版本的 `seafile` 在只替換 `seaf-cli`4__ 工作的情況下也能正常工作。這裡提供一個安裝 Terminal 用戶端後替換 `seaf-cli` 實作 Token 登入的簡單方法。
 
 ```
 git clone https://github.com/haiwen/seafile
@@ -476,36 +476,36 @@ chmod +x /usr/bin/seaf-cli
 cp -r python/seafile $(python3 -m site --user-site)
 ```
 
-#### 编译 Terminal 客户端
+#### 編譯 Terminal 客戶端
 
-具体的编译流程可以参考 [build_seafile](https://manual.seafile.com/build_seafile/linux/)，但要注意几点：
+具體的編譯流程可以參考 [build_seafile](https://manual.seafile.com/build_seafile/linux/)，但要注意幾點：
 
-- 下载并编译每个仓库中的最新源码或最新的 release
-- 可以忽略文档中的 `ccnet` 部分，仓库已经消失并且不存在相关依赖
-- make 有概率失败，可以多来几次
-- 如果安装完成后 `seaf-cli` 报错，例如 `No module named 'seafile'` 可以参考上一节手动复制 `seafile` 包
+- 下載並編譯每個倉庫中的最新原始碼或最新的 release
+- 可以忽略文件中的 `ccnet` 部分，倉庫已經消失且不存在相關依賴
+- make 有機率失敗，可以多來幾次
+- 如果安裝完成後 `seaf-cli` 報錯，例如 `No module named 'seafile'` 可以參考上一節手動複製 `seafile` 包
 
-### Chrome 提醒下载的文件危险
+### Chrome 提醒下載的檔案危險
 
-此现象可能是奇妙同学的奇妙操作导致 Chrome 将清华云盘域名标记，进而所有文件下载都会提醒可能有危险并阻止。
+此現象可能是奇妙同學的奇妙操作導致 Chrome 將清華雲盤域名標記，進而所有文件下載都會提醒可能有危險並阻止。
 
-请忽略此提醒。当然，如果您下载的真的是奇妙的文件，请您自查。
+請忽略此提醒。當然，如果您下載的真的是奇妙的文件，請您自查。
 
 ## ISATAP（已停止）
 
-目前，该服务已停止。
+目前，該服務已停止。
   
-参考 [ipv6.tsinghua.edu.cn](https://ipv6.tsinghua.edu.cn)。另有 [AUR 包 thu-isatap](https://aur.archlinux.org/packages/thu-isatap) 供参考。
+參考 [ipv6.tsinghua.edu.cn](https://ipv6.tsinghua.edu.cn)。另有 [AUR 包 thu-isatap](https://aur.archlinux.org/packages/thu-isatap) 供參考。
 
-目前只有校内公网IPv4的可使用该服务，校外不可。注意 `166.111.21.1` 这个IP是不会回应ping包的。
+目前只有校內公網IPv4的可使用該服務，校外不可。注意 `166.111.21.1` 這個IP是不會回應ping包的。
 
-### 获取IPv6挂PT
+### 取得IPv6掛PT
 
-由于在家中使用 SSLVPN 后可获得校内公网 IP，可以使用 ISATAP 获取清华 IPv6 地址，以达到挂 PT 的功能，此处不做详细展开。
+由於在家中使用 SSLVPN 後可取得校內公網 IP，可使用 ISATAP 取得清華 IPv6 位址，以達到掛 PT 的功能，此處不做詳細展開。
 
 ## WIN 10 激活
 
-在 Linux 下使用该命令获取相关 cmd 指令
+在 Linux 下使用該指令取得相關 cmd 指令
 
 ```
 $ dig -t TXT win10.harrychen.xyz +short
@@ -517,21 +517,21 @@ $ dig -t TXT win10.harrychen.xyz +short
 cmd> nslookup -q=TXT win10.harrychen.xyz
 ```
 
-然后在连上 sslvpn 的情况下执行该脚本即可激活
+然後在連上 sslvpn 的情況下執行該腳本即可激活
 
-## 正版操作系统与软件下载
+## 正版作業系統與軟體下載
 
 ### ITS
 
-访问 <https://its.tsinghua.edu.cn> 登录后即可获得 Win10，杀毒软件，WPS，MS Visio，MS Visual Studio，MATLAB 等正版软件的下载方式
+造訪 https://its.tsinghua.edu.cn 登入後即可取得 Win10，防毒軟體，WPS，MS Visio，MS Visual Studio，MATLAB 等正版軟體的下載方式
 
 ### TUNA
 
-访问 <https://mirrors.tuna.tsinghua.edu.cn> ，点击获取下载链接即可。
+造訪 https://mirrors.tuna.tsinghua.edu.cn ，點擊取得下載連結即可。
 
-## 校内 IP 段
+## 校內 IP 段
 
-校内共有 6 个 /16，可参考 <https://bgp.he.net/AS45576>
+校內共有 6 個 /16，可參考 https://bgp.he.net/AS45576
 
 ```
 ; 重要校园服务基本位于此网段，例如主页
@@ -550,4 +550,4 @@ cmd> nslookup -q=TXT win10.harrychen.xyz
 118.229.0.0/20
 ```
 
-v6 一般使用 `2402:f000::/32`，也有部分地区使用 `2001:250:200::/48`（网研院）。有一段 `2001:da8:200::/48` 但未见使用。
+v6 一般使用 `2402:f000::/32`，也有部分地區使用 `2001:250:200::/48`（網研院）。有一段 `2001:da8:200::/48` 但未見使用。
