@@ -1,0 +1,12 @@
+# Ressourcen für Seminarräume auf dem Campus
+
+Die folgenden Seminarräume können über das offizielle Konto des Tsinghua Home Network reserviert werden; Bei der Nutzung müssen Sie einen Dreier-Studierendenausweis besitzen und den Schlüssel im Büro der Lehrgebäudeverwaltung umtauschen:
+* Seminarraum der Tsinghua Academy: Es gibt 4 Seminarräume mit 6-8 Sitzplätzen.
+* Vier Lehrseminarräume: Es gibt 12 Seminarräume mit 6-10 Sitzplätzen.
+* Sechs Seminarräume für den Unterricht: Es gibt drei Seminarräume für je 6 Personen.
+* Fatu Underground Seminarraum: Es gibt 2 Seminarräume für jeweils 6 Personen.
+
+Folgende Seminarräume können bei Student Tsinghua reserviert werden (Website, offizieller Account, Miniprogramm):
+* 2. Etage Gebäude C: Es gibt drei Seminarräume für 10 Personen und vier Seminarräume für 20 Personen.
+* Die dritte Etage des Gebäudes C verfügt über 6 kleine Seminarräume (2 Personen), 4 mittelgroße Seminarräume (11 Personen) und 2 große Seminarräume (ca. 30 Personen);
+* South Area Underground: Es gibt 12 Forschungsräume für 10 bis 200 Personen.

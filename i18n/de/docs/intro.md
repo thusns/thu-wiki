@@ -1,87 +1,89 @@
 ---
 sidebar_position: 1
+title: Leitfaden zum Informationsdienst
+description: Eine Zusammenfassung der allgemeinen Links, Kontaktnummern, der elektronischen Identität, des Campus-Netzwerks, der E-Mail-Adresse und anderer Servicerichtlinien der Tsinghua-Universität.
 ---
 
-# its
+# Leitfaden zum Informationsdienst
 
-# 常用链接
+## Gemeinsame Links
 
-校园网认证登录：<http://login.tsinghua.edu.cn>
+Anmeldung zur Campus-Netzwerkauthentifizierung: http://login.tsinghua.edu.cn
 
-清华邮箱学生版：<http://mails.tsinghua.edu.cn>
+Tsinghua-E-Mail-Studentenversion: http://mails.tsinghua.edu.cn
 
-新版信息门户：<https://info2021.tsinghua.edu.cn>
+Neue Version des Informationsportals: https://info2021.tsinghua.edu.cn
 
-网络学堂：<http://learn.tsinghua.edu.cn>
+Online-Schule: http://learn.tsinghua.edu.cn
 
-图书馆：<http://lib.tsinghua.edu.cn>
+Bibliothek: http://lib.tsinghua.edu.cn
 
-信息化用户服务（公共软件下载）：<http://its.tsinghua.edu.cn>
+Informationsbenutzerdienst (öffentlicher Software-Download): http://its.tsinghua.edu.cn
 
-用户自服务系统（缴费、修改最大联网数）：<http://usereg.tsinghua.edu.cn>
+Benutzer-Self-Service-System (Bezahlung, Änderung der maximalen Anzahl von Verbindungen): http://usereg.tsinghua.edu.cn
 
-选课系统：<https://zhjwxk.cic.tsinghua.edu.cn/xklogin.do>
+Kurswahlsystem: https://zhjwxk.cic.tsinghua.edu.cn/xklogin.do
 
-清华云盘：<http://cloud.tsinghua.edu.cn>
+Tsinghua Cloud Disk: http://cloud.tsinghua.edu.cn
 
-# 常用电话
+## Häufig verwendete Telefonnummern
 
-信息化技术中心用户服务热线 每天8:00-22:00 62784859
+Benutzer-Service-Hotline des Information Technology Center täglich von 8:00 bis 22:00 Uhr 62784859
 
-学生社区管理服务中心 62783333
+Student Community Management Service Center 62783333
 
-# 信息化
+## Informatisierung
 
-校园信息化相关问题请咨询84859热线 或 发邮件至<its@tsinghua.edu.cn>
+Bei Fragen zur Campus-Informatisierung wenden Sie sich bitte an die Hotline 84859 oder senden Sie eine E-Mail an its@tsinghua.edu.cn
 
-## 电子身份
+## elektronische Identität
 
-电子身份=学号+账号
-校园网、电子邮件、信息门户、网络学堂、图书馆以及学校认可的其他校园网络信息服务资源共用一套账号密码。
-_清华家园网不属于网络信息服务_
-使用电子身份服务系统（ID系统）<https://id.tsinghua.edu.cn>修改密码和绑定手机号。
+Elektronische Identität = Matrikelnummer + Kontonummer
+Das Campus-Netzwerk, die E-Mail-Adresse, das Informationsportal, das Online-Klassenzimmer, die Bibliothek und andere von der Schule anerkannte Informationsdienstressourcen des Campus-Netzwerks teilen sich ein Konto und ein Passwort.
+_Tsinghuajiayuan.com ist kein Netzwerkinformationsdienst_
+Verwenden Sie das elektronische Identitätsdienstsystem (ID-System) https://id.tsinghua.edu.cn, um das Passwort zu ändern und die Mobiltelefonnummer zu binden.
 
-### 修改密码
+### Kennwort ändern
 
-1. ID系统
-2. 自服务系统<http://usereg.tsinghua.edu.cn>
-3. “清华大学信息服务”企业微信号-认证助手
+1. ID-System
+2. Selbstbedienungssystem http://usereg.tsinghua.edu.cn
+3. „Tsinghua University Information Service“ Enterprise WeChat ID-Zertifizierungsassistent
 
-### 重置密码
+### Passwort zurücksetzen
 
-1. 自助重置（账号需绑定手机）：在ID系统的“已有账号”页面，点击“忘记密码”，短信验证码重置。或信息门户首页的“忘记密码”。
-2. 人工重置：前往李兆基B104用户服务大厅。所需证件：本人办理，持校园卡即可；代办人办理需持其本人的校园卡及办理人的校园卡，复印件无效。
-3. 邮件申请：本人手持校园卡自拍照片（卡正面的学号和姓名要清晰），然后发送邮件至<its@tsinghua.edu.cn>，邮件标题为“重置密码”。
+1. Self-Service-Reset (Konto muss an Mobiltelefon gebunden sein): Klicken Sie auf der Seite „Bereits Konto“ des ID-Systems auf „Passwort vergessen“, um den SMS-Verifizierungscode zurückzusetzen. Oder „Passwort vergessen“ auf der Homepage des Informationsportals.
+2. Manuelles Zurücksetzen: Gehen Sie zur Lee Shau Kee B104 User Service Hall. Erforderliche Unterlagen: Bei persönlicher Bewerbung können Sie Ihre Campus-Card vorlegen; Wenn Sie den Antrag im Namen eines Vertreters stellen, müssen Sie über Ihre eigene Campuskarte und die Campuskarte der Person verfügen, die den Antrag bearbeitet. Fotokopien sind ungültig.
+3. Bewerben Sie sich per E-Mail: Machen Sie ein Selfie mit Ihrer Campuskarte in der Hand (die Studentennummer und der Name auf der Vorderseite der Karte müssen deutlich sichtbar sein) und senden Sie dann eine E-Mail mit dem Titel „Passwort zurücksetzen“ an its@tsinghua.edu.cn.
 
-## 校园网
+## Campus-Netzwerk
 
-### 校园网资费
+### Campusnetztarif
 
-在校正式注册的本科生和研究生账号
-基本服务：动态IPv4、IPv6地址，5个联网权限、1个电子邮箱。
-费用：0元/月，疫情期间，超出50GB校外IPv4入流量不收费，即_无限量免费使用_。
+Offiziell registrierte Bachelor- und Graduate-Konten in der Schule
+Basisdienste: dynamisches IPv4, IPv6-Adressen, 5 Netzwerkberechtigungen, 1 E-Mail-Adresse.
+Kosten: 0 Yuan/Monat. Während der Epidemie wird für eingehenden IPv4-Verkehr außerhalb des Campus, der 50 GB überschreitet, keine Gebühr erhoben, d. h. die Nutzung ist unbegrenzt und kostenlos.
 
-### 有线网
+### Kabelnetz
 
-用网线将上网设备于用网线将上网设备与墙面上的网络端口连接后，打开浏览器，输入认证系统网址<http://login.tsinghua.edu.cn>，或者访问信息门户<http://info.tsinghua.edu.cn>跳转。然后，在校园网认证登录页面（紫色）输入校园网账号和密码，点击“连接网络”，连接校园网络成功后即可访问网络资源。
+Nachdem Sie das Internetgerät mit einem Netzwerkkabel an den Netzwerkanschluss an der Wand angeschlossen haben, öffnen Sie den Browser und geben Sie die URL des Authentifizierungssystems http://login.tsinghua.edu.cn ein oder besuchen Sie das Informationsportal http://info.tsinghua.edu.cn, um zu springen. Geben Sie dann das Campus-Netzwerkkonto und das Passwort auf der Campus-Netzwerk-Authentifizierungs-Anmeldeseite (lila) ein, klicken Sie auf „Mit dem Netzwerk verbinden“ und Sie können nach erfolgreicher Verbindung mit dem Campus-Netzwerk auf Netzwerkressourcen zugreifen.
 
-### 无线网
+### drahtloses Netzwerk
 
-"Tsinghua"和"Tsinghua-"开头的Wi-Fi是校园无线网。连接后会自动弹出认证登录页面（橙色）。也可以访问<http://login.tsinghua.edu.cn>，或者访问信息门户<http://info.tsinghua.edu.cn>跳转。然后，在校园网认证登录页面（紫色）输入校园网账号和密码，点击“连接网络”，连接校园网络成功后即可访问网络资源。
+Wi-Fi, beginnend mit „Tsinghua“ und „Tsinghua-“, sind drahtlose Campus-Netzwerke. Nach dem Herstellen der Verbindung wird automatisch die Authentifizierungs-Anmeldeseite (orange) angezeigt. Sie können auch http://login.tsinghua.edu.cn besuchen oder auf das Informationsportal http://info.tsinghua.edu.cn zugreifen, um zu springen. Geben Sie dann das Campus-Netzwerkkonto und das Passwort auf der Campus-Netzwerk-Authentifizierungs-Anmeldeseite (lila) ein, klicken Sie auf „Mit dem Netzwerk verbinden“ und Sie können nach erfolgreicher Verbindung mit dem Campus-Netzwerk auf Netzwerkressourcen zugreifen.
 
-### 校园网账号封禁
+### Sperrung des Campus-Netzwerkkontos
 
-## 电子邮件
+## E-Mail
 
-### 常见问题
+### FAQ
 
-登录错误提示：
-_用户名或密码错误，或登录受到限制_
+Fehlermeldung bei der Anmeldung:
+_Benutzername oder Passwort ist falsch oder die Anmeldung ist eingeschränkt_
 
-1. 检查域名：mails（学生版）
-2. 检查用户名和密码
+1. Domainnamen prüfen: Mails (Studentenversion)
+2. Überprüfen Sie Benutzername und Passwort
 
-_用户已锁定，请联系管理员_
+_Benutzer ist gesperrt, bitte wenden Sie sich an den Administrator_
 
-1. 拨打热线 (010)62784859
-2. 若为滥发邮件封禁，自助修改密码15分钟后解封。
+1. Rufen Sie die Hotline (010)62784859 an
+2. Wenn die E-Mail für Spam blockiert ist, wird sie nach 15 Minuten, in denen Sie das Passwort selbst ändern, entsperrt.

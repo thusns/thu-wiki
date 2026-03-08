@@ -1,56 +1,56 @@
-# 常用校外网站
+# Häufig genutzte Websites außerhalb des Campus
 
-校内网站请参考 info.md
+Die Website des Campus finden Sie unter info.md
 
-## thu.services
+## Do.Dienste
 
-即本站！
+Das ist diese Seite!
 
-## T大树洞
+## T Dashudong
 
-注：现已停止服务
+Hinweis: Der Dienst ist jetzt außer Betrieb
 
-戴上面具，卸下防备
-在匿名的树洞里，做回真实的自己
+Setzen Sie eine Maske auf und nehmen Sie Ihre Wachsamkeit ab
+Sei dein wahres Selbst im anonymen Baumloch
 
-<https://thuhole.com/>
+https://thuhole.com/
 
-## 闭社 - 清华站
+## Geschlossen – Bahnhof Tsinghua
 
-<https://thu.closed.social/>
+https://thu.closed.social/
 
-## 在线退学
+## Online-Auszahlung
 
-<https://tuixue.online/>
+https://tuixue.online/
 
-本站对其中提到的各个工具都做了收录
+Diese Website enthält alle darin genannten Tools.
 
-## 未名 BBS
+## Unbenannte BBS
 
-<https://bbs.pku.edu.cn/>
+https://bbs.pku.edu.cn/
 
-## 水木 BBS
+## Mizuki BBS
 
-<https://www.newsmth.net/>
+https://www.newsmth.net/
 
-现在与清华的相关性以及常用性存疑
+Es bestehen mittlerweile Zweifel an seiner Relevanz für die Tsinghua-Universität und seiner allgemeinen Nutzung.
 
-## 沙雕园的博客
+## Blog des Sandskulpturengartens
 
-<https://blog.shadiao.online/>
+https://blog.shadiao.online/
 
-“精神病人欢乐多”的个人网站
+Persönliche Website „Psychisch Kranke haben mehr Freude“.
 
-## PT 站
+## PT-Station
 
-由于相关策略，本站不收录常用 PT 站
+Aufgrund entsprechender Richtlinien enthält diese Website keine häufig genutzten PT-Websites
 
-## 星期四 Thursday
+## Donnerstag Donnerstag
 
 https://tsinghua.app/
 
-内含
+Enthält
 
-* 星期四 多功能社区
-* courseX
+* Donnerstag Multifunktionale Gemeinschaft
+* KursX
 * learnX

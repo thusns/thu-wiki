@@ -1,0 +1,259 @@
+# Fakultät für Wirtschaft und Management
+
+### 1. Anmeldung
+
+```
+本科一学位电话：010-6279 6228
+
+本科二学位/辅修电话：010-6278 8137
+
+博士招生电话：010-6279 5329
+
+应用型硕士招生电话
+金融硕士 010-6278 9967
+
+管理硕士 010-6278 9822
+
+会计硕士 010-6278 6773
+
+清华大学-哥伦比亚大学商务分析双硕士 010-6278 9822
+
+MBA招生电话：010-6278 1848
+
+EMBA招生电话：010-6278 9913
+
+高管教育招生电话：010-6278 1818
+
+```
+
+### 2.Kontaktinformationen
+
+#### Kontaktinformationen der Hochschule
+
+Adresse: Nr. 30, Shuangqing Road, Bezirk Haidian, Peking
+
+Postleitzahl: 100084
+
+Tel: 010-6278 6512
+
+E-Mail: marcom@sem.tsinghua.edu.cn
+
+#### Verbindung zum Career Development Center (Corporate Recruitment).
+
+Tel: 010-6278 1306
+
+#### Verbindung zum Alumni-Entwicklungszentrum
+
+Tel: 010-6279 2988
+
+### 3. Wissenschaftliche Forschungseinrichtungen
+
+#### Einrichtungen auf Schulebene
+
+##### Forschungszentrum für modernes Management der Tsinghua-Universität
+
+Kontaktnummer: +86 10-62771663
+
+Institutionelle URL: [https://www.rccm.tsinghua.edu.cn](https://www.rccm.tsinghua.edu.cn)
+
+##### Technologieinnovationsforschungszentrum der Tsinghua-Universität
+
+Kontaktnummer: +86 10-62792422
+
+Institutionelle URL: [https://www.innovation.tsinghua.edu.cn](https://www.innovation.tsinghua.edu.c)
+
+##### Chinesisches Wirtschaftsforschungszentrum der Tsinghua-Universität
+
+Kontaktnummer: +86 10-62789695
+
+Institutionelle URL: [https://www.ncer.tsinghua.edu.cn](https://www.ncer.tsinghua.edu.cn)
+
+##### Chinesisches Institut für Finanzen und Steuern der Tsinghua-Universität
+
+Kontaktnummer: +86 10-62741492
+
+##### Forschungszentrum für Wirtschafts- und Sozialdaten der Tsinghua-Universität China
+
+Kontaktnummer: +86 10-62794953
+
+Institutionelle URL: [http://www.tcdc.sem.tsinghua.edu.cn/](http://www.tcdc.sem.tsinghua.edu.cn/)
+
+##### Chinesisches Forschungszentrum für Unternehmenswachstum und Wirtschaftssicherheit der Tsinghua-Universität
+
+Kontaktnummer: +86 10-62789953
+
+##### Forschungszentrum für grüne Wirtschaft und nachhaltige Entwicklung der Tsinghua-Universität
+
+Kontaktnummer: +86 10-62775858
+
+Institutionelle URL: [https://www.gesd.tsinghua.edu.cn](https://www.gesd.tsinghua.edu.cn)
+
+##### Forschungszentrum für die Entwicklung der Sportindustrie der Tsinghua-Universität
+
+Kontaktnummer: +86 10-62790651
+
+E-Mail: tudsi@sem.tsinghua.edu.cn
+
+Institutionelle URL: [https://sports.163.com/special/zhzt/tsinghuasports_vs.html](https://sports.163.com/special/zhzt/tsinghuasports_vs.html)
+
+##### Institut für industrielle Innovation und Finanzen der Tsinghua-Universität
+
+Kontaktnummer: +86 10-82390375
+
+Institutionelle URL: [https://www.iiif.tsinghua.edu.cn/](https://www.iiif.tsinghua.edu.cn/)
+
+##### Forschungsinstitut für Internetindustrie der Tsinghua-Universität
+
+Kontaktnummer: +86 10-83021220
+
+Institutionelle URL: [https://www.iii.tsinghua.edu.cn](https://www.iii.tsinghua.edu.cn)
+
+##### Institut für globale gemeinsame Entwicklung der Tsinghua-Universität
+
+E-Mail: igd@tsinghua.edu.cn
+
+Institutionelle URL: [http://www.igd.tsinghua.edu.cn/](http://www.igd.tsinghua.edu.cn/)
+
+##### G20-Unternehmertumsforschungszentrum der Tsinghua-Universität
+
+Kontaktnummer: +86 10-82159850
+
+Institutionelle URL: [https://www.g20e.tsinghua.edu.cn](https://www.g20e.tsinghua.edu.cn)
+
+##### Global Private Equity Institute der Tsinghua University
+
+Kontaktnummer: +86 10-62785449
+
+Institutionelle URL: [https://www.pe.tsinghua.edu.cn](https://www.pe.tsinghua.edu.cn)
+
+##### Gemeinsames Forschungszentrum der Tsinghua-Universität und der Chinesischen Universität Hongkong zur chinesischen Wirtschaft
+
+Kontaktnummer: +86 10-62773183
+
+Institutionelle URL: [https://research-center.econ.cuhk.edu.hk/en-gb/](https://research-center.econ.cuhk.edu.hk/en-gb/)
+
+##### Institut für Kulturökonomie, Tsinghua-Universität
+
+Kontaktnummer: +86 10-62788141
+
+E-Mail: thuice@sem.tsinghua.edu.cn
+
+URL: [http://www.ice.tsinghua.edu.cn/](http://www.ice.tsinghua.edu.cn/)
+
+##### National Bureau of Statistics – Datenentwicklungszentrum der Tsinghua-Universität
+
+Kontaktnummer: +86 10-62794953
+
+Institutionelle URL: [http://www.tcdc.sem.tsinghua.edu.cn/](http://www.tcdc.sem.tsinghua.edu.cn/)
+
+##### Tsinghua University China Modern State Enterprise Research Institute
+
+Institutionelle URL: [http://www.thuisoe.tsinghua.edu.cn/](http://www.thuisoe.tsinghua.edu.cn/)
+
+##### Gemeinsames Forschungszentrum für Wirtschaft und Finanzen der Tsinghua University und der University of Chicago
+
+Institutionelle URL: [https://www.jrcef.cn/](https://www.jrcef.cn/)
+
+##### Globales Wertpapiermarktforschungsinstitut der Tsinghua-Universität
+
+Kontaktnummer: +86 10-62782830
+
+##### Gemeinsames Forschungszentrum der Tsinghua-Universität und der Rice University für Humankapital und nachhaltige Innovation
+
+##### Staatliches Forschungsinstitut für Vermögensverwaltung der Tsinghua-Universität
+
+Kontakt-E-Mail: isam@sem.tsinghua.edu.cn
+
+#### Hochschuleinrichtungen
+
+##### China Enterprise Research Center, School of Economics and Management, Tsinghua University
+
+Kontaktnummer: +86 10-62772537
+
+##### China Entrepreneurship Research Center, School of Economics and Management, Tsinghua University
+
+Kontaktnummer: +86 10-62789757
+
+##### Tsinghua University School of Economics and Management China Financial Research Center
+
+Kontaktnummer: +86 10-62773180
+
+Institutionelle URL: [http://ccfr.sem.tsinghua.edu.cn](http://ccfr.sem.tsinghua.edu.cn)
+
+##### Tsinghua University School of Economics and Management China Retail Research Center
+
+Kontaktnummer: +86 10-62794765
+
+##### China Insurance and Risk Management Research Center, School of Economics and Management, Tsinghua University
+
+Kontaktnummer: +86 10-62773414
+
+Institutionelle URL: [http://www.ccirm.org/ccirm/](http://www.ccirm.org/ccirm/)
+
+##### Tsinghua University School of Economics and Management Leadership Research Center
+
+##### Forschungszentrum für medizinisches Management, Fakultät für Wirtschaft und Management, Tsinghua-Universität
+
+Tel.: +86 10-62787244
+
+##### Forschungszentrum für Corporate Governance der Tsinghua University School of Economics and Management
+
+Kontaktnummer: +86 10-62783540
+
+##### Internationales Wirtschaftsforschungszentrum, School of Economics and Management, Tsinghua-Universität
+
+Kontaktnummer: +86 10-62798061
+
+##### Tsinghua University School of Economics and Management China-Latin America Management Research Center
+
+##### China Industrial Development Research Center, School of Economics and Management, Tsinghua University
+
+Kontakt-E-Mail: isam@sem.tsinghua.edu.cn
+
+##### Forschungszentrum für chinesische Unternehmensglobalisierung, School of Economics and Management, Tsinghua University
+
+Kontaktnummer: +86 10- 62772089
+
+##### Forschungszentrum für Internetentwicklung und Governance, Fakultät für Wirtschaft und Management, Tsinghua-Universität
+
+Institutionelle URL: [http://cidg.sem.tsinghua.edu.cn/](http://cidg.sem.tsinghua.edu.cn/)
+
+##### China Enterprise Development, M&A and Reorganization Research Center, School of Economics and Management, Tsinghua University
+
+Kontaktnummer: +86 10-62793709
+
+##### Forschungszentrum für notleidende Vermögenswerte der Tsinghua University School of Economics and Management
+
+Kontaktnummer: +86 10-62794218
+
+##### Tsinghua University School of Economics and Management Blockchain Finance Research Center
+
+Kontaktnummer: +86 10-62773180
+
+##### Forschungszentrum für Geschäftsmodellinnovation der Tsinghua University School of Economics and Management
+
+Kontaktnummer: +86 10-62789873
+
+##### Forschungszentrum für digitale Finanzanlagen der Tsinghua University School of Economics and Management
+
+E-Mail: cdfa@sem.tsinghua.edu.cn
+
+Institutionelle URL: [http://cdfa.sem.tsinghua.edu.cn](http://cdfa.sem.tsinghua.edu.cn)
+
+##### Forschungszentrum für dynamischen Wettbewerb und Innovationsstrategie, Fakultät für Wirtschaft und Management, Tsinghua-Universität
+
+Kontaktnummer: +86 10-62772539
+
+E-Mail: cdis@sem.tsinghua.edu.cn
+
+##### Forschungszentrum für dynamischen Wettbewerb und Innovationsstrategie, Fakultät für Wirtschaft und Management, Tsinghua-Universität
+
+Kontaktnummer: +86 10-62772539
+
+E-Mail: cdis@sem.tsinghua.edu.cn
+
+##### Forschungszentrum für künstliche Intelligenz und Management, Fakultät für Wirtschaft und Management, Tsinghua-Universität
+
+##### Forschungszentrum für interaktive Technologieindustrie, Fakultät für Wirtschaft und Management, Tsinghua-Universität
+
+Kontaktnummer: +86 10-62797521

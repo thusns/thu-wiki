@@ -1,0 +1,3 @@
+# Sonnenschein körperliche Bewegung
+
+Studierende, die im ersten bis dritten Studienjahr Sportkurse belegen, müssen an Sunshine-Sportaktivitäten teilnehmen und die „Le Power“-App herunterladen, um sich für das Training anzumelden. Einzelheiten entnehmen Sie bitte den Bekanntmachungen der einzelnen Abteilungen.

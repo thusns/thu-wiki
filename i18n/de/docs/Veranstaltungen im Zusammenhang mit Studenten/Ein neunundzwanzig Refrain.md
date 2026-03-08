@@ -1,0 +1,14 @@
+---
+title: Chor 129
+description: Auf der Einführungsseite des 129-Chor-Events werden der Teilnahmeprozess, Schulungsmodalitäten und allgemeine Vorsichtsmaßnahmen erläutert.
+---
+
+# Chor 129
+
+## Noch hinzuzufügen/Zusammenfassung
+
+- Hintergrund und Bedeutung der Aktivitäten, einschließlich historischer Entwicklung und schulischer Organisationsformen.
+- Teilnahmemethoden und Zeitpunkte wie Anmeldung, Probe, Generalprobe und formelle Aufführungsvereinbarungen.
+- Allgemeine Vorbereitungspunkte wie Repertoireübungen, Kleiderordnung und Teamwork-Tipps.
+
+> Willkommen zum Hinzufügen von: Veranstaltungszeit, Anmeldemethode, Kontaktinformationen.

@@ -1,0 +1,3 @@
+# Körperlicher Fitnesstest
+
+Studierende im Grundstudium werden jedes Jahr von Oktober bis November einem körperlichen Fitnesstest unterzogen. Einzelheiten finden Sie unter „Info-Studie-Physischer Test“

@@ -1,0 +1,23 @@
+# Barfußspiele für Erstsemester
+
+Wie der Name schon sagt, sind die Barefoot Games die Barefoot Games (x)
+
+Die Freshman Barefoot Games sind eine besondere Sportveranstaltung für Erstsemester an der Tsinghua-Universität. Getreu dem Motto „Gesundheit beginnt mit einem Schritt“ wollen wir die Begeisterung der Studienanfänger für körperliche Betätigung voll ausschöpfen und mobilisieren. Es ist eine ausgezeichnete Gelegenheit für Schüler, sich zu entspannen und in die Natur zurückzukehren. Es wird auch das erste Mal sein, dass Erstsemester ihr sportliches Können auf der Schulbühne unter Beweis stellen!
+
+Die Barefoot Games sind in Barfuß-Events und Nicht-Barfuß-Events unterteilt. Die Barfußveranstaltungen erfordern einen engen Kontakt zwischen den Fußsohlen jedes Einzelnen und dem Spielfeld.
+
+### (1) Barfußprojekt
+
+Einzel: **100 m, 60 m Hüpferlauf, 100 m Zweierlauf auf drei Beinen, Medizinballwurf, Weitsprung, Weitsprung im Stehen, 1-Minuten-Hüpfer (Einzelschwung)**.
+
+Mannschaft: **10x60m-Kopfstaffel** (2 Frauen + 8 Männer), **4x100m-Staffel** (3 Männer + 1 Frau).
+
+### (2) Nicht-Barfuß-Projekte
+
+**Tauziehen** (Jede Abteilung ist auf ein Klassenteam von 16 Männern + 2 Frauen beschränkt),
+**3 Minuten gemeinsames langes Seilspringen** (einschließlich Seilschwinger, 10 Personen pro Team, keine Beschränkung auf Männer oder Frauen),
+**3000 Meter** (männlich),
+**1500 Meter** (weiblich),
+**800 Meter**,
+**2 Minuten, um den Schlüssel zu drücken,
+Klimmzüge** (Männer).

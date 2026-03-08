@@ -1,0 +1,59 @@
+# Zurückweisen
+
+## erklären
+
+Das heißt: „Empfohlene Interviews mit Doktoranden“
+
+## Wahl des Reiseziels
+
+![](https://github.com/thusns/thu-wiki/blob/main/images/auto-upload/%E6%8E%A8%E5%85%8D%E5%8E%BB%E5%90%91.png?raw=1)
+
+## Verwandte Websites
+
+1. Informationsportal der Tsinghua-Universität
+
+http://info.tsinghua.edu.cn/
+
+Vor Beginn der Förderungs- und Befreiungsarbeiten wird das Büro für akademische Angelegenheiten in der Spalte [Ankündigung für akademische Angelegenheiten] auf der Homepage eine Bekanntmachung über die Förderung der Befreiung von Prüfungen und des Aufbaustudiums veröffentlichen, einschließlich der Bedingungen, die Studierende bei der Beantragung einer Befreiung erfüllen müssen, der Registrierungszeit, der Bedienungsanleitung des Befreiungsregistrierungssystems, der Anforderungen zur Qualifikationsüberprüfung usw.
+
+2. Forschungs- und Rekrutierungswebsite der Tsinghua-Universität
+
+https://yz.tsinghua.edu.cn/ Die Forschungs- und Rekrutierungsplattform der Tsinghua-Universität wird eine Anmeldebenachrichtigung für ein Graduiertenstudium ohne Prüfung herausgeben. Die Steuerbefreiungs- und Zulassungsverfahren für die einzelnen Abteilungen können auf der Website für Graduiertenzulassungen der Tsinghua-Universität eingesehen werden, oder Sie können die Homepage der einzelnen Abteilungen aufrufen. Die Zeit unterliegt der Freigabe der einzelnen Abteilungen.
+
+3. Bewerbungssystem für Doktoranden der Tsinghua-Universität
+
+(Melden Sie sich über das persönliche Konto der alten Version des Info-Informationsportals – Umfassend – Linke Schnellnavigation – Abschlussspalte – Prüfungsfreie Promotion an, oder melden Sie sich über die neue Version des Info-Informationsportals – My Workbench – Prüfungsfreie Promotion an oder greifen Sie über die folgende Website direkt auf das Bewerbungsservicesystem für Doktoranden der Tsinghua-Universität zu: https://yzbm.tsinghua.edu.cn/ndLogin, registrieren Sie sich und melden Sie sich nach Bedarf an.)
+
+Alle Grundstudenten unserer Schule (einschließlich Studenten, die an unserer Schule studieren, und Doktoranden außerhalb der Schule), die in diesem Jahr an der prüfungsfreien Empfehlung für ein Doktorats-/Masterstudium auf dem Campus oder außerhalb des Campus teilnehmen, sollten sich innerhalb der von der Schule festgelegten Zeit beim Graduiertenbewerbungssystem der Tsinghua-Universität anmelden und die Bewerbungsinformationen für die prüfungsfreie Empfehlung ausfüllen, andernfalls ist diese ungültig. Studierende können dieses System nutzen, um Informationen zu überprüfen, z. B. ob sie eine empfohlene Quote erreicht haben (verwaltet von den Bachelor-Abteilungen) und ob sie an der Schule zugelassen wurden (verwaltet von den Hochschul-Zulassungsabteilungen).
+
+4. National empfohlenes Informationsoffenlegungs- und Verwaltungsdienstsystem für herausragende Studienabsolventen, die ohne Prüfung für ein Graduiertenstudium studieren möchten
+
+http://yz.chsi.com.cn/tm
+
+Diese Website ist das Empfehlungs- und Befreiungssystem des Bildungsministeriums. Es handelt sich um eine einheitliche Informationsablage und öffentliche Plattform sowie ein Online-Bewerbungs- und Zulassungssystem für die nationale Empfehlungs- und Befreiungsarbeit. Relevante Arbeiten wie Qualifikationsprüfung und -bestätigung, Bewerbung, Zulassung sowie Einreichung und Offenlegung empfohlener Studierender (einschließlich empfohlener Masterstudierender und Direktdoktoranden) müssen über dieses System durchgeführt werden. Alle ausgenommenen Studierenden, die die Quote erreicht haben und angenommen werden, müssen sich beim System anmelden und entsprechende Vorgänge gemäß den Anforderungen des Bildungsministeriums durchführen.
+
+## Ausnahmevoraussetzungen
+
+1. Erhalten Sie „Empfehlungsqualifikationen“ und „Empfehlungsquoten“ von unserer Schule.
+
+2. Holen Sie sich eine „Zulassungsquote“ von der wissenschaftlichen Forschungseinrichtung, die Sie besuchen möchten.
+
+## Link
+
+Das Forschungsförderungssystem wird in der Regel einmal im Jahr auf allen Ebenen veröffentlicht.
+
+### Empfehlungslink
+
+Die Schule veröffentlicht jedes Jahr Mitteilungen zur Forschungsförderung im Info-Bulletin für akademische Angelegenheiten.
+
+Empfohlene Methoden, die jedes Jahr von den Bachelor-Fakultäten herausgegeben werden (einige Fakultäten haben langfristige Studienvoraussetzungsordnungen formuliert und diese dem Ausbildungsplan beigefügt).
+
+### Empfangslink
+
+Die Prüfungsbefreiungs- und Zulassungsverfahren für die einzelnen Abteilungen können auf der Postgraduierten-Zulassungswebsite unserer Schule https://yz.tsinghua.edu.cn, Abteilungsinformationen – Fakultäten – Empfohlene Zulassungen – Mitteilungen und Ankündigungen eingesehen werden, oder Sie können die Homepage jeder Abteilung unserer Schule besuchen, um sich zu informieren. Die Zeit unterliegt der Freigabe der einzelnen Abteilungen. (**Schüler, denen eine schulübergreifende Zulassung empfohlen wird, können diese Methode auch nutzen, um die Bewertungs- und Zulassungsverfahren für die Zulassung zu anderen wissenschaftlichen Forschungseinrichtungen zu überprüfen**)
+
+### Leistungsbescheinigung
+
+### Nachweis des Bewertungsrankings: Bitte gehen Sie zum Registrierungszentrum (Zijing C Building 201), nachdem das Empfehlungsbewertungsranking veröffentlicht wurde.
+
+### Empfehlungsquotenzertifikat: Wenn die Hochrechnungseinheit nach Erhalt der Empfehlungsquote diese benötigt, können Sie sich über das Lehrbüro des Fachbereichs, in dem Sie ansässig sind, an das Studentenregistrierungsbüro des Büros für Studienangelegenheiten wenden, um es zu erhalten.

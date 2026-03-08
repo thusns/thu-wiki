@@ -1,287 +1,287 @@
-# 公众帐号们
+# Öffentliche Konten
 
-此页收录微信公众号、收录知乎、收录各平台上的公开的 [redacted]
+Diese Seite enthält öffentliche WeChat-Konten, Zhihu und öffentliche [redigiert] auf verschiedenen Plattformen
 
-本平台还可能会推出信息流服务，整合以下公众号发送的实时信息
+Diese Plattform kann auch einen Informationsflussdienst starten, um Echtzeitinformationen zu integrieren, die von den folgenden öffentlichen Konten gesendet werden
 
-## 微信公众号
+## Öffentliches WeChat-Konto
 
-- 官方帐号
-    - 清华大学
-    - 清华大学社会实践
-    - 清华体育
-    - 清华大学图书馆
-    - 清华大学新清华学堂
-    - 清华大学医院
-    - 清华好读书
-    - 清华红十字会
-    - 清华后勤
-    - 清华家园网
-    - 清华职业辅导
-    - 清华信息化
-    - 清华大学信息服务
-    - 清华大学艺术博物馆
-    - 清华家园网
-    - 清华海外学习
-    - 清华资产
-    - 清华青年科创
-    - 学在清华
-    - 行在清华
-    - 平安清华
-    - 清华大学本科教学
-    - 荷塘雨课堂
-    - THU学生资助
-    - 文素THU
-    - 清华大学国际教育
-    - 清华青年科创
-    - 清华海外学习
-    - 清华就业
-    - 清华大学体育代表队
-    - 人文清华讲坛
-    - THU学术之路工作室
-    - 清华时事大讲堂
-    - 清华大学游泳馆
-    - 紫荆之声
-- 院系帐号
-    - 清华大学交叉信息研究院
-    - 清华大学工业工程系
-    - 清华大学文学创作与研究中心
-    - 清华大学集成电路学院
-    - 清华大学电子工程系
-    - 清华大学精密仪器系
-    - 清华大学材料学院
-    - 清华大学法学院
-    - 清华大学iCenter创客空间
-    - 清华大学建筑学院
-    - 清华大学经济管理学院
-    - 清华大学土木工程系暨建设管理系
-    - 清华大学医学院
-    - 清华大学药学院
-    - 清华大学新雅书院
-    - 清华大学社会科学学院
-    - 清华大学丘成桐数学科学中心
-    - 清华大学美术学院
+- Offizieller Account
+    - Tsinghua-Universität
+    - Soziale Praxis der Tsinghua-Universität
+    - Tsinghua Sport
+    - Tsinghua-Universitätsbibliothek
+    - Neue Tsinghua-Akademie der Tsinghua-Universität
+    - Tsinghua-Universitätskrankenhaus
+    - Tsinghua kann gut lesen
+    - Tsinghua Rotkreuzgesellschaft
+    - Tsinghua Logistik
+    - Tsinghua-Heimnetzwerk
+    - Tsinghua Berufsberatung
+    - Tsinghua-Informationstechnologie
+    - Informationsdienst der Tsinghua-Universität
+    - Kunstmuseum der Tsinghua-Universität
+    - Tsinghua-Heimnetzwerk
+    - Tsinghua studiert im Ausland
+    - Tsinghua-Vermögenswert
+    - Tsinghua Jugendwissenschaft und Innovation
+    - Studieren in Tsinghua
+    - Reisen in Tsinghua
+    - Sichere Tsinghua-Universität
+    - Lehrtätigkeit an der Tsinghua-Universität
+    - Lotusteich-Regen-Klassenzimmer
+    - Finanzielle Unterstützung für Studierende der DO
+    - Mond Also DO
+    - Internationale Bildung der Tsinghua-Universität
+    - Tsinghua Jugendwissenschaft und Innovation
+    - Tsinghua studiert im Ausland
+    - Tsinghua-Beschäftigung
+    - Sportmannschaft der Tsinghua-Universität
+    - Geisteswissenschaftliches Tsinghua-Forum
+    - DO Academic Path Studio
+    - Tsinghua-Hörsaal für aktuelle Angelegenheiten
+    - Schwimmbad der Tsinghua-Universität
+    - Klang von Bauhinia
+- Abteilungskonto
+    - Interdisziplinäres Informationsinstitut der Tsinghua-Universität
+    - Abteilung für Wirtschaftsingenieurwesen, Tsinghua-Universität
+    - Zentrum für literarisches Schaffen und Forschung der Tsinghua-Universität
+    - Tsinghua University School of Integrated Circuits
+    - Abteilung für Elektrotechnik, Tsinghua-Universität
+    - Abteilung für Präzisionsinstrumente, Tsinghua-Universität
+    - Fakultät für Materialwissenschaft und Werkstofftechnik, Tsinghua-Universität
+    - Juristische Fakultät der Tsinghua-Universität
+    - iCenter Maker Space der Tsinghua-Universität
+    - Fakultät für Architektur der Tsinghua-Universität
+    - Fakultät für Wirtschaft und Management der Tsinghua-Universität
+    - Abteilung für Bauingenieurwesen und Abteilung für Baumanagement, Tsinghua-Universität
+    - Medizinische Fakultät der Tsinghua-Universität
+    - Pharmazeutische Fakultät der Tsinghua-Universität
+    - Xinya-Akademie der Tsinghua-Universität
+    - Fakultät für Sozialwissenschaften der Tsinghua-Universität
+    - Mathematische Wissenschaftszentrum der Tsinghua-Universität Yau Shing-tung
+    - Akademie der Schönen Künste der Tsinghua-Universität
     - TsinghuaLogic
     - Tsinghua HPC
-- 学生组织帐号
-    - 清华大学清新时报
-    - 清华小五爷园
-    - 艾生权
-    - 茶园资讯
-    - 微爱意
-    - 清华大学小研在线
-    - 清华小清心
-    - THU摄影队
-    - 学生清华
-    - 乐学
-    - THU 探求纵坐标
-    - THU 次世代
-    - 清华大学学生社团
-    - 清华大学学生网络安全技术协会
-    - 清华天协
-    - GRID天格计划
-    - 基础学科拔尖学生培养计划力学班
-    - 科技服务队
-    - thu勤工之家
-    - THU文苑
-    - THU语协
-    - 天空工场 Skyworks
-    - 图书馆助理分队
-    - 学生网服SNS
-    - 清华研读间
-    - E研E行
-    - 大清幻协
-    - 酒井算协
-    - TEDxTHU
-    - 小研在路上
-    - 建院学生会THU
-    - 清华大学学生会
-    - 清华大学小研在身边
-    - 贵系男篮
-    - 酒井资讯
-    - 软小宣
-    - 紫冬话语
-    - 公管声音
-    - E研E行
-    - 社氏有声
-    - 建院宣传中心
-    - 清华大学文体之声
+- Konto der Studentenorganisation
+    - Frische Zeiten der Tsinghua-Universität
+    - Tsinghua Xiaowuye-Garten
+    - Aishengquan
+    - Informationen zum Teegarten
+    - Ein bisschen Liebe
+    - Tsinghua-Universität Xiaoyan Online
+    - Tsinghua Xiaoqingxin
+    - THU-Fototeam
+    - Student Tsinghua
+    - Gerne lernen
+    - THU untersucht die Ordinate
+    - DO nächste Generation
+    - Studentenvereinigung der Tsinghua-Universität
+    - Studentenvereinigung für Netzwerksicherheitstechnologie der Tsinghua-Universität
+    - Tsinghua-Universität
+    - GRID Tiange-Plan
+    - Mechanikklasse des Ausbildungsprogramms für Spitzenstudenten in Grunddisziplinen
+    - Technologie-Service-Team
+    - Do Qigong Home
+    - DO Wenyuan
+    - THU-Sprachvereinigung
+    - Skyworks Skyworks
+    - Abteilung für Bibliotheksassistenten
+    - Studierendennetzwerkdienst SNS
+    - Tsinghua-Studienraum
+    - E-Forschung E-Linie
+    - Große Qing-Fantasie-Vereinigung
+    - Sakai Sangkyo
+    - TEDxDO
+    - Xiaoyan ist unterwegs
+    - Gründung der Studierendenvertretung THU
+    - Studentenvereinigung der Tsinghua-Universität
+    - Die Tsinghua-Universität Xiaoyan steht Ihnen zur Seite
+    - Exquisite Herren-Basketballmannschaft
+    - Sakai-Informationen
+    - Sanfte Propaganda
+    - Zi Dong-Diskurs
+    - Stimme der öffentlichen Verwaltung
+    - E-Forschung E-Linie
+    - soziales Audio
+    - Einrichtungs-Werbezentrum
+    - Stimme der Kultur und des Sports der Tsinghua-Universität
     - SAEPA
-    - 清华大学学生公益
-    - 科协THU
-    - 小唐心
-    - THU小动物保护
-    - 清软小研
-    - 清华经管 家园
-    - 清华x-lab
+    - Wohltätigkeitsorganisation für Studenten der Tsinghua-Universität
+    - DO
+    - Kleiner Tang Xin
+    - DO Kleintierschutz
+    - Qingruan Xiaoyan
+    - Tsinghua SEM-Startseite
+    - Tsinghua x-lab
     - Runislove
-    - 清华山野
-    - 酒井科协
-    - 清华学生马协
-    - Lawgic
-    - 数无穹
-    - THU益创咨询
-    - 清物语
-    - CurlingTHU
-    - 清华航院学生会
-    - THU辩论队
+    - Tsinghua-Gebirge und Wildnis
+    - Sakai-Vereinigung für Wissenschaft und Technologie
+    - Tsinghua Student Equestrian Association
+    - Lawgisch
+    - Unzählige
+    - DO Yichuang Consulting
+    - Kiyomonogatari
+    - CurlingDO
+    - Luftfahrtstudentenvereinigung der Tsinghua-Universität
+    - DO Debate Team
     - THUBodybuilding
-    - 清华大学电影协会
+    - Filmvereinigung der Tsinghua-Universität
     - SKITHU
-    - THU文创社
-    - THU学生区块链
-    - 清华车协
-    - 清华飞盘THUultimate
+    - THU Kultur- und Kreativgesellschaft
+    - DO Student Blockchain
+    - Tsinghua Automobile Association
+    - Tsinghua Frisbee DOultimativ
     - TsinghuaShuo
     - THUSAGA
-    - THU水球
-    - 清华大学求是学会
-    - 清华课改之声
-    - THURS清华轮滑社
-    - THU交通人
-    - THU体能康复
-    - THUAIChallenge
-    - THU时代论坛
-    - THU植协君
-    - 酒井实践
-    - 清小禅
-- 班级帐号
-    - 茶园八字班
-    - 环酒肆
-    - 八一见君
-    - 电机能源85
-    - 工82的爸爸们
-    - 工91和它的朋友们
-    - BEST86
-    - 不二材心
-    - 材霸山河
-    - 材八一集团
-    - 电机能源85
-    - 电子巴士
-    - 共筑85
-    - 核82ers
-    - 戏诸侯
-    - i医捌
-    - 建环bar
-    - 计科玖壹
-    - 力8幼儿园
-    - new 计84
-    - Real 计86
-    - 软叭酱
-    - 生86生发灵研发中心
-    - THSA82工作室
-    - THU無82
+    - DO Wasserball
+    - Qiushi-Gesellschaft der Tsinghua-Universität
+    - Stimme der Tsinghua-Lehrplanreform
+    - DO Tsinghua Roller Skating Club
+    - DO Verkehrsmann
+    - DO körperliche Rehabilitation
+    - THUAICherausforderung
+    - DO Times Forum
+    - DO Zhi Xiejun
+    - Sakai-Praxis
+    - Qing Xiaochan
+- Klassenkonto
+    - Horoskopkurs im Teegarten
+    - Ring-Weinladen
+    - Wir sehen uns am 1. August
+    - Motorenergie85
+    - Väter von Arbeitern 82
+    - Arbeiter 91 und seine Freunde
+    - BESTE86
+    - Fuji-Materialherz
+    - Caiba-Berge und Flüsse
+    - CAIBAYI-GRUPPE
+    - Motorenergie85
+    - E-Bus
+    - Insgesamt wurden 85 gebaut
+    - Kern 82er
+    - Mit den Prinzen spielen
+    - iyiba
+    - Bauen Sie eine Umweltbar
+    - Ji Ke Jiu Yi
+    - Li8 Kindergarten
+    - neu 84
+    - Echte Zählung 86
+    - Ruanbajiang
+    - Sheng86 Shengfaling Forschungs- und Entwicklungszentrum
+    - THSA82 Studio
+    - DO Nr. 82
     - TsinghuaCS62
-    - 未闻砼名
-    - 智90
-    - 无事常登七三宝殿
-    - 一瓶经82的拉菲
-    - THU计91
-    - 八建八三
-    - 建陆壹Studio
-    - 建63的非建筑
-    - 博思桂花班
-    - 化73family
-    - 鬼屋乌漆漆
-    - 无中生九
-    - 紫冬鎏意
-    - 七字烽火台
-    - 水木紫冬 一见钟情
-    - 相约酒捌
-    - 雅苑新声
-    - 雅集众秀
-    - moment一柒一会
-    - 雅风新颂
-    - 清化久谊
-    - 清化捌壹
-    - 清化 | 一起柒壹
-    - 清化宝碘
-    - 清化、BSci63
-    - 清化六一
-    - 新旧合冶故事站
+    - Unbekannter Name für Beton
+    - Weisheit 90
+    - Ich gehe immer in die Sieben-Drei-Schätze-Halle, wenn ich nichts zu tun habe
+    - Eine Flasche Lafite mit einem Wert von 82
+    - THU Zähler 91
+    - Acht bauten acht drei
+    - Jianluyi Studio
+    - 63 Nichtgebäude
+    - Boss Osmanthus-Klasse
+    - 73Familie
+    - Spukhaus dunkel
+    - Neun aus dem Nichts
+    - lila Winter Liuyi
+    - Leuchtturmturm mit sieben Zeichen
+    - Mizuki Zidong Liebe auf den ersten Blick
+    - Treffen Sie sich zum Wein
+    - Yayuan Neue Stimme
+    - elegante Versammlungsshow
+    - Augenblick für Augenblick
+    - Hillsong Yafeng
+    - Thanh Hoa Jiu Yi
+    - Qinghua 81
+    - Thanh Hoa | Zusammen Qiyi
+    - Qinghua Baojod
+    - Thanh Hoa, BSci63
+    - Sechs Tage Thanh Hoa
+    - Neue und alte Heye Story Station
     - 9s2SciLife
-    - 软joy
-    - 就爱软
-    - 汝安玖叁
-    - 吾久悟
-    - 拔丝小苹果
-    - 久爱清数
-    - 数九归一
-    - 八三一心
-    - 疯吧少年
-    - THU九春三秋
-    - 爱意81
-    - 青春不二
-    - 清华电机93
-    - 青梅视传
-    - 爱建久矣
-    - 自动扒衣
-    - 八二印象
-    - 紫冬Base
-    - 紫冬巴士
-    - 紫冬五村
-    - 自86666
-    - THU环82
-    - 园子里的小经零
-    - 经83的小木屋
-    - 拔丝小苹果
-    - 我们的捌伍
-    - 捌字壹瞥
-    - 环81捌气壹旧
-    - 青春不二
-    - 航014大家庭
-    - 氢化铀
-    - 数九三伏
-    - 九二永动机
-    - 未央机械小喇叭
-    - 233LIFE
-    - 九零之陵
-    - 零一灵艺
-    - 无中生九
-    - 零零2020
-    - 机器巫
-- 奇妙帐号
-    - 清华微生活
-    - 海昇自助洗衣
-    - 捷利智能校园
-    - 近邻宝校园
-    - | Just Lose It |
-    - 全元光滑
-    - 北大讲堂票务
-    - 北京大学百周年纪念讲堂
-    - 北京大学前沿计算研究中心
-    - Learn Helper 网络学堂助手
-    - 清青实验
-    - THUInfo 信息助手
-    - 叉院学姐
-- 个人帐号
-    - 半潮生
-    - 漫士呓语
-    - 白兔与旧故
-    - osci的碎碎念小铺
-    - 覆曦
-    - my的深夜食堂
-    - 今天也想吃肉
-    - 饶老师的寸光
-    - 文刀日肥
-    - 五道口葬爱家族幼儿园
+    - sanfte Freude
+    - Ich liebe einfach Weichheit
+    - Ru'an Jiu San
+    - Ich habe es schon lange gemerkt
+    - Karamellisierter kleiner Apfel
+    - Ich liebe es schon lange zu zählen
+    - Wenn man neun zählt, kommt man auf eins
+    - achthunderteinunddreißig Herz
+    - Verrückter Junge
+    - DO Neun Frühlinge und drei Herbste
+    - Liebe 81
+    - jugendlich
+    - Tsinghua Electric 93
+    - Qingmei-Videobiografie
+    - Die Liebe hat sich schon lange aufgebaut
+    - Automatisches Abisolieren
+    - Eindruck von 1982
+    - Lila Winterbasis
+    - Lila Winterbus
+    - Zidong Wucun
+    - Seit 86666
+    - DO Ring 82
+    - Xiao Jing Ling im Garten
+    - Chalet über 83
+    - Karamellisierter kleiner Apfel
+    - Unsere fünfundachtzig
+    - Acht Charaktere auf einen Blick
+    - Ring 81 Eighth Air One Old
+    - jugendlich
+    - Hang 014 Familie
+    - Uranhydrid
+    - Zählen Sie neun und drei Volt
+    - Zweiundneunzig Perpetuum mobile
+    - Mechanischer Weiyang-Lautsprecher
+    - 233LEBEN
+    - Mausoleum der Neunlinge
+    - Ling Yi Ling Yi
+    - Neun aus dem Nichts
+    - Null Null 2020
+    - Roboter-Assistent
+- Wundervoller Bericht
+    - Tsinghua Mikroleben
+    - Haisheng Selbstbedienungswäscherei
+    - Jieli Smart Campus
+    - Nachbarcampus
+    - | Verliere es einfach |
+    - Alles glatt
+    - Ticketverkauf für den Hörsaal der Universität Peking
+    - Hundertjähriger Hörsaal der Universität Peking
+    - Forschungszentrum für Frontier Computing der Universität Peking
+    - Learn Helper Online-Klassenzimmerassistent
+    - Qingqing-Experiment
+    - THUInfo Informationsassistent
+    - Schwester aus der Schule
+- Persönliches Konto
+    - Halbzeit
+    - Manshi plappert
+    - Weißes Kaninchen und alte Geschichten
+    - Oscis kleiner Gedankenladen
+    - Fu Xi
+    - meine Spätkantine
+    - Ich möchte heute auch Fleisch essen
+    - Die Kurzsichtigkeit von Lehrer Rao
+    - Wen Dao Ri Fei
+    - Wudaokou Burial Love Familienkindergarten
     - AlphaLyrae
-    - 有关风月
-    - 宇宙的杂货铺
-    - 精神病人欢乐多
-    - 球状阿慧
-    - 未知坐标戏
-    - 星渊乱谈
-    - 北极星校园观察
-    - 不愿正常
-    - 乱纪元
+    - Über Fengyue
+    - Der Lebensmittelladen des Universums
+    - Geisteskranke sind glücklich
+    - Sphärisches Ahui
+    - Unbekannte Koordinaten spielen
+    - Xingyuan Random Talk
+    - Beobachtung des Polaris-Campus
+    - Ich möchte nicht normal sein
+    - Chaos-Ära
 
-（注：对于个人帐号，需要与号主沟通成功后才能收录在此）
+(Hinweis: Bei Privatkonten müssen Sie erfolgreich mit dem Kontoinhaber kommunizieren, bevor diese hier aufgenommen werden können.)
 
-（注：对于个人帐号，信息流服务需要进行单独沟通）
+(Hinweis: Für persönliche Konten erfordern Informationsflussdienste eine separate Kommunikation.)
 
-## 知乎
+## Zhihu
 
-* 方政清
-* 孙孟越
-* 孙恒
+* Fang Zhengqing
+* Sun Mengyue
+* Sun Heng

@@ -1,0 +1,13 @@
+# Schulungsprogrammbezogen
+
+Bei konkreten Fragen empfiehlt es sich, sich an die Abteilung Studienangelegenheiten des Fachbereichs zu wenden, um professionelle Antworten zu erhalten.
+
+## Allgemeine Anforderungen
+
+Sofern keine besonderen Gründe vorliegen, ist für Bachelorstudierende die Absolvierung des Kurses „Schreiben und Kommunikation“ im ersten Studienjahr verpflichtend.
+
+Der Englischkurs ist mit 4 Credits obligatorisch und Sie können Kurse entsprechend den Anforderungen des Englisch-Einstufungstests wählen; Es gibt eine Begrenzung auf 4 Credits und Sie können die Kurse selbständig wählen.
+
+## Spezifische Anforderungen
+
+Sie können es unter „Lernen – Schulungsinformationen – Schulungsprogramme und -pläne“ in der Info einsehen
