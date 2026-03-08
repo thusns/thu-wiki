@@ -1,181 +1,181 @@
-# 清华常用信息/服务汇总
+# 칭화공통정보/서비스개요
 
-## 快速选课入口
+## 빠른 코스 선택 입구
 
 [选课登录（校内或 SSLVPN）（选课时段内有效）](http://zhjwxk.cic.tsinghua.edu.cn/xklogin.do)
 
-## 文件内容
+## 파일 내용
 - [accounts.md](accounts.md)
-    - 公众帐号们
-        - 微信公众号
-        - 知乎
+    - 공개 계정
+        - 위챗 공개 계정
+        - 지후
 - [info.md](info.md)
-    - INFO重要信息集合
-        - 校历
-            - 2022-2023学年 
-        - 本科专业培养方案
-        - 学校宣传资料
-            - INFO 版本
-            - 主页版本
-        - 选课时间表
-        - 选课快捷方式
-        - 选课系统相关说明
-        - 期末考试时间/地点查询
-        - 历年本科生开课目录
-        - 清华大学迎新系统
-        - 注册标志（用于学生火车票）
-        - 校内校车
-        - 校内地图（静态版）
-        - 清华大学调查问卷系统
-        - 清华紫荆码
-        - eduroam
-        - cksqs 查询GPA
-        - 清华大学后勤综合服务平台
-            - 校内各单位（包括校医院）电话号码
-            - 校医院各科室挂号
-            - 校园地图（动态版）
-            - 网上报修
-            - 客房服务
-            - 订车服务
-        - 邮编、邮寄地址及邮条
-        - 清华大学校园一卡通自助查询系统
-        - ACM/IEEE/知网等论文下载（Shibboleth或OpenAthens）
-        - 火车票报销凭证
-        - DIVI 注册设备
-        - 清华大学邮箱
-            - 清华大学校友邮箱
-        - 清华大学 Overleaf 服务
-        - LibGuides at Tsinghua University
-        - 清新时报
-        - 各食堂进入人数
+    - INFO 중요정보 수집
+        - 학교 달력
+            - 2022-2023학년도
+        - 학부 전문 교육 프로그램
+        - 학교홍보물
+            - 정보 버전
+            - 가정용 버전
+        - 코스 선택 시간표
+        - 과목선택 바로가기
+        - 과목선택제도 관련 안내
+        - 기말고사 시간/장소 문의
+        - 수년에 걸친 학부 과정 카탈로그
+        - 청화대학교 오리엔테이션 시스템
+        - 등록 표시(학생 열차표용)
+        - 교내 스쿨버스
+        - 캠퍼스 지도(정적 버전)
+        - 청화대학교 설문지 시스템
+        - 칭화 바우히니아 코드
+        - 에듀람
+        - cksqs 쿼리 GPA
+        - 청화대학교 물류 종합 서비스 플랫폼
+            - 캠퍼스 내 모든 부서의 전화번호(캠퍼스 병원 포함)
+            - 학교 병원의 다양한 부서에 등록
+            - 캠퍼스 맵(동적 버전)
+            - 온라인 수리 보고서
+            - 룸서비스
+            - 자동차 예약 서비스
+        - 우편번호, 우편 주소 및 우편 스탬프
+        - 청화대학교 캠퍼스 카드 셀프 서비스 조회 시스템
+        - ACM/IEEE/HowNet 및 기타 문서(Shibboleth 또는 OpenAthens) 다운로드
+        - 기차표 환급 바우처
+        - DIVI 등록 장치
+        - 칭화대학교 이메일
+            - 칭화대학교 동문 이메일
+        - 청화대학교 오버리프 서비스
+        - 청화대학교의 LibGuides
+        - 신선한 시간
+        - 각 식당에 입장하는 사람 수
 - [services.md](services.md)
-    - 清华服务使用指北（主要面向 Linux 用户）
+    - 칭화 서비스 이용안내(주로 Linux 사용자 대상)
         - DNS/NTP
         - SSLVPN
-        - 上网认证
-            - 校园网基础知识
-            - 命令行认证 自动认证
-                - 命令行认证
-                - 自动认证
-            - 远端服务器代认证
-            - 远端服务器网页认证
-            - Tsinghua-Secure
-                - NetworkManager
-                - wpa_supplicant
+        - 인터넷 인증
+            - 캠퍼스 네트워크에 대한 기본 지식
+            - 명령줄 인증 자동 인증
+                - 명령줄 인증
+                - 자동 인증
+            - 원격 서버 인증
+            - 원격 서버 웹페이지 인증
+            - 칭화-보안
+                - 네트워크매니저
+                - wpa_신청자
                 - iwd
-            - Tsinghua-Secure 仅校内登录方式
-        - 校园网特性讨论
-            - 二层隔离/邻居发现隔离
+            - Tsinghua-Secure 교내 로그인 방식
+        - 캠퍼스 네트워크 특성에 대한 논의
+            - 2계층 격리/이웃 검색 격리
                 - IPv4
                 - IPv6
-            - 低端口阻断
-            - 动态 IP
-                - IPv6 静态后缀或短 IPv6 地址
-                - 尝试获取某一特定IPv4、IPv6地址
-            - 院系网（三层接入）的 IPv6
-            - 不符合 RFC 的 DHCPv6
-            - 30分钟无流量掉准入
-            - 掉准出后无法准出
-            - 准入后（仅校内登录后）无法准出
-            - 未准入时其他机器能 ping 通，但不能 ssh
-        - 清华云盘
-            - 使用 Terminal 客户端
-                - 获取 Token
-                - 替换部分文件实现 Token 登录
-                - 编译 Terminal 客户端
-            - Chrome 提醒下载的文件危险
-        - ISATAP（已停止）
-            - 获取IPv6挂PT
-        - WIN 10 激活
-        - 正版操作系统与软件下载
+            - 낮은 포트 차단
+            - 동적 IP
+                - IPv6 고정 접미사 또는 짧은 IPv6 주소
+                - 특정 IPv4 또는 IPv6 주소를 얻으십시오.
+            - 부서 네트워크용 IPv6(레이어 3 액세스)
+            - 비RFC 호환 DHCPv6
+            - 30분 동안 트래픽이 없으면 액세스할 수 없게 됩니다.
+            - 정확한 출구를 잃은 후 정확하게 출구를 나갈 수 없습니다.
+            - 입학 후 퇴장 불가 (교내 로그인 후만 가능)
+            - 허용되지 않으면 다른 컴퓨터에서 ping을 수행할 수 있지만 ssh를 수행할 수는 없습니다.
+        - 칭화 클라우드 디스크
+            - 터미널 클라이언트 사용
+                - 토큰 받기
+                - 토큰 로그인을 구현하기 위해 일부 파일을 교체하십시오.
+                - 터미널 클라이언트 컴파일
+            - Chrome에서 다운로드한 파일이 위험하다고 경고합니다.
+        - ISATAP(중지됨)
+            - IPv6 연결 PT 받기
+        - 승리 10 활성화
+        - 정품 운영 체제 및 소프트웨어 다운로드
             - ITS
-            - TUNA
-        - 校内 IP 段
+            - 참치
+        - 캠퍼스 내 IP 세그먼트
 - [templates.md](templates.md)
-    - LaTeX 等模板
-        - 《如何使用 LaTeX 排版论文》讲稿
-        - ThuThesis
-        - ThuWordThesis
-        - THU-Beamer-Theme
-        - 清华大学中文Beamer 模板
-        - TsinghuaBeamear
-        - Report Presentation for Tsinghua University
-        - thubeamer
-        - THU coursework Template
-        - 清华大学近代物理实验报告模版
-        - THU Letter of Recommendation Template
-        - A Simple Tsinghua Letterhead Template
-        - CV-tsinghua-template
-        - THU-Exam-LaTeX-Template
-        - ilatex
+    - LaTeX 및 기타 템플릿
+        - "LaTeX를 사용하여 논문 형식을 지정하는 방법" 강의 노트
+        - 논문
+        - 목Word논문
+        - THU-비머-테마
+        - 청화대학교 중국어 비머 템플릿
+        - 칭화비미어
+        - 칭화대학 보고서발표회
+        - 유튜브
+        - 목 교과 과정 템플릿
+        - 청화대학교 현대 물리학 실험 보고서 템플릿
+        - THU 추천서 템플릿
+        - 간단한 청화 레터헤드 템플릿
+        - CV-청화-템플릿
+        - THU-시험-LaTeX-템플릿
+        - 일텍스
 - [utils.md](utils.md)
-    - 一些脚本和工具
-        - 校园网认证工具汇总
-        - INFO/网络学堂 APP/插件
-        - 选课冲突标记
-        - 选课剩余课容标记
-        - INFO 网络学堂 Telegram 消息推送
-        - 全校洗衣机状态
-            - 全校洗衣机状态 - 洗衣机查询工具（有界面）
-            - 清华大学洗衣房可用性查询
-            - 全校洗衣机状态 - 官方小程序
-            - 全校洗衣机状态 - API接口（文字版，已废弃）
-            - 全校洗衣机状态 - iOS 快捷方式（不可用）
-            - 全校洗衣机状态 - Telegram Bot 二哈（不可用）
-            - 洗衣监控与提醒 - 微信小程序（不可用）
-        - INFO GPA 计算器
-        - 清华大学GPA查询
-        - Rain Classroom Helper
-        - 清华大学一体化平台视频自动播放
-        - 学堂在线视频自动播放
-        - 学堂在线字幕下载器
-        - 雨课堂课件下载器
-        - 清华教学参考书爬取
-            - 清华大学教参服务平台
-            - 文泉学堂
-        - 课程地点分享
-        - 注册标志（用于火车票）
-        - 寝室电费查询
-        - 寝室水电费查询
-        - 清华上下课铃声
-        - 随机选择校内餐厅 - 微信小程序
-        - 随机选择校内餐厅 - Telegram Bot
-        - 清华大学计算机系课程攻略
-        - 清华软院课程攻略
-        - 华清大学课程攻略共享计划
-        - 校园评教平台
-        - 有关计算机系的事实
-        - NFSee 校园卡
-        - 课程信息共享计划
-        - 清华大学计算机专业912考研资料
-        - 清华成绩刮刮乐
-        - thuhole memories
-        - thuhole database backup
-        - 计算机系学生科协技能引导文档
-        - 清华大学研究生社会实践系统爬虫
+    - 일부 스크립트 및 도구
+        - 캠퍼스 네트워크 인증 도구 요약
+        - INFO/온라인학교 앱/플러그인
+        - 강좌 선택 충돌 플래그
+        - 과목 선택을 위한 남은 과목 내용 표시
+        - INFO 온라인 학교 텔레그램 메시지 푸시
+        - 학교 전체 세탁기 현황
+            - 학교 전체 세탁기 현황 - 세탁기 조회 도구(인터페이스 포함)
+            - 청화대학교 세탁실 이용 가능 여부 문의
+            - 학교 전체 세탁기 현황 - 공식 애플릿
+            - 학교 전체 세탁기 상태 - API 인터페이스(텍스트 버전, 더 이상 사용되지 않음)
+            - 학교 전체 세탁기 상태 - iOS 바로가기(사용할 수 없음)
+            - 학교 전체 세탁기 현황 - 텔레그램 봇 에르하(사용 불가)
+            - 세탁 모니터링 및 알림 - WeChat 애플릿(사용할 수 없음)
+        - 정보 GPA 계산기
+        - 청화대학교 GPA 쿼리
+        - 비 교실 도우미
+        - 청화대학교 통합 플랫폼 비디오 자동 재생
+        - Xuetang 온라인 비디오가 자동으로 재생됩니다.
+        - Xuetang 온라인 자막 다운로더
+        - Rain Classroom 코스웨어 다운로더
+        - 청화 교육 참고서 크롤링
+            - 칭화대학교 교육 참고 서비스 플랫폼
+            - 원취안 아카데미
+        - 강좌 위치 공유
+        - 등록 표시(열차 티켓용)
+        - 기숙사 전기요금 조회
+        - 침실 수도, 전기요금 조회
+        - 청화대학교 수업 벨소리
+        - 교내 레스토랑 무작위 선정 - 위챗 미니 프로그램
+        - 교내 레스토랑을 무작위로 선택 - 텔레그램 봇
+        - 칭화대학교 컴퓨터 과학 코스 가이드
+        - 청화소프트웨어공학학원 코스 안내
+        - 화청대학교 강좌안내 공유계획
+        - 캠퍼스 교육 평가 플랫폼
+        - 컴퓨터공학과에 대한 사실
+        - NFSee 캠퍼스 카드
+        - 강좌정보 공유 계획
+        - 칭화대학교 컴퓨터 전공 912 대학원 입학 시험 자료
+        - 칭화대 점수 스크래처
+        - 투홀의 추억
+        - Thuhole 데이터베이스 백업
+        - 전산학과 학생과학협회 기술 지도서
+        - 청화대학교 대학원생 사회 실천 시스템 크롤러
 - [websites.md](websites.md)
-    - 常用校外网站
-        - thu.services
-        - T大树洞
-        - 闭社 - 清华站
-        - 在线退学
-        - 未名 BBS
-        - 水木 BBS
-        - 沙雕园的博客
-        - PT 站
-        - 星期四 Thursday
+    - 일반적으로 사용되는 캠퍼스 외부 웹사이트
+        - 목.서비스
+        - T 다수동
+        - 휴무 - 칭화역
+        - 온라인 출금
+        - 이름없는 게시판
+        - 미즈키 BBS
+        - 모래조각정원 블로그
+        - PT 스테이션
+        - 목요일 목요일
 
-## 知道某个重要信息，但repo中未列出？
+## 중요한 것을 알고 있지만 저장소에 나열되지 않았나요?
 
-欢迎贡献！请 [PR](https://github.com/ZenithalHourlyRate/thuservices/pulls)！
+기여를 환영합니다! [PR](https://github.com/ZenithalHourlyRate/thuservices/pulls)해주세요!
 
-需要注意的是[本 repo](https://github.com/ZenithalHourlyRate/thuservices) 中使用了 [pre-commit hook](https://github.com/ZenithalHourlyRate/thuservices/blob/master/pre-commit)，请[安装](https://git-scm.com/book/zh/v2/%E8%87%AA%E5%AE%9A%E4%B9%89-Git-Git-%E9%92%A9%E5%AD%90)，并在有 bash 与 python3 的环境中进行 commit。
+[pre-commit hook](https://github.com/ZenithalHourlyRate/thuservices/blob/master/pre-commit)은 [本 repo](https://github.com/ZenithalHourlyRate/thuservices)에서 사용됩니다. [安装](https://git-scm.com/book/zh/v2/%E8%87%AA%E5%AE%9A%E4%B9%89-Git-Git-%E9%92%A9%E5%AD%90)을 수행하고 bash 및 python3이 있는 환경에서 커밋하세요.
 
-在 pre-commit hook 的作用下，README.md 是自动生成的，故如果需要在 README.md 中修改，请在 [aux 文件夹](https://github.com/ZenithalHourlyRate/thuservices/tree/master/aux)下进行。
+pre-commit Hook 동작 시 README.md가 자동으로 생성되므로 README.md에서 수정이 필요한 경우 [aux 文件夹](https://github.com/ZenithalHourlyRate/thuservices/tree/master/aux)에서 수정하시기 바랍니다.
 
-由于 Windows 文件系统的限制，文件夹名不能为 aux，请在非Windows环境（WSL也可以）下克隆该项目。
+Windows 파일 시스템의 제한으로 인해 폴더 이름은 aux가 될 수 없습니다. Windows가 아닌 환경에서 프로젝트를 복제하세요(WSL도 사용 가능).
 
-### 编译
+### 엮다
 
 ```
 python3 -m pip install --user -r requirements.txt # 安装 Python 依赖包
@@ -183,8 +183,8 @@ mkdocs serve # 直接在本地 serve，或者：
 mkdocs build --clean # 生成于 site/ 文件夹中
 ```
 
-## LICENSE
+## 특허
 
-本站的文本遵循 CC BY-NC 4.0
+이 사이트의 텍스트는 CC BY-NC 4.0을 따릅니다.
 
-本项目内的存放的代码遵循代码文件内自带的 LICENSE。若代码文件中未附带 LICENSE，则认为该文件暂无 LICENSE，有需求者可以联系相应 committer。
+이 프로젝트에 저장된 코드는 코드 파일과 함께 제공되는 LICENSE를 따릅니다. 코드 파일에 LICENSE가 포함되어 있지 않으면 해당 파일에는 LICENSE가 없는 것으로 간주됩니다. 필요하신 경우 해당 커미터에게 문의하시면 됩니다.

@@ -1,10 +1,10 @@
-# INFO重要信息集合
+# INFO 중요정보 수집
 
-## 校历
+## 학교 달력
 
-快速访问路径：INFO（校外需要 VPN）->登录->综合->右上角校历
+빠른 접속 경로 : INFO(교내외 VPN 필수) -> 로그인 -> 종합 -> 우측상단 학사일정
 
-### 2022-2023学年 
+### 2022-2023학년도
 
 ![2022 - 2023 学年 春季](image/cal/2022-2023-2-cn.jpg)
 
@@ -12,183 +12,183 @@
 
 ![2023 - 2024 学年 春季](image/cal/2023-2024chunji.jpg)
 
-## 本科专业培养方案
+## 학부 전문 교육 프로그램
 
 [清华官网培养方案链接](https://www.tsinghua.edu.cn/jyjx/bksjy/bkzy.htm)
 
 [计算机系 19 级培养方案 info 版本（需要已经登录 info）](http://zhjw.cic.tsinghua.edu.cn/jhBks.vjhBksPyfakzbBs.do?m=pyfakzFrame&fajhh=193024111&theModule=pyfa)
 
-可以注意到，上述地址中的 193024111 中的 19 表明是 19 级的培养方案，后面的 3024111 是
-院系相关代码
+위 주소의 193024111의 19는 19레벨 훈련 계획을 나타내고, 다음의 3024111은
+학과 관련 코드
 
 [各级各院系培养方案（需要已经登录 info）](http://zhjw.cic.tsinghua.edu.cn/jhBks.vjhBksPyfabBs.do?theModule=pyfa)
 
-此处为各年级各院系的索引
+학년별, 학과별 색인은 다음과 같습니다.
 
-## 学校宣传资料
+## 학교홍보물
 
-### INFO 版本
+### 정보 버전
 
-包括清华大学校标、校徽、校色，清华大学校歌、歌词，清华展览，清华概览中文版、清华
-英文宣传册，清华大学宣传片中文版、英文版，以及清华大学二级单位标志规范相关材料。
+칭화대학교 로고, 학교 휘장, 학교 색상, 칭화대학교 교가 및 가사, 칭화 전시회, 칭화 개요 중국어 버전, 칭화대학교 포함
+영문 브로셔, 중국어 버전, 청화대학교 홍보 영상 영문 버전, 청화대학교 보조 유닛 로고 사양 관련 자료.
 
-快速访问路径：INFO -> 首页 -> 页面底部中间
+빠른 접속 경로 : INFO -> 홈 -> 페이지 하단 중앙
 
 [学校宣传资料（校外需要 VPN）](http://info.tsinghua.edu.cn/html/xxxczl/xczlxz.htm)
 
-### 主页版本
+### 가정용 버전
 
-清华概况、宣传册、校歌、宣传片。
+청화대학교 개요, 브로셔, 학교 찬가, 홍보영상 등을 제공합니다.
 
 [学校宣传资料](https://www.tsinghua.edu.cn/zjqh/syxx/xczy.htm)
 
-## 选课时间表
+## 코스 선택 시간표
 
-快速访问路径：[ACADEMIC](http://academic.tsinghua.edu.cn/)（校外需要 VPN）->登录
-->左侧选课专栏->本科生选课下“选课时间安排”
+빠른 액세스 경로: [ACADEMIC](http://academic.tsinghua.edu.cn/)(캠퍼스 외부 VPN 필요) -> 로그인
+->좌측 교과목 선택란->학부 교과목 선택 하단의 "교과목 선택 시간표"
 
-## 选课快捷方式
+## 과목선택 바로가기
 
 [选课登录（校内或 SSLVPN）（选课时间内有效）](http://zhjwxk.cic.tsinghua.edu.cn/xklogin.do)
 
-## 选课系统相关说明
+## 과목선택제도 관련 안내
 
-你校有两套甚至三套选课系统，分别是 zhjw, zhjwxk 以及 zhjwxkyw。后两者在选课时间内
-开启，前者会在平时开启。
+귀하의 학교에는 zhjw, zhjwxk 및 zhjwxkyw라는 두 개 또는 세 개의 과목 선택 시스템이 있습니다. 후자 2개는 과목 선택 시간 내에 있음
+켜면 전자가 정상적으로 켜집니다.
 
-对于前者，通常访问路径是 [ACADEMIC](http://academic.tsinghua.edu.cn/)（校外需要VPN）
-->登录->左侧选课专栏->本科生选课。通常用于在非选课时间内查看开课信息。
+전자의 경우 일반적인 액세스 경로는 [ACADEMIC](http://academic.tsinghua.edu.cn/)입니다(캠퍼스 외부에서 VPN이 필요함).
+->로그인->좌측 과목선택란->학부과목선택. 일반적으로 강좌 선택 시간이 아닌 시간에 강좌 개설 정보를 확인하는 데 사용됩니다.
 
-中者可以通过快捷方式进入，也可以通过 info/academic 登录后的中间界面登录，webvpn
-也是指向这个选课系统三，这种登录方式当且仅当在选课时间内才可行。
+당첨자는 바로가기를 통해 입장하거나, info/academic, webvpn 로그인 후 중간 인터페이스를 통해 로그인할 수 있습니다.
+이는 또한 이 과목 선택 시스템을 가리킵니다. 3. 이 로그인 방법은 과목 선택 시간 동안에만 가능합니다.
 
-后者与中者类似，只需在操作时改相关 url。
+후자는 중간과 유사하며, 작업 중에 관련 URL만 변경하면 됩니다.
 
-## 期末考试时间/地点查询
+## 기말고사 시간/장소 문의
 
-之前在 Info 中会有筛选方式，可惜由于一些原因，该功能被 Info 删除。现在 Info 中只有所有课程的考试信息。
+예전에는 Info에 필터링 방식이 있었는데, 안타깝게도 어떤 이유로 이 기능이 Info에 의해 삭제되었습니다. 이제 Info에는 모든 과정에 대한 시험 정보만 있습니다.
 
-现在需要在 [ACADEMIC](http://academic.tsinghua.edu.cn/) 中登录后，进入门户，在本学期课程中查看
+이제 [ACADEMIC](http://academic.tsinghua.edu.cn/)에 로그인하고 포털에 들어가서 이번 학기의 강좌를 확인해야 합니다.
 
-## 历年本科生开课目录
+## 수년에 걸친 학부 과정 카탈로그
 
 [历年本科生开课目录（校内或 SSLVPN）](http://announce.cic.tsinghua.edu.cn/node/25833)
 
-## 清华大学迎新系统
+## 청화대학교 오리엔테이션 시스템
 
-清华大学迎新系统是考生在现场查询报名信息，以及报名流程是否完成的网站
+칭화대학교 오리엔테이션 시스템은 지원자가 등록 정보를 현장에서 확인하고 등록 절차가 완료되었는지 확인할 수 있는 웹사이트입니다.
 
 [清华大学迎新系统](http://szyx.cic.tsinghua.edu.cn/index.jsp)
 
-## 注册标志（用于学生火车票）
+## 등록 표시(학생 열차표용)
 
-快速访问路径：INFO（校外需要 VPN）->登录->综合->右上角照片处“学籍信息”->历年注册标志
+빠른접속 경로 : INFO (교내외 VPN 필요) -> 로그인 -> 일반 -> 우측상단 사진의 "학생정보" -> 이전등록표시
 
-可在 [utils.md](utils.md) 部分找到别的注册标志。
+추가 등록 토큰은 [utils.md](utils.md) 섹션에서 찾을 수 있습니다.
 
-## 校内校车
+## 교내 스쿨버스
 
 [校内交通介绍](https://www.tsinghua.edu.cn/zjqh/syxx/xyjt.htm)
 [校车交通路线图](https://www.tsinghua.edu.cn/__local/3/BB/BE/7260A578E48A6BA827528DE4F74_004A1626_73CEC.png)
 
-校车实时运行情况可以使用“校内交通介绍”中提到的 APP 与/或小程序
+통학버스의 실시간 운행현황은 "학교교통개론"에 언급된 APP 및 미니프로그램을 이용하시면 됩니다.
 
-## 校内地图（静态版）
+## 캠퍼스 지도(정적 버전)
 
 [校内地图](https://www.tsinghua.edu.cn/zjqh/xyfg/xydt.htm)
 
-## 清华大学调查问卷系统
+## 청화대학교 설문지 시스템
 
 [清华大学调查问卷系统](https://wenjuan.tsinghua.edu.cn)
 
-## 清华紫荆码
+## 칭화 바우히니아 코드
 
-其链接为 [https://zijing.tsinghua.edu.cn/tp\_jp/h6?m=jp#act=jp/serviceapplication](https://zijing.tsinghua.edu.cn/tp_jp/h6?m=jp#act=jp/serviceapplication)
+링크는 [https://zijing.tsinghua.edu.cn/tp\_jp/h6?m=jp#act=jp/serviceapplication](https://zijing.tsinghua.edu.cn/tp_jp/h6?m=jp#act=jp/serviceapplication)입니다.
 
-使用方法为，首次打开登录后，再次打开该网页（或直接刷新），即可呈现紫荆码。这样可以不受制于微信平台。
+사용 방법은 최초 접속 후 로그인 후, 웹페이지를 다시 열거나(또는 직접 새로 고침) Bauhinia 코드가 표시됩니다. 이렇게 하면 WeChat 플랫폼의 제한을 받지 않습니다.
 
-注意，这种方式下「地点扫码」不能使用。
+이 방법에서는 "위치 스캔 코드"를 사용할 수 없습니다.
 
-可以使用浏览器创建桌面快捷方式，以移动端 Chrome 为例，在打开网页后通过「添加到主屏幕」的选项安装快捷方式。
+브라우저를 사용하여 바탕화면 바로가기를 만들 수 있습니다. 모바일 크롬을 예로 들면, 웹 페이지를 연 후 '홈 ​​화면에 추가' 옵션을 통해 바로가기를 설치하세요.
 
-## eduroam
+## 에듀람
 
-访问 <https://guestman.tsinghua.edu.cn:8443/> 可注册。注：只可用于清华校外。
+등록하려면 https://guestman.tsinghua.edu.cn:8443/을 방문하세요. 참고: 칭화대학교 외부에서만 사용할 수 있습니다.
 
-## cksqs 查询GPA
+## cksqs 쿼리 GPA
 
-注：目前该方式已基本失效，只可以在二学位系统开放时访问
+참고: 현재 이 방법은 기본적으로 유효하지 않으며 2급 시스템이 열려 있는 경우에만 액세스할 수 있습니다.
 
-登录过 INFO 后，访问 <http://jxgl.cic.tsinghua.edu.cn/jxpg/f/xssq/exwfx/xssqb/cksqs>，即可查看 GPA。
+INFO에 로그인한 후 http://jxgl.cic.tsinghua.edu.cn/jxpg/f/xssq/exwfx/xssqb/cksqs을 방문하여 GPA를 확인하세요.
 
-## 清华大学后勤综合服务平台
+## 청화대학교 물류 종합 서비스 플랫폼
 
-<https://pt.tsinghua.edu.cn/>
+https://pt.tsinghua.edu.cn/
 
-其中包含
+다음을 포함하는
 
-### 校内各单位（包括校医院）电话号码
-### 校医院各科室挂号
-### 校园地图（动态版）
-可定位自身所在，可查看道路路障情况（针对机动车），可分类查找校内的各种设施。
-### 网上报修
-### 客房服务
-### 订车服务
+### 캠퍼스 내 모든 부서의 전화번호(캠퍼스 병원 포함)
+### 학교 병원의 다양한 부서에 등록
+### 캠퍼스 맵(동적 버전)
+자신의 위치를 ​​찾고, 도로 막힘(자동차의 경우)을 확인하고, 캠퍼스 내 다양한 ​​시설을 카테고리별로 검색할 수 있습니다.
+### 온라인 수리 보고서
+### 룸서비스
+### 자동차 예약 서비스
 
-## 邮编、邮寄地址及邮条
+## 우편번호, 우편 주소 및 우편 스탬프
 
-<https://www.tsinghua.edu.cn/xssqglfwzx/info/1043/1174.htm>
+https://www.tsinghua.edu.cn/xssqglfwzx/info/1043/1174.htm
 
-虽然标注了：「在注册过程中，同学如留有Email地址，那么，当同学有新邮条或汇款单时，系统会通过Email自动通知同学」，但笔者并未收到过相关邮件。
+"등록 과정에서 학생이 이메일 주소를 남기면 시스템은 새로운 우편 전표나 송금 주문이 있을 때 이메일을 통해 학생에게 자동으로 알립니다."라고 표시되어 있지만. 그러나 작성자는 관련 이메일을 받지 못했습니다.
 
-## 清华大学校园一卡通自助查询系统
+## 청화대학교 캠퍼스 카드 셀프 서비스 조회 시스템
 
-<http://ecard.tsinghua.edu.cn/user/Index.do>
+http://ecard.tsinghua.edu.cn/user/Index.do
 
-## ACM/IEEE/知网等论文下载（Shibboleth或OpenAthens）
+## ACM/IEEE/HowNet 및 기타 문서(Shibboleth 또는 OpenAthens) 다운로드
 
-参考 <http://lib.tsinghua.edu.cn/tjfw/xwfw.htm> 中的机构身份认证。
+http://lib.tsinghua.edu.cn/tjfw/xwfw.htm의 기관 인증을 참조하세요.
 
-## 火车票报销凭证
+## 기차표 환급 바우처
 
-在紫荆一号楼的东侧，通往桃李的路上，有一台取火车票报销凭证机器
+바우히니아 1빌딩 동쪽, 타올리(Taoli)로 이어지는 도로에 기차표 환급권 수령 기계가 있습니다.
 
-## DIVI 注册设备
+## DIVI 등록 장치
 
-在连接 DIVI 后访问 register.your.device
+DIVI에 연결한 후 Register.your.device를 방문하세요.
 
-## 清华大学邮箱
+## 칭화대학교 이메일
 
-学生邮箱为 abbr@mails.tsinghua.edu.cn ，同时可以用 abbr@mails.thu.edu.cn 收到邮件。
+학생 이메일 주소는 abbr@mails.tsinghua.edu.cn이며 abbr@mails.thu.edu.cn을 사용하여 이메일을 받을 수 있습니다.
 
-教师邮箱为 abbr@mail.tsinghua.edu.cn ，同时可以用 abbr@tsinghua.edu.cn ，两者等价。
+선생님의 이메일 주소는 abbr@mail.tsinghua.edu.cn이며, abbr@tsinghua.edu.cn을 사용해도 됩니다. 둘은 동일합니다.
 
-没有特别的邮件列表实现，一般使用教师邮箱并用群组转发实现邮件列表。
+특별한 메일링 리스트 구현은 없습니다. 일반적으로 메일링 리스트를 구현하기 위해 교사 메일함을 사용하고 그룹 전달을 사용합니다.
 
-没有 abbr@thu.edu.cn 。
+abbr@thu.edu.cn이 아닙니다.
 
-清华同时有 tsinghua.edu 的域名，尽管有解析，未见使用（注：隔壁 ustc.edu 被用作校友邮箱）
+Tsinghua에는 tsinghua.edu라는 도메인 이름도 있습니다. 해결되었으나 사용되지 않고 있습니다. (참고: 옆집 ustc.edu가 동문 이메일 주소로 사용됩니다.)
 
-### 清华大学校友邮箱
+### 칭화대학교 동문 이메일
 
-访问 https://mailservice.tsinghua.org.cn/ 即可激活。
+활성화하려면 https://mailservice.tsinghua.org.cn/을 방문하세요.
 
-可获得 abbr@tsinghua.org.cn 的邮箱。
+이메일 주소는 abbr@tsinghua.org.cn입니다.
 
-## 清华大学 Overleaf 服务
+## 청화대학교 오버리프 서비스
 
-访问 https://overleaf.tsinghua.edu.cn/ 即可。
+https://overleaf.tsinghua.edu.cn/을 방문하세요.
 
-## LibGuides at Tsinghua University
+## 청화대학교의 LibGuides
 
-<https://tsinghua.cn.libguides.com/>
+https://tsinghua.cn.libguides.com/
 
-## 清新时报
+## 신선한 시간
 
-<https://qxcm.tsjc.tsinghua.edu.cn/pc/folder120>
+https://qxcm.tsjc.tsinghua.edu.cn/pc/folder120
 
-## 各食堂进入人数
+## 각 식당에 입장하는 사람 수
 
-> 微信->清华大学信息服务->学生食堂进入人数
+> 위챗->칭화대학교 안내서비스->학생식당 입장인원
 
-已关闭
+닫은
