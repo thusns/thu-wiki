@@ -1,8 +1,8 @@
 {
-    "label": "THU Services",
+    "label": "ЧТ Услуги",
     "position": 1,
     "link": {
         "type": "generated-index",
-        "description": "Credit: thu.services"
+        "description": "1 кредит"
     }
 }
