@@ -1,353 +1,353 @@
-# 一些脚本和工具
+# いくつかのスクリプトとツール
 
-## 校园网认证工具汇总
+## キャンパスネットワーク認証ツールの概要
 
-本着用轮子不如造轮子的精神，一代代清华人与校园网斗智斗勇，开发了无数认证工具，我们在此尽可能列出它们，供大家根据喜好选用。
+車輪を作るのではなく車輪を使うという精神で、清華の人々は何世代にもわたってキャンパス ネットワークと知恵と勇気を競い合い、数え切れないほどの認証ツールを開発してきました。誰もが自分の好みに応じて選択できるように、できる限りここにリストします。
 
-| 项目链接 | 支持平台 | 实现语言 | 目前是否可用（是否被维护）| 特性 |
+|プロジェクトリンク |サポートされているプラ​​ットフォーム |実装言語 |現在利用可能 (メンテナンス済み) |特長 |
 | --- | --- | --- | --- | --- |
-| [Tunet-2018 (official)](https://its.tsinghua.edu.cn/xywl/xywsyzn/yxw_hkhd_/khdxz.htm) | Windows-GUI, Linux-CLI | 未知 | 可用 | 未调查 |
-| [GoAuthing](https://github.com/z4yx/GoAuthing/) | Linux-CLI (x86\_64, arm, mips, ppc, riscv), Windows-CLI, Mac OS-CLI (Intel, Apple) | Go | 可用 | 全平台全架构，准入与准出，v4和v6，systemd 服务，TUNA 提供[镜像](https://mirrors.tuna.tsinghua.edu.cn/github-release/z4yx/GoAuthing/LatestRelease/)可以在未认证时下载认证工具，提供认证相关库 |
-| [tunet-python](https://github.com/yuantailing/tunet-python) | 支持 python 的平台，CLI | Python | 可用 | v4与v6，准入与准出，流量与准入出状态监控 |
-| [tunet-c](https://github.com/robertying/tunet-c) | OpenWRT, Linux, macOS; CLI | C | 可用 | 提供认证相关库，二进制文件较小 |
-| [tunet-rust](https://github.com/Berrysoft/tunet-rust) | Windows, Mac OS, Linux, Android, iOS | Rust, Dart | 可用 | 流量与余额监控，准入与准出，v4与v6；提供认证相关库；桌面端提供 CLI、CUI、GUI、Windows 服务、systemd 服务、launchd 服务；移动端提供 GUI |
-| [TsinghuaTunet](https://github.com/WhymustIhaveaname/TsinghuaTunet) | 支持 python 的平台， CLI | Python | 可用于特定子网 | 未调查 |
-| [auth-tsinghua](https://github.com/jiegec/auth-tsinghua) | 支持 node.js 的平台, CLI | Javascript | 不再维护 | 已经重定向至 GoAuthing |
-| [TsinghuaNet](https://github.com/Berrysoft/TsinghuaNet) | Windows, Mac OS, Linux, UWP, Android, iOS | C# | 不再维护 | 已经重定向至 tunet-rust |
-| [tunet-cli](https://github.com/syimyuzya/tunet-cli) | 支持 python 的平台，CLI | Python | 不再维护，上个 commit 在2017年 | 未调查 |
-| [Tsinghua-Online](https://github.com/xxr3376/Tsinghua-Online) | 浏览器插件，在[Chrome 商店](https://chrome.google.com/webstore/detail/tsinghua-online/elkbekfdkihpbcbacmppemegcekohkjo)中 | Javascript | 不再维护，上个 commit 在2013年 | 浏览器插件 |
-| [THUNetwork](https://github.com/zhaofeng-shu33/THUNetwork) | 支持 python 的平台， CLI | Python | 不再维护 | 密码明文传入命令行，较为不安全 |
+| [Tunet-2018 (official)](https://its.tsinghua.edu.cn/xywl/xywsyzn/yxw_hkhd_/khdxz.htm) | Windows-GUI、Linux-CLI |不明 |利用可能 |未調査 |
+| [GoAuthing](https://github.com/z4yx/GoAuthing/) | Linux-CLI (x86\_64、arm、mips、ppc、riscv)、Windows-CLI、Mac OS-CLI (Intel、Apple) |行く |利用可能 |完全なプラットフォームと完全なアーキテクチャ、アクセスとアクセス、v4 と v6、systemd サービス、TUNA 認証されていない場合に認証ツールをダウンロードするための [镜像](https://mirrors.tuna.tsinghua.edu.cn/github-release/z4yx/GoAuthing/LatestRelease/) を提供し、認証関連のライブラリを提供します。
+| [tunet-python](https://github.com/yuantailing/tunet-python) | Python、CLIをサポートするプラットフォーム |パイソン |利用可能 | v4 と v6、入場と終了、トラフィックと入場ステータスのモニタリング |
+| [tunet-c](https://github.com/robertying/tunet-c) | OpenWRT、Linux、macOS。 CLI | C |利用可能 |認証関連のライブラリを提供します。バイナリ ファイルは小さい |
+| [tunet-rust](https://github.com/Berrysoft/tunet-rust) | Windows、Mac OS、Linux、Android、iOS |錆び、ダーツ | 写真利用可能 |トラフィックとバランスのモニタリング、入場と退出、v4 と v6。認証関連のライブラリを提供します。デスクトップ上で CLI、CUI、GUI、Windows サービス、systemd サービス、launchd サービスを提供します。モバイル端末上にGUIを提供 |
+| [TsinghuaTunet](https://github.com/WhymustIhaveaname/TsinghuaTunet) | Python、CLI をサポートするプラットフォーム |パイソン |特定のサブネットで利用可能 |未調査 |
+| [auth-tsinghua](https://github.com/jiegec/auth-tsinghua) | Node.js プラットフォーム、CLI でサポート | JavaScript |メンテナンスされなくなりました | 「GoAuthing | 」にリダイレクトされました。
+| [TsinghuaNet](https://github.com/Berrysoft/TsinghuaNet) | Windows、Mac OS、Linux、UWP、Android、iOS | C# |メンテナンスされなくなりました | 「tunet-rust」にリダイレクトされました。
+| [tunet-cli](https://github.com/syimyuzya/tunet-cli) | Python、CLIをサポートするプラットフォーム |パイソン |もうメンテナンスされていません。最後のコミットは 2017 年です |未調査 |
+| [Tsinghua-Online](https://github.com/xxr3376/Tsinghua-Online) |ブラウザ プラグイン、[Chrome 商店](https://chrome.google.com/webstore/detail/tsinghua-online/elkbekfdkihpbcbacmppemegcekohkjo) | JavaScript |もうメンテナンスされていません。最後のコミットは 2013 年です |ブラウザプラグイン |
+| [THUNetwork](https://github.com/zhaofeng-shu33/THUNetwork) | Python プラットフォーム、CLI をサポート |パイソン |メンテナンスされなくなりました |パスワードはクリア テキストでコマンド ラインに渡されますが、これは比較的安全ではありません。
 
-## INFO/网络学堂 APP/插件
+## INFO/オンラインスクールアプリ/プラグイン
 
-本着用轮子不如造轮子的精神，一代代清华人与INFO与网络学堂斗智斗勇，开发了无数易用工具，我们在此尽可能列出它们，供大家根据喜好选用。
+車輪を作るのではなく車輪を使うという精神で、何世代にもわたる清華の人々は、INFO やオンライン スクールで知恵と勇気を競い合い、使いやすいツールを無数に開発してきました。誰もが自分の好みに合わせて選択できるよう、ここにリストするよう最善を尽くしています。
 
-| 项目链接 | 支持平台 | 实现语言 | 目前是否可用（是否被维护）| 特性 |
+|プロジェクトリンク |サポートされているプラ​​ットフォーム |実装言語 |現在利用可能 (メンテナンス済み) |特長 |
 | --- | --- | --- | --- | --- |
-| [INFO](http://info.tsinghua.edu.cn/) | 网页 | 未调查 | 能用 | 官方网页 |
-| [LEARN](http://learn.tsinghua.edu.cn/) | 网页 | 未调查 | 能用 | 官方网页 |
-| [Learn-Project](https://github.com/xxr3376/Learn-Project) | 浏览器插件 | Typescript | 可用 | 按照时间线与种类排列网络学堂项目，在谷歌，火狐以及 Edge 的插件商店中，现代前端 |
-| [LearnX](https://github.com/robertying/learnX) | iOS,ipad OS, macOS, Android | React | 可用 | 项目开源许可证，其余参见项目介绍 |
-| [THUInfo](https://github.com/UNIDY2002/THUInfo) | 移动端APP | Typescript | 可用 | 拥有苹果应用商店分发，包括家园，学生部（教室），图书馆的项目，支持树洞 |
-| AtTsinghua | 移动端APP | 未知 | 未知 | 拥有苹果应用商店分发，其余未调查，为某实验室校庆作品 |
-| [learn2018-autodown](https://github.com/Trinkle23897/learn2018-autodown) | 支持 Python 的平台 | Python | 可用 | 真全部信息/文件下载（其余详见项目介绍） |
-| [THUCourseHelper](https://github.com/Starrah/THUCourseHelper) | Android | Kotlin | 未知 | 课程表 |
-| [thu-learn-downloader](https://github.com/liblaf/thu-learn-downloader) | Linux, Mac, Windows | Python | 可用 | 界面美观的网络学堂课程文件及作业下载 (详见项目文档) |
+| [INFO](http://info.tsinghua.edu.cn/) |ウェブページ |未調査 |利用可能 |公式ウェブページ |
+| [LEARN](http://learn.tsinghua.edu.cn/) |ウェブページ |未調査 |利用可能 |公式ウェブページ |
+| [Learn-Project](https://github.com/xxr3376/Learn-Project) |ブラウザプラグイン |タイプスクリプト |利用可能 | Google、Firefox、Edge プラグイン ストア、最新のフロントエンドで、タイムラインとカテゴリ別に整理されたオンライン学校プロジェクト |
+| [LearnX](https://github.com/robertying/learnX) | iOS、iPad OS、macOS、Android |反応する |利用可能 |プロジェクトのオープンソース ライセンス。残りについてはプロジェクトの紹介を参照してください。
+| [THUInfo](https://github.com/UNIDY2002/THUInfo) |モバイルアプリ |タイプスクリプト |利用可能 | Apple App Store の配布により、家庭、学生部門 (教室)、図書館プロジェクトなど、ツリー ホールをサポートします。
+|清華にて |モバイルアプリ |不明 |不明 | Apple App Storeで配布されており、残りは未調査、研究室のキャンパス祝賀会用の作品です |
+| [learn2018-autodown](https://github.com/Trinkle23897/learn2018-autodown) | Pythonをサポートするプラットフォーム |パイソン |利用可能 |正確な完全な情報/ファイルのダウンロード (その他の詳細については、プロジェクトの紹介を参照してください) |
+| [THUCourseHelper](https://github.com/Starrah/THUCourseHelper) |アンドロイド |コトリン |不明 |コーススケジュール |
+| [thu-learn-downloader](https://github.com/liblaf/thu-learn-downloader) | Linux、Mac、Windows |パイソン |利用可能 |美しいインターフェイスを備えたオンライン教室のコース ファイルと宿題のダウンロード (詳細についてはプロジェクトのドキュメントを参照) |
 
-## 选课冲突标记
+## コース選択競合フラグ
 
-你还在为抢课时满怀期待提交选课，却发现时间冲突而错失选课吗？
-你还在一边记忆已选课时间，一边对照开课列表而感到缓慢吗？
-这个脚本帮你忙！
+授業を受けようと急いでいるのに、期待を膨らませてコース選択を提出したのに、時間が合わずにコース選択を見逃してしまっていませんか？
+選択したコース時間を思い出したり、コースのスタートリストを確認したりしても遅いと感じませんか?
+このスクリプトが役に立ちます!
 
-这个脚本检测你已经选好的课，自动将候选课中有冲突时间的课标红，使得你浏览
-百万课程时速度有如神助。当鼠标在在标红的时间上悬停时，会显示所有与其冲突的课程。
+このスクリプトは、選択したコースを検出し、候補コースのうちタイムが矛盾するコースを自動的に赤色でマークし、閲覧できるようにします。
+何百万ものコースのスピードは奇跡のようです。赤くマークされた時間の上にマウスを置くと、その時間と競合するすべてのコースが表示されます。
 
-需要注意的是，现在未对半学期课做完全支持，也就是说可能出现假的时间冲突；
-同时在开课信息以及选课查询界面无法工作，只在选课操作界面工作。
+半学期のクラスはまだ完全にはサポートされていないため、誤った時間の競合が発生する可能性があることに注意してください。
+同時に、開講情報やコース選択の問い合わせインターフェースは動作せず、コース選択操作インターフェースのみ動作します。
 
-本脚本在 aux/TsinghuaCourseConflictMarker.user.js 中，需要使用油猴安装。
+このスクリプトは aux/TsinghuaCourseConflictMarker.user.js にあり、Oil Monkey を使用してインストールする必要があります。
 
-或者可以通过访问[这里](https://greasyfork.org/en/scripts/408340-tsinghuacourseconflictmarker)
-来一键获得脚本。
+または、[这里](https://greasyfork.org/en/scripts/408340-tsinghuacourseconflictmarker) にアクセスしてアクセスできます。
+ワンクリックでスクリプトを入手してください。
 
-现在已经增加 webvpn 支持。
+Webvpn のサポートが追加されました。
 
-感谢 [CircuitCoder](https://github.com/CircuitCoder) 提供的技术指导
-感谢 [SharzyL](https://github.com/SharzyL) 的建议与 DEBUG
+技術的な指導をしていただいた [CircuitCoder](https://github.com/CircuitCoder) に感謝します
+提案とデバッグをしてくれた [SharzyL](https://github.com/SharzyL) に感謝します
 
-## 选课剩余课容标记
+## コース選択用の残りのコース内容マーク
 
-不知道该用什么志愿抢课？
-这个脚本帮你忙！
+授業を受けるためにどのようなボランティアを利用すればよいかわかりませんか?
+このスクリプトが役に立ちます!
 
-这个脚本为报名人数上色，最后一个绿色就是最佳抢课志愿了！
+このスクリプトは応募者の数を色付けします。最後の緑色はクラスを獲得するのに最適な候補です。
 
-脚本还在开发中，队列支持等即将上线！
+スクリプトはまだ開発中であり、キューのサポートは間もなく提供される予定です。
 
-访问[这里](https://greasyfork.org/en/scripts/456440-colorful-course)获取脚本
+[这里](https://greasyfork.org/en/scripts/456440-colorful-course) にアクセスしてスクリプトを入手してください
 
-## INFO 网络学堂 Telegram 消息推送
+## INFO オンラインスクール電報メッセージプッシュ
 
-参见 [thu-weblearn-tgbot](https://github.com/Konano/thu-weblearn-tgbot) 以及
+[thu-weblearn-tgbot](https://github.com/Konano/thu-weblearn-tgbot) および
 [thu-info-forwarder](https://github.com/Konano/thu-info-forwarder)。
 
-在 Telegram 上已经存在 THU INFO CHANNEL，由于是私有频道，需要通过[邮件](mailto:i@zenithal.me)
-获取邀请链接。
+THU INFO CHANNEL は Telegram にすでに存在します。プライベート チャネルであるため、[邮件](mailto:i@zenithal.me) を渡す必要があります
+招待リンクを取得します。
 
-## 全校洗衣机状态
+## 全校の洗濯機の状況
 
-### 全校洗衣机状态 - 洗衣机查询工具（有界面）
+### 全校の洗濯機状況 - 洗濯機照会ツール（インターフェース付き）
 
 https://washer.sdevs.top/
 
-界面简洁易用，数据经过整理，可记忆查询的公寓楼，提供反馈渠道。
+インターフェイスはシンプルで使いやすく、データは整理されており、クエリされたアパートの建物を記憶でき、フィードバック チャネルが提供されます。
 
-### 清华大学洗衣房可用性查询
+### 清華大学ランドリールームの空き状況の問い合わせ
 
 https://washer.voltair.top/
 
-### 全校洗衣机状态 - 官方小程序
+### 全校の洗濯機の状況 - 公式アプレット
 
-在洗衣机厂商的小程序中也可以查询洗衣机状态。
+洗濯機メーカーのアプレットでも洗濯機の状態を確認できます。
 
-入口是主页下方的“附近的洗衣机”按钮。
+入り口はホームページ下部の「近くの洗濯機」ボタンです。
 
 ![“自助智能校园”小程序码](image/washer_official.jpg)
 
-### 全校洗衣机状态 - API接口（文字版，已废弃）
+### 全校の洗濯機ステータス - API インターフェース (テキスト版、廃止)
 
-还在为了抢洗衣机而努力吗，还在跑上跑下却发现一个洗衣机都没有而痛苦吗，这个服务
-帮你侦测洗衣机状态，足不出户而一键掌握全校洗衣机的动向！
+まだ洗濯機を手に入れるために頑張っていますか？あなたはまだ洗濯機がないことに気づき、上ったり下ったりして苦しんでいませんか？このサービスは
+家にいながらにして洗濯機の状態を検知し、ワンクリックで学校全体の洗濯機の傾向を知ることができます。
 
-源码在 repo 的 aux 目录中。目前部署在 cf workers 上，地址为 [https://washer.thu.services](https://washer.thu.services)
+ソース コードはリポジトリの aux ディレクトリにあります。現在、[https://washer.thu.services](https://washer.thu.services) の cf ワーカーにデプロイされています
 
-要实现搜索，我们需要加上参数，目前接受三种参数，「s」，「j」与「p」。「s」即为搜索的
-公寓楼，一般接受的字符串为「紫荆x号楼」或「南区x号楼」。举例来说
+検索を実装するには、パラメータを追加する必要があります。現在、「s」、「j」、「p」の 3 つのパラメータを受け入れます。 「s」は検索です
+集合住宅の場合、一般に受け入れられる文字列は「Building x, Bauhinia」または「Building x, South District」です。例えば
 
 ```
 https://washer.thu.services/?s=紫荆1号楼
 ```
 
-会返回「紫荆1号楼」的洗衣机运行情况。在该参数缺省的情况下，返回的是
-「紫荆2号楼」的洗衣机运行情况。
+「紫京第一ビル」の洗濯機の稼働状況を返します。デフォルトでは、このパラメータは次の値を返します。
+「紫京2号館」の洗濯機の稼働状況。
 
-对于「j」参数，我们只检查「j」是否存在，若存在，则返回原始的 json 数据，
-此项供开发者使用。「s」与「j」参数可同时使用。
+「j」パラメータについては、「j」が存在するかどうかのみをチェックします。存在する場合は、元の json データが返されます。
+この項目は開発者向けです。 「s」パラメータと「j」パラメータは同時に使用できます。
 
-对于「p」参数，我们只检查「p」是否存在，若存在，则返回 text/plain 数据，
-「s」与「p」参数可同时使用。当「j」与「p」同时出现时，「j」的优先级更高。
+「p」パラメータについては、「p」が存在するかどうかのみをチェックします。存在する場合は、テキスト/プレーン データが返されます。
+「s」パラメータと「p」パラメータは同時に使用できます。 「j」と「p」が同時に出現した場合は「j」が優先されます。
 
-### 全校洗衣机状态 - iOS 快捷方式（不可用）
+### 全校の洗濯機ステータス - iOS ショートカット (利用不可)
 
-iOS 12 以上的用户可以透过此[链接](https://www.icloud.com/shortcuts/ffc9d9fff7e140ec9e5a92e5f7d16ae0)安装快捷方式以实现快速查询空闲洗衣机。目前仅支持精确度至楼层的查询。
+iOS 12 以降のユーザーは、この [链接](https://www.icloud.com/shortcuts/ffc9d9fff7e140ec9e5a92e5f7d16ae0) を通じてショートカットをインストールし、アイドル状態の洗濯機をすぐに確認できます。現在、フロアに対して正確なクエリのみがサポートされています。
 
-### 全校洗衣机状态 - Telegram Bot 二哈（不可用）
+### 全校の洗濯機のステータス - Telegram Bot Erha (利用不可)
 
-基于该接口[Konano](https://github.com/Konano)开发了一个 Telegram Bot，名为二哈。
+このインターフェイス [Konano](https://github.com/Konano) に基づいて、Erha という名前のテレグラム ボットが開発されました。
 
-项目地址在[此](https://github.com/Konano/Tuna-Erha-Bot)，在洗衣机状态查询功能外，还有更多功能。
+プロジェクトのアドレスは [此](https://github.com/Konano/Tuna-Erha-Bot) です。洗濯機の状態照会機能以外にも様々な機能があります。
 
-可以通过[t.me/erhabot](https://t.me/erhabot) 访问该 Bot。
+ボットには [t.me/erhabot](https://t.me/erhabot) 経由でアクセスできます。
 
-### 洗衣监控与提醒 - 微信小程序（不可用）
+### 洗濯物の監視とリマインダー - WeChat アプレット (利用不可)
 
 ![THU洗衣](image/washer.jpg)
 
-使用同一套API，在关注洗衣机后，当洗衣机空闲时，会通过微信服务号发送提醒。
+同じ API を使用して、洗濯機に注意を払った後、洗濯機がアイドル状態になると、WeChat サービス アカウントを通じてリマインダーが送信されます。
 
 [项目地址](https://github.com/zrt/thu-wash-notify)
 
-## INFO GPA 计算器
+## 情報 GPA 計算ツール
 
-在 cksqs 失败后难以一键查询 GPA 吗，抑或需要割肉花 10 元才能得到 GPA 吗，
-这种只保留了 3 位有效数字的 GPA，由于 [-0.005,0.005) 的舍入，让人感到极大的不确定性；
-而对于手算 GPA 的同学，由于学年的增加，课程的增多，手算的难度也越来越高，每出一门课
-就需要算一次 GPA，负担极重。
+cksqs が失敗した後、ワンクリックで GPA をクエリするのは難しいですか、それとも GPA を取得するには 10 元を費やす必要がありますか?
+この種の GPA は有効数字 3 桁のみを保持し、[-0.005,0.005); の四捨五入により人々に大きな不確実性を感じさせます。
+GPAを手計算する学生にとって、学年が上がり、科目数が増えるにつれて、手計算の難易度はますます高くなります。
+GPAの計算は一度だけで済むので非常に面倒です。
 
-于是，我们提出自动的 GPA 计算功能，考虑到方便、好用等各种因素，我们与往常一样，
-推出 userscript 来实现这一小功能。
+そこで、GPA自動計算機能を提案しました。従来通り、利便性や使いやすさなど様々な要素を考慮し、
+この小さな機能を実装するためにユーザースクリプトが導入されました。
 
-本脚本只会读取「INFO-全部成绩」界面中存在的成绩（已经录入系统但没发布的，只能
-通过 cksqs 或付费成绩单获取的，不在计算范围内），用新、旧算法将全部 GPA 与必限 GPA
-计算出来（直接输出 double），并弹出通知提醒。
+このスクリプトは、「INFO-All Results」インターフェイスに存在する結果のみを読み取ります（システムに入力されたものの公開されていない結果は、
+cksqs または有料成績証明書を通じて取得され、計算には含まれません）、新旧のアルゴリズムを使用してすべての GPA と必要な GPA を組み合わせます
+それを計算し (double を直接出力)、通知リマインダーをポップアップ表示します。
 
-本脚本在 `aux/Tsinghua GPA Calculator.user.js` 中，需要使用油猴安装。
+このスクリプトは `aux/Tsinghua GPA Calculator.user.js` にあり、Oil Monkey を使用してインストールする必要があります。
 
-或者通过[这里](https://greasyfork.org/zh-CN/scripts/410960-tsinghua-gpa-calculator)
-来获得。
+または [这里](https://greasyfork.org/zh-CN/scripts/410960-tsinghua-gpa-calculator) 経由
+入手する。
 
-## 清华大学GPA查询
+## 清華大学 GPA クエリ
 
-介绍参考上一节。
+導入については前のセクションを参照してください。
 
-在「INFO-全部成绩」页面计算各个学期以及总的的必限以及必限任的GPA。脚本地址在[此](https://greasyfork.org/zh-CN/scripts/420540-清华大学gpa查询)
+「INFO-全成績」ページで各学期のGPAと必修・必修成績の合計を計算します。スクリプトのアドレスは [此](https://greasyfork.org/zh-CN/scripts/420540-清华大学gpa查询) です
 
-## Rain Classroom Helper
+## 雨の教室ヘルパー
 
-该用户脚本旨在为大屏幕设备（PC、平板）提供更好的雨课堂学生端使用体验。
+このユーザー スクリプトは、大画面デバイス (PC、タブレット) 上の Rain Classroom の生徒により良いユーザー エクスペリエンスを提供するように設計されています。
 
-项目地址在[此](https://github.com/RainEggplant/rain-classroom-helper)
+プロジェクトのアドレスは [此](https://github.com/RainEggplant/rain-classroom-helper) です
 
-## 清华大学一体化平台视频自动播放
+## 清華大学統合プラットフォームビデオ自動再生
 
-脚本在[此](https://github.com/Co1lin/Tsinghua-Yukuotang-Autoplay)，可自动播放 [tsinghua.yuketang.cn](https://github.com/Co1lin/Tsinghua-Yukuotang-Autoplay/blob/main/tsinghua.yuketang.cn) 上的课程视频。
+スクリプトは [此](https://github.com/Co1lin/Tsinghua-Yukuotang-Autoplay) にあり、[tsinghua.yuketang.cn](https://github.com/Co1lin/Tsinghua-Yukuotang-Autoplay/blob/main/tsinghua.yuketang.cn) でコースビデオを自動的に再生できます。
 
-## 学堂在线视频自动播放
+## Xuetang オンラインビデオが自動的に再生されます
 
-还在后台刷慕课时经常查看是否停止吗，一个脚本帮你自动播放下一课！
+MOOCsをバックグラウンドで学習しているときに、停止していないかよく確認しますか?スクリプトによって次のレッスンが自動的に再生されます。
 
-脚本在[此](https://greasyfork.org/en/scripts/373881-清华学堂在线视频自动播放)
+スクリプトは [此](https://greasyfork.org/en/scripts/373881-清华学堂在线视频自动播放) にあります
 
-由于该脚本历史较久，较久未维护，且也存在一些bug，不保证其长期的可用性。发现问题时或改进代码时可联系原作者 @RikaSugisawa
+このスクリプトには長い歴史があり、長期間メンテナンスされておらず、いくつかのバグも含まれているため、長期的な可用性は保証されません。問題を発見したり、コードを改善したりした場合は、原作者 @RikaSugiwa に連絡してください。
 
-## 学堂在线字幕下载器
+## Xuetang オンライン字幕ダウンローダー
 
-还在准备复习的时候一个个翻视频下载字幕吗？这个脚本帮你忙！
+復習の準備をするときに、まだビデオを 1 つずつめくって字幕をダウンロードしていますか?このスクリプトが役に立ちます!
 
-Rabbit Hu 版本：脚本在[此](https://greasyfork.org/zh-CN/scripts/408878-xuetangx-caption-crawler)，项目地址在[此](https://github.com/Rabbit-Hu/xuetangx-caption-crawler)。
+Rabbit Hu バージョン: スクリプトは [此](https://greasyfork.org/zh-CN/scripts/408878-xuetangx-caption-crawler) にあり、プロジェクト アドレスは [此](https://github.com/Rabbit-Hu/xuetangx-caption-crawler) にあります。
 
-Roberts Holder 版本：项目地址在[此](https://github.com/rcy17/MOOC_subtitle_spider)
+Roberts Holder バージョン: プロジェクトのアドレスは [此](https://github.com/rcy17/MOOC_subtitle_spider) です
 
-Rynco Maekawa 版本：项目地址在[此](https://github.com/lynzrand/xuetangx_sub)
+前川リンコ版: プロジェクトのアドレスは [此](https://github.com/lynzrand/xuetangx_sub) です
 
-c7w 版本：项目地址在[此](https://github.com/c7w/TsinghuaMoocCaptionCrawler)
+c7w バージョン: プロジェクトのアドレスは [此](https://github.com/c7w/TsinghuaMoocCaptionCrawler) です
 
-## 雨课堂课件下载器
+## Rain Classroom コースウェア ダウンローダー
 
-目前仅适用于「长江雨课堂」，不过改改就可以用于荷塘雨课堂。
+現在は「長江の雨の教室」のみに適用されていますが、改修後は蓮池の雨の教室でも使用できるようになります。
 
-项目地址在[此](https://github.com/ShevonKuan/yuektang_ppt2pdf)。
+プロジェクトのアドレスは [此](https://github.com/ShevonKuan/yuektang_ppt2pdf) です。
 
-## 清华教学参考书爬取
+## 清華教の参考書クロール
 
-校图书馆购买了许多的[图书资源](https://nav.lib.tsinghua.edu.cn/cgi-bin/searchuse.cgi?c=7)，推荐优先使用[清华大学教参服务平台](http://reserves.lib.tsinghua.edu.cn/)和[文泉学堂-清华大学出版社电子图书数据库](https://lib-tsinghua.wqxuetang.com/)寻找中文教材。
+学校図書館は大量の [图书资源](https://nav.lib.tsinghua.edu.cn/cgi-bin/searchuse.cgi?c=7) を購入しました。中国語教材を探すには、まず [清华大学教参服务平台](http://reserves.lib.tsinghua.edu.cn/) と [文泉学堂-清华大学出版社电子图书数据库](https://lib-tsinghua.wqxuetang.com/) を使用することをお勧めします。
 
-### 清华大学教参服务平台
+### 清華大学教授リファレンス サービス プラットフォーム
 
-清华大学教参服务平台在版权允许范围内（在线浏览）提供课程教材和教参的扫描电子版，如果需要平台上没有的教材，可以直接邮件或电话联系[相关部门](https://lib.tsinghua.edu.cn/info/1184/3617.htm)进行扫描。
+清華大学教材サービス プラットフォームは、著作権の範囲内でコース教科書および教材のスキャンされた電子版を提供します（オンライン閲覧）。プラットフォームで入手できない教材が必要な場合は、スキャンのために電子メールまたは電話で [相关部门](https://lib.tsinghua.edu.cn/info/1184/3617.htm) に直接連絡できます。
 
-推荐使用[reserves-lib-tsinghua-downloader](https://github.com/libthu/reserves-lib-tsinghua-downloader)进行下载。
+ダウンロードには [reserves-lib-tsinghua-downloader](https://github.com/libthu/reserves-lib-tsinghua-downloader) を使用することをお勧めします。
 
-在 [thu-info-lib](https://github.com/thu-info-community/thu-info-lib) 中也实现了下载功能。
+ダウンロード機能は[thu-info-lib](https://github.com/thu-info-community/thu-info-lib)にも実装されています。
 
-下方两个项目由于 API 变动不可用。
+API変更により、以下の2点が利用できなくなりました。
 
-引自原文：最近疫情严重，购买教材较为困难，为了方便大家在线学习，写了一个爬取清华教参的 python 脚本。
+原文より引用： 最近の疫病は深刻で、教科書の購入が困難になっています。みんなのオンライン学習を促進するために、清華大学の教材をクロールするための Python スクリプトを書きました。
 
-项目地址在[此](https://github.com/lflame/TsinghuaBookCrawler)
+プロジェクトのアドレスは [此](https://github.com/lflame/TsinghuaBookCrawler) です
 
-引用原文：自动下载书籍每一页的原图。
+元のテキストを引用する:本の各ページの元の画像を自動的にダウンロードします。
 
-项目地址在[此](https://github.com/i207M/reserves-lib-tsinghua-downloader)
+プロジェクトのアドレスは [此](https://github.com/i207M/reserves-lib-tsinghua-downloader) です
 
-### 文泉学堂
+### 文泉学院
 
-文泉学堂用来搜索清华大学出版社的图书，反爬严格，可以使用[这个](https://greasyfork.org/zh-CN/scripts/437737-%E6%96%87%E6%B3%89%E5%AD%A6%E5%A0%82pdf%E4%B8%8B%E8%BD%BD%E4%BF%AE%E5%A4%8D%E7%89%88)脚本下载。
+Wenquan Xuetang は、清華大学出版局の書籍を検索するために使用されます。アンチクローリングは厳格です。 [这个](https://greasyfork.org/zh-CN/scripts/437737-%E6%96%87%E6%B3%89%E5%AD%A6%E5%A0%82pdf%E4%B8%8B%E8%BD%BD%E4%BF%AE%E5%A4%8D%E7%89%88) スクリプトを使用してダウンロードできます。
 
-## 课程地点分享
+## コースの場所の共有
 
-当前可用：由 learnX 开发团队维护的 [courseX 课程信息共享计划](https://tsinghua.app/courses)
+現在利用可能: [courseX 课程信息共享计划](https://tsinghua.app/courses) は learnX 開発チームによって維持されています
 
-以下项目目前已经停止维护与运营：
+以下のプロジェクトは現在メンテナンスと運用を停止しています。
 
-在[https://wmcgcdn.rika.tech/](https://wmcgcdn.rika.tech/)中，其项目地址为[此](https://github.com/RikaKagurasaka/where-my-course-gone-backend)。
+[https://wmcgcdn.rika.tech/](https://wmcgcdn.rika.tech/) では、プロジェクト アドレスは [此](https://github.com/RikaKagurasaka/where-my-course-gone-backend) です。
 
-## 注册标志（用于火车票）
+## 登録マーク（乗車券用）
 
-参考[此网站](https://tuixue.online/zcimage/)，方便在校外时获取相关注册标志。
+キャンパス外から関連する登録マークを簡単に取得するには、[此网站](https://tuixue.online/zcimage/) を参照してください。
 
-## 寝室电费查询
+## 寮の電気代照会
 
-有通过 headless Chrome 的[实现](https://github.com/WhymustIhaveaname/TsinghuaElectric)
+ヘッドレス Chrome 経由で [实现](https://github.com/WhymustIhaveaname/TsinghuaElectric) があります
 
-也有另一种实现，参考 aux 目录中的 `TsinghuaElectricityBillChecker.py`，用户需要修改一些内嵌的参数。
+別の実装もあります。aux ディレクトリの `TsinghuaElectricityBillChecker.py` を参照してください。ユーザーはいくつかの埋め込みパラメータを変更する必要があります。
 
-也有另一种实现，参考 aux 目录中的 `TsinghuaBills.py`。
+別の実装もあります。aux ディレクトリの `TsinghuaBills.py` を参照してください。
 
-通过这些脚本可以将数据灌入 grafana 中，实现电费监控与报警。
+これらのスクリプトを通じて、データを grafana に流し込み、電気料金の監視と警報を実現できます。
 
-## 寝室水电费查询
+## 寝室の水道・電気代の問い合わせ
 
-参考 aux 目录中的 `TsinghuaBills.py`。
+aux ディレクトリの `TsinghuaBills.py` を参照してください。
 
-注：该脚本可查询的是寝室水费余额（非校园卡小钱包！），主要适用于W楼和双清公寓。具体适用范围：双清公寓、紫荆学生公寓十四号楼、紫荆学生公寓十五号楼、紫荆学生公寓十六号楼、紫荆学生公寓十七号楼、十七号楼、十八号楼。
+注: このスクリプトは寮の水道料金残高 (キャンパス カード ウォレットではありません!) をクエリでき、主に W Building と Shuangqing Apartment に適用されます。具体的な適用範囲：双清アパート、バウヒニア学生アパート14号棟、バウヒニア学生アパート15号棟、バウヒニア学生アパート16号棟、バウヒニア学生アパート17号棟、17号棟、18号棟。
 
-该脚本可以将数据灌入 grafana 中，实现水电费监控与报警。
+このスクリプトは、grafana にデータを注ぎ込んで、公共料金の監視と警報を実装できます。
 
-## 清华上下课铃声
+## 清華大学の授業着信音
 
-在家学习没氛围，想念学校自习室？清华铃声软件帮您忙！
+家では勉強する雰囲気がなく、学校の自習室が恋しいですか？清華着信音ソフトウェアが役立ちます!
 
-目前有 macOS 版本，项目[在此](https://github.com/LyricZhao/THU-Bell)
+現在、macOS バージョンのプロジェクト [在此](https://github.com/LyricZhao/THU-Bell) があります。
 
-## 随机选择校内餐厅 - 微信小程序
+## キャンパス内のレストランをランダムに選択 - WeChat ミニ プログラム
 
-食堂太多不知道去哪吃？随机数发生器帮您忙！
+食堂が多すぎてどこで食べればいいのか分からない？乱数ジェネレーターが役立ちます!
 
-项目在[此](https://github.com/SuXY15/RandomCanteen)
+[此](https://github.com/SuXY15/RandomCanteen) のプロジェクト
 
-小程序二维码
+ミニプログラムQRコード
 
 ![](https://raw.githubusercontent.com/SuXY15/MyPic/master/RandomCanteen/RandomCanteen.jpg)
 
-## 随机选择校内餐厅 - Telegram Bot
+## キャンパス内のレストランをランダムに選択 - Telegram Bot
 
 同上。
 
-另外，Telegram Bot 还提供线上喝奶茶、线上喝卡布奇诺、线上生产饮品等互动功能。
+さらに、Telegram Botは、オンラインでミルクティーを飲む、オンラインでカプチーノを飲む、ドリンクをオンラインで製造するなどのインタラクティブな機能も提供します。
 
-项目地址在[此](https://github.com/Lancern/thufood-tgbot)
+プロジェクトのアドレスは [此](https://github.com/Lancern/thufood-tgbot) です
 
-BOT 地址为 <https://t.me/thufood_bot>
+BOT アドレスは https://t.me/thufood_bot です
 
-类似的有 <https://t.me/thufoodbot>
+同様のものは https://t.me/thufoodbot です
 
-## 清华大学计算机系课程攻略
+## 清華大学コンピュータサイエンスコースガイド
 
-[GitHub地址](https://github.com/PKUanonym/REKCARC-TSC-UHT)与[校内地址](https://git.tsinghua.edu.cn/pkuanonym/REKCARC-TSC-UHT)
+[GitHub地址](https://github.com/PKUanonym/REKCARC-TSC-UHT) および [校内地址](https://git.tsinghua.edu.cn/pkuanonym/REKCARC-TSC-UHT)
 
-## 清华软院课程攻略
+## 清華ソフトウェア工学研究所コースガイド
 
 [GitHub地址](https://github.com/SerCharles/THSS-CRACKER)
 
-## 华清大学课程攻略共享计划
+## 華清大学コースガイド共有プラン
 
-面向全校同学的课程攻略共享计划，旨在消除学习资源的信息不对称，促进学习资源和资料的开放共享。项目[在此](https://closed.social/pastExam/)。相较之 GitHub，分享与下载操作对不熟悉技术的同学都更加友好，欢迎分享！
+学校の全生徒を対象としたコースガイド共有計画は、学習リソースにおける情報の非対称性を排除し、学習リソースと教材のオープンな共有を促進することを目的としています。プロジェクト [在此](https://closed.social/pastExam/)。 GitHub と比較して、共有やダウンロードの操作は、テクノロジーに詳しくない学生にとってもフレンドリーです。共有へようこそ!
 
 ![华清大学课程攻略共享计划](image/course_strategy.jpg)
 
-## 校园评教平台
+## キャンパス教育評価プラットフォーム
 
-Colleguide: A platform to rate schools, professors, and courses
+Colleguide: 学校、教授、コースを評価するプラットフォーム
 
-<https://www.colleguide.com/>
+https://www.colleguide.com/
 
-## 有关计算机系的事实
+## コンピュータサイエンス学科に関する事実
 
-<https://github.com/jiegec/dcst-facts>
+https://github.com/jiegec/dcst-facts
 
-## NFSee 校园卡
+## NFキャンパスカードを見る
 
-<https://github.com/nfcim/nfsee>
+https://github.com/nfcim/nfsee
 
-## 课程信息共享计划
+## コース情報共有プラン
 
 https://tsinghua.app/courses
 
-## 清华大学计算机专业912考研资料
+## 清華大学コンピュータ専攻 912 大学院入学試験資料
 
 https://github.com/Wsky51/THU-CS912-kaoyan
 
-## 清华成绩刮刮乐
+## 清華スコアスクラッチャー
 
-<https://github.com/summivox/thu-scratch>
+https://github.com/summivox/thu-scratch
 
-* 安装Chrome插件或Userscript
-* 登录info
-* 原来可以看成绩的地方已经被挡住啦～
-* 心里「ドキドキ」地刮之
+* Chrome プラグインまたはユーザースクリプトをインストールする
+* ログイン情報
+* 結果を確認できる場所がブロックされました~
+* 心の中で「ドキドキ」する
 
-## thuhole memories
+## トゥーホールの思い出
 
-全部内容来源精品洞和个人收藏。
+すべてのコンテンツはブティック ケイブと個人のコレクションから来ています。
 
-<https://github.com/pb0316/thuhole_memories>
+https://github.com/pb0316/thuhole_memories
 
-## thuhole database backup
+## thuholeデータベースのバックアップ
 
-在洗完数据后，大部分不涉及个人隐私的有意义的树洞备份在此GitHub仓库。
+データを洗浄した後、個人のプライバシーに関係しない意味のあるツリー ホールのほとんどは、この GitHub リポジトリにバックアップされます。
 
-<https://github.com/thuhole/database_backup>
+https://github.com/thuhole/database_backup
 
-## 计算机系学生科协技能引导文档
+## 計算学科学生科学協会スキルガイダンス文書
 
-本技能引导文档由清华大学计算机系学生科协维护，目标在于让计算机类与计算机系的学生能够快速地掌握某些特定的技能，并且通过给出这些技能在课程、科研与实习中可能运用的方式，节省同学们收集相关资料的时间，同时提升同学们学习新技能的能力。
+このスキル ガイダンス文書は、清華大学コンピューター サイエンス学生協会によって管理されています。目標は、コンピューター サイエンスとコンピューター サイエンスの学生が特定の特定のスキルを迅速に習得できるようにすることです。これらのスキルをコース、科学研究、インターンシップで活用できる方法を提供することで、学生が関連情報を収集する時間を節約し、学生が新しいスキルを学ぶ能力を向上させます。
 
-<https://docs.net9.org/>
+https://docs.net9.org/
 
-## 清华大学研究生社会实践系统爬虫
+## 清華大学大学院生の社会実践システム クローラー
 
-Crawl structured data from https://thshijian.tsinghua.edu.cn (清华大学研究生社会实践系统). Use at your own risk.
+https://thshijian.tsinghua.edu.cn (清華大学大学院社会実践システム) からの構造化データをクロールします。ご自身の責任でご使用ください。
 
-<https://github.com/Harry-Chen/thshijian-crawler>
+https://github.com/Harry-Chen/thshijian-crawler

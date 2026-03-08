@@ -1,56 +1,56 @@
-# 常用校外网站
+# よく利用される学外Webサイト
 
-校内网站请参考 info.md
+キャンパスのWebサイトはinfo.mdをご覧ください。
 
-## thu.services
+## 木曜日のサービス
 
-即本站！
+それがこのサイトです！
 
-## T大树洞
+## T大樹洞
 
-注：现已停止服务
+注：現在サービスを停止しております
 
-戴上面具，卸下防备
-在匿名的树洞里，做回真实的自己
+マスクをして警戒を解いてください
+匿名の木の穴で本当の自分になる
 
-<https://thuhole.com/>
+https://thuhole.com/
 
-## 闭社 - 清华站
+## 閉店 - 清華駅
 
-<https://thu.closed.social/>
+https://thu.closed.social/
 
-## 在线退学
+## オンライン出金
 
-<https://tuixue.online/>
+https://tuixue.online/
 
-本站对其中提到的各个工具都做了收录
+このサイトには、そこで言及されているすべてのツールが含まれています。
 
-## 未名 BBS
+## 名前のない掲示板
 
-<https://bbs.pku.edu.cn/>
+https://bbs.pku.edu.cn/
 
-## 水木 BBS
+## みずきBBS
 
-<https://www.newsmth.net/>
+https://www.newsmth.net/
 
-现在与清华的相关性以及常用性存疑
+現在、清華大学との関連性や一般的な使用については疑問が持たれている。
 
-## 沙雕园的博客
+## 砂の彫刻庭園のブログ
 
-<https://blog.shadiao.online/>
+https://blog.shadiao.online/
 
-“精神病人欢乐多”的个人网站
+「精神障害者にはもっと喜びを」個人サイト
 
-## PT 站
+## PTステーション
 
-由于相关策略，本站不收录常用 PT 站
+関連ポリシーのため、このサイトには一般的に使用される PT サイトは含まれていません
 
-## 星期四 Thursday
+## 木曜木曜
 
 https://tsinghua.app/
 
-内含
+含まれています
 
-* 星期四 多功能社区
-* courseX
-* learnX
+* 木曜日の多機能コミュニティ
+* コースX
+* ラーニングX
