@@ -1,0 +1,14 @@
+---
+title: John Ma Cup
+description: A compilation page for the John MacDonald Cup event information, covering the schedule, entry methods and preparation suggestions.
+---
+
+# John Ma Cup
+
+## To be added/summary
+
+- Competition positioning and project settings, including main competition categories and descriptions of participants.
+- Registration and selection process, including departmental organization, team formation and key time arrangements.
+- Suggestions for preparing for and watching the game, such as training rhythm, rules learning and access to game resources.
+
+> Welcome to add: event time, registration method, contact information.

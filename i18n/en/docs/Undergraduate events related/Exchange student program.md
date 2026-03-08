@@ -1,0 +1,3 @@
+# Exchange student program
+
+You can apply from "info-study-overseas travel status"

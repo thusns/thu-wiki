@@ -1,0 +1,144 @@
+# places of interest
+
+### National Palace Museum
+
+Distance: **11.8km**
+Opening hours: 8:30-17:00 (last entry is at 16:10)
+Ticket price: 20￥ for college students!
+Introduction: The royal gardens of China's Ming and Qing dynasties are unparalleled masterpieces of ancient architecture and are known as one of the five largest palaces in the world.
+
+### Badaling Great Wall
+
+Distance: **46.8km**
+Opening hours: 6:30-4:30
+Ticket price: 20￥ for students
+Introduction: If you don’t visit the Great Wall, no hero comes from here. The Badaling Great Wall is a must-see for people from all walks of life at home and abroad when visiting Beijing.
+
+### summer palace
+
+Distance: **4.7km**
+Opening hours: 6:00-20:00 (last admission is 19:00)
+Ticket price: 15￥ for students
+Introduction: One of the largest and best-preserved royal gardens in my country, it is also a world-renowned tourist attraction.
+
+### Beijing Olympic Park
+
+Distance: **5.5km**
+Opening hours: [3.15-11.15] 6:00-21:00 ||||[11.16-3.14] 7:00-19:00
+Ticket price: free
+Introduction: The venue for the Olympic Games, Beijing's largest city park, is one of the first choices for leisure and entertainment for Beijing citizens.
+
+### Temple of Heaven Park
+
+Distance: **15.9km**
+Opening hours: 6:00-22:00 (latest admission 21:00)
+Ticket price: 34￥ without explanation, 61￥ for students with explanation
+Introduction: A world cultural heritage, the place closest to the sky in imagination.
+
+### Yuanmingyuan Ruins Park
+
+Distance: **2.4km**
+Opening hours: 7:00-19:30
+Ticket price: 5￥ for students
+Introduction: A world-famous royal garden with a quiet and elegant environment, it brings together the essence of ancient Chinese gardening art.
+
+### Xiangshan Park
+
+Distance: **12.1km**
+Opening hours: 6:00-19:30 (latest admission 18:30)
+Ticket price: 5￥ for students
+Introduction: A royal garden with mountain forest features on the outskirts of Beijing attracts countless people to watch the red leaves every late autumn season.
+
+### Beihai Park
+
+Distance: **10.5km**
+Opening hours: 6:00-21:00 (latest admission 20:30)
+Ticket price: 10￥
+Introduction: "Let's Swing the Oars" depicts this place. Best for viewing by boat.
+
+### Beijing Prince Gong's Mansion Museum
+
+Distance: **9.5km**
+Opening hours: Tuesday to Sunday 8:30-17:00
+Ticket price: students￥20
+Introduction: Prince Gong's Mansion is half of the history of the Qing Dynasty. It is the largest palace complex in the Qing Dynasty and carries the history and culture of Beijing.
+### Chaoyang Park
+Distance: **15km**
+Opening hours: 6:00-22:00
+Ticket price: free
+Introduction: A classic shot of the city skyline. When the CBD towering over the lake meets the sunset, it is her most beautiful moment.
+### Shichahai
+Distance: **9km**
+Opening hours: Open all day
+Ticket price: free
+Introduction: The place with the best preserved features of old Beijing has been a place for recreation and summer entertainment since the Qing Dynasty and is one of the scenic spots in Yanjing.
+### Jingshan Park
+Distance: **11km**
+Opening hours: 6:30-21:00
+Ticket price: 2￥
+Introduction: The center point of the north-south axis is adjacent to the Forbidden City to the south, the North Sea to the west, and the Drum Tower to the north. It was once the highest point in the center of Beijing.
+### Yanqi Lake
+Distance: **51.4km**
+Opening hours: 8:00-17:30
+Ticket price: 21￥ for students
+Introduction: Every spring and autumn, flocks of wild geese often come to live in the lake. The scenery is beautiful and the lake is clear. It is a good place for self-driving in Beijing.
+### Badachu Park
+Distance: **13.3km**
+Opening hours: 6:00-17:30
+Ticket price: students￥5
+Introduction: It is suitable for bringing your family to experience nature up close on weekends. The winding mountain road is flat and easy to walk. It is suitable for exercise. There are few people and beautiful scenery.
+### Hongluo Temple
+Distance: **48.7km**
+Opening hours: 8:30-17:00
+Ticket price: Student￥27
+Introduction: Located in the thousands of acres of green ancient pine forest in front of Hongluo Mountain, it forms a beautiful picture of "ancient temple hidden in blue waves"
+### Olympic Forest Park
+Distance: **5.5km**
+Opening hours: 6:00-21:00
+Ticket price: South Park ￥39, North and South Park combined ￥78
+Introduction: The largest urban green landscape in Asia, you can go boating on the lake in the park, walk through the dense forest, and encounter the authentic leisure life of Beijing.
+### world park
+Distance: **22.4km**
+Opening hours: 9:00-17:00
+Ticket price: Student￥57
+Introduction: Landmark buildings from all over the world are condensed into one garden. You can take your children to travel around the world without leaving the country.
+### Yuyuantan Park
+Distance: **10.4km**
+Opening hours: 6:00-21:30
+Ticket price: ￥2
+Introduction: It is a well-known place in China for viewing cherry blossoms. Sandbirds and waterbirds gather here, making the Xiaoshuang scenery full of life with lush aquatic plants.
+### Nanhaizi Park
+Distance: **28.3km**
+Opening hours: 6:00-21:00
+Ticket price: free
+Introduction: One of the four major country parks in Beijing, it is a good place for citizens to get close to nature and is another cultural and ecological pearl on the central axis.
+### Beijing National Forest Park
+Distance: **24km**
+Opening hours: 7:00-19:00
+Ticket price: students￥5
+Introduction: The vegetation is lush and green, and the forest landscape is very prominent. Bring your family here to enjoy the forest, towers, and valleys, and enjoy the beauty of nature.
+### Beijing Wenyu River Park
+Distance: **14km**
+Opening hours: 6:00-21:00
+Ticket price: free
+Introduction: The largest green lung in the capital, it is an international urban ecological leisure park for citizens to experience outdoor sports, get close to nature, and enjoy beautiful scenery.
+### Ming Tombs Scenic Area
+Distance: **31.2km**
+Opening hours: 9:00-16:00
+Ticket price: students￥30
+Introduction: The collective name for the tombs of the 13 emperors of the Ming Dynasty in Beijing. It is also one of the largest existing imperial mausoleum complexes in the country and has the most emperors’ tombs.
+### Tan Tuo Temple
+Distance: **28km**
+Opening hours: 8:30-16:30 (reservation required one day in advance)
+Ticket price: students￥25
+Introduction: First there is Tantuo Temple, and then there is Beijing City. The temple worships the Heavenly King Buddha, Bodhisattva, and Dragon King. The flowers in the temple are in full bloom and the fragrance is astonishing.
+### Shougang Park
+Distance: **17.8km**
+Opening hours: 8:00-21:00
+Ticket price: Student￥77
+Introduction: After a hundred years of vicissitudes, it has witnessed the history and changes of my country's steel industry, and has also made great contributions and sacrifices to the Olympic Games.
+### Mutianyu Great Wall
+Distance: **51.1km**
+Opening hours: 7:30-18:00
+Ticket price: ￥40-180
+Introduction: Looking inside the Great Wall, Mutianyu stands out. The ancient city wall, green pines, distant mountains, and mist are already a historical picture.

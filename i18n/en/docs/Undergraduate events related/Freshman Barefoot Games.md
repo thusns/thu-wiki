@@ -1,0 +1,23 @@
+# Freshman Barefoot Games
+
+As the name suggests, the Barefoot Games are the Barefoot Games (x)
+
+The Freshman Barefoot Games is a special sports event for freshmen at Tsinghua University. Adhering to the concept of "health begins with one step", we hope to fully tap and mobilize the enthusiasm of freshmen for physical exercise. It is an excellent opportunity for students to relax and return to nature. It will also be the first time for freshmen to show their sports prowess on the school stage!
+
+The Barefoot Games are divided into barefoot events and non-barefoot events. The barefoot events require an intimate contact between the soles of everyone's feet and the playing field.
+
+### (1) Barefoot project
+
+Individual: **100m, 60m skipping run, 100m two-person 3-legged run, medicine ball throw, long jump, standing long jump, 1 minute skipping (single swing)**.
+
+Team: **10x60m head-on relay** (2 women + 8 men), **4x100m relay** (3 men + 1 woman).
+
+### (2) Non-barefoot projects
+
+**Tug of war** (Each department is limited to one class team of 16 males + 2 females),
+**3 minutes of collective long rope jumping** (including rope swingers, 10 people per team, no limit to male or female),
+**3000 meters** (male),
+**1500 meters** (female),
+**800 meters**,
+**2 minutes to kick the key,
+Pull-ups** (men).

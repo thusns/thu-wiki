@@ -1,0 +1,35 @@
+# Introduction to self-study places and teaching buildings on campus
+
+## How to check classroom occupancy status?
+   1. Go to Tsinghua University Information Services-Learning and Academic Affairs-Public Information-Classroom Information and select the corresponding teaching building.
+   2. Classroom occupancy status will be posted at the door of each teaching building.
+   3. Query "Classroom Resources" in the THUInfo app (download the WeChat public account "THUInfo Information Assistant").
+
+## Teaching building
+
+* First Teaching: The first and second floors are classrooms, with five small classrooms and four large staircases; the third floor is for student interest groups; classroom numbers are from 101-205.
+* Second Teaching: Not open for self-study, there are three large classrooms; classroom numbers are from 401-403;
+* Three teachings: The first section is mainly small classrooms and discussion classrooms; the second section is four ladder classrooms, each seat has a socket; the third section has discussion classrooms, ladder classrooms, computer rooms, etc. Sections 2102 and 2302 of Section 2 are entered from behind Section 1, on the Sixth Teaching side; there are compartments on the first floor of Section 3 for single study; classroom numbers range from 1101-3513; the first digit of the classroom number is the section number, and the second digit is the floor;
+* Four teachings: The first to fourth floors are classrooms; there are six classrooms on each floor, and there are bar-type self-study positions outside each floor; the classroom numbers are from 4101-4406, and the second digit is the floor; the 3rd to 5th floors are also equipped with four seminar rooms on each floor;
+* Five Teachings: (Under maintenance, temporarily closed);
+* Sixth Education: It is divided into three areas: A, B, and C. Area A has 6 floors, including small, medium, and large classrooms. The 0-4 floors are classrooms, and the 5th floor is the physics laboratory. Floor 0 needs to go downstairs from the first floor. There are also seminar rooms on the second and third floors; Area B has 9 floors. , of which floors 1-4 are small classrooms, floors 5-8 are physics laboratories, and floor 9 is Tsinghua Taiwan Research Institute; Area C has 3 floors, all of which are ladder classrooms; the classroom numbers are from 6A001-6C300, the second digit is the area code, and the third digit is the floor number;
+* Xinshui: New Water Conservancy Building, the third and fourth floors are classrooms and offices, of which there is a drawing classroom on the third floor, classroom numbers are 300-407;
+* Jiushui: The old water conservancy building has classrooms and offices on the third floor. Classroom numbers are 301-307;
+* Tsinghua Academy: The first to second floors are classrooms, and there are seminar rooms on the basement level; open until 23:30 in the evening;
+* Fatu Underground: Enter from the sunken square on the west side of the Law Library, with seminar rooms; classroom numbers B101-B122;
+
+## library
+* Old library: opening hours: 8:00～22:30;
+* North Hall (Li Wenzheng Hall): Opening hours: 8:00~22:00;
+* West Building (Yifu Building): Opening time 8:00～22:00;
+* Wentu (Kaifeng Humanities and Social Sciences Library): Opening hours: 8:00～22:00;
+* Fatou (Liao Kaiyuan Building): Opening time 8:00～17:00;
+
+## activity center
+* Third floor of Building C (24h): The open space on the third floor of Building C is available for 24-hour self-study, but there are relatively few seats.
+* South District Underground: This is the South District Student Activity Center, equipped with sofas, high stools and other facilities; opening hours are 8:00-23:00;
+
+## Bookstores and cafes
+* Yejiaxuan: a bookstore open 24 hours a day, located on the ground floor of the North Building (Li Wenzheng Building);
+* Bauhinia Bookstore: Located on the ground floor of Guanchou Garden;
+* Youli Cafe: located on the second floor of Zhilan Garden;

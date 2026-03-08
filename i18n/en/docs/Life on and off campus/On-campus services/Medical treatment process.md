@@ -1,0 +1,17 @@
+# School hospital medical treatment process
+
+Reference: https://mp.weixin.qq.com/s/P7D4jtaZHo4PHC6CvwBXmw
+
+## Basic situation
+
+The campus hospital is located on the westernmost side of the campus, near Jinchun Road, and on the south side of the Medical Science Building. Its clinic hours are 8:00-11:30, 13:30-16:30 on working days; 8:00-11:30 on weekends and holidays**. The emergency room is open 24 hours a day.
+
+## registered
+
+For registrations other than dentistry, you can search for "Tsinghua University Hospital" on the WeChat public account "Tsinghua University Hospital" or Alipay. Users who have never seen a doctor need to bind their card in the "Personal Center" column first; users who have bound their card should select "Registration" in the "Medical Business" column and select the required department for registration. **Students please note that on the registration information confirmation interface, please select "public medical care" to be reimbursed through medical insurance. ** After registration, you can go directly to the triage desk of the corresponding department for triage. For specific procedures, please consult the service desk of the school hospital. Before picking up the medicine, select the medical service - payment, and select "public medical care" to be reimbursed through medical insurance.
+The dental department account is very popular and you need to register at **"Tsinghua Logistics"** official account at 8 o'clock every day.
+
+## Referral
+
+If there are diseases that cannot be diagnosed and treated due to the technical or equipment conditions of the school hospital, the school hospital will issue a transfer consultation application form to the student, which will be stamped and valid. Usually transferred to Peking University Third Hospital. Students can bring their student ID card, medical bill, detailed list of expenses, the bottom of the prescription for medical insurance if there are any drug expenses, and the application form for transfer consultation to the school hospital **East side of the third floor of the North Building** on **every Monday to Friday from 8:30-11:30 am and 13:00-16:00 pm** to apply for transfer fee reimbursement.
+(This paragraph is excerpted from the Student Union’s “2022 Freshman Handbook”)

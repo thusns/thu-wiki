@@ -1,0 +1,32 @@
+# commercial street
+### Nanluoguxiang
+
+Distance: **10.3km**
+Opening hours: 10:00-21:00
+Ticket price: It’s a snack street. If you need any tickets, go in directly.
+Introduction: Beijing's famous snack pedestrian street attracts countless young people to experience the Hutong style of old Beijing and the authentic Beijing culture.
+
+### Wangfujing Pedestrian Street
+
+Distance: **12.9km**
+Opening hours: Ah this
+Ticket price: Ah this
+Introduction: A famous commercial pedestrian street with hundreds of years of history, an immersive experience space that highly restores the life scenes of old Beijing.
+
+
+
+### Qianmen Street
+Distance: **14.2km**
+Opening hours: Open all day
+Ticket price: free
+Introduction: It has been the most famous commercial street in Beijing since ancient times. It has many time-honored brands and a collection of snacks from all over the world, giving it a taste of old Beijing.
+### Beijing Gui Street
+Distance: **11.2km**
+Opening hours: all day
+Ticket price: None
+Introduction: It is a night food gathering place. It is brightly lit at night. There are many well-known Internet celebrity shops and there are many people waiting in line.
+### Wudaoying Hutong
+Distance: **9.km**
+Opening hours: all day
+Ticket price: free
+Introduction: It is more than 600 meters long and has a small area. There are food, coffee, bars, clothing and other unique shops.

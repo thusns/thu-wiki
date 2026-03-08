@@ -1,0 +1,75 @@
+# Tsinghua University Science Fiction Association
+
+
+
+[This is Trantor, this is the Shire, this is Zion, this is our Neverland
+
+This is your home]
+
+## Introduction
+
+The Tsinghua University Student Science Fiction Association was founded in early 1996 and is affiliated with Tsinghua University. It is a first-class student science fiction enthusiast association in China. The association has a youthful and high-spirited culture that pursues innovation and hands-on creation. Many talents such as Jiang Bo, Xue Hui, and Hao Jingfang have emerged one after another. It won the 2019 Galaxy Award for Best Science Fiction Group. The association has nearly 800 members. Since its establishment, it has always encouraged original activities, and its works have been scattered on well-known science fiction platforms such as "Science Fiction World" and Tadpole Staff.
+
+![](https://github.com/thusns/thu-wiki/blob/main/images/auto-upload/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20221022143641.jpg?raw=1)
+
+## Public account:
+
+Great Qing Fantasy Association
+
+## Main activities:
+
+### Creation of science fiction works (including paintings, etc.)
+
+#### Call for ideas
+
+#### original work
+
+#### translation works
+
+#### Dream No. 115
+
+### Sci-fi movie screenings (generally held once every weekend, open to association members)
+
+### Science Fiction Circle Activities
+
+## Association features
+
+A chat atmosphere full of energy and imagination (the always active QQ group includes science fiction fans who insist on posting short discussions every day)
+
+A writing style full of humor and magic (both science fiction works, event introductions and even association descriptions are full of the flavor of the science fiction subculture)
+
+It has a profound historical background and numerous science fiction works. It has published science fiction anthologies such as "The Country of the Unknown" and "E=mc^3: A Record of Strange Thoughts on Scientific Research from Leftover Materials".
+
+## Introduction to conference journal
+
+### "E=mc^3: A Record of Strange Thoughts on Scientific Research from Leftover Materials"
+
+### ![](https://github.com/thusns/thu-wiki/blob/main/images/auto-upload/s34265771.jpg?raw=1)
+
+#### Introduction
+
+Even if the results are known in advance, the process of exploration does not save much. In the end, we can only recognize and explore in our own way. ——"The Ocean of Truth"
+
+That will be a group of thieves who dare to steal the knowledge of the gods. They will become technicians and rekindle the fire of the giant wind. ——"The Thief's Dedication"
+
+"E=mc3: A Record of Strange Thoughts on Scientific Research from Leftover Materials" is a science fiction magazine about scientific workers and scientific research work. It uses science fiction as a carrier to present the daily life and emotional care of frontline researchers. The formula involved in the title of the book is purely fictitious and was inspired by Einstein's mass-energy conversion equation. Science fiction often rewrites conventions to rethink what is unchanging truth. The title of this book is intended to evoke similar thoughts.
+
+#### evaluate
+
+The works in the book may be a little green, but they show exciting potential. I sincerely wish that some of them can continue to create and become future science fiction stars. I also wish that all students can continue to develop their talents and experience the joy of creation in the fields they love. I hope that they can look back on the past many years later with a happy mood and say: "In the beautiful years of youth, I was also a science fiction writer." - Fei Deuterium
+
+"E=mc3: A Record of Strange Thoughts on Scientific Research from Leftover Materials" shows the style of a new generation of science fiction enthusiasts in colleges and universities. They have evolved science fiction literature into science fiction culture and created a passionate future in this cultural atmosphere. ——Early morning
+
+### "The Country of the Unknown"
+
+![](https://github.com/thusns/thu-wiki/blob/main/images/auto-upload/s33969218.jpg?raw=1)
+
+#### Introduction
+
+The Tsinghua University Student Science Fiction Association was founded in 1996 and has a history of 24 years. In this book, we will introduce Tsinghua’s extracurricular culture and club culture from multiple perspectives, as well as Tsinghua’s persistence in science fiction and its love for scientific interests. Influence contemporary teenagers with the real extracurricular campus culture of Tsinghua University.
+
+"Looking for Dandan" and "Those Mysterious Members" are the results of one of the oldest activities in the association: in the activity, members will create fantasy stories about other members to enhance their understanding of each other; the "Fantasy Carnival" exhibition will showcase the impromptu fantasies of members of the original department of the association at the pen meeting, including a set of science fiction recipes, a set of alien biographies and a short landscape essay; "Tsinghua Peking University Strange Stories" is a collection of 2018 The outstanding works from the Tsinghua and Peking University joint essay competition took the two top universities in the country as the stage and showed a different kind of daily life of college students. This will be the first publicized history of science fiction clubs in colleges and universities in China, and will also influence middle school students to follow suit and pursue valuable hobbies in their spare time.
+
+The whole book shows the charm of the science fiction community from two perspectives: "the world" and "us". The former tells about some of the most exciting events in the history of the development of the world's science fiction community, while the latter focuses on presenting the community style of the Tsinghua University Student Science Fiction Association. The section titles are all taken from classic fantasy literary works, and the contents are, in order: micro-science fiction quick reading ("Roadside Picnic"), daily fantasy fans ("I Don't Belong to Them"), science and science fiction ("Space Overture"), a collection of fantastic ideas ("Fantasy Carnival"), the imaginary world of science fiction fans ("News from Utopia") and the association's cultural exhibition ("The Country of the Unknown").
+
+Focusing on the world's science fiction culture, this book presents the main development trajectory of the science fiction community from three aspects. "The Birth of the American Science Fiction Circle" sorts out the ins and outs of the first World Science Fiction Convention held by American science fiction fans from scratch in the 1930s; "The Technologist's Ladder" introduces the first manned moon landing plan in history formulated by British science fiction enthusiasts led by Arthur Clark during the same period; "The Hitchhiker's Guide to Micronations" tells the cultural changes of science fiction people establishing micronations for all kinds of strange reasons. From the three works, readers can clearly see the rich role that science fiction plays in the fields of culture, technology, and political economy.

@@ -1,0 +1,49 @@
+# Activities related to Communist Youth League members
+
+## Themed caucus days each semester
+
+The specific time is decided by the branch and approved by the Youth League Committee. If the branch applies for a centralized theme group day, it will usually be held on Thursday afternoon of the seventh week or Thursday afternoon of the tenth week of the academic calendar.
+
+## Pay the tour fee
+
+The Youth League Committee will remind you and the Youth League Secretary of each class will notify you to pay.
+
+## Theme learning
+
+There will be a constitutional study in September every year at the "Ministry of Education's National Youth Legal Education Network". For details, please see the notices issued by each department.
+
+## Recommend outstanding candidates to join the party
+
+The Youth League branch will regularly hold activities to recommend candidates to join the party. All students in the branch have the right to vote. If a candidate receives more than half of the votes in favor, the candidate will be successfully recommended.
+
+## Other matters
+
+The Youth League branch will unite students to actively participate in group activities and create a good branch atmosphere.
+
+## School league competition
+
+There will be a League A competition every academic year, and each department will organize a centralized display and competition. Students from the Youth League branch can participate in voting.
+
+## Youth League secretary work
+
+Transfer of relations between freshmen group organizations
+
+Online system adjustment for system transfer and diversion
+
+Graduate school connection
+
+Member information statistics
+
+Entry of league cadres
+
+Pay the tour fee
+
+Group registration
+
+League member education review
+
+Member development
+
+Activity requirements: 4 or more special study meetings, 3 or more theme group days, 1 or more organizational life, 1 or more group classes, 1 or more branch committee meetings, 1 or more group meetings
+
+Team A defense

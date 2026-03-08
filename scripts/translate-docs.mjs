@@ -104,6 +104,20 @@ function containsCJK(value) {
   return /[\u3400-\u9fff]/.test(value);
 }
 
+function shouldReuseExistingContent(locale, sourceRaw, existingRaw) {
+  if (locale === "zh-Hant") {
+    return false;
+  }
+  const source = sourceRaw.replace(/\r\n/g, "\n").trim();
+  const existing = existingRaw.replace(/\r\n/g, "\n").trim();
+  if (!existing || existing === source) {
+    return false;
+  }
+  const compact = existing.replace(/\s/g, "");
+  const cjkCount = (compact.match(/[\u3400-\u9fff]/g) || []).length;
+  return cjkCount / Math.max(1, compact.length) < 0.15;
+}
+
 function sanitizeSegment(value) {
   return value
     .replace(/[\\/:*?"<>|]/g, "-")
@@ -477,7 +491,20 @@ async function generateLocale(locale) {
     const translatedRel = pathMap.get(rel);
     const targetFile = path.join(stagingDocsDir, translatedRel);
     const raw = fs.readFileSync(file, "utf8");
-    const translated = await translateMarkdown(cache, raw, target);
+    const existingFile = path.join(localeDocsDir, rel);
+    let translated;
+
+    if (fs.existsSync(existingFile)) {
+      const existingRaw = fs.readFileSync(existingFile, "utf8");
+      if (shouldReuseExistingContent(locale, raw, existingRaw)) {
+        translated = existingRaw.replace(/\r\n/g, "\n");
+      }
+    }
+
+    if (!translated) {
+      translated = await translateMarkdown(cache, raw, target);
+    }
+
     ensureDir(path.dirname(targetFile));
     fs.writeFileSync(targetFile, translated);
     console.error(`${locale}: wrote ${index + 1}/${sourceMarkdownFiles.length} ${translatedRel}`);

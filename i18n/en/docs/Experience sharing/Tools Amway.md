@@ -1,0 +1,15 @@
+# Tools Amway
+
+## How to obtain e-books
+
+1. Teaching ginseng service platform: http://reserves.lib.tsinghua.edu.cn/，内含许多教材，如没找到还可以向图书馆请求教材。
+2. Z-library (requires magic Internet access)
+3. National Library Reference Union http://www.ucdrs.superlib.net/
+4. Jiumo Search Books https://www.jiumodiary.com/
+5. PDF Drive https://www.pdfdrive.com/
+6. Lorefree https://ebook2.lorefree.com/
+7. Searching for books on Taobao costs about 2-3 yuan/book.
+
+## Free mind mapping software
+
+Curtain (retrieved from mubu.com)

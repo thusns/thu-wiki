@@ -1,0 +1,4 @@
+# writing and communication
+#### Cheng Xiangyu (games and people theme)
+1. affable,
+2. Divergent thinking, in-depth content, and able to make great suggestions
