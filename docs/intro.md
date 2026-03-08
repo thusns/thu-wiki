@@ -1,10 +1,12 @@
 ---
 sidebar_position: 1
+title: 信息化服务指南
+description: 汇总清华大学信息化常用链接、联系电话与电子身份、校园网、邮箱等服务指引。
 ---
 
-# its
+# 信息化服务指南
 
-# 常用链接
+## 常用链接
 
 校园网认证登录： http://login.tsinghua.edu.cn
 
@@ -24,13 +26,13 @@ sidebar_position: 1
 
 清华云盘： http://cloud.tsinghua.edu.cn
 
-# 常用电话
+## 常用电话
 
 信息化技术中心用户服务热线 每天8:00-22:00 62784859
 
 学生社区管理服务中心 62783333
 
-# 信息化
+## 信息化
 
 校园信息化相关问题请咨询84859热线 或 发邮件至 its@tsinghua.edu.cn
 
