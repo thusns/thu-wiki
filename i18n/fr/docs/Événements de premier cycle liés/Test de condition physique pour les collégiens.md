@@ -1,0 +1,17 @@
+# Test de condition physique pour les collégiens
+
+## Aperçu
+
+Il y a un test physique chaque semestre d'automne. Les étudiants de première année passent un test physique centralisé (la taille, le poids et la capacité vitale seront également mesurés lors du test physique). Les étudiants de deuxième année et de premier cycle sont divisés en deux parties : un élément de test physique centralisé et d'autres éléments (taille, poids et capacité vitale).
+
+## Lieu
+
+L'examen physique centralisé s'effectue généralement depuis le coin nord-est de Dongcao. Après avoir réalisé les activités préparatoires, elle peut être réalisée selon les instructions du personnel sur place.
+
+D'autres éléments d'examen physique sont effectués au centre d'examen physique de Taipei Point à Dongcao Xikan.
+
+## Guide de test physique
+
+Apportez simplement votre carte d'étudiant. Il y aura de l'eau bouillie, de l'eau glucose, etc. sur place.
+
+Il y a une grande différence entre les tests et l’exercice quotidien. Les personnes souffrant de sensibilités respiratoires peuvent se sentir mal à l'aise après avoir terminé une course à mi-course. Ils peuvent porter un masque après avoir couru pour le soulager.

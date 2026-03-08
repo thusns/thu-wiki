@@ -1,287 +1,287 @@
-# 公众帐号们
+# Comptes publics
 
-此页收录微信公众号、收录知乎、收录各平台上的公开的 [redacted]
+Cette page comprend les comptes publics WeChat, Zhihu et publics [expurgés] sur diverses plateformes
 
-本平台还可能会推出信息流服务，整合以下公众号发送的实时信息
+Cette plateforme pourra également lancer un service de flux d'informations pour intégrer les informations en temps réel envoyées par les comptes publics suivants
 
-## 微信公众号
+## Compte public WeChat
 
-- 官方帐号
-    - 清华大学
-    - 清华大学社会实践
-    - 清华体育
-    - 清华大学图书馆
-    - 清华大学新清华学堂
-    - 清华大学医院
-    - 清华好读书
-    - 清华红十字会
-    - 清华后勤
-    - 清华家园网
-    - 清华职业辅导
-    - 清华信息化
-    - 清华大学信息服务
-    - 清华大学艺术博物馆
-    - 清华家园网
-    - 清华海外学习
-    - 清华资产
-    - 清华青年科创
-    - 学在清华
-    - 行在清华
-    - 平安清华
-    - 清华大学本科教学
-    - 荷塘雨课堂
-    - THU学生资助
-    - 文素THU
-    - 清华大学国际教育
-    - 清华青年科创
-    - 清华海外学习
-    - 清华就业
-    - 清华大学体育代表队
-    - 人文清华讲坛
-    - THU学术之路工作室
-    - 清华时事大讲堂
-    - 清华大学游泳馆
-    - 紫荆之声
-- 院系帐号
-    - 清华大学交叉信息研究院
-    - 清华大学工业工程系
-    - 清华大学文学创作与研究中心
-    - 清华大学集成电路学院
-    - 清华大学电子工程系
-    - 清华大学精密仪器系
-    - 清华大学材料学院
-    - 清华大学法学院
-    - 清华大学iCenter创客空间
-    - 清华大学建筑学院
-    - 清华大学经济管理学院
-    - 清华大学土木工程系暨建设管理系
-    - 清华大学医学院
-    - 清华大学药学院
-    - 清华大学新雅书院
-    - 清华大学社会科学学院
-    - 清华大学丘成桐数学科学中心
-    - 清华大学美术学院
-    - TsinghuaLogic
-    - Tsinghua HPC
-- 学生组织帐号
-    - 清华大学清新时报
-    - 清华小五爷园
-    - 艾生权
-    - 茶园资讯
-    - 微爱意
-    - 清华大学小研在线
-    - 清华小清心
-    - THU摄影队
-    - 学生清华
-    - 乐学
-    - THU 探求纵坐标
-    - THU 次世代
-    - 清华大学学生社团
-    - 清华大学学生网络安全技术协会
-    - 清华天协
-    - GRID天格计划
-    - 基础学科拔尖学生培养计划力学班
-    - 科技服务队
-    - thu勤工之家
-    - THU文苑
-    - THU语协
-    - 天空工场 Skyworks
-    - 图书馆助理分队
-    - 学生网服SNS
-    - 清华研读间
-    - E研E行
-    - 大清幻协
-    - 酒井算协
-    - TEDxTHU
-    - 小研在路上
-    - 建院学生会THU
-    - 清华大学学生会
-    - 清华大学小研在身边
-    - 贵系男篮
-    - 酒井资讯
-    - 软小宣
-    - 紫冬话语
-    - 公管声音
-    - E研E行
-    - 社氏有声
-    - 建院宣传中心
-    - 清华大学文体之声
+- Compte officiel
+    - Université Qinghua
+    - Pratique sociale de l’Université Tsinghua
+    - Sports Tsinghua
+    - Bibliothèque de l'Université Tsinghua
+    - Université Tsinghua Nouvelle Académie Tsinghua
+    - Hôpital universitaire de Tsinghua
+    - Tsinghua est bon en lecture
+    - Société de la Croix-Rouge Tsinghua
+    - Logistique Tsinghua
+    - Réseau domestique Tsinghua
+    - Orientation professionnelle Tsinghua
+    - Technologie de l'information de Tsinghua
+    - Service d’information de l’Université Tsinghua
+    - Musée d'art de l'université Tsinghua
+    - Réseau domestique Tsinghua
+    - Tsinghua étudie à l'étranger
+    - Atout Tsinghua
+    - Science et innovation des jeunes Tsinghua
+    - Etudier à Tsinghua
+    - Voyager à Tsinghua
+    - Université Tsinghua sécurisée
+    - Enseignement de premier cycle à l'Université Tsinghua
+    - Salle de classe de pluie de Lotus Pond
+    - Aide financière aux étudiants THU
+    - Lune Alors JEUDI
+    - Éducation internationale de l’Université Tsinghua
+    - Science et innovation des jeunes Tsinghua
+    - Tsinghua étudie à l'étranger
+    - Emploi à Tsinghua
+    - Équipe sportive de l'Université Tsinghua
+    - Forum des sciences humaines de Tsinghua
+    - Studio du parcours académique THU
+    - Salle de conférence sur les affaires courantes Tsinghua
+    - Piscine de l'Université Tsinghua
+    - Le son de Bauhinia
+- Compte départemental
+    - Institut d'information interdisciplinaire de l'Université Tsinghua
+    - Département de génie industriel, Université Tsinghua
+    - Centre de création et de recherche littéraire de l'Université Tsinghua
+    - École des circuits intégrés de l'Université Tsinghua
+    - Département de génie électronique, Université Tsinghua
+    - Département d'instruments de précision, Université Tsinghua
+    - École de science et d'ingénierie des matériaux, Université Tsinghua
+    - Faculté de droit de l'Université Tsinghua
+    - Espace iCenter Maker de l'Université Tsinghua
+    - École d'architecture de l'Université Tsinghua
+    - École d'économie et de gestion de l'Université Tsinghua
+    - Département de génie civil et Département de gestion de la construction, Université Tsinghua
+    - École de médecine de l'Université Tsinghua
+    - École de pharmacie de l'Université Tsinghua
+    - Académie Xinya de l'Université Tsinghua
+    - École des sciences sociales de l'Université Tsinghua
+    - Centre des sciences mathématiques Yau Shing-tung de l'Université Tsinghua
+    - Académie des Beaux-Arts de l'Université Tsinghua
+    - TsinghuaLogique
+    - HPC de Tsinghua
+- compte d'une organisation étudiante
+    - Temps frais de l’Université Tsinghua
+    - Jardin Tsinghua Xiaowuye
+    - Aishengquan
+    - Informations sur le jardin de thé
+    - Un peu d'amour
+    - Université Tsinghua Xiaoyan en ligne
+    - Tsinghua Xiaoqingxin
+    - L'équipe photographique du THU
+    - Étudiant Tsinghua
+    - Heureux d'apprendre
+    - THU explore l'ordonnée
+    - JEU nouvelle génération
+    - Association des étudiants de l’Université Tsinghua
+    - Association des technologies de sécurité des réseaux des étudiants de l’Université Tsinghua
+    - Université Qinghua
+    - GRID Plan Tiangé
+    - Cours de mécanique du programme de formation pour les meilleurs étudiants des disciplines de base
+    - Équipe du service technologique
+    - jeu Qigong Accueil
+    - JEU Wenyuan
+    - Association linguistique THU
+    - Skyworks Skyworks
+    - Détachement d'assistants de bibliothèque
+    - Service de réseau étudiant SNS
+    - Salle d'étude Tsinghua
+    - E recherche E ligne
+    - Association fantastique de la Grande Qing
+    - Sakai Sangkyo
+    - TEDxJEU
+    - Xiaoyan est en route
+    - Création du syndicat étudiant JEU
+    - Union étudiante de l’Université Tsinghua
+    - L'Université Tsinghua Xiaoyan est à vos côtés
+    - Équipe masculine exquise de basket-ball
+    - Direction Sakai !
+    - Propagande douce
+    - Discours de Zi Dong
+    - voix de l'administration publique
+    - E recherche E ligne
+    - audio social
+    - Centre de publicité de l'établissement
+    - Université Tsinghua Voix de la culture et des sports
     - SAEPA
-    - 清华大学学生公益
-    - 科协THU
-    - 小唐心
-    - THU小动物保护
-    - 清软小研
-    - 清华经管 家园
-    - 清华x-lab
+    - Association caritative étudiante de l’Université Tsinghua
+    - JEU
+    - Petit Tang Xin
+    - JEU protection des petits animaux
+    - Qingruan Xiaoyan
+    - Accueil SEM Tsinghua
+    - Tsinghua x-lab
     - Runislove
-    - 清华山野
-    - 酒井科协
-    - 清华学生马协
-    - Lawgic
-    - 数无穹
-    - THU益创咨询
-    - 清物语
-    - CurlingTHU
-    - 清华航院学生会
-    - THU辩论队
+    - Montagnes Tsinghua et nature sauvage
+    - Association des sciences et technologies de Sakai
+    - Association équestre étudiante de Tsinghua
+    - Lawgique
+    - D'innombrables
+    - JEU Yichuang Consulting
+    - Kiyomonogatari
+    - CurlingJEU
+    - Union des étudiants en aviation de l'Université Tsinghua
+    - Équipe de débat du JEU
     - THUBodybuilding
-    - 清华大学电影协会
+    - Association cinématographique de l’Université Tsinghua
     - SKITHU
-    - THU文创社
-    - THU学生区块链
-    - 清华车协
-    - 清华飞盘THUultimate
+    - Société culturelle et créative THU
+    - Blockchain étudiante THU
+    - Association automobile de Tsinghua
+    - Frisbee Tsinghua THUultimate
     - TsinghuaShuo
     - THUSAGA
-    - THU水球
-    - 清华大学求是学会
-    - 清华课改之声
-    - THURS清华轮滑社
-    - THU交通人
-    - THU体能康复
+    - JEU water-polo
+    - Société Qiushi de l’Université Tsinghua
+    - La voix de la réforme du programme scolaire Tsinghua
+    - JEUDI Club de patinage à roulettes Tsinghua
+    - JEU agent de la circulation
+    - JEU rééducation physique
     - THUAIChallenge
-    - THU时代论坛
-    - THU植协君
-    - 酒井实践
-    - 清小禅
-- 班级帐号
-    - 茶园八字班
-    - 环酒肆
-    - 八一见君
-    - 电机能源85
-    - 工82的爸爸们
-    - 工91和它的朋友们
-    - BEST86
-    - 不二材心
-    - 材霸山河
-    - 材八一集团
-    - 电机能源85
-    - 电子巴士
-    - 共筑85
-    - 核82ers
-    - 戏诸侯
-    - i医捌
-    - 建环bar
-    - 计科玖壹
-    - 力8幼儿园
-    - new 计84
-    - Real 计86
-    - 软叭酱
-    - 生86生发灵研发中心
-    - THSA82工作室
-    - THU無82
+    - Forum des temps JEU
+    - JEU Zhi Xiejun
+    - Pratique du Sakai
+    - Qing Xiaochan
+- Compte de classe
+    - Cours d'horoscope du jardin de thé
+    - Boutique de vin Ring
+    - Rendez-vous le 1er août
+    - Énergie du moteur85
+    - Pères d'ouvriers 82
+    - Travailleur 91 et ses amis
+    - MEILLEUR86
+    - Coeur en matière Fuji
+    - Montagnes et rivières Caiba
+    - GROUPE CAIBAYI
+    - Énergie du moteur85
+    - bus électrique
+    - Total construit 85
+    - Noyau 82ers
+    - Jouer avec les princes
+    - iyiba
+    - Construire un bar environnemental
+    - Ji Ke Jiu Yi
+    - Li8 Maternelle
+    - nouveau 84
+    - Compte réel 86
+    - Ruanbajiang
+    - Centre de R&D Sheng86 Shengfaling
+    - THSA82 Studio
+    - JEU no 82
     - TsinghuaCS62
-    - 未闻砼名
-    - 智90
-    - 无事常登七三宝殿
-    - 一瓶经82的拉菲
-    - THU计91
-    - 八建八三
-    - 建陆壹Studio
-    - 建63的非建筑
-    - 博思桂花班
-    - 化73family
-    - 鬼屋乌漆漆
-    - 无中生九
-    - 紫冬鎏意
-    - 七字烽火台
-    - 水木紫冬 一见钟情
-    - 相约酒捌
-    - 雅苑新声
-    - 雅集众秀
-    - moment一柒一会
-    - 雅风新颂
-    - 清化久谊
-    - 清化捌壹
-    - 清化 | 一起柒壹
-    - 清化宝碘
-    - 清化、BSci63
-    - 清化六一
-    - 新旧合冶故事站
+    - Nom inconnu du béton
+    - Sagesse 90
+    - Je vais toujours à la salle des Sept-Trois Trésors quand je n'ai rien à faire
+    - Une bouteille de Lafite d'une valeur de 82
+    - JEU compteur 91
+    - Huit construit huit trois
+    - Studio Jianluyi
+    - 63 non-bâtiments
+    - Classe Boss Osmanthus
+    - 73famille
+    - Maison hantée sombre
+    - Neuf pour rien
+    - liuyi d'hiver violet
+    - Tour de balise à sept caractères
+    - Mizuki Zidong a eu le coup de foudre
+    - Rendez-vous pour le vin
+    - Yayuan Nouvelle Voix
+    - spectacle de rassemblement élégant
+    - instant par instant
+    - Hillsong Yafeng
+    - Thanh Hoa Jiu Yi
+    - Qinghua 81
+    - Thanh Hoa | Ensemble Qiyi
+    - Qinghua Baoiodine
+    - Thanh Hoa, BSci63
+    - Thanh Hoa six jours
+    - Nouvelle et ancienne station Heye Story
     - 9s2SciLife
-    - 软joy
-    - 就爱软
-    - 汝安玖叁
-    - 吾久悟
-    - 拔丝小苹果
-    - 久爱清数
-    - 数九归一
-    - 八三一心
-    - 疯吧少年
-    - THU九春三秋
-    - 爱意81
-    - 青春不二
-    - 清华电机93
-    - 青梅视传
-    - 爱建久矣
-    - 自动扒衣
-    - 八二印象
-    - 紫冬Base
-    - 紫冬巴士
-    - 紫冬五村
-    - 自86666
-    - THU环82
-    - 园子里的小经零
-    - 经83的小木屋
-    - 拔丝小苹果
-    - 我们的捌伍
-    - 捌字壹瞥
-    - 环81捌气壹旧
-    - 青春不二
-    - 航014大家庭
-    - 氢化铀
-    - 数九三伏
-    - 九二永动机
-    - 未央机械小喇叭
-    - 233LIFE
-    - 九零之陵
-    - 零一灵艺
-    - 无中生九
-    - 零零2020
-    - 机器巫
-- 奇妙帐号
-    - 清华微生活
-    - 海昇自助洗衣
-    - 捷利智能校园
-    - 近邻宝校园
-    - | Just Lose It |
-    - 全元光滑
-    - 北大讲堂票务
-    - 北京大学百周年纪念讲堂
-    - 北京大学前沿计算研究中心
-    - Learn Helper 网络学堂助手
-    - 清青实验
-    - THUInfo 信息助手
-    - 叉院学姐
-- 个人帐号
-    - 半潮生
-    - 漫士呓语
-    - 白兔与旧故
-    - osci的碎碎念小铺
-    - 覆曦
-    - my的深夜食堂
-    - 今天也想吃肉
-    - 饶老师的寸光
-    - 文刀日肥
-    - 五道口葬爱家族幼儿园
+    - douce joie
+    - J'adore la douceur
+    - Ru'an Jiu San
+    - J'ai compris depuis longtemps
+    - Petite pomme caramélisée
+    - Longtemps j'aime compter
+    - Compter neuf revient à un
+    - huit cent trente et un coeur
+    - Garçon fou
+    - JEU Neuf printemps et trois automnes
+    - Amour 81
+    - jeune
+    - Tsinghua électrique 93
+    - Biographie vidéo de Qingmei
+    - L'amour se construit depuis longtemps
+    - Décapage automatique
+    - Impression de 1982
+    - Base d'hiver violette
+    - Bus d'hiver violet
+    - Zidong Wucun
+    - Depuis 86666
+    - JEU Ring 82
+    - Xiao Jing Ling dans le jardin
+    - Chalet via 83
+    - Petite pomme caramélisée
+    - Nos quatre-vingt-cinq
+    - Huit personnages en un coup d'oeil
+    - Ring 81 Huitième Air One Old
+    - jeune
+    - Famille Hang 014
+    - hydrure d'uranium
+    - Comptez neuf et trois volts
+    - Quatre-vingt-douze machines à mouvement perpétuel
+    - Haut-parleur mécanique Weiyang
+    - 233VIE
+    - Mausolée des Neuf Lings
+    - Ling Yi Ling Yi
+    - Neuf pour rien
+    - zéro zéro 2020
+    - Assistant robotique
+- Magnifique compte
+    - Micro-vie Tsinghua
+    - Blanchisserie libre-service Haisheng
+    - Campus intelligent de Jieli
+    - Campus voisin
+    - | Perdez-le |
+    - Tout en douceur
+    - Billetterie pour la salle de conférence de l'Université de Pékin
+    - Salle de conférence du centenaire de l'Université de Pékin
+    - Centre de recherche sur l'informatique frontière de l'Université de Pékin
+    - Learn Helper Assistant de classe en ligne
+    - Expérience Qingqing
+    - Assistant d'information THUInfo
+    - Sœur de l'école
+- Compte personnel
+    - mi-marée
+    - Manshi babillage
+    - Lapin Blanc et Vieilles Histoires
+    - le petit magasin de pensées d'osci
+    - Fu Xi
+    - ma cantine de fin de soirée
+    - Je veux aussi manger de la viande aujourd'hui
+    - La myopie du professeur Rao
+    - Wen Dao Ri Fei
+    - Jardin d'enfants familial d'amour funéraire de Wudaokou
     - AlphaLyrae
-    - 有关风月
-    - 宇宙的杂货铺
-    - 精神病人欢乐多
-    - 球状阿慧
-    - 未知坐标戏
-    - 星渊乱谈
-    - 北极星校园观察
-    - 不愿正常
-    - 乱纪元
+    - À propos de Fengyue
+    - L'épicerie de l'univers
+    - Les malades mentaux sont heureux
+    - Ahui sphérique
+    - jeu de coordonnées inconnues
+    - Discussion aléatoire de Xingyuan
+    - Observation du campus Polaris
+    - Je ne veux pas être normal
+    - L'ère du chaos
 
-（注：对于个人帐号，需要与号主沟通成功后才能收录在此）
+(Remarque : pour les comptes personnels, vous devez communiquer avec succès avec le propriétaire du compte avant de pouvoir les inclure ici)
 
-（注：对于个人帐号，信息流服务需要进行单独沟通）
+(Remarque : pour les comptes personnels, les services de flux d'informations nécessitent une communication séparée)
 
-## 知乎
+## Zhihu
 
-* 方政清
-* 孙孟越
-* 孙恒
+* Fang Zhengqing
+* Sun Mengyue
+* Sun Heng

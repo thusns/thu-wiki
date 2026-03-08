@@ -1,0 +1,9 @@
+# Anglais pour les sciences et technologies, audiovisuel et écoute (intermédiaire, avancé)
+
+
+
+Choisissez ce cours avec soin. Les missions sont très complexes. Il y a généralement plus de dix missions hebdomadaires. Il existe également un dicton selon lequel « échouez une partie, puis échouez le cours ». L'enseignant ne tolère pas l'abandon du cours à mi-parcours et assigne un grand nombre de devoirs d'avant-vacance et de devoirs réguliers. Il est prévu que le temps consacré à ce cours soit supérieur à une heure chaque jour.
+
+Ce cours est fortement recommandé aux étudiants qui ont besoin d'améliorer leur anglais. Aujourd'hui, alors que les cours d'anglais à l'Université Tsinghua deviennent de plus en plus populaires, le professeur Wang Ying exige strictement que les étudiants maîtrisent tous les aspects, y compris le vocabulaire complet et scientifique et la maîtrise de l'anglais. Comprendre pleinement les multiples significations de chaque mot dans son contexte nécessite beaucoup de mémorisation et de travail des mots, et maîtriser l'écoute de conversations en anglais nécessite également beaucoup de formation à l'écoute, il n'est donc pas surprenant que ce cours comporte beaucoup de devoirs.
+
+Le professeur Wang Ying propose également un cours intitulé « Le pouvoir du vocabulaire ». On dit que les personnes qui suivent les trois cours du professeur peuvent avoir un niveau de vocabulaire allant jusqu'à 8 000. . .

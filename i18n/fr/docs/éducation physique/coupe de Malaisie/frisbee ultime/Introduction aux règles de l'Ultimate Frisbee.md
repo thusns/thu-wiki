@@ -1,0 +1,75 @@
+# Introduction aux règles de l'Ultimate Frisbee pour la "John Ma's Cup"
+
+## Ouverture (Défenseur)
+
+- Après avoir marqué, les deux équipes **échangent des terrains offensifs et défensifs** ; **côté buteur** ouvre le jeu
+- **Pied** : L'équipe défensive est placée complètement derrière le plan vertical de la ligne de score ; l'équipe offensive doit se tenir avec un pied sur la ligne de score défensive (je n'ai pas dit devant et derrière ?) et ne pas changer leurs positions relatives les unes par rapport aux autres. Une fois le **disque libéré**, tous les joueurs peuvent se déplacer à volonté.
+- **La soirée d'ouverture ne peut pas toucher le marché**.
+- **Signal** : L'ouvreur doit lever la main pour signaler, et au moins une personne de l'équipe offensive doit lever la main pour signaler.
+- **Rouler** : n'importe quel membre de l'équipe peut empêcher le frisbee de rouler ou de glisser après son atterrissage. Si le disque n'est pas hors limites, le détenteur du disque doit établir un pivot au point où le disque s'arrête (ou commence à empêcher son roulis), ainsi que la zone de score.
+- Le frisbee glisse hors des limites après l'atterrissage : la position où le frisbee sort en premier des limites
+- Le Frisbee sort directement des limites : la pièce en plastique proche de votre propre zone de score défensive ou la zone centrale la plus proche de la position où le Frisbee sort des limites (la partie entre les deux zones de score, il vaut donc mieux la lancer trop loin que d'être en plein dans la zone de score)
+
+## Inspection
+
+- **Tous les joueurs doivent rester immobiles avant le test. **
+- Lorsque le détenteur du disque est entouré d'un défenseur, celui-ci doit toucher le disque.
+- Il n’y a aucun joueur défensif à côté du détenteur du disque. Le détenteur du disque doit frapper le disque au sol et crier « le jeu commence ».
+- Si le disque est au sol, le défenseur le plus proche du disque crie « Game Start »
+
+## hors limites
+
+- Si le titulaire réussit à reprendre la plaque dans les limites puis à la toucher hors des limites, cela est compté comme ** dans les limites **.
+- Lorsque le joueur atteint la limite, il doit revenir en position de touche pour continuer.
+- Si le lanceur touche la zone hors limites avant de lancer le lancer, celui-ci sera toujours considéré comme étant dans les limites (le lancer peut être passé hors des limites, mais un pied est toujours dans les limites/sur la ligne de touche car on ne peut pas bouger).
+- Si une partie du corps de l'attaquant est hors des limites lors de la prise de contrôle, la prise de contrôle sera considérée comme un **échec**.
+- Si l'équipe offensive reçoit le disque en l'air et que le premier point de contact lors de l'atterrissage est hors des limites, cela est considéré comme un échec. (Sautez pour attraper le ballon, mais le premier point d'atterrissage doit être dans les limites. Si vous tombez sans rester ferme, il doit également être dans les limites.)
+
+## défense
+
+- Les compteurs ne peuvent compter les secondes que si le protège-disque se trouve à moins de 3 mètres du support de disque.
+- Une seule personne peut défendre le compte à rebours
+- Si les joueurs offensifs et défensifs attrapent le disque en même temps, le **joueur offensif** obtient le disque.
+- Tous les joueurs doivent essayer d'éviter tout contact physique avec d'autres joueurs, y compris les non-détenteurs de disque (essayez de ne pas serrer dans vos bras les joueurs offensifs non-détenteurs de disque)
+
+## faute
+
+- Vous ne pouvez pas prendre l'initiative de toucher le titulaire avant de vendre l'offre. Peu importe que le titulaire prenne l'initiative de toucher à l'offre ; collision physique intentionnelle lors d’une compétition pour l’offre élevée.
+- Le défenseur se trouve dans une position qui ne peut être évitée par le joueur qui tient le disque s'il se déplace de manière légale (?!!)
+- À au moins un diamètre de frisbee
+- Le défenseur utilise n'importe quelle partie de son corps pour bloquer délibérément la vue du défenseur (?!!)
+- Le joueur attaquant passe intentionnellement le disque à un autre joueur, et les deux joueurs sont en contact avec le disque en même temps dans le processus (**ne peut pas remettre le disque**)
+- Le détenteur du disque lance intentionnellement le disque sur un autre joueur et le renvoie vers lui-même.
+- Une fois que le détenteur du disque a passé le disque, il l'attrape avant qu'un autre joueur ne touche le frisbee (**Vous ne pouvez pas le lancer vous-même et l'attraper vous-même sans être touché par les autres**)
+
+## marqueur
+
+Les deux équipes doivent envoyer un buteur pour superviser l'enregistrement des scores.
+
+## fin du jeu
+
+### Victoire +3 points ; Échec +0 points
+
+* Atteindre 11 points
+* Après 50 minutes, atteignez d'abord le score de « l'équipe en tête gagne un point » (vous pouvez continuer à courir après avoir pris du retard, et le bris d'égalité sera le bris d'égalité)
+* À 60 minutes, celui qui a le score le plus élevé (ne semble pas mettre fin au point actuel)
+
+### Tirer +1 point
+
+À 60 minutes, le score est le même (cela ne semble pas mettre fin au point actuel)
+
+## Taille du lieu
+
+![](https://github.com/thusns/thu-wiki/blob/main/images/%E4%BD%93%E8%82%B2/%E6%9E%81%E9%99%90%E9%A3%9E%E7%9B%984.png?raw=1)
+
+## mi-temps
+
+Lorsqu'une équipe marque 6 points, il y aura un entracte d'une minute et demie. Après l'entracte, le terrain, l'attaque et la défense seront modifiés.
+
+## Pause et pause mentale
+
+Il y a deux temps morts dans chaque match, un pour chaque équipe au début du match et un après la mi-temps. Chaque timeout dure une minute.
+
+## Changer les membres de l'équipe
+
+Avant le début de chaque point, vous pouvez choisir de remplacer les joueurs sur le terrain. Après le début d'un point, sauf en cas de facteurs particuliers tels qu'une **blessure**, vous ne pouvez pas remplacer les joueurs sur le terrain. Il n'y a pas de limite au nombre de remplacements effectués toutes les deux minutes**.

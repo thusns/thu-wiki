@@ -1,0 +1,175 @@
+# Concours d'innovation scientifique et technologique
+
+(Remarque supplémentaire, ce contenu provient du Concours d'innovation scientifique et technologique 2021 (couverture) de la *Association de compte officiel pour la science et la technologie THU*. S'il y a un écart avec le concours 2022, veuillez aider à le modifier, merci)
+
+
+
+## Concours d'affichage des réalisations
+
+- « Coupe du défi » de l'Université Tsinghua
+
+​ De la fin du semestre d'automne au début du semestre de printemps
+
+- **Festival de la culture des talents**
+
+Semaines 5 à 14 du semestre de printemps
+
+- **Concours d'analyse des points chauds économiques « Jinjing Ledao »**
+
+​ Semaines 2 à 9 du semestre d'automne
+
+- *Concours national d'économie d'énergie et de réduction des émissions pour les étudiants universitaires sur les pratiques sociales et les sciences et technologies*
+
+Trimestre d'été
+
+- **Concours de conception d'énergie**
+
+​ Semaine 5 du semestre de printemps
+
+- **Concours de connaissances sur les sciences de la vie du Festival de la culture des sciences de la vie de la capitale Qixing**
+
+Semaines 6-7 du semestre de printemps
+
+- Concours créatif d'espace souterrain du campus de l'Université Tsinghua
+
+​ Semaine 10 du semestre d'automne
+
+- **Concours de technologie des transports**
+
+Semaines 6 à 12 du semestre de printemps
+
+- *Concours d'innovation sur les villes et infrastructures du futur*
+
+Fin du semestre d'automne + vacances d'hiver + milieu du semestre de printemps
+
+- Concours de conception d’innovations en matière d’instruments médicaux
+
+​ Semestre d'automne 9-10 semaines
+
+
+
+## Compétition technique avancée
+
+- Concours de conception de logiciels
+
+​ Vacances d'hiver
+
+- Concours de conception de matériel
+
+Trimestre d'été
+
+- Concours de conception électronique
+
+Semestre d'automne
+
+- Concours de conception d'innovation mécanique
+
+Semestre d'automne semaines 2-14
+
+- Concours d'impression 3D
+
+Semaines 6-7 du semestre d'automne
+
+- Concours de compétences en matière d'expérimentation métallographique
+
+Semaine 12 du semestre de printemps
+
+- Concours de conception créative de simulation virtuelle de l’Université Tsinghua
+
+Semaines de printemps 6 à 10
+
+- Concours de voitures intelligentes
+
+Semestre de printemps
+
+- Concours de classement d'analyse de données de neutrinos "Ghost Hunter"
+
+Semaines 1 à 16 du semestre de printemps
+
+- Défi de stratégie quantitative iCenter de l'Université Tsinghua
+
+Semestre de printemps semaines 14-15
+
+- Défi du matériel intelligent iCenter de l'Université Tsinghua
+
+Semestre d'automne semaines 14-15
+
+- Concours de capacités complètes pour la formation en ingénierie des étudiants collégiaux
+
+Semestre d'automne
+
+- Concours de conception structurelle de l'Université Tsinghua
+
+Semaines du semestre d'automne 9-14
+
+- Concours intéressant de conception de structures de l’Université Tsinghua
+
+Semaines du semestre de printemps 9-14
+
+- Concours de connaissances en sciences humaines
+
+Semestre d'automne semaines 10-11
+
+- Stratégie GS (carte·plan)
+
+Trimestre d'été
+
+- Concours d'agents
+
+Semestre de printemps
+
+- Concours de marketing automobile « Yingzhijie »
+
+Semestre d'automne semaines 15-16
+
+- Projet Innosilicone
+
+Camp d'hiver pour les vacances d'hiver
+
+- Défi de l'intelligence artificielle
+
+Semestre de printemps
+
+- Défi des drones intelligents
+
+​ Semaines 1 à 13 du semestre d'automne
+
+- Concours de conception d'innovation de système numérique TI Cup
+
+Semestre de printemps
+  
+- Concours d'été d'échelle scientifique et technologique
+
+- Concours de conception optoélectronique de l'Université Tsinghua
+
+- Concours de conception d'avions du futur « Aerospace Division Four Pioneer Cup »
+
+- Compétition de planeurs à main non motorisés sur le campus
+
+- Concours de mécanique théorique
+
+- Défi de charge d’aviation intérieure
+
+- Défi de conception de produits pour l'ensemble du processus aérospatial
+
+- Concours de modélisation mathématique de la Coupe « Hua Luogeng » de l’Université Tsinghua
+
+- Exposition Explosion - Exposition d'œuvres d'étudiants de l'Académie des Beaux-Arts de l'Université Tsinghua
+
+- Prix ​​Purple Gold · Concours d'architecture et de conception environnementale
+
+- Festival des matériaux - Exposition des œuvres des étudiants de l'Académie des Beaux-Arts de l'Université Tsinghua
+
+- Défi Créateur Tsinghua
+
+- Concours de technologies de sécurité des réseaux pour étudiants de l’Université THUCTF-Tsinghua
+
+- Concours de discours anglais de l'Université Tsinghua
+
+
+
+## Concours de première année
+
+### Concours de capacités de première année
+
+### Concours de connaissances de première année

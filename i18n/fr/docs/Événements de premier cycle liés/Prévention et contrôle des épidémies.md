@@ -1,0 +1,43 @@
+# Prévention et contrôle des épidémies
+
+## Exemple de notification de mesures normalisées de prévention et de contrôle
+
+1\.**Étudiants entrant et sortant temporairement de l'école**.
+
+Les étudiants qui sont à Pékin depuis 7 jours et n'ont pas d'itinéraire lié à l'épidémie (code vert de santé) et qui souhaitent demander une entrée et une sortie temporaires le même jour, peuvent sélectionner « quitter et entrer de l'école le même jour » ou « entrer et quitter l'école le même jour » à l'avance dans « Approbation d'entrée et de sortie des étudiants » du système de service en ligne de l'école (TsinghuaOS). Après avoir rempli honnêtement les informations complètes telles que la date d'entrée et de sortie, le motif, la piste d'action, la lettre d'engagement, etc., ils ne peuvent entrer et sortir de l'école que si le système l'approuve.** Parmi eux, ceux qui quittent l'école pour étudier la recherche scientifique doivent présenter un certificat de recherche scientifique délivré par l'instructeur ; ceux qui recherchent un traitement médical doivent fournir une attestation d'enregistrement de rendez-vous ; ceux qui effectuent des stages/cours doivent présenter des attestations de stage/cours ; et d'autres besoins de service de vie et d'autres raisons doivent être entièrement expliqués dans le système. Après avoir quitté l'école, vous devez être sur la ligne « deux points et une ligne » entre le campus et la destination approuvée, porter une protection individuelle et ne pas être autorisé à vous rendre dans d'autres lieux non agréés et zones liées à l'épidémie de la ville.
+
+2\.**Les étudiants quittent l'école/quittent Pékin. **
+
+** Examiner et approuver strictement les demandes des étudiants souhaitant quitter Pékin. Si vous devez vraiment quitter le campus/Pékin en raison de circonstances extrêmement particulières**, vous devez sélectionner « Quitter uniquement le campus » dans « Approbation d'entrée et de sortie des étudiants » dans le système de service en ligne. **Vous ne pouvez quitter le campus/Pékin qu'après approbation du département où vous vous trouvez**.
+
+3. **Les étudiants retournent à l'école/retournent à Pékin**.
+
+Si les étudiants qui vivent sur le campus demandent à retourner sur le campus, s'ils n'ont pas de passage de frontière terrestre dans les 7 jours, ont plus d'un cas d'infection ou ont des antécédents de voyage dans des comtés (villes, districts, bannières) où se trouvent des risques moyens et élevés, ils peuvent sélectionner une candidature « sur le campus uniquement » dans « Approbation d'entrée et de sortie des étudiants » du système de service en ligne. Ils ne peuvent retourner sur le campus/retourner à Pékin qu'après avoir obtenu l'approbation du département et l'approbation secondaire de l'école**. Ceux qui sont à Pékin depuis moins de 7 jours devront séjourner dans un logement centralisé sur le campus après leur retour à Pékin. Ils doivent effectuer le suivi de santé de 7 jours et le « test 7 jours sur 7 » d'acide nucléique à Pékin avant de retourner au dortoir.
+
+4. Les étudiants de troisième cycle à temps partiel sont suspendus de l'entrée à l'école pour suivre les cours ; s'ils ont réellement besoin d'entrer à l'école en raison de circonstances particulières, s'ils sont à Pékin depuis sept jours et n'ont pas effectué de déplacement lié à l'épidémie (Code vert pour la santé), se référer à l'article 1.
+
+5. Les exigences pertinentes en matière de gestion de la prévention et du contrôle des épidémies pour les étudiants de la Shenzhen International Graduate School seront formulées séparément par l'Institut de technologie de Shenzhen conformément aux politiques locales de prévention et de contrôle des épidémies.
+
+Tous les étudiants sont priés de respecter consciemment diverses réglementations sur la prévention et le contrôle des épidémies, de mettre en œuvre des exigences régulières en matière de tests d'acide nucléique, ** s'ils présentent des symptômes physiques pertinents, de signaler et de consulter un médecin dès que possible, et d'assumer strictement leurs responsabilités personnelles en matière de prévention et de contrôle des épidémies. **Ceux qui ont réellement besoin d'entrer ou de sortir de l'école doivent respecter leurs engagements, remplir les informations de manière véridique, exacte et complète, prendre une protection personnelle en matière de santé et ne pas se rendre dans les bars ou autres lieux de rassemblement. Quiconque dissimule, ment, omet ou rapporte tardivement des informations personnelles liées à l'épidémie, ou enfreint les réglementations de prévention et de contrôle de l'épidémie et entraîne des conséquences néfastes sera sévèrement puni conformément aux lois et réglementations.
+
+Chacun est responsable de la prévention et du contrôle des épidémies. Travaillons ensemble pour construire un campus sûr et sain ! Si la situation épidémique change ou si de nouveaux ajustements sont apportés aux exigences des supérieurs, l'école ajustera les exigences de gestion en temps opportun et vous en informera ultérieurement.
+
+Si vous avez des besoins de consultation, vous pouvez nous contacter via les méthodes suivantes :
+
+Étudiants de premier cycle : 62782028
+
+xscswb@tsinghua.edu.cn
+
+Étudiants diplômés : 62792480
+
+yjsbswb@tsinghua.edu.cn
+
+Département étudiant du comité du parti
+
+Département des affaires supérieures du Comité du Parti
+
+16 septembre 2022
+
+## Bureau de délivrance des avis
+
+Compte officiel du « Bureau des affaires étudiantes de l'Université Tsinghua »

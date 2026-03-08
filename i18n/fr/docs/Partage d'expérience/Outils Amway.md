@@ -1,0 +1,15 @@
+# Outils Amway
+
+## Comment obtenir des livres électroniques
+
+1. Plateforme de services d'enseignement du ginseng : http://reserves.lib.tsinghua.edu.cn/，内含许多教材，如没找到还可以向图书馆请求教材。
+2. Bibliothèque Z (nécessite un accès Internet magique)
+3. Union de référence des bibliothèques nationales http://www.ucdrs.superlib.net/
+4. Jiumo Recherche de livres https://www.jiumodiary.com/
+5. Lecteur PDF https://www.pdfdrive.com/
+6. Lorefree https://ebook2.lorefree.com/
+7. La recherche de livres sur Taobao coûte environ 2 à 3 yuans/livre.
+
+## Logiciel de cartographie mentale gratuit
+
+Rideau (extrait de mubu.com)

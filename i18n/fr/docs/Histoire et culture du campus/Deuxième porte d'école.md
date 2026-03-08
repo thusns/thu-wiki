@@ -1,0 +1,11 @@
+# Deuxième porte d'école
+
+## Apparence
+
+La deuxième porte du campus est située sur Qinghua Road, l'une des routes principales de l'Université Tsinghua. C'est l'un des bâtiments emblématiques les plus représentatifs de l'Université Tsinghua et est considéré comme un symbole de l'Université Tsinghua. La deuxième porte de l'école est un bâtiment classique et élégant de style « arcade » avec trois arches, des briques bleues et des colonnes blanches. Le linteau est gravé des trois caractères « Jardin Tsinghua » de la main de Na Tong, un grand érudit de la fin de la dynastie Qing. Debout sur Tsinghua Road et en regardant vers le nord jusqu'à la deuxième porte de l'école, vous pouvez voir au loin l'Auditorium Tsinghua, le cadran solaire et l'Académie Tsinghua.
+
+La deuxième porte du campus est la première porte principale du campus de l'Université Tsinghua et a été construite en 1909. En 1933, le campus a été agrandi, le mur du jardin a été déplacé vers l'extérieur et une nouvelle porte (aujourd'hui la porte ouest du campus) a été construite. Depuis lors, cette première porte d'école est appelée « la deuxième porte de l'école ».
+
+Le 24 août 1966, la deuxième porte de l'école a été renversée et fracassée par les « Gardes rouges de l'Université Tsinghua » sous le nom de « quatre vieux ». À l'occasion du 80e anniversaire de Tsinghua en 1991, grâce aux dons des anciens élèves de Tsinghua, la deuxième porte a été reconstruite sur son site d'origine.
+
+Printemps, été, automne et hiver, année après année, le temps passe vite. Située sur la route principale du campus, la porte du deuxième campus témoigne silencieusement de l'histoire et du développement de l'université Tsinghua sous le vent et la pluie. Ce n'est pas seulement un symbole distinctif de l'Université Tsinghua, mais aussi un symbole du caractère de longue date du peuple Tsinghua qui est diligent, réaliste et insensible à l'honneur ou à la disgrâce.

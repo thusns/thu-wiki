@@ -1,0 +1,14 @@
+---
+title: Guide pratique
+description: La page du guide de pratiques sociales résume les informations de base sur la sélection des sujets, l'établissement, la mise en œuvre et l'achèvement du projet.
+---
+
+# Guide pratique
+
+## À ajouter/résumé
+
+- Instructions sur l'ensemble du processus de pratique, y compris la préparation préliminaire, la division du travail en équipe et la formulation du plan d'exécution.
+- Exigences courantes en matière de matériaux et de nœuds, telles que la candidature au projet, l'inspection à mi-parcours et la soumission de l'achèvement du projet.
+- Les recommandations en matière de risques et de sécurité couvrent des points clés de la gestion de la sécurité, de l’utilisation des fonds, ainsi que de la communication et de la collaboration.
+
+> Bienvenue à ajouter : heure de l'événement, mode d'inscription, coordonnées.

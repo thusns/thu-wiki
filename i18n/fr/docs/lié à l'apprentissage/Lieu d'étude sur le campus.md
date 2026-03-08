@@ -1,0 +1,35 @@
+# Introduction aux lieux d'auto-apprentissage et aux bâtiments d'enseignement sur le campus
+
+## Comment vérifier l’état d’occupation d’une salle de classe ?
+   1. Accédez aux Services d'information de l'Université Tsinghua-Apprentissage et affaires académiques-Information publique-Informations sur les salles de classe et sélectionnez le bâtiment d'enseignement correspondant.
+   2. Le statut d’occupation des salles de classe sera affiché à la porte de chaque bâtiment d’enseignement.
+   3. Recherchez « Ressources de classe » dans l'application THUInfo (téléchargez le compte public WeChat « THUInfo Information Assistant »).
+
+## Bâtiment d'enseignement
+
+* Premier enseignement : Les premier et deuxième étages sont des salles de classe, avec cinq petites salles de classe et quatre grands escaliers ; le troisième étage est réservé aux groupes d'intérêt étudiants ; les numéros de classe vont de 101 à 205.
+* Deuxième enseignement : non ouvert à l'auto-apprentissage, il y a trois grandes salles de classe ; les numéros de classe vont de 401 à 403 ;
+* Trois enseignements : La première section est principalement constituée de petites classes et de salles de discussion ; la deuxième section est composée de quatre salles de classe à échelle, chaque siège a une prise ; la troisième section comprend des salles de discussion, des salles de classe, des salles informatiques, etc. Les sections 2102 et 2302 de la section 2 sont entrées par derrière la section 1, du côté du sixième enseignement ; il y a des compartiments au premier étage de la section 3 pour une seule étude ; le nombre de salles de classe va de 1101 à 3513 ; le premier chiffre du numéro de classe est le numéro de section et le deuxième chiffre est l'étage ;
+* Quatre enseignements : Les premier au quatrième étages sont des salles de classe ; il y a six salles de classe à chaque étage et il y a des postes d'auto-apprentissage de type bar à l'extérieur de chaque étage ; les numéros de classe vont de 4101 à 4406 et le deuxième chiffre est l'étage ; les 3ème au 5ème étages sont également équipés de quatre salles de séminaire à chaque étage ;
+* Cinq Enseignements : (En maintenance, temporairement fermé) ;
+* Sixième enseignement : Il est divisé en trois zones : A, B et C. La zone A comprend 6 étages, comprenant des salles de classe petites, moyennes et grandes. Les étages 0 à 4 sont des salles de classe et le 5ème étage est le laboratoire de physique. L'étage 0 doit descendre du premier étage. Il y a également des salles de séminaire aux deuxième et troisième étages ; La zone B comprend 9 étages. , dont les étages 1 à 4 sont de petites salles de classe, les étages 5 à 8 sont des laboratoires de physique et l'étage 9 est l'Institut de recherche Tsinghua Taiwan ; La zone C comprend 3 étages, qui sont tous des salles de classe avec échelle ; les numéros de classe vont de 6A001 à 6C300, le deuxième chiffre est l'indicatif régional et le troisième chiffre est le numéro d'étage ;
+* Xinshui : Nouveau bâtiment de conservation de l'eau, les troisième et quatrième étages sont des salles de classe et des bureaux, dont une salle de dessin au troisième étage, le nombre de salles de classe est de 300 à 407 ;
+* Jiushui : L'ancien bâtiment de conservation de l'eau comprend des salles de classe et des bureaux au troisième étage. Les numéros de classe sont 301-307 ;
+* Académie Tsinghua : les premier et deuxième étages sont des salles de classe, et il y a des salles de séminaire au sous-sol ; ouvert jusqu'à 23h30 le soir ;
+* Fatu Underground : entrez par la place en contrebas du côté ouest de la bibliothèque de droit, avec des salles de séminaire ; numéros de classe B101-B122 ;
+
+## bibliothèque
+* Ancienne bibliothèque : horaires d'ouverture : 8h00～22h30 ;
+* Hall Nord (Salle Li Wenzheng) : Heures d'ouverture : de 8h00 à 22h00 ;
+* Bâtiment Ouest (bâtiment Yifu) : Heure d'ouverture de 8h00 à 22h00 ;
+* Wentu (Bibliothèque des sciences humaines et sociales de Kaifeng) : Horaires d'ouverture : de 8h00 à 22h00 ;
+* Fatou (bâtiment Liao Kaiyuan) : Heure d'ouverture de 8h00 à 17h00 ;
+
+## centre d'activités
+* Troisième étage du bâtiment C (24h) : L'espace ouvert au troisième étage du bâtiment C est disponible pour l'auto-apprentissage 24h/24, mais il y a relativement peu de places.
+* Souterrain du District Sud : Il s'agit du centre d'activités étudiantes du district Sud, équipé de canapés, de tabourets hauts et d'autres installations ; les heures d'ouverture sont de 8h00 à 23h00 ;
+
+## Librairies et cafés
+* Yejiaxuan : une librairie ouverte 24h/24, située au rez-de-chaussée du bâtiment Nord (bâtiment Li Wenzheng) ;
+* Librairie Bauhinia : Située au rez-de-chaussée du jardin Guanchou ;
+* Youli Café : situé au deuxième étage du jardin Zhilan ;

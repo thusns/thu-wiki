@@ -1,0 +1,163 @@
+# Match de basket-ball de classe de premier cycle "Top of Bauhinia"
+
+## comité d'organisation
+
+Il est composé conjointement du **Département de la culture et des sports du Comité de la Ligue de la jeunesse communiste de l'Université Tsinghua** et du **Département des sports de l'Union des étudiants de l'Université Tsinghua**. Responsable de la préparation et de l'organisation de ce match de basket.
+
+## comité d'arbitrage
+
+Il est composé conjointement du **Département de la culture et des sports du Comité de la Ligue de la jeunesse communiste de l'Université Tsinghua** et du **Département des sports de l'Union des étudiants de l'Université Tsinghua**. Responsable de l'arbitrage de ce match de basket.
+
+## Dispositions relatives au calendrier et au format
+
+### Format du concours
+
+* Étape 1 : **Qualification**
+* Étape 2 : **Tour de Wild Card**
+* La troisième étape : **Concours formel**
+
+#### tour de qualification
+
+Pour les ligues de basket intra-départementales des départements membres de l'alliance, le système de compétition est fixé par chaque département. La **1ère place** des éliminatoires départementales peut directement se qualifier pour le **concours officiel** au semestre de printemps.
+
+#### tour de joker
+
+Toute équipe de premier cycle qui ne parvient pas à se qualifier pour la compétition officielle via les qualifications peut se qualifier pour la compétition officielle via la compétition wild card. Les étudiants de première année et les anciens étudiants participeront à des **compétitions à élimination directe** dans des **divisions divisées**. Le quota de promotion au concours officiel dans chaque division sera déterminé par l'inscription de la classe. Un total de **64-X** places de qualification pour la compétition formelle seront déterminées lors de la compétition wild card (X est le nombre d'équipes qui s'inscrivent directement pour passer à la compétition formelle). Les modalités spécifiques seront notifiées séparément en fonction du statut d'enregistrement.
+
+#### match officiel
+
+Au total, **64** équipes se sont inscrites à la compétition officielle. La compétition est divisée en phase de groupes et en phase à élimination directe, et est divisée en deux étapes.
+
+##### phase de groupes
+
+Format de tournoi à la ronde unique : 64 équipes sont divisées en 16 groupes, avec 4 équipes dans chaque groupe s'affrontant dans un **tournoi à la ronde unique**, les deux meilleures équipes du groupe entrant dans les huitièmes de finale. (Les classements de groupe sont d'abord triés en fonction de leurs victoires respectives. Si deux équipes ont le même nombre de victoires, le classement de groupe sera déterminé en fonction du rapport victoires-défaites entre les deux équipes ; si trois équipes ont le même nombre de victoires, le classement de groupe sera déterminé en fonction de la différence moyenne de points entre les trois équipes (les matchs gagnés suite à l'abandon des adversaires seront déduits pour calculer la différence moyenne de points). Si la différence moyenne de points est la même, les trois équipes seront classées du haut au bas selon au score total du jeu. Si le total des points est le même, le classement sera déterminé par tirage au sort).
+
+##### Système d'élimination unique
+
+Jusqu'à ce que le gagnant soit déterminé.
+
+### Heure et lieu du jeu
+
+#### temps de jeu
+
+* Qualificateurs régionaux : chaque département s'organise ;
+* Concours Wild card : semestre d'automne, l'heure précise sera communiquée ultérieurement ;
+* Concours formel : semestre de printemps, l'heure précise sera communiquée ultérieurement.
+
+#### Lieu de compétition
+
+Les matchs se dérouleront tous sur le **terrain de basket-ball de Dongcao**, et les quatre terrains de basket utilisés sont les 1, 2, 4 et 5. Avant le match, le site sera occupé par le personnel du département des activités culturelles et sportives. Si quatre matchs commencent en même temps, l'attribution spécifique des sites sera basée sur l'ordre indiqué dans le calendrier. Les sites 1, 2, 4 et 5 seront attribués séquentiellement. Les courts n°3 et n°6 sont principalement réservés au secours. Si certaines équipes doivent temporairement changer de site pour des raisons de temps, le court n°3 ou n°6 peut être utilisé pour le match.
+
+#### Conditions pour demander un changement temporaire d’heure de jeu
+
+Le processus de coordination est mené en privé par chaque équipe et le comité d'organisation ne teste que la coordination du temps. Le comité d'organisation décidera d'accepter ou non le changement de l'heure de la compétition en fonction de facteurs spécifiques, tels que l'impact ou non sur le processus de compétition. Recevoir un e-mail de réponse du comité d'organisation acceptant le changement signifie que l'heure de la compétition peut être modifiée.
+
+##### Échange de temps de match
+
+Si une équipe participante n'est pas en mesure de rassembler 5 partants à l'heure et au lieu spécifiés pour des raisons non personnelles telles que la participation à diverses activités de grande envergure de l'école ou du département, ou la participation à la Horse Cup, à d'autres événements majeurs de la ligue sportive, etc., elle peut négocier à l'avance avec ses adversaires et les deux équipes en compétition à d'autres moments. Après consultation et accord des quatre équipes, un email de candidature sera envoyé à l'adresse email du comité d'organisation thuxhty@163.com dans le délai de modification de candidature, et copié aux trois autres équipes. Parallèlement, les membres du comité d'organisation seront rappelés dans le groupe des capitaines. L'heure du concours ne peut être modifiée qu'après confirmation du comité d'organisation.
+
+##### Date limite de demande de transfert
+
+Toute demande de modification de l'heure de jeu doit être effectuée avant 22h00 le mercredi soir correspondant à l'heure de jeu initialement prévue** (l'heure de jeu prédéfinie est le samedi/dimanche). Les demandes de changement de jeu après la date limite ne seront pas acceptées.
+
+##### Il est temps de demander un échange
+
+Limité à 9h00-10h30, 10h30-12h00, 13h30-15h00, 15h00-16h30 le samedi/dimanche de la semaine. S'il existe des circonstances extrêmement particulières qui vous obligent à postuler pour une autre période (par exemple, demander à être transféré à une heure de jeu anormale en milieu de semaine ou le week-end), vous devez envoyer un e-mail à l'avance pour en expliquer la raison. Après accord, le chef d'équipe occupera seul le terrain et contactera l'arbitre et la patrouille du terrain (les coordonnées de l'arbitre et de la patrouille du terrain seront fournies par la Direction des Activités Culturelles et Sportives). L'arbitre et la patrouille du terrain doivent convenir de modifier l'heure avant que le changement puisse être officiellement effectué. Dans le cas contraire, l’équipe qui a demandé en premier le changement d’heure abandonnera la partie.
+
+## Conditions d’éligibilité et modalités d’inscription
+
+### Unité d'enregistrement
+
+Toutes les classes de premier cycle inscrites à l'Université Tsinghua peuvent s'inscrire au concours en tant que **classes administratives**. Chaque classe administrative est limitée à 1 équipe**. La liste des membres de l'équipe participante soumise par chaque équipe doit être d'au moins 5 et d'au plus 12 personnes**.
+
+### Admissibilité
+
+Chaque département (collège) de premier cycle de l'Université Tsinghua peut soumettre une équipe de classe pour participer directement au concours formel. Les équipes participantes restantes de chaque département s'inscriront pour participer au concours wild card et concourront pour les places officielles du concours. Si le nombre de garçons dans les deux classes est inférieur à 8 (hors 8), et que les deux classes sont dans le même département et niveau, ils peuvent former une équipe. L'alliance sera considérée comme une équipe de classe et le calcul des points du département ne sera pas différent de celui d'une équipe de classe ordinaire.
+
+### Qualifications des membres de l'équipe
+
+1. Les membres de l'équipe inscrits doivent être des étudiants de premier cycle de leur classe qui sont officiellement inscrits à l'Université Tsinghua cette année universitaire ;
+2. Il n’y a aucune limite de sexe pour les membres de l’équipe participante ;
+3. Les étudiants internationaux et les étudiants en échange peuvent participer ;
+4. Les étudiants orientés ne peuvent participer au concours qu'au nom de la classe administrative et ont besoin d'un certificat du comité (de travail) de la Ligue de la jeunesse de leur département ;
+5. Les étudiants qui ont été admis dans l'équipe représentative sportive avec des scores réduits selon les normes de l'équipe de catégorie A ne sont pas éligibles pour participer ;
+6. Étudiants admis selon le standard de l'équipe sportive de type B : dans chaque match, à l'exception des demi-finales et des finales de la compétition formelle, pas plus d'une personne ne peut être présente à tout moment pendant la compétition ; chaque personne ne peut pas jouer plus de 2 quarts-temps, et le nombre total d'élèves dans cette catégorie ne doit pas dépasser 2 quarts-temps ; lors des demi-finales et des finales de la compétition formelle, pas plus d'une personne ne doit être présente à tout moment pendant la durée de la compétition ; chaque personne ne peut pas jouer plus de 3 quarts-temps, et le nombre total d'élèves de cette catégorie ne doit pas jouer plus de 3 quarts-temps.
+7. Au cours de la saison, s'il y a un changement dans la classe administrative pour des raisons majeures de classification, etc., les membres de l'équipe participante ne peuvent toujours représenter l'équipe qu'avant le changement ;
+8. Si l'équipe inscrite ne remplit pas les conditions de qualification des joueurs mentionnées ci-dessus, le comité d'organisation a le droit de disqualifier l'équipe ou l'alliance de la compétition.
+
+### Mode d'inscription
+
+#### Qualifications de division
+
+Chaque département formulera son propre règlement, organisera les inscriptions et organisera des concours ; chaque département communiquera la classe officielle du concours sur la base des résultats du concours de l'année scolaire précédente.
+
+#### tour de joker
+
+L'inscription est volontaire, classe par classe. Il n'y a pas de limite au nombre de classes inscrites pour chaque département. Le nombre de participants pour chaque classe inscrite est d'au moins 5 et d'au plus 12. Chaque équipe participante doit inscrire 2 encadrants de terrain en même temps (ils peuvent être des remplaçants ou d'autres étudiants de la même classe). L'organisateur organisera à l'avenir des sessions de formation pertinentes pour les superviseurs de terrain. Cette charte et les documents d'inscription seront envoyés à l'adresse email de la personne de contact de la ligue sportive de chaque département (généralement le président du syndicat étudiant du département ou le vice-président en charge des sports). Chaque classe participante doit renommer le formulaire d'inscription en "Basketball-Jeu officiel-XX Département-Classe XX" ou "Basketball-Jeu de cartes sauvages-XX Département-Classe XX", et soumettre le formulaire d'inscription à la personne de contact de la Ligue sportive départementale dans les meilleurs délais. La personne de contact de la ligue sportive majeure du département devra collecter toutes les fiches d'inscription des départements, compresser la fiche électronique d'inscription de chaque équipe participante et la fiche récapitulative des départements et la nommer « Basket-XX Département » avant [24h00]. le 12 octobre], soumettez-le à thuxhty@163.com et soumettez-le à thuxhty@163.com entre [18h00 et 22h00]. le 13 octobre] Cliquez] Soumettez tous les formulaires d'inscription papier au B221, bâtiment Nord, bâtiment 10, district sud, après qu'ils aient été examinés et tamponnés par le comité de la Ligue de la jeunesse (travail) du département. L'alliance doit également publier une version papier de la liste du personnel de classe qui a été examinée et tamponnée par le comité (de travail) de la Ligue de la jeunesse du département. (Exemples de règles de dénomination : Basketball-Wild Card Game-Département d'électronique-Aucun Classe 81 ; Basketball-Jeu formel-Département d'informatique-Classe 92) Chaque équipe qui accède à la compétition du semestre de printemps a la possibilité de rattraper son inscription au début du semestre de printemps. Les modalités particulières de rattrapage de l'inscription seront soumises au préavis du semestre de printemps.
+
+## Comment s'habiller
+
+Chaque équipe participante doit porter la même couleur. Si les deux équipes portent leurs maillots pendant le match, l'équipe visiteuse (l'équipe située à droite de chaque match dans le calendrier) portera le numéro de maillot du match.
+
+## Règlement du concours
+
+### règle de forfait
+
+#### Forfait avant le match
+
+Chaque équipe participante est tenue de participer à la compétition selon l'heure et le lieu précisés dans le planning. Si pour des raisons non personnelles telles que la participation à diverses activités à grande échelle de l'école ou du département, ou la participation à la Horse Cup, à d'autres événements majeurs de la ligue sportive, etc., il n'est pas possible de rassembler **5 partants** à l'heure et au lieu spécifiés, et si vous souhaitez abandonner le jeu, vous pouvez négocier à l'avance avec l'adversaire. Après négociation et accord des deux parties, un email de candidature sera envoyé à l'adresse email du comité d'organisation **_thuxhty@163.com_** avant minuit tous les jeudis, et copié à l'autre équipe. Parallèlement, les membres du comité d'organisation seront rappelés dans le groupe des capitaines. Ce n'est qu'après confirmation du comité d'organisation qu'ils pourront abandonner le jeu. Les équipes qui envoient des e-mails après le délai imparti ou n'envoient pas d'e-mails de candidature, si elles ne se présentent pas dans les 10 minutes suivant l'heure indiquée, ou s'il y a moins de 5 personnes présentes (hors météo, lieu et autres facteurs objectifs), seront considérées comme **abandon anormal**. Un abandon anormal affectera les points Horse Cup du département lors de l'événement Bauhinia Summit (voir la section Règles des points Horse Cup pour plus de détails).
+
+#### abandonner le jeu
+
+Référez-vous aux règles de la FIBA. Pendant le jeu, si une équipe n'est pas en mesure de continuer à jouer pour une raison quelconque, cela sera traité comme suit : Si l'équipe est actuellement en retard, le score à temps plein sera enregistré comme le score au moment de l'interruption du jeu ; si l'équipe est actuellement en tête ou si les deux équipes sont à égalité, l'adversaire remportera la partie 20 : 0. Par exemple : A joue contre B. Un joueur principal de l’équipe B est blessé et demande à abandonner la partie à mi-chemin. Si B est derrière A à ce moment, le score à temps plein sera enregistré comme le score au moment de l'interruption du jeu, et A gagnera ; s'il y a match nul ou si l'équipe B est en avance, le score sera enregistré comme 20 : 0 et l'équipe A gagnera.
+
+### Règlement sur les superviseurs de terrain
+
+Chaque équipe participante doit inscrire **2 superviseurs de terrain**. Les deux parties participantes** à chaque jeu sont tenues d'envoyer un superviseur de terrain** pour entreprendre conjointement la supervision de ce jeu. Les responsabilités du superviseur de terrain comprennent la vérification des cartes d'étudiant des joueurs avant le match pour confirmer leurs qualifications ; enregistrer le score, les décisions de l'arbitre et d'autres informations sur le terrain sur la feuille de match pendant le match, et être responsable du chronométrage et du retournement du tableau de score ; prendre des photos et recycler le matériel après le match. Les deux superviseurs de terrain doivent faire du bon travail en supervisant le jeu et en se supervisant mutuellement en même temps pour garantir l'équité du processus de jeu et le véritable enregistrement des résultats du jeu.
+
+### Règles d'appel
+
+Si l'équipe participante a une objection au résultat du match, le capitaine doit signer à l'endroit correspondant sur la feuille de match après le match ; s’il n’y a pas d’objection, aucune signature n’est requise. Les équipes qui ont des objections aux résultats du jeu doivent soumettre une demande d'appel et son contenu à l'adresse e-mail du comité d'arbitrage **_thuxhty@163.com_** dans les [**12 heures**] après le match. Le contenu inclut des personnes et des événements spécifiques (les rapports doivent être étayés par des preuves et, si nécessaire, des photos, des vidéos ou d'autres documents doivent être étayés). Le reste de la procédure d'appel et les questions seront menées conformément aux dispositions pertinentes des articles 9 (4) et 9 (5) des « Directives du concours 2021-2022 de l'Université Tsinghua « Coupe John Ma » ». S'il s'avère qu'une équipe participante a enfreint les règles de la compétition pendant la compétition, la classe sera disqualifiée une fois vérifiée. Pour d'autres incidents violents survenant sur le terrain, le comité imposera des sanctions sévères, le cas échéant.
+
+### Autres dispositions
+
+Sauf dispositions particulières, les règles de la compétition feront référence aux règles de basket-ball 2020 approuvées par l'Association chinoise de basket-ball. Les dispositions particulières sont les suivantes :
+
+* Les deux équipes doivent apporter leurs propres ballons de jeu.
+* Utilise des parties des règles de basket-ball 2014, voir l'annexe pour plus de détails.
+* Tous les temps morts ne comptent pas dans le temps de jeu.
+* À l'exception des 2 dernières minutes du quatrième quart-temps et des 2 dernières minutes de chaque période de prolongation, le match se déroulera à temps plein.
+
+## Points de la Coupe Ma John
+
+### Points de base
+
+Le nombre de matchs auxquels toutes les équipes doivent participer et le nombre de matchs auxquels elles ont réellement participé sont pris en compte. Si la somme des matchs réellement joués par toutes les équipes d'un certain département est égale à la somme du nombre de matchs auxquels elles devraient participer, les 30 points seront attribués. Si la partie n'est pas jouée en raison d'un abandon anormal (non-envoi du mail de demande d'abandon dans le délai imparti), 5 points seront déduits pour chaque partie manquée jusqu'à ce que toutes les déductions soient effectuées. Les points de base obtenus par chaque département en fonction de la fin du jeu sont directement ajoutés aux points de la Coupe de Malaisie.
+
+### points bonus
+
+Toutes les équipes qui participent à la compétition officielle recevront des points bonus en fonction de leur classement final. Les points bonus sont répartis en 7 catégories : top 64, top 32, top 16, top 8, top 4, finaliste et champion. Le champion obtiendra 15 points, le finaliste obtiendra 11 points, les 4 premiers obtiendront 9 points, les 8 premiers obtiendront 7 points, les 16 premiers obtiendront 5 points, les 32 premiers obtiendront 3 points et le finaliste obtiendra 1 point. Le cumul des points de récompense pour chaque département de cette catégorie ne doit pas dépasser 30 points. Si une équipe qualifiée pour la compétition officielle abandonne la partie, les points de l'équipe compteront pour 0 point.
+
+## Nœud temporel
+
+* Réunion des chefs d'équipe/réunion de loterie : 16 octobre (dimanche de la cinquième semaine du calendrier académique) 14h00
+* Réunion de formation des superviseurs de terrain : 16 octobre (dimanche de la cinquième semaine du calendrier académique) 15h00
+* Le lieu sera annoncé ultérieurement.
+
+## appendice
+
+Modifications des règles du basket-ball FIBA ​​​​2014 Lien d'origine : http://www.fiba.com/pages/mod/v3/util/downMana.asp?fileID=2376
+
+* 2.4.7 La limite du demi-cercle sans collision fait partie du demi-cercle sans collision.
+* 18.2.5 Chaque équipe peut se voir accorder 2 temps morts à tout moment au cours de la première mi-temps ; 3 temps morts peuvent être accordés en seconde période, et un maximum de 2 temps morts peuvent être accordés au cours des 2 dernières minutes de la seconde mi-temps ; 1 temps mort peut être accordé à tout moment dans chaque période finale.
+* 29.2.2 Après un rebond offensif suite à un panier ou au dernier ou unique lancer franc, le chronomètre des 24 secondes sera réinitialisé à 14 secondes.
+* 38.4.2 Modifié pour indiquer qu'un lancer franc doit être accordé à l'adversaire, suivi d'une remise en jeu sur la ligne médiane prolongée à l'opposé de la table de marque.
+* 38.3.3 Lorsqu'un joueur est accusé de 2 fautes techniques, il sera disqualifié du match.
+
+## déclaration
+
+L'interprétation, la modification et le complément de cette charte appartiennent au Département de la Culture et des Sports du Comité de la Ligue de la Jeunesse Communiste de l'Université Tsinghua et au Département des Sports de l'Union des étudiants de l'Université Tsinghua. Toutes les questions inachevées seront notifiées séparément. Si vous avez des questions, veuillez contacter le personnel concerné du département des sports de l'Union étudiante de l'université Tsinghua.
+Les coordonnées sont les suivantes :
+Département des sports de l’Union des étudiants de l’Université Tsinghua :
+Li Yuxin 18646660677 liyuxin22@mails.tsinghua.edu.cn
+Tian Zaixu 18143956350 tzx19@mails.tsinghua.edu.cn
