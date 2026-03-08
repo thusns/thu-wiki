@@ -1,0 +1,26 @@
+﻿
+
+
+# Explicación Campus Once - Lista de Atractivos para la Primera Lección de Voluntariado
+1. Segunda puerta de la escuela
+2. reloj de sol
+3. Monumento a Wang Guowei
+4. Segunda Enseñanza (Segundo Edificio de Enseñanza)
+5. Museo de Ciencias
+6. Escaleras Oeste (Sala de Conferencias Oeste)
+7. sala
+8. Gongziting
+9. Guyuetang
+10. Universidad Shuimu Tsinghua
+11. Estatua de Wen Yiduo
+12. yendo
+13. Ziqingting
+14. Estatua de Zhu Ziqing
+15. cerca del jardín de primavera
+16. Deportes del Oeste (Gimnasio del Oeste)
+17. Estatua de John Ma
+18. Xicao (patio de juegos de Xida)
+19. antigua biblioteca
+20. Nuevo Museo de Conservación del Agua
+21. Tongfangbu
+22. Academia Tsinghua

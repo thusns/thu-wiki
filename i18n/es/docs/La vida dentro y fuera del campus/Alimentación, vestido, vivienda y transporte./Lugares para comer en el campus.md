@@ -1,0 +1,10 @@
+# Lugares para comer en el campus
+1. Restaurante informal Taoli: Ubicado en B1 de Taoli Garden, hay muchas mesas para 4 personas y también tiene capacidad para más de 4 personas;
+2. Bauhinia Qingqing Pizza: ubicada en Bauhinia Garden B1, puede albergar una gran cantidad de personas para reuniones;
+3. Pescado a la parrilla Taoli: Ubicado en el tercer piso de Taoli Garden, con mesas grandes, **aún no abierto**;
+4. Planta 3 del Jardín Guanchou: Hay mesas grandes. Se requieren reservaciones durante los períodos pico. Para reservas llamar al 62782563;
+5. Nivel 1, Jardín Yushu: Habitaciones privadas disponibles para reserva, por favor llame al 62794076 para reservar;
+6. Café Qingqing: ofrece comida occidental;
+7. Jardín Zhilan
+8. Jardín Xichun: teléfono de reservas 62783074;
+Para agregar...

@@ -1,0 +1,17 @@
+# Prueba de aptitud física para estudiantes universitarios.
+
+## Descripción general
+
+Hay una prueba física cada semestre de otoño. Los alumnos de primer año realizan una prueba física centralizada (durante la prueba física también se medirá la altura, el peso y la capacidad vital). Los estudiantes de segundo y tercer año se dividen en dos partes: un ítem de prueba física centralizada y otros ítems (altura, peso y capacidad vital).
+
+## Lugar
+
+El examen físico centralizado generalmente se realiza desde la esquina noreste de Dongcao. Después de realizar las actividades preparatorias, se puede realizar de acuerdo con las instrucciones del personal del sitio.
+
+Otros elementos del examen físico se llevan a cabo en el Centro de examen físico de Taipei Point en Dongcao Xikan.
+
+## guía de pruebas físicas
+
+Sólo trae tu tarjeta de estudiante. Habrá agua hervida, agua con glucosa, etc. en el lugar.
+
+Existe una gran diferencia entre las pruebas y el ejercicio diario. Las personas con sensibilidad respiratoria pueden sentirse incómodas después de terminar una carrera de media distancia. Pueden usar una mascarilla después de correr para aliviarlo.

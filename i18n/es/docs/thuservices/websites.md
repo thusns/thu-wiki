@@ -1,56 +1,56 @@
-# 常用校外网站
+# Sitios web fuera del campus de uso común
 
-校内网站请参考 info.md
+Para conocer el sitio web del campus, consulte info.md
 
-## thu.services
+## jue.servicios
 
-即本站！
+¡Ese es este sitio!
 
-## T大树洞
+## T Dashu Dong
 
-注：现已停止服务
+Nota: El servicio ahora está fuera de servicio.
 
-戴上面具，卸下防备
-在匿名的树洞里，做回真实的自己
+Ponte una mascarilla y baja la guardia.
+Sé tu verdadero yo en el agujero del árbol anónimo
 
-<https://thuhole.com/>
+https://thuhole.com/
 
-## 闭社 - 清华站
+## Cerrado - Estación Tsinghua
 
-<https://thu.closed.social/>
+https://thu.closed.social/
 
-## 在线退学
+## Retiro en línea
 
-<https://tuixue.online/>
+https://tuixue.online/
 
-本站对其中提到的各个工具都做了收录
+Este sitio ha incluido todas las herramientas mencionadas en él.
 
-## 未名 BBS
+## BBS sin nombre
 
-<https://bbs.pku.edu.cn/>
+https://bbs.pku.edu.cn/
 
-## 水木 BBS
+## Mizuki BBS
 
-<https://www.newsmth.net/>
+https://www.newsmth.net/
 
-现在与清华的相关性以及常用性存疑
+Ahora existen dudas sobre su relevancia para la Universidad de Tsinghua y su uso común.
 
-## 沙雕园的博客
+## Blog del Jardín de Esculturas de Arena
 
-<https://blog.shadiao.online/>
+https://blog.shadiao.online/
 
-“精神病人欢乐多”的个人网站
+Sitio web personal "Los pacientes mentales tienen más alegría"
 
-## PT 站
+## estación PT
 
-由于相关策略，本站不收录常用 PT 站
+Debido a políticas relacionadas, este sitio no incluye sitios PT de uso común.
 
-## 星期四 Thursday
+## jueves jueves
 
 https://tsinghua.app/
 
-内含
+Contiene
 
-* 星期四 多功能社区
-* courseX
-* learnX
+* Jueves Comunidad Multifuncional
+* cursoX
+* aprenderX

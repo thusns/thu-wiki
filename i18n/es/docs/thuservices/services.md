@@ -1,8 +1,8 @@
-# 清华服务使用指北（主要面向 Linux 用户）
+# Guía de uso del servicio Tsinghua (principalmente para usuarios de Linux)
 
-本文将重点关注清华一些服务在 Linux 机器，包括远端服务器上的使用说明
+Este artículo se centrará en las instrucciones de uso de algunos servicios de Tsinghua en máquinas Linux, incluidos los servidores remotos.
 
-以及校园专供 Windows 10 的激活指南
+y guía de activación para Windows 10 en el campus
 
 
 ## DNS/NTP
@@ -14,77 +14,77 @@
 2402:f000:1:801::8:29
 ```
 
-按照校园网建议，在配置 DNS 和 NTP 时，至少要使用校园网提供的服务。
+De acuerdo con las recomendaciones de la red del campus, al configurar DNS y NTP, se deben utilizar al menos los servicios proporcionados por la red del campus.
 
-目前，校园网内只能使用校园网提供的 DNS，其余 DNS 不保证工作。
+Actualmente, solo el DNS proporcionado por la red del campus se puede utilizar dentro de la red del campus y no se garantiza que otros DNS funcionen.
 
 ## SSLVPN
 
-在 Linux 机器上没有 PULSE SECURE 客户端，除了可以使用 WEB VPN 外，也可使用 `openconnect` 来做到连接清华VPN。
+No hay ningún cliente PULSE SECURE en una máquina Linux. Además de utilizar WEB VPN, también puede utilizar `openconnect` para conectarse a Tsinghua VPN.
 
-若是 Debian 系，包括 Ubuntu，可以使用
+Si es el sistema Debian, incluido Ubuntu, puede usar
 
 ```bash
 $ apt-get install openconnect
 ```
 
-若是 Arch Linux，可以使用
+Si es Arch Linux, puedes usar
 
 ```bash
 $ pacman -S openconnect
 ```
 
-安装此软件。其余发行版请自行查阅相应源。
+Instale este software. Para otras distribuciones, consulte usted mismo las fuentes correspondientes.
 
-安装完毕后，使用
+Después de la instalación, utilice
 
 >
 > $ openconnect --juniper https://sslvpn.tsinghua.edu.cn
 >
 
-指定协议为 Juniper 的情况下，客户端不会被分配 IPv6 地址，如果改成 Pulse Connect Secure 则可以获取到一个 IPv6 地址。同时还需要指定 UserAgent 才能正确地获取 IPv6 路由，否则会尝试将所有 IPv6 流量路由到 VPN。
+Cuando el protocolo especificado es Juniper, al cliente no se le asignará una dirección IPv6. Si se cambia a Pulse Connect Secure, puede obtener una dirección IPv6. También es necesario especificar un UserAgent para obtener correctamente las rutas IPv6; de lo contrario, se intentará enrutar todo el tráfico IPv6 a la VPN.
 
-用如下的方式可以正确获取 IPv6 地址和路由（具体是 2402:f000::/32）：
+Utilice el siguiente método para obtener correctamente la dirección IPv6 y la ruta (específicamente 2402:f000::/32):
 
 ```bash
 openconnect --protocol=pulse https://sslvpn.tsinghua.edu.cn --useragent Pulse-Secure/9.1.11.6725
 ```
 
-输入帐号和密码后即连接上校园网，可以访问校内服务（INFO/USEREG）。
+Después de ingresar su cuenta y contraseña, estará conectado a la red del campus y podrá acceder a los servicios del campus (INFO/USEREG).
 
-值得注意的是，与清华无关的流量依旧按照原有路由发出，此行为与 Windows 下不同。（此项需求证）
+Vale la pena señalar que el tráfico no relacionado con la Universidad de Tsinghua todavía se envía según la ruta original. Este comportamiento es diferente al de Windows. (Certificado de demanda de este artículo)
 
-## 上网认证
+## autenticación de internet
 
-### 校园网基础知识
+### Conocimientos básicos de la red del campus.
 
-[清华大学校园网使用简介](https://its.tsinghua.edu.cn/helpsystem/train/CampusNetworkLectureNotes201909.pdf)（由于网页升级链接已失效，可参阅本站的[备份](file/CampusNetworkLectureNotes201909.pdf)）
+[清华大学校园网使用简介](https://its.tsinghua.edu.cn/helpsystem/train/CampusNetworkLectureNotes201909.pdf) (Dado que el enlace de actualización de la página web ha caducado, consulte [备份](file/CampusNetworkLectureNotes201909.pdf) en este sitio)
 
-[准入上网使用说明](http://166.111.5.8/commsoft/helpsystem/wirednetwork/RealNameAuthentication20190121.pdf)（本站[备份](file/RealNameAuthentication20190121.pdf)）
+[准入上网使用说明](http://166.111.5.8/commsoft/helpsystem/wirednetwork/RealNameAuthentication20190121.pdf) (este sitio[备份](file/RealNameAuthentication20190121.pdf))
 
-[清华大学校园网有线局域网用户准入系统使用说明（问与答）](https://its.tsinghua.edu.cn/helpsystem/wirednetwork/RealNameAuthenticationFAQ20190614.pdf)（由于网页升级链接已失效，可参阅本站的[备份](file/RealNameAuthenticationFAQ20190614.pdf)）
+[清华大学校园网有线局域网用户准入系统使用说明（问与答）](https://its.tsinghua.edu.cn/helpsystem/wirednetwork/RealNameAuthenticationFAQ20190614.pdf) (Dado que el enlace de actualización de la página web ha caducado, consulte [备份](file/RealNameAuthenticationFAQ20190614.pdf) en este sitio)
 
-上述文件太长不看版：在校园网中上网分为两步，一步是准入，另一步是准出。
+El documento anterior es demasiado largo y no quiero leerlo: hay dos pasos para acceder a Internet en la red del campus, uno es acceso y el otro es acceso.
 
-没有准入与准出时，机器只能 ping 通 `166.111.8.28` 与 `2402:f000:1:801::8:28`，如果你有相应 v4 与 v6 地址。校内其他地址不通。
+Cuando no hay acceso y acceso, la máquina solo puede hacer ping a `166.111.8.28` y `2402:f000:1:801::8:28`, si tiene las direcciones v4 y v6 correspondientes. Otras direcciones en el campus no están disponibles.
 
-对于 IPv4 而言，当有准入而没有准出时，机器可以 ping 通校内机器，但不能 ping 通校外机器，即不能上外网。只有当有准入而且有准出时，机器可以连接外网。
+Para IPv4, cuando hay acceso pero no acceso, la máquina puede hacer ping a la máquina en el campus, pero no puede hacer ping a la máquina fuera del campus, es decir, no puede acceder a la red externa. Sólo cuando hay permiso para entrar y salir, la máquina puede conectarse a la red externa.
 
-对于 IPv6 而言，v6 只有准入这一步，有了准入，即可以连接外网。
+Para IPv6, la v6 solo tiene el paso de admisión. Con la admisión, puede conectarse a la red externa.
 
-对于 2 层接入的机器（紫荆宿舍网，教学楼无线网络，一些院系的网络），v4 认证与 v6 认证是联动进行的，即当 v4 准入时，v6 同时也准入。对于 3 层接入的机器（一些院系的网络），v4 与 v6 需要分别准入。
+Para las máquinas con acceso de capa 2 (red de dormitorios de Zijing, red inalámbrica del edificio de enseñanza y algunas redes de departamentos), la autenticación v4 y la autenticación v6 están vinculadas, es decir, cuando se admite v4, también se admite v6 al mismo tiempo. Para máquinas con acceso a capa 3 (redes de algunos departamentos), es necesario admitir v4 y v6 por separado.
 
-`Tsinghua-Secure` 使用的是另一套认证系统。
+`Tsinghua-Secure` utiliza un sistema de autenticación diferente.
 
-### 命令行认证 自动认证
+### Autenticación automática de autenticación de línea de comando
 
-参见 [utils.md](utils.md) 中的认证工具汇总。
+Consulte el resumen de las herramientas de autenticación en [utils.md](utils.md).
 
-以下参考 [GoAuthing](https://github.com/z4yx/GoAuthing)
+Referencia a continuación [GoAuthing](https://github.com/z4yx/GoAuthing)
 
-#### 命令行认证
+#### Autenticación de línea de comando
 
-该软件实现了七个主要功能，分别是
+El software implementa siete funciones principales, a saber
 
 ```bash
 auth-thu auth # v4准入
@@ -96,65 +96,65 @@ auth-thu logout # 解除v4准出
 auth-thu online # 保持机器在线
 ```
 
-普通用户将其放在家目录下，作为命令行工具使用，即可满足大部分认证需求。
+Los usuarios normales pueden colocarlo en su directorio de inicio y utilizarlo como herramienta de línea de comandos para satisfacer la mayoría de las necesidades de autenticación.
 
-已知问题：在用户通过`auth-thu auth -C`（仅准入）后调用`auth-thu login`（仅准出），准出会失败。
+Problema conocido: después de que el usuario pasa `auth-thu auth -C` (solo entrada) y llama a `auth-thu login` (solo salida), la salida fallará.
 
-#### 自动认证
+#### autenticación automática
 
-对于系统管理员来说，可能存在服务器实现自动认证的需求。
+Para los administradores de sistemas, puede ser necesario que los servidores implementen la autenticación automática.
 
-下载好文件以后请合理放置在相应目录（如 /usr/local/bin）下，同时将配置文件放在合理目录下，即可使用
+Después de descargar el archivo, colóquelo en el directorio correspondiente (como /usr/local/bin). Al mismo tiempo, coloque el archivo de configuración en un directorio razonable y podrá usarlo.
 
-要做到自动 **准出**，需将其中附带的 `goauthing.service` 或 `goauthing@.service` 放置 `/etc/systemd/system/` 文件夹下 ，并调整相应内容以符合程序文件以及配置文件的路径，使用
+Para lograr una **salida precisa** automática, debe colocar el `goauthing.service` o `goauthing@.service` adjunto en la carpeta `/etc/systemd/system/` y ajustar el contenido correspondiente para que coincida con la ruta del archivo de programa y el archivo de configuración. Utilice
 
 ``` bash
 $ systemctl enable goauthing.service
 ```
 
-启动相应服务，即可达到自动认证的目的。如果要实现账户信息储存在用户家目录中而不是 `/etc` 中，可以参考 `goauthing@.service`。
+Inicie el servicio correspondiente para lograr el propósito de autenticación automática. Si desea almacenar información de la cuenta en el directorio de inicio del usuario en lugar de `/etc`, puede consultar `goauthing@.service`.
 
-如果要实现 `v6` 的自动准入，可参考 `goauthing6.service` 和 `goauthing6@.service`。如果只要 v4 的自动准入，需要将 `goauthing.service` 中的 `auth` 变为 `auth -C`，且删除 `login` 一行。
+Si desea implementar la admisión automática de `v6`, consulte `goauthing6.service` y `goauthing6@.service`. Si solo desea la admisión automática v4, debe cambiar `auth` en `goauthing.service` a `auth -C` y eliminar la línea `login`.
 
-如果有打包者将此打包，请 PR。目前在 AUR 中存在 `auth-thu-bin` 包（`auth-thu` 包已经过时）。
+Si alguien empaqueta esto, por favor PR. El paquete `auth-thu-bin` existe actualmente en AUR (el paquete `auth-thu` está obsoleto).
 
-### 远端服务器代认证
+### Autenticación de servidor remoto
 
-（从笔者的经历来看，usereg 的对准入准出成功和失败的反馈较少，建议采用命令行以及网页认证，而只将 usereg 作为状态面板使用）
+(Según la experiencia del autor, Usereg tiene menos comentarios sobre el éxito y el fracaso de la entrada y salida. Se recomienda utilizar la línea de comando y la autenticación de página web, y solo usar Usereg como panel de estado)
 
-在某些服务器上无法使用浏览器打开 [net.tsinghua.edu.cn](https://net.tsinghua.edu.cn) 来认证，只能使用 [命令行工具](### 命令行认证 自动认证) 或「准入代认证」的方式来实现准入。
+En algunos servidores, no puede utilizar un navegador para abrir [net.tsinghua.edu.cn](https://net.tsinghua.edu.cn) para la autenticación. Solo puede utilizar [命令行工具](### 命令行认证 自动认证) o "Autenticación de acceso" para lograr el acceso.
 
-对于代认证，需要先知道服务器的 IPv4 地址，形如 `166.111.x.x` 或 `59.66.x.x` 或 `101.x.x.x`，之后打开 [usereg.tsinghua.edu.cn](https://usereg.tsinghua.edu.cn) 「准入代认证」部分，填入 IP 即可准入，在准入时可以选择是否打开准出。
+Para la autenticación de proxy, primero debe conocer la dirección IPv4 del servidor, en el formato `166.111.x.x` o `59.66.x.x` o `101.x.x.x`. Luego abra la sección [usereg.tsinghua.edu.cn](https://usereg.tsinghua.edu.cn) "Acceso a autenticación de proxy" y complete la IP para obtener acceso. Durante la admisión, puedes elegir si deseas activar el acceso.
 
-对于某些三层接入的机器，如果要实现 v6 的准入，也可在「准入代认证」中实现准入。
+Para algunas máquinas con acceso de tres capas, si desea obtener acceso v6, también puede obtener acceso en "Autenticación de agencia de acceso".
 
-对于有些服务器存在准入但没有准出的情况，可以使用「连线其他 IP」实现准出。 
+Para algunos servidores que tienen acceso pero no acceso, puede usar "Conectarse a otras IP" para lograr el acceso.
 
-关于准入与准出的问题，欢迎 PR。
+En cuanto a cuestiones de entrada y salida, los RP son bienvenidos.
 
-关于 IPv4 和 IPv6 在准入准出上线与掉线时的表现，以及校内二层接入/三层接入的表现，欢迎 PR
+Con respecto al desempeño de IPv4 e IPv6 cuando la entrada y salida son en línea y fuera de línea, así como el desempeño del acceso de Capa 2/acceso de Capa 3 en el campus, los RP son bienvenidos.
 
-### 远端服务器网页认证
+### Autenticación de página web del servidor remoto
 
-有时 `usereg` 中的信息并不准确，如果此时还能 `ssh` 登录机器，除了之前提到的「命令行认证」外，还可以在登录时使用选项
+A veces la información contenida en `usereg` no es precisa. Si aún puede iniciar sesión en la máquina con `ssh` en este momento, además de la "autenticación de línea de comando" mencionada anteriormente, también puede usar opciones al iniciar sesión.
 
 ```
 ssh -D <port> host
 ```
 
-这样在本地会搭建一个以 `<port>` 为端口的 socks5 代理，如果在浏览器中使用该代理，即可与往常一样实现网页认证。
+De esta manera, se construirá localmente un proxy calcetines5 con `<port>` como puerto. Si utiliza este proxy en el navegador, puede lograr la autenticación de la página web como de costumbre.
 
-尤其要注意的是，不能直接访问 auth4/auth6 来进行认证（参考问与答），需要通过跳转的方式来访问 auth4/auth6 以获取正确的 ac\_id. 一般情况下可以访问 info/learn/login 来跳转，也可通过 3.3.3.3 和 [3:3:3::3] 来跳转。后者对于三层接入的用户来说是一个较为方便的访问 auth6 的方案。
+En particular, es importante tener en cuenta que no puede acceder directamente a auth4/auth6 para la autenticación (consulte Preguntas y respuestas). Debe acceder a auth4/auth6 mediante jump para obtener el ac\_id correcto. Generalmente, puede acceder a información/aprender/iniciar sesión para saltar, o puede saltar a través de 3.3.3.3 y [3:3:3::3]. Esta última es una solución más conveniente para que los usuarios con acceso de tres capas accedan a auth6.
 
 ### Tsinghua-Secure
 
-如果是校内环境，首先连接 `Tsinghua-Secure无线网使用指南` 进入 [usereg.tsinghua.edu.cn](https://usereg.tsinghua.edu.cn) , 登录后在 `自注册及修改口令处` 设置 Tsinghua-Secure 使用的密码，此密码不需要与 info 密码相同。
+Si se trata de un entorno en el campus, primero conéctese a `Tsinghua-Secure无线网使用指南` para ingresar a [usereg.tsinghua.edu.cn](https://usereg.tsinghua.edu.cn). Después de iniciar sesión, configure la contraseña utilizada por Tsinghua-Secure en `自注册及修改口令处`. No es necesario que esta contraseña sea la misma que la contraseña de información.
 
-#### NetworkManager
+#### Administrador de red
 
-设置好后，可以使用 `NetworkManager` 连接该 Wifi，可以参考 its 的文档 [清华大学无线校园网 802.1x 认证登录客户端配置说明](https://its.tsinghua.edu.cn/info/1333/2318.htm)（本站[备份](file/tsinghua-secure-config.pdf)）
+Después de la configuración, puede usar `NetworkManager` para conectarse al Wifi. Puede consultar su documentación [清华大学无线校园网 802.1x 认证登录客户端配置说明](https://its.tsinghua.edu.cn/info/1333/2318.htm) (este sitio [备份](file/tsinghua-secure-config.pdf))
 
-样例配置 `/etc/NetworkManager/system-connections/Tsinghua-Secure.nmconnection` 如下
+La configuración de ejemplo `/etc/NetworkManager/system-connections/Tsinghua-Secure.nmconnection` es la siguiente
 
 ```
 [connection]
@@ -193,22 +193,22 @@ token=::114:514:1919:810
 [proxy]
 ```
 
-该样例配置仅启用了 IPv6 并获取特定后缀（请自行挑选后缀以免地址相撞），同时使用了 `@tsinghua` 的 `identity` 以保证不占用准出名额。
+Esta configuración de muestra solo habilita IPv6 y obtiene un sufijo específico (elija el sufijo usted mismo para evitar colisiones de direcciones) y utiliza `identity` de `identity` para garantizar que la cuota no esté ocupada.
 
-特别要注意的是，如果你同时符合下面三个条件：
+Se debe prestar especial atención si cumples las siguientes tres condiciones al mismo tiempo:
 
-1.  `NetworkManager` 使用了 `wpa_supplicant` 后端 
-1.  使用了 3.0.0 及以上版本的 `openssl`
-1.  使用的发行版没有给 `wpa_supplicant` 打上 [修复 tls 1.0/1.1 连接的 patch](https://launchpad.net/ubuntu/+source/wpa/2:2.10-6ubuntu2) （目前确认 Ubuntu 有 patch，NixOS 没有 patch）
+1.  `NetworkManager` usa el backend `wpa_supplicant`
+1.  Usando la versión 3.0.0 y superior de `openssl`
+1.  La distribución utilizada no tiene `wpa_supplicant` marcado con [修复 tls 1.0/1.1 连接的 patch](https://launchpad.net/ubuntu/+source/wpa/2:2.10-6ubuntu2) (actualmente se confirma que Ubuntu tiene parche, pero NixOS no tiene parche)
 
-那么你的 `NetworkManager` 可能由于 tls 1.0 连接被禁用而连不上 `Tsinghua-Secure`，此时有以下两种解决方法，任意一种都能解决：
+Entonces es posible que su `NetworkManager` no pueda conectarse a `Tsinghua-Secure` porque la conexión tls 1.0 está deshabilitada. En este caso, existen dos soluciones, cualquiera de las cuales se puede resolver:
 
-1.  升级 NetworkManager 到 `1.41.5-dev` 及以上，准确的说是确保 [这个 commit](https://gitlab.freedesktop.org/NetworkManager/NetworkManager/-/commit/98dd4180ec163af63fe1e0fda00158ac7f0047df) 已经被包含。在上述配置文件的 `[802-1x]` 一节中加入一行 `phase1-auth-flags=32`（`NetworkManager` 中 `tls-1-0-enable` 这一选项对应 `0x20`，换算成十进制是 `32`，这一换算关系目前没有在文档里记录，所以不保证 32 这个数字始终有效。更能保证有效的方法是手动用 `nmcli` 设置 `Tsinghua-Secure` 中设置 `802-1x.phase1-auth-flags` 为 `tls-1-0-enable`）。
-1.  给自己的 `wpa_supplicant` 打上前面提到的 patch。
+1.  Actualice NetworkManager a `1.41.5-dev` y superior; para ser precisos, asegúrese de que [这个 commit](https://gitlab.freedesktop.org/NetworkManager/NetworkManager/-/commit/98dd4180ec163af63fe1e0fda00158ac7f0047df) esté incluido. Agregue una línea `phase1-auth-flags=32` (`tls-1-0-enable` en `NetworkManager`) a la sección `[802-1x]` del archivo de configuración anterior. Esta opción corresponde a `0x20`, convertida a decimal `32`, esta relación de conversión no está registrada actualmente en el documento, por lo que no hay garantía de que el número 32 siempre sea válido. Un método más garantizado es configurar manualmente `802-1x.phase1-auth-flags` en `tls-1-0-enable` usando `nmcli`.
+1.  Aplique el parche mencionado anteriormente a su `wpa_supplicant`.
 
 #### wpa_supplicant
 
-也可使用 `wpa_supplicant` 完成相应 wifi 连接。安装 `wpa_supplicant`，编辑 `/etc/wpa_supplicant/wpa_supplicant-nl80211-XXXX.conf`， 其中 `XXXX` 是本机网卡名称，输入以下配置
+También puedes usar `wpa_supplicant` para completar la conexión wifi correspondiente. Instale `wpa_supplicant`, edite `/etc/wpa_supplicant/wpa_supplicant-nl80211-XXXX.conf`, donde `XXXX` es el nombre de la tarjeta de red local, ingrese la siguiente configuración
 
 ```
 ctrl_interface=/var/run/wpa_supplicant
@@ -229,21 +229,21 @@ network={
 }     
 ```
 
-其中 `username` 与 `password` 为自己帐号相应信息。之后输入
+Entre ellos, `username` y `password` son la información correspondiente a su propia cuenta. Entonces entra
 
 ```
 $ systemctl enable --now wpa_supplicant-nl80211@XXXX.service
 ```
 
-即可连接。
+Estás listo para conectarte.
 
-注：本配置由[orv](http://hep.tsinghua.edu.cn/~orv)贡献。
+Nota: Esta configuración fue aportada por [orv](http://hep.tsinghua.edu.cn/~orv).
 
 #### iwd
 
-由于 Tsinghua-Secure 的证书问题（dhparams 中 p 的长度仅为 1024，不符合 [Linux 内核的 1536 长度需求](https://elixir.bootlin.com/linux/v6.0/source/crypto/dh.c#L52)），而 iwd 依赖于内核的密码学工具，默认使用 iwd 无法连接。
+Debido al problema del certificado de Tsinghua-Secure (la longitud de p en dhparams es solo 1024, lo que no cumple con [Linux 内核的 1536 长度需求](https://elixir.bootlin.com/linux/v6.0/source/crypto/dh.c#L52)) y iwd depende de la herramienta de criptografía del kernel, el uso predeterminado de iwd no puede conectarse.
 
-[NickCao](https://github.com/NickCao) 为此提供了 [dhack 内核模块](https://github.com/NickCao/dhack) 与 ell 工具补丁（如下）；前者通过劫持相应符号实现补丁，后者在 nix 构建软件包时直接替换源码中的参数。用户可以依此类推自行构建内核与工具。
+[NickCao](https://github.com/NickCao) proporciona [dhack 内核模块](https://github.com/NickCao/dhack) y parches de herramientas ell (a continuación) para este propósito; el primero implementa el parche secuestrando los símbolos correspondientes, y el segundo reemplaza directamente los parámetros en el código fuente cuando nix construye el paquete de software. Los usuarios pueden crear sus propios núcleos y herramientas por analogía.
 
 ```nix
 iwd.override {
@@ -256,7 +256,7 @@ iwd.override {
 }
 ```
 
-另外配置如下
+Además la configuración es la siguiente
 
 ```
 [Security]
@@ -269,85 +269,85 @@ EAP-PEAP-Phase2-Password=<passwd>
 AutoConnect=true
 ```
 
-### Tsinghua-Secure 仅校内登录方式
+### Tsinghua-Secure solo método de inicio de sesión en el campus
 
-我们注意到，连接 Tsinghua-Secure 后获取的 IPv4 地址会自动进入准出表中，有可能在未预期的情况下挤占掉线已有的准出设备。
+Hemos notado que la dirección IPv4 obtenida después de conectarse a Tsinghua-Secure ingresará automáticamente a la tabla de salida permitida, que puede ocupar los dispositivos salientes existentes en circunstancias inesperadas.
 
-经过测试发现，如果在登录时使用的 username 为「username@tsinghua」（例如lh14@tsinghua），那么其登录行为与「仅校内登录」一样。这种情况下v4只有准入，v6有准入与准出。
+Después de las pruebas, se descubrió que si el nombre de usuario utilizado al iniciar sesión es "nombre de usuario@tsinghua" (por ejemplo, lh14@tsinghua), entonces el comportamiento de inicio de sesión es el mismo que "solo inicio de sesión en el campus". En este caso, la v4 solo tiene acceso y la v6 tiene acceso y salida.
 
-在使用该方式认证后，笔者测试可以通过「net.tsinghua.edu.cn」进行准出，但有线网中这个行为不一样。
+Después de usar este método para la autenticación, la prueba del autor se puede usar para autenticar a través de "net.tsinghua.edu.cn", pero el comportamiento es diferente en la red cableada.
 
-## 校园网特性讨论
+## Discusión sobre las características de la red de campus
 
-### 二层隔离/邻居发现隔离
+### Aislamiento de segunda capa/aislamiento de descubrimiento de vecinos
 
-校园网的一大特性，是二层隔离/邻居发现隔离。对于v4来说，是前者；对于v6来说，是后者。这个机制为了安全而设计，但对不少开发者/使用者来说较为不方便。
+Una característica importante de la red del campus es el aislamiento de Capa 2/aislamiento de descubrimiento de vecinos. Para v4, es lo primero; para v6, es lo último. Este mecanismo está diseñado por motivos de seguridad, pero resulta inconveniente para muchos desarrolladores/usuarios.
 
-这个特性本质上是核心交换机对广播域进行了划分，甚至使得只有一个客户端与网关在一个广播域中。
+Básicamente, esta característica divide el dominio de transmisión por el conmutador central de modo que solo un cliente y una puerta de enlace estén en el mismo dominio de transmisión.
 
 #### IPv4
 
-当我们分配到例如 59.66.130.xx/24 的 IP 时，如果我们想连接 59.66.130.yy/24，我们可能会发现无法连接。注意到这两个在一个 /24 中，即一个二层中，这种情况下两台机器会通过ARP发现对方，但在学校的一些机制下，ARP不能工作。
+Cuando se nos asigna una IP como 59.66.130.xx/24, si queremos conectarnos a 59.66.130.yy/24, es posible que nos encontremos con que no podemos conectarnos. Fíjate que estos dos están en un /24, es decir, una segunda capa. En este caso, las dos máquinas se descubrirán entre sí a través de ARP, pero según algunos mecanismos de la escuela, ARP no puede funcionar.
 
-这种情况下，需要在两台机器上增加以下路由。
+En este caso, deberá agregar las siguientes rutas en ambas máquinas.
 
 ```bash
 ip r a 59.66.130.0/24 via 59.66.130.1
 ip r a 59.66.130.1 dev eth0
 ```
 
-需要根据实际情况修改相应参数。
+Los parámetros correspondientes deben modificarse según la situación real.
 
 #### IPv6
 
-紫荆的 IPv6 不存在该问题，由于其地址是 /128 的。
+El IPv6 de Bauhinia no tiene este problema porque su dirección es /128.
 
-当我们在一个 Tsinghua-Secure 下时，我们会通过 SLAAC 分配地址，即大家的地址都在一个同一个 /64 下，当互相之间想通信时，需要通过 NDP 进行发现。由于校园网的一些机制，NDP可能不会成功。
+Cuando estemos bajo Tsinghua-Secure, asignaremos direcciones a través de SLAAC, es decir, las direcciones de todos están bajo el mismo /64. Cuando queremos comunicarnos entre nosotros, debemos descubrirlos a través de NDP. Debido a algunos mecanismos de la red del campus, es posible que el NDP no tenga éxito.
 
-这种情况下，需要在两台机器上增加以下路由
+En este caso, debe agregar las siguientes rutas en ambas máquinas
 
 ```bash
 ip r a 2402:f000:2:b801::/64 via fe80::xxxx dev wlan0
 ```
-参数需要根据实际情况确认，第一个为 /64 的前缀，可以参考获得的地址或者参考 RA 来书写，第二个为网关的 LL 地址，与默认路由中显示的地址相同，第三个为无线网卡。
+Los parámetros deben confirmarse según la situación real. El primero es el prefijo /64, que se puede escribir haciendo referencia a la dirección obtenida o haciendo referencia al RA. La segunda es la dirección LL de la puerta de enlace, que es la misma que la dirección que se muestra en la ruta predeterminada. La tercera es la tarjeta de red inalámbrica.
 
-### 低端口阻断
+### bloqueo de puerto bajo
 
-按照前面的「使用简介」文档，IPv4 对 0 到 1024，8000 到 8100，3389 以及 9100 端口进行阻断。另外由于众所周知的原因，1080、4781、7890 端口也被阻断。
+Según el documento anterior "Introducción al uso", IPv4 bloquea los puertos 0 a 1024, 8000 a 8100, 3389 y 9100. Además, por razones bien conocidas, los puertos 1080, 4781 y 7890 también están bloqueados.
 
-2022 年秋季开始，IPv6 对低端口部分进行阻断。
+A partir del otoño de 2022, IPv6 bloqueará la parte baja del puerto.
 
-### 动态 IP
+### IP dinámica
 
-对于动态IP，我们可以使用 DDNS 解决，各大提供商，例如 DNSPod，dns.he.net，cloudflare 都提供了该服务。
+Para IP dinámica, podemos usar DDNS para resolverlo. Los principales proveedores como DNSPod, dns.he.net y cloudflare brindan este servicio.
 
-以 dns.he.net 为例，先增加一个 A/AAAA 记录，并选择使用 DDNS，创建好后创建更新 Token，记为 T。我们书写以下脚本
+Tomando dns.he.net como ejemplo, primero agregue un registro A/AAAA y elija usar DDNS. Después de crearlo, crea un token de actualización, marcado como T. Escribimos el siguiente script
 
 ```
 #!/bin/sh
 curl -4 "https://domain.example.com:T@dyn.dns.he.net/nic/update?hostname=domain.example.com"
 ```
-注意Token为其中的T。其余参数按照需要修改。
+Tenga en cuenta que Token es la T que contiene. Modifique los parámetros restantes según sea necesario.
 
-并用 cron 定期执行该脚本，例如每五分钟一次。可以参考 https://crontab.guru/ 命令获取具体阐释。
+Y use cron para ejecutar el script periódicamente, digamos cada cinco minutos. Puede consultar el comando https://crontab.guru/ para obtener una explicación detallada.
 
-#### IPv6 静态后缀或短 IPv6 地址
+#### Sufijo estático IPv6 o dirección IPv6 corta
 
-我们知道，在 SLAAC 下（常见于Tsinghua-Secure），IPv6 地址的后64位可以由客户端自行决定，这时我们可以配置静态后缀，乃至短后缀，如果一个机器只在一个地点下，几乎可以认为前缀固定（需要验证）。
+Sabemos que bajo SLAAC (común en Tsinghua-Secure), el cliente puede determinar los últimos 64 bits de la dirección IPv6. En este momento podemos configurar un sufijo estático o incluso un sufijo corto. Si una máquina está solo en una ubicación, el prefijo casi puede considerarse fijo (se requiere verificación).
 
-（吐槽：token 这套工具，几乎不在标准里面被提及，文档也少（IPv6 的文档本来就少），还是很小众的东西；毕竟谁需要静态后缀呢，同一个子网下的机器，与其使用静态后缀进行通信（没错，没有只有后缀的路由项，所以到网内另一台机器需要时刻加上前缀），不如配一个静态的私有地址）
+(Tucao: Token es un conjunto de herramientas que casi nunca se mencionan en los estándares, y hay pocos documentos (hay pocos documentos para IPv6), y sigue siendo una cosa muy específica; después de todo, ¿quién necesita sufijos estáticos? En lugar de usar sufijos estáticos para comunicarse entre máquinas en la misma subred (sí, no hay elementos de enrutamiento con solo sufijos, por lo que siempre debe agregar un prefijo a otra máquina en la red), es mejor configurar una dirección privada estática)
 
-往常我们分配到的 IPv6 较复杂，这是因为使用了 EUI64 或者隐私扩展，对于EUI64，可以在地址中发现 `ff:fe` 的字段。
+Normalmente el IPv6 que nos asignan es más complicado porque se utilizan EUI64 o extensiones de privacidad. Para EUI64, el campo `ff:fe` se puede encontrar en la dirección.
 
-我们可以通过 iproute2 或传统套件配置静态后缀，后者的使用方法请谷歌，前者的方法在此给出。
+Podemos configurar el sufijo estático a través de iproute2 o el paquete tradicional. Busque en Google el uso de este último, y aquí se proporciona el método del primero.
 
 ```bash
 ip token set ::114:514:1919:810/64 dev wlan0
 ```
 
-在运行此命令 **之前**，我们需要注意，我们需要将网卡的 `forwarding` 关闭（ **在配置时** ，配置后可以打开转发），并打开 `accept_ra` 与 `autoconf`，并将其他 dhcp 客户端的 v6 功能关闭。
+**Antes de ejecutar este comando**, debemos tener en cuenta que debemos desactivar `forwarding` de la tarjeta de red (**durante la configuración**, el reenvío se puede activar después de la configuración), abrir `accept_ra` y `autoconf`, y desactivar la función v6 de otros clientes dhcp.
 
-（吐槽：dhcpcd 虽然说是个 dhcp 客户端，它把 SLAAC 的事情也接管了，就很恼。按照传统只需要开了 `accept_ra` 与 `autoconf`，Linux 内核就会自动配置v6地址。如果 `forwarding=1`时，我们需要使 `accept_ra=2`）
+(Tucao: aunque dhcpcd es un cliente dhcp, también se hace cargo de SLAAC, lo cual es muy molesto. Según la tradición, solo necesita abrir `accept_ra` y `autoconf`, y el kernel de Linux configurará automáticamente la dirección v6. Si se usa `forwarding=1`, debemos usar __JUE_WIKI_TOKEN_3__)
 
 ```bash
 sysctl net/ipv6/conf/wlan0/accept_ra=1
@@ -355,13 +355,13 @@ sysctl net/ipv6/conf/wlan0/autoconf=1
 sysctl net/ipv6/conf/wlan0/forwarding=0
 ```
 
-以上命令的一些参数请按需替换。我们可以将以上命令放在启动脚本中，使得自动配置 token。
+Reemplace algunos parámetros del comando anterior según sea necesario. Podemos poner el comando anterior en el script de inicio para configurar automáticamente el token.
 
-#### 尝试获取某一特定IPv4、IPv6地址
+#### Intente obtener una dirección IPv4 o IPv6 específica
 
-你校对于DHCP请求（v4与v6术语不同，不严谨表述）中的特定地址请求是宽容的。
+Usted es tolerante con las solicitudes de direcciones específicas en las solicitudes DHCP (la terminología v4 y v6 es diferente y no está estrictamente establecida).
 
-dhcpcd 配置
+configuración dhcpcd
 
 ```dhcpcd.conf
 interface enp3s0
@@ -369,9 +369,9 @@ request 59.66.190.254
 ia_na 64:1a:ff:ff/2402:f000:4:3:888:1926:8:17
 ```
 
-配置中某些信息已经经过编辑，请参考 man page 与实际网络环境来进行配置。
+Se ha editado parte de la información en la configuración; consulte la página de manual y el entorno de red real para la configuración.
 
-以下附上一些 log，来探究该配置生效的过程。笔者认为，需要在旧 lease 失效或旧地址被人抢占后该配置才能使用。
+A continuación se adjuntan algunos registros para explorar el proceso de entrada en vigor de esta configuración. El autor cree que esta configuración solo se puede utilizar después de que expire el contrato de arrendamiento anterior o se anule la dirección anterior.
 
 ```
 Apr 02 07:00:21 Zenith dhcpcd[497]: enp3s0: IAID 64:1a:ff:ff
@@ -386,76 +386,76 @@ Apr 02 07:00:34 Zenith dhcpcd[497]: enp3s0: REPLY6 received from fe80::9629:2fff
 Apr 02 07:00:34 Zenith dhcpcd[497]: enp3s0: adding address 2402:f000:4:3:888:1926:8:17/128
 ```
 
-### 院系网（三层接入）的 IPv6
+### IPv6 para red departamental (acceso capa 3)
 
-有些院系网是三层接入的校园网在网内配置的是 SLAAC。
+Algunas redes de departamentos son redes de campus con acceso de tres capas y SLAAC está configurado en la red.
 
-一些机器（例如 Windows 的默认设置和一些 Linux 的默认设置）配置了隐私扩展后，在 SLAAC 环境下其 IPv6 地址会不断改变，由于学校的准入是对 IPv6 地址进行的，具体表现就是在用 auth6 准入 IPv6 一段时间后就失去了准入，需要重新登录 auth6。
+Después de que algunas máquinas (como las configuraciones predeterminadas de Windows y algunas configuraciones predeterminadas de Linux) estén configuradas con extensiones de privacidad, sus direcciones IPv6 continuarán cambiando en el entorno SLAAC. Dado que la admisión de la escuela se basa en direcciones IPv6, la manifestación específica es que después de usar auth6 para acceder a IPv6 durante un período de tiempo, el acceso se pierde y debe iniciar sesión en auth6 nuevamente.
 
-一种方法是关掉 IPv6 隐私临时地址（可 Google 查阅相关资料），另一种方式是使用自动准入客户端，例如前面提到的 auth-thu 的 goauthing6.service
+Una forma es desactivar la dirección temporal privada IPv6 (puede buscar en Google para obtener información relevante) y la otra es utilizar un cliente de admisión automática, como el servicio goauthing6.de auth-thu mencionado anteriormente.
 
-### 不符合 RFC 的 DHCPv6
+### DHCPv6 no compatible con RFC
 
-> 你校的 DHCPv6 server 会不承认某些 DUID，对于这样的 DHCP 请求会不予回应。即使向学校反映该问题，学校尝试让厂商修复后，该问题仍然存在。
+> El servidor DHCPv6 de su escuela no reconocerá ciertos DUID y no responderá a dichas solicitudes de DHCP. Incluso después de que la escuela informó el problema y trató de que el fabricante lo solucionara, el problema seguía existiendo.
 >
-> 根据相关人士消息，只有 DUID Type 1，也就是 DUID-LLT 被承认，以下给出 dhcpcd 的相应配置方式。
+> Según fuentes relevantes, solo se reconoce DUID Tipo 1, es decir, DUID-LLT. El método de configuración correspondiente de dhcpcd se proporciona a continuación.
 >
-> 首先将 `/etc/dhcpcd.conf` 中的 `duid` 打开，同时保证没有开启 `clientid`。然后我们检查下列文件
+> Primero abra `duid` en `/etc/dhcpcd.conf` y asegúrese de que `clientid` no esté abierto. Luego verificamos los siguientes archivos
 >
 > ```
-> $ cat /var/lib/dhcpcd/duid
+> $ gato /var/lib/dhcpcd/duid
 > 00:01:00:01:26:53:6d:9d:ff:ff:ff:ff:ff:ff
 > ```
 >
-> 若以 `00:01` 开头，则表明为 DUID-LLT，否则（或文件不存在）需要改为上述格式。同时需要检查一下最后的 `ff:ff:ff:ff:ff:ff` 是否为相关网卡的MAC地址，如果不是需要更改为相应地址。
+> Si comienza con `00:01`, indica DUID-LLT, de lo contrario (o el archivo no existe) es necesario cambiarlo al formato anterior. Al mismo tiempo, debe verificar si el último `ff:ff:ff:ff:ff:ff` es la dirección MAC de la tarjeta de red correspondiente. De lo contrario, deberá cambiarlo a la dirección correspondiente.
 >
-> **更新** 的测试发现，我们并不知道你校的 DHCPv6 是如何工作的，其如何工作完全是玄学。有的开启了 Anonymize 即可使用，有的开启了也尝试失败。
+> **ACTUALIZACIÓN** Las pruebas han revelado que no tenemos idea de cómo funciona el DHCPv6 de su escuela. Cómo funciona es completamente metafísico. Algunos se pueden usar si Anonymize está activado, mientras que algunos intentos fallan incluso si Anonymize está activado.
 >
-> 一些体验可以参考 <https://pwe.cat/zijing-dhcpv6/>
+> Para algunas experiencias, consulte https://pwe.cat/zijing-dhcpv6/
 
-最近的尝试发现，使用较新版本的 `systemd-networkd` 能稳定获取地址。
+Intentos recientes han descubierto que usar una versión más reciente de `systemd-networkd` puede obtener la dirección de manera estable.
 
-### 30分钟无流量掉准入
+### Si no hay tráfico durante 30 minutos, perderás el acceso.
 
-根据之前提到的《准入上网使用说明》，计算机长时间（目前为 30 分钟）不使用网络时，认证系统会关闭其网络连接； <del>服务器如有必要可每 10 分钟 ping 1 次 ping.tsinghua.edu.cn。</del>（已失效）
+De acuerdo con las "Instrucciones para el acceso a Internet" mencionadas anteriormente, cuando la computadora no usa la red durante un período prolongado (actualmente 30 minutos), el sistema de autenticación cerrará su conexión de red; <del>Si es necesario, el servidor puede hacer ping a ping.tsinghua.edu.cn una vez cada 10 minutos. </del>(Caducado)
 
-### 掉准出后无法准出
+### No se puede salir con precisión después de perder la salida precisa
 
-某些长久运行的机器可能掉准出，即无法连接校外网。这种情况下，不少同学可能在 usereg 或命令行中尝试 **准出** ，但是发现准出不成功。 **在 usereg 上，即使显示机器在准出表中，在机器上也无法访问校外网** 。我们认为这是校园网的某些设备的状态同步可能出现了问题。
+Es posible que algunas máquinas que han estado funcionando durante mucho tiempo no puedan conectarse a la red fuera del campus. En este caso, muchos estudiantes pueden intentar **exportar con precisión** en el registro de usuario o en la línea de comando, pero descubren que la exportación precisa no tiene éxito. **En el registro de usuario, incluso si la máquina aparece en la lista de exportación precisa, no se puede acceder a la red fuera del campus desde la máquina**. Creemos que se trata de un problema con la sincronización del estado de algunos dispositivos en la red del campus.
 
-对于这种问题，有一种可能的解决尝试，就是先将登出 **准入** ，然后再准入并准出，这样可能会刷新学校某些机器的状态，从而使得准出能成功。注意！登出准入是非常危险的操作！您可能会经历 ssh 断线，从而与机器永久失联！请在充分了解该操作的意义与知道如何在登出准入后恢复准入的情况下操作！
+Una posible solución a este problema es cerrar sesión primero, luego entrar y salir. Esto puede actualizar el estado de algunas máquinas en la escuela, para que la salida pueda ser exitosa. ¡Aviso! ¡Cerrar sesión es una operación muy peligrosa! ¡Puede experimentar desconexiones ssh y perder permanentemente el contacto con su máquina! ¡Opérelo después de comprender completamente el significado de esta operación y saber cómo restaurar el acceso después de cerrar sesión!
 
-### 准入后（仅校内登录后）无法准出
+### No se puede salir después de la admisión (solo después de iniciar sesión en el campus)
 
-上文中我们提到了 Tsinghua-Secure 仅校内登录的方法，命令行（请查阅相关参数）与网页端（准入界面的仅校内复选框）也有相应的仅校内登录方案。但是有同学观测到在仅校内登录后，通过 net.tsinghua.edu.cn 来进行准出无法准出，usereg 准出也无法成功。这与上面的问题一样应该也是某些设备状态的问题，目前无解。
+Mencionamos anteriormente el método de inicio de sesión Tsinghua-Secure solo en el campus. También existen soluciones de inicio de sesión en el campus correspondientes en la línea de comando (verifique los parámetros relevantes) y la página web (casilla de verificación solo en el campus en la interfaz de acceso). Sin embargo, algunos estudiantes observaron que después de iniciar sesión en el campus, el inicio de sesión a través de net.tsinghua.edu.cn falló y el inicio de sesión de usuario falló. Al igual que el problema anterior, este también debería ser un problema con el estado de ciertos dispositivos y actualmente no existe una solución.
 
-### 未准入时其他机器能 ping 通，但不能 ssh
+### Cuando no está permitido, otras máquinas pueden hacer ping, pero no pueden usar ssh.
 
-不能 ssh 是预策略（参考本章校园网基础知识一节中的《清华大学校园网有线局域网用户准入系统使用说明（问与答）》）决定的
+La imposibilidad de realizar ssh está determinada por la política previa (consulte las "Instrucciones (Preguntas y respuestas) del sistema de acceso de usuario de LAN cableada de la red del campus de la Universidad de Tsinghua" en la sección Conceptos básicos de la red del campus de este capítulo)
 
-能 ping 通也是预策略决定的，不过这一点没有文档；即，未准入时放行 ICMP reply 包。
+La capacidad de hacer ping también está determinada por la política previa, pero esto no está documentado; es decir, se permiten paquetes de respuesta ICMP cuando no se admiten.
 
-## 清华云盘
+## Disco de nube de Tsinghua
 
-建议使用 [seafile.com/download](https://seafile.com/download) 中的 Linux 客户端，而不是 Terminal 客户端，因为 Terminal 客户端需要独立密码，此密码不同于 INFO 密码，不能获得，故不能通过 Terminal 客户端登录。
+Se recomienda utilizar el cliente Linux en [seafile.com/download](https://seafile.com/download) en lugar del cliente Terminal, porque el cliente Terminal requiere una contraseña independiente. Esta contraseña es diferente de la contraseña INFO y no se puede obtener, por lo que no puede iniciar sesión a través del cliente Terminal.
 
-由于手动安装软件的方式是不为推崇的，请使用包管理器获取相应软件。对 Arch Linux 用户，Linux 客户端就是
+Dado que no se recomienda la instalación manual del software, utilice un administrador de paquetes para obtener el software correspondiente. Para los usuarios de Arch Linux, el cliente Linux es
 
 ```bash
 pacman -S seafile-client
 ```
 
-而非 `pacman -S seafile`，此包为 Terminal 客户端。其余发行版请自行找到对应包。
+En lugar de `pacman -S seafile`, este paquete es el cliente Terminal. Para otras distribuciones, busque usted mismo los paquetes correspondientes.
 
-### 使用 Terminal 客户端
+### Usando el cliente Terminal
 
-Terminal 客户端在 8.0.4 版本后以后支持使用 Token 进行同步，你可以在 [install_linux_client](https://help.seafile.com/syncing_client/install_linux_client/) 中找到大部分发行版 AMD64 架构的源，如果你所使用的包管理器中 `seafile` 或 `seafile-cli` 版本号低于 `8.0.4`，可以安装并参考后面替换部分文件的方法，也可以直接手动编译最新版。
+El cliente Terminal admite el uso de Token para sincronización después de la versión 8.0.4. Puede encontrar la fuente de la arquitectura AMD64 para la mayoría de las versiones en [install_linux_client](https://help.seafile.com/syncing_client/install_linux_client/). Si el número de versión de `seafile` o `seafile-cli` en el administrador de paquetes que está utilizando es inferior a `8.0.4`, puede instalarlo y consultar el método para reemplazar algunos archivos más adelante, o puede compilar directamente la última versión manualmente.
 
-#### 获取 Token
+#### Obtener ficha
 
-在浏览器中登录清华云盘，Cookie 中的 `seahub_auth` 应该为 `用户名（学号@tsinghua.edu.cn）@Token` 的模式，最后一段即为 Token 。每个账户的 Token 是唯一的，并且不会过期。
+Inicie sesión en Tsinghua Cloud Disk en el navegador. El `seahub_auth` en la cookie debe seguir el patrón de `用户名（学号@tsinghua.edu.cn）@Token` y el último párrafo es el token. El Token de cada cuenta es único y no caducará.
 
-在能正常运行 `seaf-cli` 后，可以使用命令行进行同步操作
+Después de que `seaf-cli` pueda ejecutarse normalmente, puede usar la línea de comando para realizar operaciones de sincronización.
 
 ```
 seaf-cli init -d ~
@@ -464,9 +464,9 @@ seaf-cli sync -l <library-id> -s https://cloud.tsinghua.edu.cn -d <place-directo
 seaf-cli desync -d <existing-folder>
 ```
 
-#### 替换部分文件实现 Token 登录
+#### Reemplace algunos archivos para implementar el inicio de sesión con token
 
-`seaf-cli` 实质上是通过 `pysearpc` 与 `seaf-daemon` 通讯，因此大部分发行版默认源中较低版本的 `seafile` 在只替换 `seaf-cli` 的情况下也能正常工作。这里提供一种安装 Terminal 客户端后替换 `seaf-cli` 实现 Token 登录的简单办法。
+`seaf-cli` esencialmente se comunica con `seaf-daemon` a través de `pysearpc`, por lo que la versión inferior de `seafile` en las fuentes predeterminadas de la mayoría de las distribuciones funcionará bien simplemente reemplazando `seaf-cli`. A continuación se muestra una forma sencilla de implementar el inicio de sesión con token reemplazando `seaf-cli` después de instalar el cliente Terminal.
 
 ```
 git clone https://github.com/haiwen/seafile
@@ -476,62 +476,62 @@ chmod +x /usr/bin/seaf-cli
 cp -r python/seafile $(python3 -m site --user-site)
 ```
 
-#### 编译 Terminal 客户端
+#### Compile el cliente Terminal
 
-具体的编译流程可以参考 [build_seafile](https://manual.seafile.com/build_seafile/linux/)，但要注意几点：
+Para conocer el proceso de compilación específico, consulte [build_seafile](https://manual.seafile.com/build_seafile/linux/), pero hay algunos puntos a tener en cuenta:
 
-- 下载并编译每个仓库中的最新源码或最新的 release
-- 可以忽略文档中的 `ccnet` 部分，仓库已经消失并且不存在相关依赖
-- make 有概率失败，可以多来几次
-- 如果安装完成后 `seaf-cli` 报错，例如 `No module named 'seafile'` 可以参考上一节手动复制 `seafile` 包
+- Descargue y compile el código fuente más reciente o la última versión en cada almacén
+- Puedes ignorar la parte `ccnet` del documento, el almacén ha desaparecido y no hay dependencias relevantes.
+- Existe la probabilidad de que la marca falle. Puedes intentarlo unas cuantas veces más.
+- Si `seaf-cli` informa un error después de completar la instalación, por ejemplo, `No module named 'seafile'`, puede consultar la sección anterior para copiar manualmente el paquete `seafile`
 
-### Chrome 提醒下载的文件危险
+### Chrome advierte que los archivos descargados son peligrosos
 
-此现象可能是奇妙同学的奇妙操作导致 Chrome 将清华云盘域名标记，进而所有文件下载都会提醒可能有危险并阻止。
+Este fenómeno puede deberse a la extraña operación de los estudiantes de Qiaoqiu, que hicieron que Chrome marcara el nombre de dominio de Tsinghua Cloud Disk, y luego se recordará a todas las descargas de archivos que pueden ser peligrosas y estar bloqueadas.
 
-请忽略此提醒。当然，如果您下载的真的是奇妙的文件，请您自查。
+Por favor ignore este recordatorio. Por supuesto, si descargaste un archivo realmente fantástico, compruébalo tú mismo.
 
-## ISATAP（已停止）
+## ISATAP (detenido)
 
-目前，该服务已停止。
+Actualmente el servicio está parado.
   
-参考 [ipv6.tsinghua.edu.cn](https://ipv6.tsinghua.edu.cn)。另有 [AUR 包 thu-isatap](https://aur.archlinux.org/packages/thu-isatap) 供参考。
+Referencia [ipv6.tsinghua.edu.cn](https://ipv6.tsinghua.edu.cn). También hay [AUR 包 thu-isatap](https://aur.archlinux.org/packages/thu-isatap) como referencia.
 
-目前只有校内公网IPv4的可使用该服务，校外不可。注意 `166.111.21.1` 这个IP是不会回应ping包的。
+Actualmente, sólo los usuarios públicos de IPv4 del campus pueden utilizar este servicio, no los que están fuera del campus. Tenga en cuenta que `166.111.21.1` esta IP no responderá a los paquetes de ping.
 
-### 获取IPv6挂PT
+### Obtenga PT vinculado a IPv6
 
-由于在家中使用 SSLVPN 后可获得校内公网 IP，可以使用 ISATAP 获取清华 IPv6 地址，以达到挂 PT 的功能，此处不做详细展开。
+Dado que puede obtener la IP pública del campus usando SSLVPN en casa, puede usar ISATAP para obtener la dirección IPv6 de Tsinghua para lograr la función PT, que no se discutirá en detalle aquí.
 
-## WIN 10 激活
+## Activación de GANAR 10
 
-在 Linux 下使用该命令获取相关 cmd 指令
+Utilice este comando en Linux para obtener instrucciones cmd relevantes
 
 ```
 $ dig -t TXT win10.harrychen.xyz +short
 ```
 
-或在 Windows 下使用
+o usar bajo Windows
 
 ```
 cmd> nslookup -q=TXT win10.harrychen.xyz
 ```
 
-然后在连上 sslvpn 的情况下执行该脚本即可激活
+Luego ejecute el script mientras está conectado a sslvpn para activar
 
-## 正版操作系统与软件下载
+## Descargas de software y sistemas operativos originales
 
-### ITS
+### ES
 
-访问 <https://its.tsinghua.edu.cn> 登录后即可获得 Win10，杀毒软件，WPS，MS Visio，MS Visual Studio，MATLAB 等正版软件的下载方式
+Visite https://its.tsinghua.edu.cn e inicie sesión para obtener el método de descarga de software original como Win10, software antivirus, WPS, MS Visio, MS Visual Studio, MATLAB, etc.
 
-### TUNA
+### ATÚN
 
-访问 <https://mirrors.tuna.tsinghua.edu.cn> ，点击获取下载链接即可。
+Visite https://mirrors.tuna.tsinghua.edu.cn y haga clic para obtener el enlace de descarga.
 
-## 校内 IP 段
+## Segmento IP en el campus
 
-校内共有 6 个 /16，可参考 <https://bgp.he.net/AS45576>
+Hay 6/16 en la escuela, consulte https://bgp.he.net/AS45576
 
 ```
 ; 重要校园服务基本位于此网段，例如主页
@@ -550,4 +550,4 @@ cmd> nslookup -q=TXT win10.harrychen.xyz
 118.229.0.0/20
 ```
 
-v6 一般使用 `2402:f000::/32`，也有部分地区使用 `2001:250:200::/48`（网研院）。有一段 `2001:da8:200::/48` 但未见使用。
+v6 generalmente usa `2402:f000::/32`, y algunas áreas usan `2001:250:200::/48` (Instituto de Investigación de Internet). Hay un párrafo `2001:da8:200::/48` pero no se utiliza.

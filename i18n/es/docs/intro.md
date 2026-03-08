@@ -1,87 +1,89 @@
 ---
 sidebar_position: 1
+title: Guía de servicios de información
+description: Un resumen de los enlaces comunes, números de contacto, identidad electrónica, red del campus, correo electrónico y otras pautas de servicio de la Universidad de Tsinghua.
 ---
 
-# its
+# Guía de servicios de información
 
-# 常用链接
+## Enlaces comunes
 
-校园网认证登录：<http://login.tsinghua.edu.cn>
+Inicio de sesión de autenticación de red del campus: http://login.tsinghua.edu.cn
 
-清华邮箱学生版：<http://mails.tsinghua.edu.cn>
+Versión de estudiante de correo electrónico de Tsinghua: http://mails.tsinghua.edu.cn
 
-新版信息门户：<https://info2021.tsinghua.edu.cn>
+Nueva versión del portal de información: https://info2021.tsinghua.edu.cn
 
-网络学堂：<http://learn.tsinghua.edu.cn>
+Escuela en línea: http://learn.tsinghua.edu.cn
 
-图书馆：<http://lib.tsinghua.edu.cn>
+Biblioteca: http://lib.tsinghua.edu.cn
 
-信息化用户服务（公共软件下载）：<http://its.tsinghua.edu.cn>
+Servicio de usuario de información (descarga de software público): http://its.tsinghua.edu.cn
 
-用户自服务系统（缴费、修改最大联网数）：<http://usereg.tsinghua.edu.cn>
+Sistema de autoservicio de usuario (pago, modificación del número máximo de conexiones): http://usereg.tsinghua.edu.cn
 
-选课系统：<https://zhjwxk.cic.tsinghua.edu.cn/xklogin.do>
+Sistema de selección de cursos: https://zhjwxk.cic.tsinghua.edu.cn/xklogin.do
 
-清华云盘：<http://cloud.tsinghua.edu.cn>
+Disco en la nube de Tsinghua: http://cloud.tsinghua.edu.cn
 
-# 常用电话
+## Números de teléfono de uso frecuente
 
-信息化技术中心用户服务热线 每天8:00-22:00 62784859
+Centro de Tecnologías de la Información Línea de Atención al Usuario 8:00-22:00 todos los días 62784859
 
-学生社区管理服务中心 62783333
+Centro de Servicios de Gestión Comunitaria Estudiantil 62783333
 
-# 信息化
+## Informatización
 
-校园信息化相关问题请咨询84859热线 或 发邮件至<its@tsinghua.edu.cn>
+Si tiene preguntas relacionadas con la informatización del campus, consulte la línea directa 84859 o envíe un correo electrónico a its@tsinghua.edu.cn
 
-## 电子身份
+## identidad electrónica
 
-电子身份=学号+账号
-校园网、电子邮件、信息门户、网络学堂、图书馆以及学校认可的其他校园网络信息服务资源共用一套账号密码。
-_清华家园网不属于网络信息服务_
-使用电子身份服务系统（ID系统）<https://id.tsinghua.edu.cn>修改密码和绑定手机号。
+Identidad electrónica = número de estudiante + número de cuenta
+La red del campus, el correo electrónico, el portal de información, el aula en línea, la biblioteca y otros recursos de servicios de información de la red del campus reconocidos por la escuela comparten una cuenta y una contraseña.
+_Tsinghuajiayuan.com no es un servicio de información de red_
+Utilice el sistema de servicio de identidad electrónica (sistema de identificación) https://id.tsinghua.edu.cn para cambiar la contraseña y vincular el número de teléfono móvil.
 
-### 修改密码
+### Cambiar la contraseña
 
-1. ID系统
-2. 自服务系统<http://usereg.tsinghua.edu.cn>
-3. “清华大学信息服务”企业微信号-认证助手
+1. sistema de identificación
+2. Sistema de autoservicio http://usereg.tsinghua.edu.cn
+3. Asistente de certificación de identificación de WeChat empresarial del "Servicio de información de la Universidad de Tsinghua"
 
-### 重置密码
+### restablecer contraseña
 
-1. 自助重置（账号需绑定手机）：在ID系统的“已有账号”页面，点击“忘记密码”，短信验证码重置。或信息门户首页的“忘记密码”。
-2. 人工重置：前往李兆基B104用户服务大厅。所需证件：本人办理，持校园卡即可；代办人办理需持其本人的校园卡及办理人的校园卡，复印件无效。
-3. 邮件申请：本人手持校园卡自拍照片（卡正面的学号和姓名要清晰），然后发送邮件至<its@tsinghua.edu.cn>，邮件标题为“重置密码”。
+1. Restablecimiento de autoservicio (la cuenta debe estar vinculada al teléfono móvil): en la página "Cuenta ya" del sistema de identificación, haga clic en "Olvidé mi contraseña" para restablecer el código de verificación por SMS. O "Olvidé mi contraseña" en la página de inicio del portal de información.
+2. Restablecimiento manual: vaya a la sala de servicio al usuario de Lee Shau Kee B104. Documentos requeridos: si presenta la solicitud en persona, puede tener su tarjeta del campus; Si presenta la solicitud en nombre de un agente, deberá tener su propia tarjeta del campus y la tarjeta del campus de la persona que gestiona la solicitud. Las fotocopias no son válidas.
+3. Solicite por correo electrónico: tómese una selfie con su tarjeta del campus en la mano (el número de estudiante y el nombre en el frente de la tarjeta deben estar claros) y luego envíe un correo electrónico a its@tsinghua.edu.cn con el título "Restablecer contraseña".
 
-## 校园网
+## Red de campus
 
-### 校园网资费
+### Tarifa de la red del campus
 
-在校正式注册的本科生和研究生账号
-基本服务：动态IPv4、IPv6地址，5个联网权限、1个电子邮箱。
-费用：0元/月，疫情期间，超出50GB校外IPv4入流量不收费，即_无限量免费使用_。
+Cuentas de pregrado y posgrado registradas oficialmente en la escuela
+Servicios básicos: IPv4 dinámico, direcciones IPv6, 5 permisos de red, 1 dirección de correo electrónico.
+Costo: 0 yuanes/mes. Durante la epidemia, no se cobra ningún cargo por el tráfico entrante IPv4 fuera del campus que supere los 50 GB, es decir, uso gratuito ilimitado.
 
-### 有线网
+### Red de cable
 
-用网线将上网设备于用网线将上网设备与墙面上的网络端口连接后，打开浏览器，输入认证系统网址<http://login.tsinghua.edu.cn>，或者访问信息门户<http://info.tsinghua.edu.cn>跳转。然后，在校园网认证登录页面（紫色）输入校园网账号和密码，点击“连接网络”，连接校园网络成功后即可访问网络资源。
+Después de conectar el dispositivo de Internet al puerto de red en la pared con un cable de red, abra el navegador e ingrese la URL del sistema de autenticación http://login.tsinghua.edu.cn, o visite el portal de información http://info.tsinghua.edu.cn para saltar. Luego, ingrese la cuenta y la contraseña de la red del campus en la página de inicio de sesión de autenticación de la red del campus (púrpura), haga clic en "Conectarse a la red" y podrá acceder a los recursos de la red después de conectarse exitosamente a la red del campus.
 
-### 无线网
+### red inalámbrica
 
-"Tsinghua"和"Tsinghua-"开头的Wi-Fi是校园无线网。连接后会自动弹出认证登录页面（橙色）。也可以访问<http://login.tsinghua.edu.cn>，或者访问信息门户<http://info.tsinghua.edu.cn>跳转。然后，在校园网认证登录页面（紫色）输入校园网账号和密码，点击“连接网络”，连接校园网络成功后即可访问网络资源。
+Las redes Wi-Fi que comienzan con "Tsinghua" y "Tsinghua-" son redes inalámbricas del campus. Después de conectarse, la página de inicio de sesión de autenticación (naranja) aparecerá automáticamente. También puedes visitar http://login.tsinghua.edu.cn, o acceder al portal de información http://info.tsinghua.edu.cn para saltar. Luego, ingrese la cuenta y la contraseña de la red del campus en la página de inicio de sesión de autenticación de la red del campus (púrpura), haga clic en "Conectarse a la red" y podrá acceder a los recursos de la red después de conectarse exitosamente a la red del campus.
 
-### 校园网账号封禁
+### Prohibición de cuenta de la red del campus
 
-## 电子邮件
+## correo electrónico
 
-### 常见问题
+### Preguntas frecuentes
 
-登录错误提示：
-_用户名或密码错误，或登录受到限制_
+Mensaje de error de inicio de sesión:
+_El nombre de usuario o la contraseña son incorrectos o el inicio de sesión está restringido_
 
-1. 检查域名：mails（学生版）
-2. 检查用户名和密码
+1. Verificar nombre de dominio: mails (versión para estudiantes)
+2. Verificar nombre de usuario y contraseña
 
-_用户已锁定，请联系管理员_
+_El usuario está bloqueado, por favor contacte al administrador_
 
-1. 拨打热线 (010)62784859
-2. 若为滥发邮件封禁，自助修改密码15分钟后解封。
+1. Llama al teléfono de atención (010)62784859
+2. Si el correo electrónico está bloqueado por spam, se desbloqueará después de 15 minutos de cambiar la contraseña usted mismo.

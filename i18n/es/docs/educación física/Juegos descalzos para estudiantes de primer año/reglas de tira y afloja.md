@@ -1,0 +1,24 @@
+# Reglas de tira y afloja de los juegos para estudiantes de primer año
+
+## Número de participantes
+
+Cada departamento está limitado a un equipo campeón (16 hombres y 2 mujeres). Sólo cuando el número de géneros en la unidad es insuficiente, se pueden utilizar los siguientes métodos de intercambio (1): una clase en la que no hay suficientes niños puede utilizar 2 niñas para reemplazar a 1 niño; 2) Si una clase tiene menos de 2 niñas o incluso ninguna, se puede permitir que las niñas jueguen, o si las niñas no juegan, se puede reemplazar a un niño). Si se determina que la situación no es cierta, los resultados del concurso serán cancelados.
+
+## Método de inspección
+
+1. Por favor llegue al lugar con 5 minutos de anticipación según el horario. Si no llega al juego dentro de los 5 minutos posteriores al inicio del juego, se considerará una pérdida automática.
+2. Cuando haya transcurrido el tiempo de juego y el número de asistentes del departamento supere los 12, comenzará el juego. Si son menos de 12 personas, se gestionará según el punto 1. anterior.
+3. Los estudiantes que participan en la competencia deben traer sus tarjetas de identificación de estudiante para verificar su identidad.
+
+## Método de competición
+
+1. Utilice un sistema de eliminación única.
+2. Cada juego es al mejor de tres. El tiempo límite para cada juego es de 3 minutos. Si aún no se ha decidido el ganador en ese momento, la marca se utilizará como ganador.
+
+## Normas de participación
+
+1. Llevar ropa, ropa y calzado deportivo, no permitiéndose ningún otro artículo.
+2. Los espectadores y estudiantes de dirección no pueden ingresar a la línea de control del área de competencia y observar la competencia desde las gradas.
+3. Los departamentos que cometan fraude o violen las regulaciones serán juzgados como fracasados ​​en el acto y serán descalificados de la selección del Premio anual a la Deportividad "Copa John Ma" del departamento.
+
+## Cualquier asunto pendiente será explicado por el equipo de competencia de los Freshman Games.

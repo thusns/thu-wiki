@@ -1,0 +1,14 @@
+---
+title: Proyectos de practica
+description: Página de índice de proyectos de práctica social, utilizada para organizar tipos de proyectos, casos y experiencias de participación.
+---
+
+# Proyectos de practica
+
+## Para agregar/resumen
+
+- Introducción a la clasificación y dirección de proyectos, como investigación educativa voluntaria, investigación industrial y servicios de base, etc.
+- El resumen de casos de proyectos de años anteriores ayuda a los estudiantes a comprender rápidamente la selección de temas y los métodos de implementación.
+- Sugerencias para la participación en proyectos, incluidas estrategias de formación de equipos, división de tareas e ideas para la presentación de resultados.
+
+> Bienvenido a agregar: hora del evento, método de registro, información de contacto.
