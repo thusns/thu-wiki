@@ -1,0 +1,14 @@
+---
+title: Pratique projetos
+description: Página índice de projetos de prática social, utilizada para organizar tipos de projetos, casos e experiências de participação.
+---
+
+# Pratique projetos
+
+## A ser adicionado/resumo
+
+- Introdução à classificação e direção de projetos, como pesquisa em educação voluntária, pesquisa industrial e serviços de base, etc.
+- O resumo de casos de projetos de anos anteriores ajuda os alunos a compreender rapidamente a seleção de tópicos e os métodos de implementação.
+- Sugestões para participação em projetos, incluindo estratégias de formação de equipes, divisão de tarefas e ideias para apresentação de resultados.
+
+> Bem-vindo ao adicionar: horário do evento, método de inscrição, informações de contato.

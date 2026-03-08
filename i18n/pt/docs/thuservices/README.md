@@ -1,181 +1,181 @@
-# 清华常用信息/服务汇总
+# Resumo de informações/serviços comuns de Tsinghua
 
-## 快速选课入口
+## Entrada rápida na seleção do curso
 
 [选课登录（校内或 SSLVPN）（选课时段内有效）](http://zhjwxk.cic.tsinghua.edu.cn/xklogin.do)
 
-## 文件内容
+## Conteúdo do arquivo
 - [accounts.md](accounts.md)
-    - 公众帐号们
-        - 微信公众号
-        - 知乎
+    - Contas públicas
+        - Conta pública WeChat
+        - Zhihu
 - [info.md](info.md)
-    - INFO重要信息集合
-        - 校历
-            - 2022-2023学年 
-        - 本科专业培养方案
-        - 学校宣传资料
-            - INFO 版本
-            - 主页版本
-        - 选课时间表
-        - 选课快捷方式
-        - 选课系统相关说明
-        - 期末考试时间/地点查询
-        - 历年本科生开课目录
-        - 清华大学迎新系统
-        - 注册标志（用于学生火车票）
-        - 校内校车
-        - 校内地图（静态版）
-        - 清华大学调查问卷系统
-        - 清华紫荆码
+    - INFO coleta de informações importantes
+        - Calendário escolar
+            - Ano letivo 2022-2023
+        - Programa de formação profissional de graduação
+        - Materiais promocionais escolares
+            - Versão INFORMATIVA
+            - Versão inicial
+        - Cronograma de seleção do curso
+        - Atalho de seleção de curso
+        - Instruções relacionadas ao sistema de seleção de cursos
+        - Consulta de horário/local do exame final
+        - Catálogos de cursos de graduação ao longo dos anos
+        - Sistema de Orientação da Universidade Tsinghua
+        - Marca de registro (para passagens de trem estudantis)
+        - Ônibus escolar no campus
+        - Mapa do campus (versão estática)
+        - Sistema de questionário da Universidade de Tsinghua
+        - Código Tsinghua Bauhinia
         - eduroam
-        - cksqs 查询GPA
-        - 清华大学后勤综合服务平台
-            - 校内各单位（包括校医院）电话号码
-            - 校医院各科室挂号
-            - 校园地图（动态版）
-            - 网上报修
-            - 客房服务
-            - 订车服务
-        - 邮编、邮寄地址及邮条
-        - 清华大学校园一卡通自助查询系统
-        - ACM/IEEE/知网等论文下载（Shibboleth或OpenAthens）
-        - 火车票报销凭证
-        - DIVI 注册设备
-        - 清华大学邮箱
-            - 清华大学校友邮箱
-        - 清华大学 Overleaf 服务
-        - LibGuides at Tsinghua University
-        - 清新时报
-        - 各食堂进入人数
+        - consulta cksqs GPA
+        - Plataforma de serviço abrangente de logística da Universidade de Tsinghua
+            - Números de telefone de todas as unidades do campus (incluindo o hospital do campus)
+            - Cadastro em diversos departamentos do hospital escolar
+            - Mapa do campus (versão dinâmica)
+            - Relatório de reparo on-line
+            - serviço de quarto
+            - Serviço de reserva de carro
+        - Código postal, endereço postal e selo postal
+        - Sistema de consulta de autoatendimento do cartão do campus da Universidade de Tsinghua
+        - Baixe ACM/IEEE/HowNet e outros artigos (Shibboleth ou OpenAthens)
+        - Voucher de reembolso de passagem de trem
+        - Dispositivo registrado DIVI
+        - E-mail da Universidade de Tsinghua
+            - E-mail de ex-alunos da Universidade de Tsinghua
+        - Serviço no verso da Universidade de Tsinghua
+        - LibGuides na Universidade de Tsinghua
+        - novos tempos
+        - Número de pessoas que entram em cada cantina
 - [services.md](services.md)
-    - 清华服务使用指北（主要面向 Linux 用户）
+    - Guia de uso do serviço Tsinghua (principalmente para usuários Linux)
         - DNS/NTP
         - SSLVPN
-        - 上网认证
-            - 校园网基础知识
-            - 命令行认证 自动认证
-                - 命令行认证
-                - 自动认证
-            - 远端服务器代认证
-            - 远端服务器网页认证
-            - Tsinghua-Secure
-                - NetworkManager
-                - wpa_supplicant
+        - Autenticação na Internet
+            - Conhecimento básico da rede do campus
+            - Autenticação de linha de comando autenticação automática
+                - Autenticação de linha de comando
+                - autenticação automática
+            - Autenticação de servidor remoto
+            - Autenticação de página web de servidor remoto
+            - Tsinghua-Seguro
+                - Gerenciador de rede
+                - wpa_supplicante
                 - iwd
-            - Tsinghua-Secure 仅校内登录方式
-        - 校园网特性讨论
-            - 二层隔离/邻居发现隔离
+            - Método de login Tsinghua-Secure apenas no campus
+        - Discussão sobre as características da rede do campus
+            - Isolamento de segunda camada/isolamento de descoberta de vizinho
                 - IPv4
                 - IPv6
-            - 低端口阻断
-            - 动态 IP
-                - IPv6 静态后缀或短 IPv6 地址
-                - 尝试获取某一特定IPv4、IPv6地址
-            - 院系网（三层接入）的 IPv6
-            - 不符合 RFC 的 DHCPv6
-            - 30分钟无流量掉准入
-            - 掉准出后无法准出
-            - 准入后（仅校内登录后）无法准出
-            - 未准入时其他机器能 ping 通，但不能 ssh
-        - 清华云盘
-            - 使用 Terminal 客户端
-                - 获取 Token
-                - 替换部分文件实现 Token 登录
-                - 编译 Terminal 客户端
-            - Chrome 提醒下载的文件危险
-        - ISATAP（已停止）
-            - 获取IPv6挂PT
-        - WIN 10 激活
-        - 正版操作系统与软件下载
-            - ITS
-            - TUNA
-        - 校内 IP 段
+            - bloqueio de porta baixo
+            - IP Dinâmico
+                - Sufixo estático IPv6 ou endereço IPv6 curto
+                - Tente obter um endereço IPv4 ou IPv6 específico
+            - IPv6 para rede de departamento (acesso camada 3)
+            - DHCPv6 não compatível com RFC
+            - Se não houver trânsito por 30 minutos, você perderá o acesso.
+            - Incapaz de sair com precisão depois de perder a saída precisa
+            - Não é possível sair após a admissão (somente após fazer login no campus)
+            - Quando não é permitido, outras máquinas podem fazer ping, mas não podem fazer ssh.
+        - Disco de nuvem Tsinghua
+            - Usando o cliente Terminal
+                - Obter token
+                - Substitua alguns arquivos para implementar o login do token
+                - Compilar o cliente Terminal
+            - Chrome alerta que arquivos baixados são perigosos
+        - ISATAP (parado)
+            - Obtenha PT vinculado a IPv6
+        - Ativação WIN 10
+        - Downloads originais de sistema operacional e software
+            - É
+            - ATUM
+        - Segmento IP no campus
 - [templates.md](templates.md)
-    - LaTeX 等模板
-        - 《如何使用 LaTeX 排版论文》讲稿
-        - ThuThesis
-        - ThuWordThesis
-        - THU-Beamer-Theme
-        - 清华大学中文Beamer 模板
+    - LaTeX e outros modelos
+        - Notas de aula sobre "Como usar LaTeX para formatar artigos"
+        - Tese
+        - QuiWordTese
+        - QUI-Beamer-Tema
+        - Modelo de projetor chinês da Universidade de Tsinghua
         - TsinghuaBeamear
-        - Report Presentation for Tsinghua University
+        - Apresentação de relatório para a Universidade de Tsinghua
         - thubeamer
-        - THU coursework Template
-        - 清华大学近代物理实验报告模版
-        - THU Letter of Recommendation Template
-        - A Simple Tsinghua Letterhead Template
-        - CV-tsinghua-template
+        - Modelo de curso QUI
+        - Modelo de relatório de experimento de física moderna da Universidade de Tsinghua
+        - Modelo de Carta de Recomendação QUI
+        - Um modelo de papel timbrado simples de Tsinghua
+        - Modelo CV-tsinghua
         - THU-Exam-LaTeX-Template
         - ilatex
 - [utils.md](utils.md)
-    - 一些脚本和工具
-        - 校园网认证工具汇总
-        - INFO/网络学堂 APP/插件
-        - 选课冲突标记
-        - 选课剩余课容标记
-        - INFO 网络学堂 Telegram 消息推送
-        - 全校洗衣机状态
-            - 全校洗衣机状态 - 洗衣机查询工具（有界面）
-            - 清华大学洗衣房可用性查询
-            - 全校洗衣机状态 - 官方小程序
-            - 全校洗衣机状态 - API接口（文字版，已废弃）
-            - 全校洗衣机状态 - iOS 快捷方式（不可用）
-            - 全校洗衣机状态 - Telegram Bot 二哈（不可用）
-            - 洗衣监控与提醒 - 微信小程序（不可用）
-        - INFO GPA 计算器
-        - 清华大学GPA查询
-        - Rain Classroom Helper
-        - 清华大学一体化平台视频自动播放
-        - 学堂在线视频自动播放
-        - 学堂在线字幕下载器
-        - 雨课堂课件下载器
-        - 清华教学参考书爬取
-            - 清华大学教参服务平台
-            - 文泉学堂
-        - 课程地点分享
-        - 注册标志（用于火车票）
-        - 寝室电费查询
-        - 寝室水电费查询
-        - 清华上下课铃声
-        - 随机选择校内餐厅 - 微信小程序
-        - 随机选择校内餐厅 - Telegram Bot
-        - 清华大学计算机系课程攻略
-        - 清华软院课程攻略
-        - 华清大学课程攻略共享计划
-        - 校园评教平台
-        - 有关计算机系的事实
-        - NFSee 校园卡
-        - 课程信息共享计划
-        - 清华大学计算机专业912考研资料
-        - 清华成绩刮刮乐
-        - thuhole memories
-        - thuhole database backup
-        - 计算机系学生科协技能引导文档
-        - 清华大学研究生社会实践系统爬虫
+    - alguns scripts e ferramentas
+        - Resumo das ferramentas de autenticação de rede do campus
+        - INFO/APLICATIVO Escolar Online/Plug-in
+        - Sinalizador de conflito de seleção de curso
+        - Marca de conteúdo restante do curso para seleção do curso
+        - INFO Envio de mensagem de telegrama escolar on-line
+        - Status da máquina de lavar em toda a escola
+            - Status da máquina de lavar em toda a escola - ferramenta de consulta da máquina de lavar (com interface)
+            - Consulta sobre disponibilidade de lavanderia da Universidade de Tsinghua
+            - Status da máquina de lavar em toda a escola - miniaplicativo oficial
+            - Status da máquina de lavar em toda a escola - interface API (versão de texto, obsoleta)
+            - Status da máquina de lavar em toda a escola - atalho iOS (não disponível)
+            - Status da máquina de lavar em toda a escola - Telegram Bot Erha (indisponível)
+            - Monitoramento e lembrete de lavanderia - miniaplicativo WeChat (não disponível)
+        - INFORMAÇÃO Calculadora GPA
+        - Consulta GPA da Universidade de Tsinghua
+        - Ajudante de sala de aula de chuva
+        - Reprodução automática de vídeo da plataforma integrada da Universidade Tsinghua
+        - O vídeo online Xuetang é reproduzido automaticamente
+        - Downloader de legendas on-line Xuetang
+        - Downloader de material didático Rain Classroom
+        - Tsinghua ensinando livro de referência rastejando
+            - Plataforma de serviço de referência de ensino da Universidade de Tsinghua
+            - Academia Wenquan
+        - Compartilhamento de localização do curso
+        - Marca de registro (para bilhetes de trem)
+        - Consulta de conta de luz do dormitório
+        - Consulta de conta de água e luz do quarto
+        - Toque da aula da Universidade de Tsinghua
+        - Selecione aleatoriamente restaurantes no campus - miniprograma WeChat
+        - Selecione aleatoriamente restaurantes no campus - Telegram Bot
+        - Guia do curso de ciência da computação da Universidade de Tsinghua
+        - Guia do curso do Instituto Tsinghua de Engenharia de Software
+        - Plano de compartilhamento do guia do curso da Universidade Huaqing
+        - Plataforma de avaliação de ensino universitário
+        - Fatos sobre o Departamento de Ciência da Computação
+        - Cartão do campus NFSee
+        - Plano de compartilhamento de informações do curso
+        - Materiais de exame de admissão de pós-graduação 912 da Universidade de Tsinghua
+        - Arranhador de pontuação de Tsinghua
+        - memórias thuhole
+        - backup de banco de dados thuhole
+        - Documento de orientação de habilidades da Associação Científica de Estudantes do Departamento de Computação
+        - Rastreador do sistema de prática social de estudantes de pós-graduação da Universidade de Tsinghua
 - [websites.md](websites.md)
-    - 常用校外网站
-        - thu.services
-        - T大树洞
-        - 闭社 - 清华站
-        - 在线退学
-        - 未名 BBS
-        - 水木 BBS
-        - 沙雕园的博客
-        - PT 站
-        - 星期四 Thursday
+    - Sites fora do campus comumente usados
+        - qui.services
+        - T Dashudong
+        - Fechado - Estação Tsinghua
+        - Retirada on-line
+        - BBS sem nome
+        - Mizuki BBS
+        - Blog do Jardim de Esculturas de Areia
+        - Estação PT
+        - Quinta-feira Quinta-feira
 
-## 知道某个重要信息，但repo中未列出？
+## Sabe algo importante, mas não está listado no repositório?
 
-欢迎贡献！请 [PR](https://github.com/ZenithalHourlyRate/thuservices/pulls)！
+Contribuições são bem-vindas! Por favor [PR](https://github.com/ZenithalHourlyRate/thuservices/pulls)!
 
-需要注意的是[本 repo](https://github.com/ZenithalHourlyRate/thuservices) 中使用了 [pre-commit hook](https://github.com/ZenithalHourlyRate/thuservices/blob/master/pre-commit)，请[安装](https://git-scm.com/book/zh/v2/%E8%87%AA%E5%AE%9A%E4%B9%89-Git-Git-%E9%92%A9%E5%AD%90)，并在有 bash 与 python3 的环境中进行 commit。
+Deve-se observar que [pre-commit hook](https://github.com/ZenithalHourlyRate/thuservices/blob/master/pre-commit) é usado em [本 repo](https://github.com/ZenithalHourlyRate/thuservices), por favor [安装](https://git-scm.com/book/zh/v2/%E8%87%AA%E5%AE%9A%E4%B9%89-Git-Git-%E9%92%A9%E5%AD%90), e confirme em um ambiente com bash e python3.
 
-在 pre-commit hook 的作用下，README.md 是自动生成的，故如果需要在 README.md 中修改，请在 [aux 文件夹](https://github.com/ZenithalHourlyRate/thuservices/tree/master/aux)下进行。
+Sob a ação do gancho de pré-confirmação, README.md é gerado automaticamente, portanto, se você precisar modificá-lo em README.md, faça-o em [aux 文件夹](https://github.com/ZenithalHourlyRate/thuservices/tree/master/aux).
 
-由于 Windows 文件系统的限制，文件夹名不能为 aux，请在非Windows环境（WSL也可以）下克隆该项目。
+Devido às limitações do sistema de arquivos do Windows, o nome da pasta não pode ser aux. Clone o projeto em um ambiente não Windows (WSL também está disponível).
 
-### 编译
+### compilar
 
 ```
 python3 -m pip install --user -r requirements.txt # 安装 Python 依赖包
@@ -183,8 +183,8 @@ mkdocs serve # 直接在本地 serve，或者：
 mkdocs build --clean # 生成于 site/ 文件夹中
 ```
 
-## LICENSE
+## LICENÇA
 
-本站的文本遵循 CC BY-NC 4.0
+O texto neste site segue CC BY-NC 4.0
 
-本项目内的存放的代码遵循代码文件内自带的 LICENSE。若代码文件中未附带 LICENSE，则认为该文件暂无 LICENSE，有需求者可以联系相应 committer。
+O código armazenado neste projeto segue a LICENÇA que acompanha o arquivo de código. Caso o arquivo de código não venha com LICENÇA, considera-se que o arquivo não possui LICENÇA. Se precisar, você pode entrar em contato com o committer correspondente.

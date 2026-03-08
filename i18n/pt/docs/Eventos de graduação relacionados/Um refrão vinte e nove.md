@@ -1,0 +1,14 @@
+---
+title: Refrão 129
+description: A página de introdução do Evento do Coro 129 organiza o processo de participação, modalidades de treinamento e cuidados comuns.
+---
+
+# Refrão 129
+
+## A ser adicionado/resumo
+
+- Os antecedentes e o significado das atividades, incluindo a evolução histórica e as formas de organização escolar.
+- Métodos de participação e horários, como inscrição, ensaio, ensaio geral e arranjos formais de apresentação.
+- Itens de preparação comuns, como prática de repertório, código de vestimenta e dicas de trabalho em equipe.
+
+> Bem-vindo ao adicionar: horário do evento, método de inscrição, informações de contato.

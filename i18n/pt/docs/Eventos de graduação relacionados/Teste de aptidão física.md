@@ -1,0 +1,3 @@
+# Teste de aptidão física
+
+Os alunos de graduação farão um teste de aptidão física de outubro a novembro de cada ano. Para obter detalhes, consulte "teste físico de estudo de informações"

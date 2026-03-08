@@ -1,10 +1,10 @@
-# INFO重要信息集合
+# INFO coleta de informações importantes
 
-## 校历
+## Calendário escolar
 
-快速访问路径：INFO（校外需要 VPN）->登录->综合->右上角校历
+Caminho de acesso rápido: INFO (VPN necessária fora do campus)->Login->Compreensivo->Calendário Acadêmico no canto superior direito
 
-### 2022-2023学年 
+### Ano letivo 2022-2023
 
 ![2022 - 2023 学年 春季](image/cal/2022-2023-2-cn.jpg)
 
@@ -12,183 +12,183 @@
 
 ![2023 - 2024 学年 春季](image/cal/2023-2024chunji.jpg)
 
-## 本科专业培养方案
+## Programa de formação profissional de graduação
 
 [清华官网培养方案链接](https://www.tsinghua.edu.cn/jyjx/bksjy/bkzy.htm)
 
 [计算机系 19 级培养方案 info 版本（需要已经登录 info）](http://zhjw.cic.tsinghua.edu.cn/jhBks.vjhBksPyfakzbBs.do?m=pyfakzFrame&fajhh=193024111&theModule=pyfa)
 
-可以注意到，上述地址中的 193024111 中的 19 表明是 19 级的培养方案，后面的 3024111 是
-院系相关代码
+Pode-se notar que o 19 em 193024111 no endereço acima indica o plano de treinamento de nível 19, e o seguinte 3024111 é
+Códigos relacionados ao departamento
 
 [各级各院系培养方案（需要已经登录 info）](http://zhjw.cic.tsinghua.edu.cn/jhBks.vjhBksPyfabBs.do?theModule=pyfa)
 
-此处为各年级各院系的索引
+Aqui está o índice de cada série e departamento
 
-## 学校宣传资料
+## Materiais promocionais escolares
 
-### INFO 版本
+### Versão INFORMATIVA
 
-包括清华大学校标、校徽、校色，清华大学校歌、歌词，清华展览，清华概览中文版、清华
-英文宣传册，清华大学宣传片中文版、英文版，以及清华大学二级单位标志规范相关材料。
+Incluindo logotipo da Universidade de Tsinghua, emblema da escola, cores da escola, músicas e letras da escola da Universidade de Tsinghua, exposição de Tsinghua, versão chinesa de Tsinghua Overview, Universidade de Tsinghua
+Folheto em inglês, versão em chinês, versão em inglês do vídeo promocional da Universidade de Tsinghua e materiais relacionados às especificações do logotipo da unidade secundária da Universidade de Tsinghua.
 
-快速访问路径：INFO -> 首页 -> 页面底部中间
+Caminho de acesso rápido: INFO -> Home -> Meio da parte inferior da página
 
 [学校宣传资料（校外需要 VPN）](http://info.tsinghua.edu.cn/html/xxxczl/xczlxz.htm)
 
-### 主页版本
+### Versão inicial
 
-清华概况、宣传册、校歌、宣传片。
+Visão geral da Universidade Tsinghua, folhetos, hino escolar e vídeos promocionais.
 
 [学校宣传资料](https://www.tsinghua.edu.cn/zjqh/syxx/xczy.htm)
 
-## 选课时间表
+## Cronograma de seleção do curso
 
-快速访问路径：[ACADEMIC](http://academic.tsinghua.edu.cn/)（校外需要 VPN）->登录
-->左侧选课专栏->本科生选课下“选课时间安排”
+Caminho de acesso rápido: [ACADEMIC](http://academic.tsinghua.edu.cn/) (VPN necessária fora do campus) -> Login
+->Coluna de seleção de cursos à esquerda->"Cronograma de seleção de cursos" na seleção de cursos de graduação
 
-## 选课快捷方式
+## Atalho de seleção de curso
 
 [选课登录（校内或 SSLVPN）（选课时间内有效）](http://zhjwxk.cic.tsinghua.edu.cn/xklogin.do)
 
-## 选课系统相关说明
+## Instruções relacionadas ao sistema de seleção de cursos
 
-你校有两套甚至三套选课系统，分别是 zhjw, zhjwxk 以及 zhjwxkyw。后两者在选课时间内
-开启，前者会在平时开启。
+A sua escola tem dois ou até três sistemas de seleção de cursos, nomeadamente zhjw, zhjwxk e zhjwxkyw. Os dois últimos estão dentro do prazo de seleção do curso
+Ligue, o primeiro ligará normalmente.
 
-对于前者，通常访问路径是 [ACADEMIC](http://academic.tsinghua.edu.cn/)（校外需要VPN）
-->登录->左侧选课专栏->本科生选课。通常用于在非选课时间内查看开课信息。
+Para o primeiro, o caminho de acesso usual é [ACADEMIC](http://academic.tsinghua.edu.cn/) (VPN é necessária fora do campus)
+->Login->Coluna de seleção de cursos à esquerda->Seleção de cursos de graduação. Geralmente usado para visualizar informações de abertura do curso fora do horário de seleção do curso.
 
-中者可以通过快捷方式进入，也可以通过 info/academic 登录后的中间界面登录，webvpn
-也是指向这个选课系统三，这种登录方式当且仅当在选课时间内才可行。
+O ganhador poderá entrar pelo atalho, ou efetuar login pela interface intermediária após efetuar login em info/acadêmico, webvpn
+Também aponta para este sistema de seleção de cursos 3. Este método de login só é viável se e somente durante o período de seleção do curso.
 
-后者与中者类似，只需在操作时改相关 url。
+Este último é semelhante ao do meio, você só precisa alterar o URL relevante durante a operação.
 
-## 期末考试时间/地点查询
+## Consulta de horário/local do exame final
 
-之前在 Info 中会有筛选方式，可惜由于一些原因，该功能被 Info 删除。现在 Info 中只有所有课程的考试信息。
+Costumava haver um método de filtragem no Info, mas infelizmente por alguns motivos, essa função foi excluída pelo Info. Agora o Info só possui informações de exames de todos os cursos.
 
-现在需要在 [ACADEMIC](http://academic.tsinghua.edu.cn/) 中登录后，进入门户，在本学期课程中查看
+Agora você precisa fazer login em [ACADEMIC](http://academic.tsinghua.edu.cn/), entrar no portal e visualizar os cursos deste semestre
 
-## 历年本科生开课目录
+## Catálogos de cursos de graduação ao longo dos anos
 
 [历年本科生开课目录（校内或 SSLVPN）](http://announce.cic.tsinghua.edu.cn/node/25833)
 
-## 清华大学迎新系统
+## Sistema de Orientação da Universidade Tsinghua
 
-清华大学迎新系统是考生在现场查询报名信息，以及报名流程是否完成的网站
+O Sistema de Orientação da Universidade Tsinghua é um site onde os candidatos podem verificar suas informações de inscrição no local e se o processo de inscrição foi concluído.
 
 [清华大学迎新系统](http://szyx.cic.tsinghua.edu.cn/index.jsp)
 
-## 注册标志（用于学生火车票）
+## Marca de registro (para passagens de trem estudantis)
 
-快速访问路径：INFO（校外需要 VPN）->登录->综合->右上角照片处“学籍信息”->历年注册标志
+Caminho de acesso rápido: INFO (VPN necessária fora do campus) -> Login -> Geral -> "Informações sobre status do aluno" na foto no canto superior direito -> Marcas de matrícula anteriores
 
-可在 [utils.md](utils.md) 部分找到别的注册标志。
+Tokens de registro adicionais podem ser encontrados na seção [utils.md](utils.md).
 
-## 校内校车
+## Ônibus escolar no campus
 
 [校内交通介绍](https://www.tsinghua.edu.cn/zjqh/syxx/xyjt.htm)
 [校车交通路线图](https://www.tsinghua.edu.cn/__local/3/BB/BE/7260A578E48A6BA827528DE4F74_004A1626_73CEC.png)
 
-校车实时运行情况可以使用“校内交通介绍”中提到的 APP 与/或小程序
+Para saber o status de operação dos ônibus escolares em tempo real, você pode utilizar o APP e/ou miniprograma mencionado em “Introdução ao Transporte Escolar”
 
-## 校内地图（静态版）
+## Mapa do campus (versão estática)
 
 [校内地图](https://www.tsinghua.edu.cn/zjqh/xyfg/xydt.htm)
 
-## 清华大学调查问卷系统
+## Sistema de questionário da Universidade de Tsinghua
 
 [清华大学调查问卷系统](https://wenjuan.tsinghua.edu.cn)
 
-## 清华紫荆码
+## Código Tsinghua Bauhinia
 
-其链接为 [https://zijing.tsinghua.edu.cn/tp\_jp/h6?m=jp#act=jp/serviceapplication](https://zijing.tsinghua.edu.cn/tp_jp/h6?m=jp#act=jp/serviceapplication)
+O link é [https://zijing.tsinghua.edu.cn/tp\_jp/h6?m=jp#act=jp/serviceapplication](https://zijing.tsinghua.edu.cn/tp_jp/h6?m=jp#act=jp/serviceapplication)
 
-使用方法为，首次打开登录后，再次打开该网页（或直接刷新），即可呈现紫荆码。这样可以不受制于微信平台。
+O método de utilização é: após abrir e fazer login pela primeira vez, abra a página novamente (ou atualize-a diretamente) e o código Bauhinia será exibido. Desta forma você não fica restrito à plataforma WeChat.
 
-注意，这种方式下「地点扫码」不能使用。
+Observe que o "código de verificação de localização" não pode ser usado neste método.
 
-可以使用浏览器创建桌面快捷方式，以移动端 Chrome 为例，在打开网页后通过「添加到主屏幕」的选项安装快捷方式。
+Você pode usar um navegador para criar um atalho na área de trabalho. Tomando como exemplo o Chrome móvel, instale o atalho através da opção “Adicionar à tela inicial” após abrir a página web.
 
 ## eduroam
 
-访问 <https://guestman.tsinghua.edu.cn:8443/> 可注册。注：只可用于清华校外。
+Visite https://guestman.tsinghua.edu.cn:8443/ para se registrar. Nota: Só pode ser usado fora da Universidade Tsinghua.
 
-## cksqs 查询GPA
+## consulta cksqs GPA
 
-注：目前该方式已基本失效，只可以在二学位系统开放时访问
+Nota: Atualmente, este método é basicamente inválido e só pode ser acessado quando o sistema de segundo grau estiver aberto.
 
-登录过 INFO 后，访问 <http://jxgl.cic.tsinghua.edu.cn/jxpg/f/xssq/exwfx/xssqb/cksqs>，即可查看 GPA。
+Após fazer login no INFO, visite http://jxgl.cic.tsinghua.edu.cn/jxpg/f/xssq/exwfx/xssqb/cksqs para ver seu GPA.
 
-## 清华大学后勤综合服务平台
+## Plataforma de serviço abrangente de logística da Universidade de Tsinghua
 
-<https://pt.tsinghua.edu.cn/>
+https://pt.tsinghua.edu.cn/
 
-其中包含
+que contém
 
-### 校内各单位（包括校医院）电话号码
-### 校医院各科室挂号
-### 校园地图（动态版）
-可定位自身所在，可查看道路路障情况（针对机动车），可分类查找校内的各种设施。
-### 网上报修
-### 客房服务
-### 订车服务
+### Números de telefone de todas as unidades do campus (incluindo o hospital do campus)
+### Cadastro em diversos departamentos do hospital escolar
+### Mapa do campus (versão dinâmica)
+Você pode se localizar, visualizar bloqueios de estradas (para veículos motorizados) e pesquisar várias instalações no campus por categoria.
+### Relatório de reparo on-line
+### serviço de quarto
+### Serviço de reserva de carro
 
-## 邮编、邮寄地址及邮条
+## Código postal, endereço postal e selo postal
 
-<https://www.tsinghua.edu.cn/xssqglfwzx/info/1043/1174.htm>
+https://www.tsinghua.edu.cn/xssqglfwzx/info/1043/1174.htm
 
-虽然标注了：「在注册过程中，同学如留有Email地址，那么，当同学有新邮条或汇款单时，系统会通过Email自动通知同学」，但笔者并未收到过相关邮件。
+Embora esteja marcado: “Durante o processo de inscrição, caso os alunos deixem seus endereços de e-mail, o sistema notificará automaticamente os alunos por e-mail quando eles tiverem novos boletos ou pedidos de remessa”. No entanto, o autor não recebeu nenhum e-mail relevante.
 
-## 清华大学校园一卡通自助查询系统
+## Sistema de consulta de autoatendimento do cartão do campus da Universidade de Tsinghua
 
-<http://ecard.tsinghua.edu.cn/user/Index.do>
+http://ecard.tsinghua.edu.cn/user/Index.do
 
-## ACM/IEEE/知网等论文下载（Shibboleth或OpenAthens）
+## Baixe ACM/IEEE/HowNet e outros artigos (Shibboleth ou OpenAthens)
 
-参考 <http://lib.tsinghua.edu.cn/tjfw/xwfw.htm> 中的机构身份认证。
+Veja autenticação institucional em http://lib.tsinghua.edu.cn/tjfw/xwfw.htm.
 
-## 火车票报销凭证
+## Voucher de reembolso de passagem de trem
 
-在紫荆一号楼的东侧，通往桃李的路上，有一台取火车票报销凭证机器
+No lado leste do Edifício Bauhinia 1, na estrada que leva a Taoli, existe uma máquina de coleta de vouchers de reembolso de passagens de trem.
 
-## DIVI 注册设备
+## Dispositivo registrado DIVI
 
-在连接 DIVI 后访问 register.your.device
+Depois de conectar-se ao DIVI, visite Register.your.device
 
-## 清华大学邮箱
+## E-mail da Universidade de Tsinghua
 
-学生邮箱为 abbr@mails.tsinghua.edu.cn ，同时可以用 abbr@mails.thu.edu.cn 收到邮件。
+O endereço de e-mail do aluno é abbr@mails.tsinghua.edu.cn, e você pode usar abbr@mails.thu.edu.cn para receber e-mails.
 
-教师邮箱为 abbr@mail.tsinghua.edu.cn ，同时可以用 abbr@tsinghua.edu.cn ，两者等价。
+O endereço de e-mail do professor é abbr@mail.tsinghua.edu.cn, e você também pode usar abbr@tsinghua.edu.cn. Os dois são equivalentes.
 
-没有特别的邮件列表实现，一般使用教师邮箱并用群组转发实现邮件列表。
+Não há implementação especial de lista de discussão. Geralmente, as caixas de correio dos professores são usadas e o encaminhamento de grupo é usado para implementar a lista de discussão.
 
-没有 abbr@thu.edu.cn 。
+Não abbr@thu.edu.cn.
 
-清华同时有 tsinghua.edu 的域名，尽管有解析，未见使用（注：隔壁 ustc.edu 被用作校友邮箱）
+Tsinghua também tem o nome de domínio tsinghua.edu. Embora tenha sido resolvido, não foi usado (Nota: ustc.edu ao lado é usado como endereço de e-mail de ex-alunos)
 
-### 清华大学校友邮箱
+### E-mail de ex-alunos da Universidade de Tsinghua
 
-访问 https://mailservice.tsinghua.org.cn/ 即可激活。
+Visite https://mailservice.tsinghua.org.cn/ para ativar.
 
-可获得 abbr@tsinghua.org.cn 的邮箱。
+O endereço de e-mail é abbr@tsinghua.org.cn.
 
-## 清华大学 Overleaf 服务
+## Serviço no verso da Universidade de Tsinghua
 
-访问 https://overleaf.tsinghua.edu.cn/ 即可。
+Basta visitar https://overleaf.tsinghua.edu.cn/.
 
-## LibGuides at Tsinghua University
+## LibGuides na Universidade de Tsinghua
 
-<https://tsinghua.cn.libguides.com/>
+https://tsinghua.cn.libguides.com/
 
-## 清新时报
+## novos tempos
 
-<https://qxcm.tsjc.tsinghua.edu.cn/pc/folder120>
+https://qxcm.tsjc.tsinghua.edu.cn/pc/folder120
 
-## 各食堂进入人数
+## Número de pessoas que entram em cada cantina
 
-> 微信->清华大学信息服务->学生食堂进入人数
+> WeChat-> Serviço de Informações da Universidade de Tsinghua-> Número de pessoas que entram na cantina estudantil
 
-已关闭
+Fechado
