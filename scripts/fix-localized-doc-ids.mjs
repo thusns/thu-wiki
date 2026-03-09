@@ -5,6 +5,8 @@ import { execFileSync } from "node:child_process";
 const ROOT = process.cwd();
 const DOCS_DIR = path.join(ROOT, "docs");
 const I18N_DIR = path.join(ROOT, "i18n");
+const DOCS_PLUGIN_NAME = "docusaurus-plugin-content-docs";
+const DOCS_PLUGIN_ID = "current";
 const GOOGLE_API_URL = "https://translate.googleapis.com/translate_a/single";
 const LIBRE_API_URL = "https://translate.cutie.dating/translate";
 
@@ -50,6 +52,29 @@ function getLocalizedSlug(relPath) {
     return dir === "." ? "/" : `/${dir}`;
   }
   return `/${posixPath}`;
+}
+
+function stripDocIdentity(raw) {
+  const normalized = raw.replace(/\r\n/g, "\n");
+
+  if (!normalized.startsWith("---\n")) {
+    return normalized;
+  }
+
+  const end = normalized.indexOf("\n---\n", 4);
+  if (end === -1) {
+    return normalized;
+  }
+
+  const block = normalized.slice(4, end).split("\n");
+  const body = normalized.slice(end + 5).replace(/^\n/, "");
+  const filtered = block.filter((line) => !/^id:\s*/.test(line) && !/^slug:\s*/.test(line));
+
+  if (filtered.length === 0) {
+    return body ? `${body}\n` : "";
+  }
+
+  return `---\n${filtered.join("\n")}\n---\n${body}`;
 }
 
 function stripFrontmatter(raw) {
@@ -295,7 +320,21 @@ async function bestTitleMatch(locale, localizedFile, raw, sourceEntries) {
 }
 
 async function run(locale, sourceMap, sourceEntries) {
-  const localeDocsDir = path.join(I18N_DIR, locale, "docs");
+  const localeDocsDir = path.join(I18N_DIR, locale, DOCS_PLUGIN_NAME, DOCS_PLUGIN_ID);
+  const stagingDir = path.join(I18N_DIR, locale, `${DOCS_PLUGIN_NAME}-${DOCS_PLUGIN_ID}-normalized`);
+  fs.rmSync(stagingDir, { recursive: true, force: true });
+  fs.mkdirSync(stagingDir, { recursive: true });
+
+  for (const sourceFile of walk(DOCS_DIR)) {
+    if (sourceFile.endsWith(".md")) {
+      continue;
+    }
+    const rel = path.relative(DOCS_DIR, sourceFile);
+    const targetFile = path.join(stagingDir, rel);
+    fs.mkdirSync(path.dirname(targetFile), { recursive: true });
+    fs.copyFileSync(sourceFile, targetFile);
+  }
+
   for (const localizedFile of walk(localeDocsDir)) {
     const raw = fs.readFileSync(localizedFile, "utf8");
     const sig = buildSignature(raw);
@@ -323,12 +362,15 @@ async function run(locale, sourceMap, sourceEntries) {
     }
 
     const sourceRel = matches[0];
-    const localizedRel = path.relative(localeDocsDir, localizedFile);
-    const patched = upsertDocIdentity(raw, sourceRel, localizedRel);
-    fs.writeFileSync(localizedFile, patched);
+    const targetFile = path.join(stagingDir, sourceRel);
+    const patched = stripDocIdentity(raw);
+    fs.mkdirSync(path.dirname(targetFile), { recursive: true });
+    fs.writeFileSync(targetFile, patched);
   }
 
-  console.error(`${locale}: fixed ids and slugs`);
+  fs.rmSync(localeDocsDir, { recursive: true, force: true });
+  fs.renameSync(stagingDir, localeDocsDir);
+  console.error(`${locale}: normalized localized docs`);
 }
 
 const locales = process.argv.slice(2);

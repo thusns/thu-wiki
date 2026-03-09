@@ -5,6 +5,8 @@ import { execFileSync } from "node:child_process";
 const ROOT = process.cwd();
 const DOCS_DIR = path.join(ROOT, "docs");
 const I18N_DIR = path.join(ROOT, "i18n");
+const DOCS_PLUGIN_NAME = "docusaurus-plugin-content-docs";
+const DOCS_PLUGIN_ID = "current";
 const CACHE_DIR = path.join(ROOT, ".cache");
 const CACHE_FILE = path.join(CACHE_DIR, "translate-docs-cache.json");
 const SOURCE_LOCALE = "zh-Hans";
@@ -142,6 +144,29 @@ function getLocalizedSlug(relPath) {
     return dir === "." ? "/" : `/${dir}`;
   }
   return `/${posixPath}`;
+}
+
+function stripDocIdentity(raw) {
+  const normalized = raw.replace(/\r\n/g, "\n");
+
+  if (!normalized.startsWith("---\n")) {
+    return normalized;
+  }
+
+  const end = normalized.indexOf("\n---\n", 4);
+  if (end === -1) {
+    return normalized;
+  }
+
+  const block = normalized.slice(4, end).split("\n");
+  const body = normalized.slice(end + 5).replace(/^\n/, "");
+  const filtered = block.filter((line) => !/^id:\s*/.test(line) && !/^slug:\s*/.test(line));
+
+  if (filtered.length === 0) {
+    return body ? `${body}\n` : "";
+  }
+
+  return `---\n${filtered.join("\n")}\n---\n${body}`;
 }
 
 function sleep(ms) {
@@ -471,18 +496,6 @@ async function translateSegment(cache, segment, target) {
   return sanitizeSegment(translated) || segment;
 }
 
-async function translateRelativePath(cache, relPath, target) {
-  const parts = relPath.split(path.sep);
-  const translatedParts = [];
-  for (const part of parts) {
-    const ext = path.extname(part);
-    const stem = ext ? part.slice(0, -ext.length) : part;
-    const translatedStem = await translateSegment(cache, stem, target);
-    translatedParts.push(`${translatedStem}${ext}`);
-  }
-  return path.join(...translatedParts);
-}
-
 async function translateCategoryJson(cache, sourceFile, targetFile, target) {
   const raw = JSON.parse(fs.readFileSync(sourceFile, "utf8"));
   const cloned = structuredClone(raw);
@@ -503,32 +516,32 @@ async function generateLocale(locale) {
   }
 
   const cache = loadCache();
-  const localeDocsDir = path.join(I18N_DIR, locale, "docs");
+  const localeDocsDir = path.join(I18N_DIR, locale, DOCS_PLUGIN_NAME, DOCS_PLUGIN_ID);
+  const legacyLocaleDocsDir = path.join(I18N_DIR, locale, "docs");
   const stagingDocsDir = path.join(I18N_DIR, locale, ".docs-staging");
   removeDirIfExists(stagingDocsDir);
   ensureDir(stagingDocsDir);
 
-  const sourceMarkdownFiles = walk(DOCS_DIR, (full) => full.endsWith(".md"));
-  const pathMap = new Map();
-
-  for (let index = 0; index < sourceMarkdownFiles.length; index += 1) {
-    const file = sourceMarkdownFiles[index];
-    const rel = path.relative(DOCS_DIR, file);
-    const translatedRel = await translateRelativePath(cache, rel, target);
-    pathMap.set(rel, translatedRel);
-    if ((index + 1) % 10 === 0 || index + 1 === sourceMarkdownFiles.length) {
-      console.error(`${locale}: translated paths ${index + 1}/${sourceMarkdownFiles.length}`);
-      saveCache(cache);
-    }
+  for (const assetFile of walk(
+    DOCS_DIR,
+    (full) => !full.endsWith(".md") && path.basename(full) !== "_category_.json",
+  )) {
+    const rel = path.relative(DOCS_DIR, assetFile);
+    const targetFile = path.join(stagingDocsDir, rel);
+    ensureDir(path.dirname(targetFile));
+    fs.copyFileSync(assetFile, targetFile);
   }
 
+  const sourceMarkdownFiles = walk(DOCS_DIR, (full) => full.endsWith(".md"));
+
   for (let index = 0; index < sourceMarkdownFiles.length; index += 1) {
     const file = sourceMarkdownFiles[index];
     const rel = path.relative(DOCS_DIR, file);
-    const translatedRel = pathMap.get(rel);
-    const targetFile = path.join(stagingDocsDir, translatedRel);
+    const targetFile = path.join(stagingDocsDir, rel);
     const raw = fs.readFileSync(file, "utf8");
-    const existingFile = path.join(localeDocsDir, rel);
+    const currentFile = path.join(localeDocsDir, rel);
+    const legacyFile = path.join(legacyLocaleDocsDir, rel);
+    const existingFile = fs.existsSync(currentFile) ? currentFile : legacyFile;
     let translated;
 
     if (fs.existsSync(existingFile)) {
@@ -542,11 +555,11 @@ async function generateLocale(locale) {
       translated = await translateMarkdown(cache, raw, target);
     }
 
-    translated = upsertDocIdentity(translated, rel, translatedRel);
+    translated = stripDocIdentity(translated);
 
     ensureDir(path.dirname(targetFile));
     fs.writeFileSync(targetFile, translated);
-    console.error(`${locale}: wrote ${index + 1}/${sourceMarkdownFiles.length} ${translatedRel}`);
+    console.error(`${locale}: wrote ${index + 1}/${sourceMarkdownFiles.length} ${rel}`);
     saveCache(cache);
   }
 
@@ -558,6 +571,7 @@ async function generateLocale(locale) {
   ensureDir(localeDocsDir);
   removeLocalizedTextFiles(localeDocsDir);
   copyDirRecursive(stagingDocsDir, localeDocsDir);
+  removeDirIfExists(legacyLocaleDocsDir);
   removeDirIfExists(stagingDocsDir);
   console.error(`${locale}: completed`);
 }
