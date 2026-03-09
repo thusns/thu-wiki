@@ -53,8 +53,8 @@ function sanitizeMdx(raw, file) {
 
   if (file.includes(`${path.sep}thuservices${path.sep}`)) {
     sanitized = sanitized
-      .replace(/\]\(file\//g, "](/docs/thuservices/file/")
-      .replace(/\]\(image\//g, "](/docs/thuservices/image/");
+      .replace(/\]\(file\//g, "](pathname:///docs/thuservices/file/")
+      .replace(/\]\(image\//g, "](pathname:///docs/thuservices/image/");
   }
 
   return sanitized;

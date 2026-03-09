@@ -61,11 +61,11 @@ openconnect --protocol=pulse https://sslvpn.tsinghua.edu.cn --useragent Pulse-Se
 
 ### Базовые знания кампусной сети
 
-[清华大学校园网使用简介](https://its.tsinghua.edu.cn/helpsystem/train/CampusNetworkLectureNotes201909.pdf) (поскольку срок действия ссылки на обновление веб-страницы истек, обратитесь к [备份](/docs/thuservices/file/CampusNetworkLectureNotes201909.pdf) на этом сайте)
+[清华大学校园网使用简介](https://its.tsinghua.edu.cn/helpsystem/train/CampusNetworkLectureNotes201909.pdf) (поскольку срок действия ссылки на обновление веб-страницы истек, обратитесь к [备份](pathname:///docs/thuservices/file/CampusNetworkLectureNotes201909.pdf) на этом сайте)
 
-[准入上网使用说明](http://166.111.5.8/commsoft/helpsystem/wirednetwork/RealNameAuthentication20190121.pdf) (этот сайт[备份](/docs/thuservices/file/RealNameAuthentication20190121.pdf))
+[准入上网使用说明](http://166.111.5.8/commsoft/helpsystem/wirednetwork/RealNameAuthentication20190121.pdf) (этот сайт[备份](pathname:///docs/thuservices/file/RealNameAuthentication20190121.pdf))
 
-[清华大学校园网有线局域网用户准入系统使用说明（问与答）](https://its.tsinghua.edu.cn/helpsystem/wirednetwork/RealNameAuthenticationFAQ20190614.pdf) (поскольку срок действия ссылки на обновление веб-страницы истек, обратитесь к [备份](/docs/thuservices/file/RealNameAuthenticationFAQ20190614.pdf) на этом сайте)
+[清华大学校园网有线局域网用户准入系统使用说明（问与答）](https://its.tsinghua.edu.cn/helpsystem/wirednetwork/RealNameAuthenticationFAQ20190614.pdf) (поскольку срок действия ссылки на обновление веб-страницы истек, обратитесь к [备份](pathname:///docs/thuservices/file/RealNameAuthenticationFAQ20190614.pdf) на этом сайте)
 
 Приведенный выше документ слишком длинный, и я не хочу его читать: доступ к Интернету в сети кампуса состоит из двух шагов: один — это доступ, а другой — доступ.
 
@@ -155,7 +155,7 @@ ssh -D <port> host
 
 #### сетевой менеджер
 
-После настройки вы можете использовать `NetworkManager` для подключения к Wi-Fi. Вы можете обратиться к его документации [清华大学无线校园网 802.1x 认证登录客户端配置说明](https://its.tsinghua.edu.cn/info/1333/2318.htm) (этот сайт [备份](/docs/thuservices/file/tsinghua-secure-config.pdf)).
+После настройки вы можете использовать `NetworkManager` для подключения к Wi-Fi. Вы можете обратиться к его документации [清华大学无线校园网 802.1x 认证登录客户端配置说明](https://its.tsinghua.edu.cn/info/1333/2318.htm) (этот сайт [备份](pathname:///docs/thuservices/file/tsinghua-secure-config.pdf)).
 
 Пример конфигурации `/etc/NetworkManager/system-connections/Tsinghua-Secure.nmconnection` выглядит следующим образом.
 

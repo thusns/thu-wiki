@@ -61,11 +61,11 @@ openconnect --protocol=pulse https://sslvpn.tsinghua.edu.cn --useragent Pulse-Se
 
 ### キャンパスネットワークの基礎知識
 
-[清华大学校园网使用简介](https://its.tsinghua.edu.cn/helpsystem/train/CampusNetworkLectureNotes201909.pdf) (Web ページのアップグレード リンクの有効期限が切れているため、このサイトの [备份](/docs/thuservices/file/CampusNetworkLectureNotes201909.pdf) を参照してください)
+[清华大学校园网使用简介](https://its.tsinghua.edu.cn/helpsystem/train/CampusNetworkLectureNotes201909.pdf) (Web ページのアップグレード リンクの有効期限が切れているため、このサイトの [备份](pathname:///docs/thuservices/file/CampusNetworkLectureNotes201909.pdf) を参照してください)
 
-[准入上网使用说明](http://166.111.5.8/commsoft/helpsystem/wirednetwork/RealNameAuthentication20190121.pdf) (このサイト[备份](/docs/thuservices/file/RealNameAuthentication20190121.pdf))
+[准入上网使用说明](http://166.111.5.8/commsoft/helpsystem/wirednetwork/RealNameAuthentication20190121.pdf) (このサイト[备份](pathname:///docs/thuservices/file/RealNameAuthentication20190121.pdf))
 
-[清华大学校园网有线局域网用户准入系统使用说明（问与答）](https://its.tsinghua.edu.cn/helpsystem/wirednetwork/RealNameAuthenticationFAQ20190614.pdf) (Web ページのアップグレード リンクの有効期限が切れているため、このサイトの [备份](/docs/thuservices/file/RealNameAuthenticationFAQ20190614.pdf) を参照してください)
+[清华大学校园网有线局域网用户准入系统使用说明（问与答）](https://its.tsinghua.edu.cn/helpsystem/wirednetwork/RealNameAuthenticationFAQ20190614.pdf) (Web ページのアップグレード リンクの有効期限が切れているため、このサイトの [备份](pathname:///docs/thuservices/file/RealNameAuthenticationFAQ20190614.pdf) を参照してください)
 
 上記の文書は長すぎるので読みたくないのですが、キャンパス ネットワークでインターネットにアクセスするには 2 つの手順があります。1 つはアクセス、もう 1 つはアクセスです。
 
@@ -155,7 +155,7 @@ ssh -D <port> host
 
 #### ネットワークマネージャー
 
-セットアップ後、`NetworkManager` を使用して Wifi に接続できます。そのドキュメント [清华大学无线校园网 802.1x 认证登录客户端配置说明](https://its.tsinghua.edu.cn/info/1333/2318.htm) (このサイト [备份](/docs/thuservices/file/tsinghua-secure-config.pdf)) を参照してください。
+セットアップ後、`NetworkManager` を使用して Wifi に接続できます。そのドキュメント [清华大学无线校园网 802.1x 认证登录客户端配置说明](https://its.tsinghua.edu.cn/info/1333/2318.htm) (このサイト [备份](pathname:///docs/thuservices/file/tsinghua-secure-config.pdf)) を参照してください。
 
 サンプル構成 `/etc/NetworkManager/system-connections/Tsinghua-Secure.nmconnection` は次のとおりです
 

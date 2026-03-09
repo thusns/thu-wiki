@@ -58,11 +58,11 @@ It is worth noting that traffic unrelated to Tsinghua will still go through the 
 
 ### Campus Network Basics
 
-[Introduction to Tsinghua University Campus Network](https://its.tsinghua.edu.cn/helpsystem/train/CampusNetworkLectureNotes201909.pdf) (Link broken due to website upgrade; see our [backup](/docs/thuservices/file/CampusNetworkLectureNotes201909.pdf))
+[Introduction to Tsinghua University Campus Network](https://its.tsinghua.edu.cn/helpsystem/train/CampusNetworkLectureNotes201909.pdf) (Link broken due to website upgrade; see our [backup](pathname:///docs/thuservices/file/CampusNetworkLectureNotes201909.pdf))
 
-[Network Access Authentication Instructions](http://166.111.5.8/commsoft/helpsystem/wirednetwork/RealNameAuthentication20190121.pdf) (Our [backup](/docs/thuservices/file/RealNameAuthentication20190121.pdf))
+[Network Access Authentication Instructions](http://166.111.5.8/commsoft/helpsystem/wirednetwork/RealNameAuthentication20190121.pdf) (Our [backup](pathname:///docs/thuservices/file/RealNameAuthentication20190121.pdf))
 
-[Tsinghua University Campus Wired LAN User Authentication System FAQ](https://its.tsinghua.edu.cn/helpsystem/wirednetwork/RealNameAuthenticationFAQ20190614.pdf) (Link broken due to website upgrade; see our [backup](/docs/thuservices/file/RealNameAuthenticationFAQ20190614.pdf))
+[Tsinghua University Campus Wired LAN User Authentication System FAQ](https://its.tsinghua.edu.cn/helpsystem/wirednetwork/RealNameAuthenticationFAQ20190614.pdf) (Link broken due to website upgrade; see our [backup](pathname:///docs/thuservices/file/RealNameAuthenticationFAQ20190614.pdf))
 
 TL;DR of the above documents: Internet access on the campus network involves two steps — one is "network access" (准入, admission), and the other is "external access" (准出, egress).
 
@@ -152,7 +152,7 @@ If you are on campus, first connect to `Tsinghua-Secure Wireless Network Usage G
 
 #### NetworkManager
 
-After setting up, you can use `NetworkManager` to connect to this WiFi. Refer to the ITS documentation [Tsinghua University Wireless Campus Network 802.1x Authentication Login Client Configuration Guide](https://its.tsinghua.edu.cn/info/1333/2318.htm) (Our [backup](/docs/thuservices/file/tsinghua-secure-config.pdf)).
+After setting up, you can use `NetworkManager` to connect to this WiFi. Refer to the ITS documentation [Tsinghua University Wireless Campus Network 802.1x Authentication Login Client Configuration Guide](https://its.tsinghua.edu.cn/info/1333/2318.htm) (Our [backup](pathname:///docs/thuservices/file/tsinghua-secure-config.pdf)).
 
 Sample configuration `/etc/NetworkManager/system-connections/Tsinghua-Secure.nmconnection`:
 

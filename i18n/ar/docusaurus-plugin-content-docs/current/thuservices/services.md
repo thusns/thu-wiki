@@ -61,11 +61,11 @@ openconnect --protocol=pulse https://sslvpn.tsinghua.edu.cn --useragent Pulse-Se
 
 ### المعرفة الأساسية بشبكة الحرم الجامعي
 
-[清华大学校园网使用简介](https://its.tsinghua.edu.cn/helpsystem/train/CampusNetworkLectureNotes201909.pdf) (نظرًا لانتهاء صلاحية رابط ترقية صفحة الويب، يرجى الرجوع إلى [备份](/docs/thuservices/file/CampusNetworkLectureNotes201909.pdf) على هذا الموقع)
+[清华大学校园网使用简介](https://its.tsinghua.edu.cn/helpsystem/train/CampusNetworkLectureNotes201909.pdf) (نظرًا لانتهاء صلاحية رابط ترقية صفحة الويب، يرجى الرجوع إلى [备份](pathname:///docs/thuservices/file/CampusNetworkLectureNotes201909.pdf) على هذا الموقع)
 
-[准入上网使用说明](http://166.111.5.8/commsoft/helpsystem/wirednetwork/RealNameAuthentication20190121.pdf) (هذا الموقع[备份](/docs/thuservices/file/RealNameAuthentication20190121.pdf))
+[准入上网使用说明](http://166.111.5.8/commsoft/helpsystem/wirednetwork/RealNameAuthentication20190121.pdf) (هذا الموقع[备份](pathname:///docs/thuservices/file/RealNameAuthentication20190121.pdf))
 
-[清华大学校园网有线局域网用户准入系统使用说明（问与答）](https://its.tsinghua.edu.cn/helpsystem/wirednetwork/RealNameAuthenticationFAQ20190614.pdf) (نظرًا لانتهاء صلاحية رابط ترقية صفحة الويب، يرجى الرجوع إلى [备份](/docs/thuservices/file/RealNameAuthenticationFAQ20190614.pdf) على هذا الموقع)
+[清华大学校园网有线局域网用户准入系统使用说明（问与答）](https://its.tsinghua.edu.cn/helpsystem/wirednetwork/RealNameAuthenticationFAQ20190614.pdf) (نظرًا لانتهاء صلاحية رابط ترقية صفحة الويب، يرجى الرجوع إلى [备份](pathname:///docs/thuservices/file/RealNameAuthenticationFAQ20190614.pdf) على هذا الموقع)
 
 الوثيقة أعلاه طويلة جدًا ولا أريد قراءتها: هناك خطوتان للوصول إلى الإنترنت على شبكة الحرم الجامعي، إحداهما الوصول والأخرى الوصول.
 
@@ -155,7 +155,7 @@ ssh -D <port> host
 
 #### مدير الشبكة
 
-بعد الإعداد، يمكنك استخدام `NetworkManager` للاتصال بشبكة Wifi. يمكنك الرجوع إلى وثائقه [清华大学无线校园网 802.1x 认证登录客户端配置说明](https://its.tsinghua.edu.cn/info/1333/2318.htm) (هذا الموقع [备份](/docs/thuservices/file/tsinghua-secure-config.pdf))
+بعد الإعداد، يمكنك استخدام `NetworkManager` للاتصال بشبكة Wifi. يمكنك الرجوع إلى وثائقه [清华大学无线校园网 802.1x 认证登录客户端配置说明](https://its.tsinghua.edu.cn/info/1333/2318.htm) (هذا الموقع [备份](pathname:///docs/thuservices/file/tsinghua-secure-config.pdf))
 
 نموذج التكوين `/etc/NetworkManager/system-connections/Tsinghua-Secure.nmconnection` هو كما يلي
 

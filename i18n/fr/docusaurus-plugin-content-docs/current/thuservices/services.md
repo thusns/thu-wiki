@@ -61,11 +61,11 @@ Il convient de noter que le trafic non lié à l’Université Tsinghua est touj
 
 ### Connaissance de base du réseau de campus
 
-[清华大学校园网使用简介](https://its.tsinghua.edu.cn/helpsystem/train/CampusNetworkLectureNotes201909.pdf) (Le lien de mise à niveau de la page Web ayant expiré, veuillez vous référer à [备份](/docs/thuservices/file/CampusNetworkLectureNotes201909.pdf) sur ce site)
+[清华大学校园网使用简介](https://its.tsinghua.edu.cn/helpsystem/train/CampusNetworkLectureNotes201909.pdf) (Le lien de mise à niveau de la page Web ayant expiré, veuillez vous référer à [备份](pathname:///docs/thuservices/file/CampusNetworkLectureNotes201909.pdf) sur ce site)
 
-[准入上网使用说明](http://166.111.5.8/commsoft/helpsystem/wirednetwork/RealNameAuthentication20190121.pdf) (ce site[备份](/docs/thuservices/file/RealNameAuthentication20190121.pdf))
+[准入上网使用说明](http://166.111.5.8/commsoft/helpsystem/wirednetwork/RealNameAuthentication20190121.pdf) (ce site[备份](pathname:///docs/thuservices/file/RealNameAuthentication20190121.pdf))
 
-[清华大学校园网有线局域网用户准入系统使用说明（问与答）](https://its.tsinghua.edu.cn/helpsystem/wirednetwork/RealNameAuthenticationFAQ20190614.pdf) (Le lien de mise à niveau de la page Web ayant expiré, veuillez vous référer à [备份](/docs/thuservices/file/RealNameAuthenticationFAQ20190614.pdf) sur ce site)
+[清华大学校园网有线局域网用户准入系统使用说明（问与答）](https://its.tsinghua.edu.cn/helpsystem/wirednetwork/RealNameAuthenticationFAQ20190614.pdf) (Le lien de mise à niveau de la page Web ayant expiré, veuillez vous référer à [备份](pathname:///docs/thuservices/file/RealNameAuthenticationFAQ20190614.pdf) sur ce site)
 
 Le document ci-dessus est trop long et je ne veux pas le lire : Il y a deux étapes pour accéder à Internet sur le réseau du campus, l'une est l'accès et l'autre est l'accès.
 
@@ -155,7 +155,7 @@ S'il s'agit d'un environnement sur le campus, connectez-vous d'abord à `Tsinghu
 
 #### Gestionnaire de réseau
 
-Après la configuration, vous pouvez utiliser `NetworkManager` pour vous connecter au Wifi. Vous pouvez vous référer à sa documentation [清华大学无线校园网 802.1x 认证登录客户端配置说明](https://its.tsinghua.edu.cn/info/1333/2318.htm) (ce site [备份](/docs/thuservices/file/tsinghua-secure-config.pdf))
+Après la configuration, vous pouvez utiliser `NetworkManager` pour vous connecter au Wifi. Vous pouvez vous référer à sa documentation [清华大学无线校园网 802.1x 认证登录客户端配置说明](https://its.tsinghua.edu.cn/info/1333/2318.htm) (ce site [备份](pathname:///docs/thuservices/file/tsinghua-secure-config.pdf))
 
 L'exemple de configuration `/etc/NetworkManager/system-connections/Tsinghua-Secure.nmconnection` est le suivant
 

@@ -61,11 +61,11 @@ openconnect --protocol=pulse https://sslvpn.tsinghua.edu.cn --useragent Pulse-Se
 
 ### 校園網基礎知識
 
-[清华大学校园网使用简介](https://its.tsinghua.edu.cn/helpsystem/train/CampusNetworkLectureNotes201909.pdf)（由於網頁升級連結已失效，可參閱本站的[备份](/docs/thuservices/file/CampusNetworkLectureNotes201909.pdf)）
+[清华大学校园网使用简介](https://its.tsinghua.edu.cn/helpsystem/train/CampusNetworkLectureNotes201909.pdf)（由於網頁升級連結已失效，可參閱本站的[备份](pathname:///docs/thuservices/file/CampusNetworkLectureNotes201909.pdf)）
 
-[准入上网使用说明](http://166.111.5.8/commsoft/helpsystem/wirednetwork/RealNameAuthentication20190121.pdf)（本站[备份](/docs/thuservices/file/RealNameAuthentication20190121.pdf)）
+[准入上网使用说明](http://166.111.5.8/commsoft/helpsystem/wirednetwork/RealNameAuthentication20190121.pdf)（本站[备份](pathname:///docs/thuservices/file/RealNameAuthentication20190121.pdf)）
 
-[清华大学校园网有线局域网用户准入系统使用说明（问与答）](https://its.tsinghua.edu.cn/helpsystem/wirednetwork/RealNameAuthenticationFAQ20190614.pdf)（由於網頁升級連結已失效，可參閱本站的[备份](/docs/thuservices/file/RealNameAuthenticationFAQ20190614.pdf)）
+[清华大学校园网有线局域网用户准入系统使用说明（问与答）](https://its.tsinghua.edu.cn/helpsystem/wirednetwork/RealNameAuthenticationFAQ20190614.pdf)（由於網頁升級連結已失效，可參閱本站的[备份](pathname:///docs/thuservices/file/RealNameAuthenticationFAQ20190614.pdf)）
 
 上述文件太長不看版：在校園網中上網分為兩步，一步是准入，另一步是準出。
 
@@ -155,7 +155,7 @@ ssh -D <port> host
 
 #### NetworkManager
 
-設定好後，可以使用 `NetworkManager` 連接該 Wifi，可以參考 its 的文件 [清华大学无线校园网 802.1x 认证登录客户端配置说明](https://its.tsinghua.edu.cn/info/1333/2318.htm)（本站[备份](/docs/thuservices/file/tsinghua-secure-config.pdf)）
+設定好後，可以使用 `NetworkManager` 連接該 Wifi，可以參考 its 的文件 [清华大学无线校园网 802.1x 认证登录客户端配置说明](https://its.tsinghua.edu.cn/info/1333/2318.htm)（本站[备份](pathname:///docs/thuservices/file/tsinghua-secure-config.pdf)）
 
 範例配置 `/etc/NetworkManager/system-connections/Tsinghua-Secure.nmconnection` 如下
 

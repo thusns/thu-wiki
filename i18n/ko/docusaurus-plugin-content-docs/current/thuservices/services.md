@@ -61,11 +61,11 @@ Tsinghua University와 관련되지 않은 트래픽은 여전히 ​​원래 �
 
 ### 캠퍼스 네트워크에 대한 기본 지식
 
-[清华大学校园网使用简介](https://its.tsinghua.edu.cn/helpsystem/train/CampusNetworkLectureNotes201909.pdf) (웹페이지 업그레이드 링크가 만료되었으므로 본 사이트의 [备份](/docs/thuservices/file/CampusNetworkLectureNotes201909.pdf)을 참고해주세요)
+[清华大学校园网使用简介](https://its.tsinghua.edu.cn/helpsystem/train/CampusNetworkLectureNotes201909.pdf) (웹페이지 업그레이드 링크가 만료되었으므로 본 사이트의 [备份](pathname:///docs/thuservices/file/CampusNetworkLectureNotes201909.pdf)을 참고해주세요)
 
-[准入上网使用说明](http://166.111.5.8/commsoft/helpsystem/wirednetwork/RealNameAuthentication20190121.pdf) (이 사이트[备份](/docs/thuservices/file/RealNameAuthentication20190121.pdf))
+[准入上网使用说明](http://166.111.5.8/commsoft/helpsystem/wirednetwork/RealNameAuthentication20190121.pdf) (이 사이트[备份](pathname:///docs/thuservices/file/RealNameAuthentication20190121.pdf))
 
-[清华大学校园网有线局域网用户准入系统使用说明（问与答）](https://its.tsinghua.edu.cn/helpsystem/wirednetwork/RealNameAuthenticationFAQ20190614.pdf) (웹페이지 업그레이드 링크가 만료되었으므로 본 사이트의 [备份](/docs/thuservices/file/RealNameAuthenticationFAQ20190614.pdf)을 참고해주세요)
+[清华大学校园网有线局域网用户准入系统使用说明（问与答）](https://its.tsinghua.edu.cn/helpsystem/wirednetwork/RealNameAuthenticationFAQ20190614.pdf) (웹페이지 업그레이드 링크가 만료되었으므로 본 사이트의 [备份](pathname:///docs/thuservices/file/RealNameAuthenticationFAQ20190614.pdf)을 참고해주세요)
 
 위 문서는 너무 길어서 읽고 싶지 않습니다. 캠퍼스 네트워크에서 인터넷에 접속하려면 두 단계가 있는데, 하나는 접속이고 다른 하나는 접속입니다.
 
@@ -155,7 +155,7 @@ ssh -D <port> host
 
 #### 네트워크매니저
 
-설정 후 `NetworkManager`을(를) 사용하여 Wi-Fi에 연결할 수 있습니다. 문서 [清华大学无线校园网 802.1x 认证登录客户端配置说明](https://its.tsinghua.edu.cn/info/1333/2318.htm)(이 사이트 [备份](/docs/thuservices/file/tsinghua-secure-config.pdf))을 참조할 수 있습니다.
+설정 후 `NetworkManager`을(를) 사용하여 Wi-Fi에 연결할 수 있습니다. 문서 [清华大学无线校园网 802.1x 认证登录客户端配置说明](https://its.tsinghua.edu.cn/info/1333/2318.htm)(이 사이트 [备份](pathname:///docs/thuservices/file/tsinghua-secure-config.pdf))을 참조할 수 있습니다.
 
 샘플 구성 `/etc/NetworkManager/system-connections/Tsinghua-Secure.nmconnection`은 다음과 같습니다.
 
