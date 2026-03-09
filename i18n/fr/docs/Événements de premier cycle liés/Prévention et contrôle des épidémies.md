@@ -1,3 +1,8 @@
+---
+id: 本科大事件相关/疫情防控相关
+slug: /Événements de premier cycle liés/Prévention et contrôle des épidémies
+
+---
 # Prévention et contrôle des épidémies
 
 ## Exemple de notification de mesures normalisées de prévention et de contrôle

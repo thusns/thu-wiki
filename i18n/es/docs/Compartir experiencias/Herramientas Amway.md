@@ -1,3 +1,8 @@
+---
+id: 经验分享/工具安利
+slug: /Compartir experiencias/Herramientas Amway
+
+---
 # Herramientas Amway
 
 ## Cómo obtener libros electrónicos

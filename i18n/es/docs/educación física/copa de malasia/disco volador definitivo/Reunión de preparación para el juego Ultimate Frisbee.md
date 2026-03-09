@@ -1,3 +1,8 @@
+---
+id: 体育/大马杯/极限飞盘/极限飞盘赛前准备会
+slug: /educación física/copa de malasia/disco volador definitivo/Reunión de preparación para el juego Ultimate Frisbee
+
+---
 # Reunión de preparación definitiva del Frisbee "Copa Majohn"
 
 ## Cronograma

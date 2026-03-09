@@ -1,8 +1,9 @@
 ---
+id: 本科大事件相关/马约翰杯
+slug: /Undergraduate events related/John Ma Cup
 title: John Ma Cup
 description: A compilation page for the John MacDonald Cup event information, covering the schedule, entry methods and preparation suggestions.
 ---
-
 # John Ma Cup
 
 ## To be added/summary

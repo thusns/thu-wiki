@@ -1,3 +1,8 @@
+---
+id: 校内外生活/衣食住行/北京旅游指南/博物馆
+slug: /La vie sur et hors campus/Nourriture, vêtements, logement et transport/Guide de voyage à Pékin/musée
+
+---
 # musée
 
 ### Quartier artistique 798 de Pékin

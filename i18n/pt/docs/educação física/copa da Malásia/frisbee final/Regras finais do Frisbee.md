@@ -1,3 +1,8 @@
+---
+id: 体育/大马杯/极限飞盘/极限飞盘规则
+slug: /educação física/copa da Malásia/frisbee final/Regras finais do Frisbee
+
+---
 # Regras finais do frisbee da "Copa Marjohn"
 
 ## introduzir

@@ -1,8 +1,9 @@
 ---
+id: 本科大事件相关/一 二九合唱
+slug: /Eventos de pregrado relacionados/Un coro veintinueve
 title: Coro 129
 description: La página de introducción del 129 Choir Event organiza el proceso de participación, los arreglos de capacitación y las precauciones comunes.
 ---
-
 # Coro 129
 
 ## Para agregar/resumen

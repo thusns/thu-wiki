@@ -1,3 +1,8 @@
+---
+id: 学习相关/选课/选课指南
+slug: /lernbezogen/Kursauswahl/Leitfaden zur Kursauswahl
+
+---
 # Leitfaden zur Kursauswahl
 
 ## Website zur Kursauswahl

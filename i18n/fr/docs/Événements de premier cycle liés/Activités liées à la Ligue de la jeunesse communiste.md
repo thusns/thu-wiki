@@ -1,3 +1,8 @@
+---
+id: 本科大事件相关/共青团相关活动
+slug: /Événements de premier cycle liés/Activités liées à la Ligue de la jeunesse communiste
+
+---
 # Activités liées aux membres de la Ligue de la jeunesse communiste
 
 ## Journées de caucus thématiques chaque semestre

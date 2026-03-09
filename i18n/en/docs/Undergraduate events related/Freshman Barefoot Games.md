@@ -1,3 +1,8 @@
+---
+id: 本科大事件相关/新生赤足运动会
+slug: /Undergraduate events related/Freshman Barefoot Games
+
+---
 # Freshman Barefoot Games
 
 As the name suggests, the Barefoot Games are the Barefoot Games (x)

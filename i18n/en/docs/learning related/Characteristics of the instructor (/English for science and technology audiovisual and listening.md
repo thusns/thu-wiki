@@ -1,3 +1,8 @@
+---
+id: 学习相关/授课老师特点（/科技英语视听说
+slug: /learning related/Characteristics of the instructor (/English for science and technology audiovisual and listening
+
+---
 # English for Science and Technology Audio-visual and Listening (Intermediate, Advanced)
 
 

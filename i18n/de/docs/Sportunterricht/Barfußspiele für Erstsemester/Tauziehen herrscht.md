@@ -1,3 +1,8 @@
+---
+id: 体育/新生赤足运动会/拔河规则
+slug: /Sportunterricht/Barfußspiele für Erstsemester/Tauziehen herrscht
+
+---
 # Freshman Games Tauziehen-Regeln
 
 ## Anzahl der Teilnehmer

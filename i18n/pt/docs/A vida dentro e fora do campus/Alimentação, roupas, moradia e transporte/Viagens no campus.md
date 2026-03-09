@@ -1,3 +1,8 @@
+---
+id: 校内外生活/衣食住行/校内出行
+slug: /A vida dentro e fora do campus/Alimentação, roupas, moradia e transporte/Viagens no campus
+
+---
 # Viagens no campus
 
 ## ônibus escolar

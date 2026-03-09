@@ -1,3 +1,8 @@
+---
+id: thuservices/services
+slug: /thuservices/services
+
+---
 # 清華服務使用指北（主要面向 Linux 用戶）
 
 本文將重點放在清華一些服務在 Linux 機器，包括遠端伺服器上的使用說明

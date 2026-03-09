@@ -1,3 +1,8 @@
+---
+id: intro
+slug: /Veranstaltungen im Zusammenhang mit Studenten/Zurückweisen
+
+---
 # Zurückweisen
 
 ## erklären

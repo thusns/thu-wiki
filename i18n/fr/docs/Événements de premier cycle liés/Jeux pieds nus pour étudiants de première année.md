@@ -1,3 +1,8 @@
+---
+id: 本科大事件相关/新生赤足运动会
+slug: /Événements de premier cycle liés/Jeux pieds nus pour étudiants de première année
+
+---
 # Jeux pieds nus pour étudiants de première année
 
 Comme leur nom l'indique, les Barefoot Games sont les Barefoot Games (x)

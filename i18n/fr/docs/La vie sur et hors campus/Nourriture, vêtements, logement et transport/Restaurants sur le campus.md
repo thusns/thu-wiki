@@ -1,3 +1,8 @@
+---
+id: 校内外生活/衣食住行/校内聚餐地点
+slug: /La vie sur et hors campus/Nourriture, vêtements, logement et transport/Restaurants sur le campus
+
+---
 # Restaurants sur le campus
 1. Restaurant décontracté Taoli : Situé au B1 du Jardin Taoli, il y a de nombreuses tables pour 4 personnes et peut également accueillir plus de 4 personnes ;
 2. Bauhinia Qingqing Pizza : située dans le jardin Bauhinia B1, elle peut accueillir un grand nombre de personnes pour des rassemblements ;

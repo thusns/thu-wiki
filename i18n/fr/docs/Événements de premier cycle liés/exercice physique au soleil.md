@@ -1,3 +1,8 @@
+---
+id: 本科大事件相关/阳光体育锻炼
+slug: /Événements de premier cycle liés/exercice physique au soleil
+
+---
 # exercice physique au soleil
 
 Les étudiants qui suivent des cours d'éducation physique de la première à la troisième année du premier cycle doivent participer à des activités d'exercices physiques ensoleillés et télécharger l'application « Le Power » pour s'enregistrer pour faire de l'exercice. Pour plus de détails, veuillez consulter les annonces émises par chaque département.

@@ -1,3 +1,8 @@
+---
+id: 体育/“排山倒海”本科生班级排球赛
+slug: /educação física/Partida de vôlei “inspiradora” da turma de graduação
+
+---
 # Partida de vôlei “inspiradora” da turma de graduação
 
 ## comissão organizadora

@@ -1,3 +1,8 @@
+---
+id: 体育/“排山倒海”本科生班级排球赛
+slug: /physical education/“Awe-inspiring” undergraduate class volleyball match
+
+---
 # “Awe-inspiring” undergraduate class volleyball match
 
 ## organizing committee

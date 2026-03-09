@@ -1,3 +1,8 @@
+---
+id: thuservices/websites
+slug: /thuservices/websites
+
+---
 # よく利用される学外Webサイト
 
 キャンパスのWebサイトはinfo.mdをご覧ください。

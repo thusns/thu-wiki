@@ -1,3 +1,8 @@
+---
+id: 校内外生活/衣食住行/校内聚餐地点
+slug: /Leben auf und außerhalb des Campus/Nahrung, Kleidung, Unterkunft und Transport/Essensmöglichkeiten auf dem Campus
+
+---
 # Essensmöglichkeiten auf dem Campus
 1. Taoli Casual Restaurant: In B1 des Taoli Garden gelegen, gibt es viele Tische für 4 Personen und bietet auch Platz für mehr als 4 Personen;
 2. Bauhinia Qingqing Pizza: Im Bauhinia Garden B1 gelegen, bietet es Platz für eine große Anzahl von Menschen;

@@ -1,3 +1,8 @@
+---
+id: 本科大事件相关/党组织相关活动
+slug: /Undergraduate events related/Party organization related activities
+
+---
 # Party organization related activities
 
 ## 1. TMS Association

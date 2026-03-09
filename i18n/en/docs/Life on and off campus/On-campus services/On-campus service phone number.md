@@ -1,3 +1,8 @@
+---
+id: 校内外生活/校内办事/校内服务电话
+slug: /Life on and off campus/On-campus services/On-campus service phone number
+
+---
 # Tsinghua University Directory Desk: 62793001
 
 - The directory information desk can find the telephone numbers of all units on Tsinghua University, and you can make reservations for on-campus hostels and call experts.

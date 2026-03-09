@@ -1,3 +1,8 @@
+---
+id: 校园历史文化/清华历史简介
+slug: /História e Cultura do Campus/Introdução à história da Universidade Tsinghua
+
+---
 # Introdução à história da Universidade Tsinghua
 
 A antecessora da Universidade Tsinghua, a Academia Tsinghua, foi fundada em 1911 e renomeada como Escola Tsinghua em 1912. Em 1928, foi renomeada como Universidade Nacional Tsinghua. Após a eclosão da Guerra Antijaponesa em 1937, mudou-se para o sul, para Changsha, e formou a Universidade Nacional Provisória de Changsha com a Universidade de Pequim e a Universidade de Nankai. Em 1938, mudou-se para Kunming e foi renomeada como National Southwest Associated University. Voltou para a Universidade Tsinghua em 1946 e agora tem 5 faculdades e 26 departamentos, incluindo artes liberais, direito, ciências, engenharia e agricultura.

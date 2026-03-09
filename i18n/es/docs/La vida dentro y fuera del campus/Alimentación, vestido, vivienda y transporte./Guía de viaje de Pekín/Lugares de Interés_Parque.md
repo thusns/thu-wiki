@@ -1,3 +1,8 @@
+---
+id: 校内外生活/衣食住行/北京旅游指南/名胜古迹_公园
+slug: /La vida dentro y fuera del campus/Alimentación, vestido, vivienda y transporte./Guía de viaje de Pekín/Lugares de Interés_Parque
+
+---
 # lugares de interés
 
 ### Museo del Palacio Nacional

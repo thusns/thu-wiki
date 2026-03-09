@@ -1,8 +1,9 @@
 ---
+id: 经验分享/科研经历
+slug: /Partage d'expérience/Expérience en recherche scientifique
 title: Expérience en recherche scientifique
 description: La page d'expérience de recherche scientifique résume les canaux d'entrée, les méthodes de participation au projet et les suggestions de croissance.
 ---
-
 # Expérience en recherche scientifique
 
 ## À ajouter/résumé

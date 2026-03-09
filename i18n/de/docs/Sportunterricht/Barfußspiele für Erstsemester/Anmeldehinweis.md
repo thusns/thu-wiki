@@ -1,3 +1,8 @@
+---
+id: 体育/新生赤足运动会/报名通知
+slug: /Sportunterricht/Barfußspiele für Erstsemester/Anmeldehinweis
+
+---
 # „Gesundheit beginnt mit einem Schritt“ für neue Studierende – Anmeldehinweis zu Barefoot Games
 
 ## Zweck

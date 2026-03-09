@@ -1,3 +1,8 @@
+---
+id: 科研/SRT
+slug: /research/SRT
+
+---
 # SRT
 
 At the beginning of each semester, there will be project approval and registration for the SRT project. Please pay attention to the info and department notification groups in a timely manner; the time sequence is first for students to apply for the project, and then for students to register. The SRT system is in the info-learning column. Please note that when registering, "Project has been approved" means that the teacher has approved the project but no students have signed up; "Registering" means that students have signed up.

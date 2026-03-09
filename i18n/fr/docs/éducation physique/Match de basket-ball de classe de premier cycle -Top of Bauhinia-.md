@@ -1,3 +1,8 @@
+---
+id: 体育/“紫荆之巅”本科生班级篮球赛
+slug: /éducation physique/Match de basket-ball de classe de premier cycle -Top of Bauhinia-
+
+---
 # Match de basket-ball de classe de premier cycle "Top of Bauhinia"
 
 ## comité d'organisation

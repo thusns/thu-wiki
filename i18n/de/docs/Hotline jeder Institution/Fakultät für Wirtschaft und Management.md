@@ -1,3 +1,8 @@
+---
+id: 各院所机关热线/经管学院
+slug: /Hotline jeder Institution/Fakultät für Wirtschaft und Management
+
+---
 # Fakultät für Wirtschaft und Management
 
 ### 1. Anmeldung

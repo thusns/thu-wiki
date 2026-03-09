@@ -1,8 +1,9 @@
 ---
+id: 社会实践/实践项目
+slug: /social practice/Practice projects
 title: Practice projects
 description: Social practice project index page, used to organize project types, cases and participation experiences.
 ---
-
 # Practice projects
 
 ## To be added/summary

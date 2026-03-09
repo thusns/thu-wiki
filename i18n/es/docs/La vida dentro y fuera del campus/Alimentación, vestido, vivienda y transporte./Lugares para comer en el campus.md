@@ -1,3 +1,8 @@
+---
+id: 校内外生活/衣食住行/校内聚餐地点
+slug: /La vida dentro y fuera del campus/Alimentación, vestido, vivienda y transporte./Lugares para comer en el campus
+
+---
 # Lugares para comer en el campus
 1. Restaurante informal Taoli: Ubicado en B1 de Taoli Garden, hay muchas mesas para 4 personas y también tiene capacidad para más de 4 personas;
 2. Bauhinia Qingqing Pizza: ubicada en Bauhinia Garden B1, puede albergar una gran cantidad de personas para reuniones;

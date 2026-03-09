@@ -1,3 +1,8 @@
+---
+id: 校内外生活/衣食住行/北京旅游指南/名胜古迹_公园
+slug: /Leben auf und außerhalb des Campus/Nahrung, Kleidung, Unterkunft und Transport/Reiseführer für Peking/Sehenswürdigkeiten_Park
+
+---
 # Sehenswürdigkeiten
 
 ### Nationales Palastmuseum

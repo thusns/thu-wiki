@@ -1,3 +1,8 @@
+---
+id: thuservices/websites
+slug: /thuservices/websites
+
+---
 # Commonly Used External Websites
 
 For on-campus websites, please refer to info.md.

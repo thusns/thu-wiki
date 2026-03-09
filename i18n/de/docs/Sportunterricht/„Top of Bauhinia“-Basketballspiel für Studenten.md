@@ -1,3 +1,8 @@
+---
+id: 体育/“紫荆之巅”本科生班级篮球赛
+slug: /Sportunterricht/„Top of Bauhinia“-Basketballspiel für Studenten
+
+---
 # „Top of Bauhinia“-Basketballspiel für Studenten
 
 ## Organisationskomitee

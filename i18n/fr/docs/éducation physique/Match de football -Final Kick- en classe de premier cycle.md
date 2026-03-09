@@ -1,3 +1,8 @@
+---
+id: 体育/“临门一脚”本科生班级足球赛
+slug: /éducation physique/Match de football -Final Kick- en classe de premier cycle
+
+---
 # Match de football "Final Kick" en classe de premier cycle
 
 ## comité d'organisation

@@ -1,8 +1,9 @@
 ---
+id: 本科大事件相关/一 二九合唱
+slug: /Événements de premier cycle liés/Un chœur vingt-neuf
 title: Chœur 129
 description: La page d'introduction de l'événement 129 Choir organise le processus de participation, les modalités de formation et les précautions communes.
 ---
-
 # Chœur 129
 
 ## À ajouter/résumé

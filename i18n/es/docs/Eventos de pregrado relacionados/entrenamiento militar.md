@@ -1,3 +1,8 @@
+---
+id: 本科大事件相关/军训
+slug: /Eventos de pregrado relacionados/entrenamiento militar
+
+---
 # entrenamiento militar
 
 ### habilidades militares

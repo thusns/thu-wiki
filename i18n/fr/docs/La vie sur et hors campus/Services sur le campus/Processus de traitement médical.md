@@ -1,3 +1,8 @@
+---
+id: 校内外生活/校内办事/就医流程
+slug: /La vie sur et hors campus/Services sur le campus/Processus de traitement médical
+
+---
 # Processus de traitement médical à l’hôpital scolaire
 
 Référence : https://mp.weixin.qq.com/s/P7D4jtaZHo4PHC6CvwBXmw

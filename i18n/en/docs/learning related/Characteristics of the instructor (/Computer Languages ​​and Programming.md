@@ -1,3 +1,8 @@
+---
+id: 学习相关/授课老师特点（/计算机语言与程序设计
+slug: /learning related/Characteristics of the instructor (/Computer Languages ​​and Programming
+
+---
 # Computer Languages ​​and Programming
 #### Suo Jinli
 1. The pace of class is fast, and we stay a lot on knowledge points. We go through the procedures with examples and need to preview in advance. A three-hour class usually covers the content of the previous chapter in two classes, and opens a new chapter in one class (the idea is to facilitate our preview)

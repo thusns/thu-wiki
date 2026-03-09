@@ -1,8 +1,9 @@
 ---
+id: 经验分享/科研经历
+slug: /Experience sharing/Scientific research experience
 title: Scientific research experience
 description: The scientific research experience page summarizes entry channels, project participation methods and growth suggestions.
 ---
-
 # Scientific research experience
 
 ## To be added/summary

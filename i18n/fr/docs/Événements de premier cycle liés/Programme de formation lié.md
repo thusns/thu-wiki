@@ -1,3 +1,8 @@
+---
+id: 本科大事件相关/培养方案相关
+slug: /Événements de premier cycle liés/Programme de formation lié
+
+---
 # Programme de formation lié
 
 Pour des questions spécifiques, il est recommandé de s'adresser au service des affaires académiques du département afin d'obtenir des réponses professionnelles.

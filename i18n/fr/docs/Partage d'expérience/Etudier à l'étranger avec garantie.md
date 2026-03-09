@@ -1,8 +1,9 @@
 ---
+id: 经验分享/保研出国
+slug: /Partage d'expérience/Etudier à l'étranger avec garantie
 title: Etudier à l'étranger avec garantie
 description: La page de partage d'expériences en matière d'études de troisième cycle et d'études à l'étranger organise les parcours de candidature, les délais et les suggestions de préparation.
 ---
-
 # Etudier à l'étranger avec garantie
 
 ## À ajouter/résumé

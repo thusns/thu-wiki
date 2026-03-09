@@ -1,3 +1,8 @@
+---
+id: 校内外生活/衣食住行/北京旅游指南/动物园
+slug: /La vie sur et hors campus/Nourriture, vêtements, logement et transport/Guide de voyage à Pékin/zoo
+
+---
 # zoo
 
 ### Zoo de Pékin

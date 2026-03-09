@@ -1,3 +1,8 @@
+---
+id: 体育/新生赤足运动会/拔河规则
+slug: /physical education/Freshman Barefoot Games/tug of war rules
+
+---
 # Freshman Sports Meet Tug of War Rules
 
 ## Number of Participants

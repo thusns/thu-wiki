@@ -1,3 +1,8 @@
+---
+id: 学习相关/校内研讨间资源
+slug: /learning related/On-campus seminar room resources
+
+---
 # On-campus seminar room resources
 
 The following seminar rooms can be reserved on the Tsinghua Home Network official account; when using, you need to hold a three-person student ID card and change the key at the teaching building administrator's office:

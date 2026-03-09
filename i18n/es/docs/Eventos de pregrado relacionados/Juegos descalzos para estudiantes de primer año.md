@@ -1,3 +1,8 @@
+---
+id: 本科大事件相关/新生赤足运动会
+slug: /Eventos de pregrado relacionados/Juegos descalzos para estudiantes de primer año
+
+---
 # Juegos descalzos para estudiantes de primer año
 
 Como sugiere el nombre, los Juegos descalzos son los Juegos descalzos (x)

@@ -1,3 +1,8 @@
+---
+id: 志愿/志愿项目
+slug: /voluntario/Proyectos de voluntariado
+
+---
 # Información relacionada con el voluntariado
 ## Recursos de voluntariado
 La mayor parte de la información sobre voluntarios en el campus se enviará a la cuenta pública de WeChat **"Tsinghua University Student Charity"**. Los grupos de voluntariado de cada departamento también realizarán sus propios servicios de voluntariado, a excepción de proyectos de marca, que en su mayoría son internos del departamento.

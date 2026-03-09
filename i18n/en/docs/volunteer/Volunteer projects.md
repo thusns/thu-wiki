@@ -1,3 +1,8 @@
+---
+id: 志愿/志愿项目
+slug: /volunteer/Volunteer projects
+
+---
 # Volunteer related information
 ## Volunteer resources
 Most of the on-campus volunteer information will be sent out on the WeChat public account **"Tsinghua University Student Charity"**. The volunteer groups of each department will also carry out their own volunteer services, except for brand projects, most of which are internal to the department.

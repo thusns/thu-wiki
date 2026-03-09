@@ -1,3 +1,8 @@
+---
+id: 校内外生活/衣食住行/北京旅游指南/博物馆
+slug: /Leben auf und außerhalb des Campus/Nahrung, Kleidung, Unterkunft und Transport/Reiseführer für Peking/Museum
+
+---
 # Museum
 
 ### Kunstviertel Peking 798

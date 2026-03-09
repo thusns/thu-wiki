@@ -1,3 +1,8 @@
+---
+id: 常用校内公众号与小程序整合
+slug: /Intégration des comptes publics scolaires et des mini-programmes couramment utilisés
+
+---
 # Intégration des comptes publics scolaires et des mini-programmes couramment utilisés
 
 ## Compte officiel

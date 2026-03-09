@@ -1,3 +1,8 @@
+---
+id: thuservices/templates
+slug: /thuservices/templates
+
+---
 # LaTeX 等模板
 
 

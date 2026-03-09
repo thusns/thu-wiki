@@ -1,3 +1,8 @@
+---
+id: thuservices/README
+slug: /thuservices
+
+---
 # 清華常用資訊/服務總結
 
 ## 快速選課入口

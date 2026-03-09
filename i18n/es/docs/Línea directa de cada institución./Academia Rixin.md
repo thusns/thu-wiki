@@ -1,3 +1,8 @@
+---
+id: 各院所机关热线/日新书院
+slug: /Línea directa de cada institución./Academia Rixin
+
+---
 # Academia Rixin
 
 ### Sitio web oficial

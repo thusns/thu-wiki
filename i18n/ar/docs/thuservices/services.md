@@ -1,3 +1,8 @@
+---
+id: thuservices/services
+slug: /thuservices/services
+
+---
 # دليل استخدام خدمة Tsinghua (بشكل أساسي لمستخدمي Linux)
 
 ستركز هذه المقالة على تعليمات استخدام بعض خدمات Tsinghua على أجهزة Linux، بما في ذلك الخوادم البعيدة.

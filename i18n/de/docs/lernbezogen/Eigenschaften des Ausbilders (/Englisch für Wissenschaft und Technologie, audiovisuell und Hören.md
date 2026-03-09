@@ -1,3 +1,8 @@
+---
+id: 学习相关/授课老师特点（/科技英语视听说
+slug: /lernbezogen/Eigenschaften des Ausbilders (/Englisch für Wissenschaft und Technologie, audiovisuell und Hören
+
+---
 # Englisch für Wissenschaft und Technologie, Audiovisuell und Hörverständnis (Mittelstufe, Fortgeschritten)
 
 

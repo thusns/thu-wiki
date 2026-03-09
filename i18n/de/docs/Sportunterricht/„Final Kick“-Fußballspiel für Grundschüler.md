@@ -1,3 +1,8 @@
+---
+id: 体育/“临门一脚”本科生班级足球赛
+slug: /Sportunterricht/„Final Kick“-Fußballspiel für Grundschüler
+
+---
 # „Final Kick“-Fußballspiel für Grundschüler
 
 ## Organisationskomitee

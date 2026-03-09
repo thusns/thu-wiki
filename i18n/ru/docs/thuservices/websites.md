@@ -1,3 +1,8 @@
+---
+id: thuservices/websites
+slug: /thuservices/websites
+
+---
 # Часто используемые веб-сайты за пределами кампуса
 
 Веб-сайт кампуса можно найти на info.md.

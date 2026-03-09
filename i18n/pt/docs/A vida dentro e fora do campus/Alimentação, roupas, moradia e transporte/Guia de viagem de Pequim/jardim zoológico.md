@@ -1,3 +1,8 @@
+---
+id: 校内外生活/衣食住行/北京旅游指南/动物园
+slug: /A vida dentro e fora do campus/Alimentação, roupas, moradia e transporte/Guia de viagem de Pequim/jardim zoológico
+
+---
 # jardim zoológico
 
 ### Zoológico de Pequim

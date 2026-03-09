@@ -1,3 +1,8 @@
+---
+id: 学习相关/授课老师特点（/科技英语视听说
+slug: /lié à l'apprentissage/Caractéristiques du moniteur (/Anglais pour les sciences et technologies, l'audiovisuel et l'écoute
+
+---
 # Anglais pour les sciences et technologies, audiovisuel et écoute (intermédiaire, avancé)
 
 

@@ -1,3 +1,8 @@
+---
+id: 本科大事件相关/大学生体质健康测试
+slug: /Veranstaltungen im Zusammenhang mit Studenten/Körperlicher Fitnesstest für Studenten
+
+---
 # Körperlicher Fitnesstest für Studenten
 
 ## Überblick

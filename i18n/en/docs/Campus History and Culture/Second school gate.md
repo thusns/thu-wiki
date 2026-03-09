@@ -1,3 +1,8 @@
+---
+id: 校园历史文化/二校门
+slug: /Campus History and Culture/Second school gate
+
+---
 # Second school gate
 
 ## Appearance

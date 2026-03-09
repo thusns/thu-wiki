@@ -1,3 +1,8 @@
+---
+id: 本科大事件相关/大学生体质健康测试
+slug: /Undergraduate events related/Physical fitness test for college students
+
+---
 # Physical fitness test for college students
 
 ## Overview

@@ -1,3 +1,8 @@
+---
+id: 学习相关/校内自习场所
+slug: /relacionado con el aprendizaje/Lugar de estudio en el campus
+
+---
 # Introducción a los lugares de autoaprendizaje y edificios de enseñanza en el campus.
 
 ## ¿Cómo comprobar el estado de ocupación de las aulas?

@@ -1,3 +1,8 @@
+---
+id: thuservices/services
+slug: /thuservices/services
+
+---
 # Guia de uso do serviço Tsinghua (principalmente para usuários Linux)
 
 Este artigo se concentrará nas instruções de uso de alguns serviços Tsinghua em máquinas Linux, incluindo servidores remotos.

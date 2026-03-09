@@ -1,3 +1,8 @@
+---
+id: 体育/大马杯/极限飞盘/极限飞盘规则简介
+slug: /Sportunterricht/malaysischer Pokal/ultimativer Frisbee/Einführung in die ultimativen Frisbee-Regeln
+
+---
 # Einführung in die Regeln des Ultimate Frisbee für den „John Ma's Cup“
 
 ## Eröffnung (Verteidiger)

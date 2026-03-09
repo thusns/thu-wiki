@@ -1,3 +1,8 @@
+---
+id: 学习相关/校内自习场所
+slug: /lernbezogen/Studienort auf dem Campus
+
+---
 # Einführung in Selbstlernplätze und Lehrgebäude auf dem Campus
 
 ## Wie kann ich den Belegungsstatus des Klassenzimmers überprüfen?

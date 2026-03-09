@@ -1,3 +1,8 @@
+---
+id: thuservices/websites
+slug: /thuservices/websites
+
+---
 # Häufig genutzte Websites außerhalb des Campus
 
 Die Website des Campus finden Sie unter info.md

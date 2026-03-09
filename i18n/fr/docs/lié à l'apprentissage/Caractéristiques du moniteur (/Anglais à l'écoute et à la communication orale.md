@@ -1,3 +1,8 @@
+---
+id: 学习相关/授课老师特点（/英语听说交流
+slug: /lié à l'apprentissage/Caractéristiques du moniteur (/Anglais à l'écoute et à la communication orale
+
+---
 # Anglais à l'écoute et à la communication orale
 #### Grima Jean-Paul Christophe
 1. Chaque cours a un thème correspondant (comme le Bonheur, l'Art, etc.), et le contenu du cours est complété par la façon de prendre des notes.

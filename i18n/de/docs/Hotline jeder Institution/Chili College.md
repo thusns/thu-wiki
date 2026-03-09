@@ -1,3 +1,8 @@
+---
+id: 各院所机关热线/致理书院
+slug: /Hotline jeder Institution/Chili College
+
+---
 # Chili College
 
 ### Offizielle Website

@@ -1,8 +1,9 @@
 ---
+id: 经验分享/保研出国
+slug: /Compartilhamento de experiências/Estudar no exterior com garantia
 title: Estudar no exterior com garantia
 description: A página de compartilhamento de experiências de estudos de pós-graduação e estudos no exterior organiza caminhos de inscrição, cronogramas e sugestões de preparação.
 ---
-
 # Estudar no exterior com garantia
 
 ## A ser adicionado/resumo

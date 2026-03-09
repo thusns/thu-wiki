@@ -1,3 +1,8 @@
+---
+id: 学习相关/校内自习场所
+slug: /learning related/On-campus study place
+
+---
 # Introduction to self-study places and teaching buildings on campus
 
 ## How to check classroom occupancy status?

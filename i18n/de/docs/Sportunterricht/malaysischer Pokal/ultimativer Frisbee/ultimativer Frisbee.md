@@ -1,3 +1,8 @@
+---
+id: 体育/大马杯/极限飞盘/极限飞盘
+slug: /Sportunterricht/malaysischer Pokal/ultimativer Frisbee/ultimativer Frisbee
+
+---
 # „Majohn Cup“ Ultimate Frisbee
 
 ## Wettbewerbszweck

@@ -1,3 +1,8 @@
+---
+id: 社团/百团大战指南
+slug: /Gesellschaften/Kriegsführer der Hundert Regimenter
+
+---
 # Kriegsführer der Hundert Regimenter
 
 Zeit: Zu Beginn jedes Semesters

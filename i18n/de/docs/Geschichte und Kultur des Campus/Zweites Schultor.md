@@ -1,3 +1,8 @@
+---
+id: 校园历史文化/二校门
+slug: /Geschichte und Kultur des Campus/Zweites Schultor
+
+---
 # Zweites Schultor
 
 ## Aussehen

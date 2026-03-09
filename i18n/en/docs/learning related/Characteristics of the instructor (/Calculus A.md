@@ -1,3 +1,8 @@
+---
+id: 学习相关/授课老师特点（/微积分A
+slug: /learning related/Characteristics of the instructor (/Calculus A
+
+---
 # Calculus A
 #### Wang Qingrui
 1. **The lecture speed is faster**, which can save time and use class time to deal with the exercises after each chapter (actually to keep the same progress as other classes)

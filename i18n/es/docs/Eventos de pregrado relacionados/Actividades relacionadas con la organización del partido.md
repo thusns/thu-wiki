@@ -1,3 +1,8 @@
+---
+id: 本科大事件相关/党组织相关活动
+slug: /Eventos de pregrado relacionados/Actividades relacionadas con la organización del partido
+
+---
 # Actividades relacionadas con la organización del partido
 
 ## 1. Asociación TMS

@@ -1,3 +1,8 @@
+---
+id: 学习相关/授课老师特点（/微积分A
+slug: /relacionado à aprendizagem/Características do instrutor (/Cálculo A
+
+---
 # Cálculo A
 #### Wang Qingrui
 1. **A velocidade da aula é mais rápida**, o que pode economizar tempo e usar o tempo da aula para lidar com os exercícios após cada capítulo (na verdade, para manter o mesmo progresso das outras aulas)

@@ -1,3 +1,8 @@
+---
+id: 校内外生活/校内办事/校内服务电话
+slug: /Leben auf und außerhalb des Campus/Dienstleistungen auf dem Campus/Service-Telefonnummer auf dem Campus
+
+---
 # Telefonbuch der Tsinghua-Universität: 62793001
 
 - Am Verzeichnisinformationsschalter finden Sie die Telefonnummern aller Einheiten der Tsinghua-Universität. Sie können Reservierungen für Wohnheime auf dem Campus vornehmen und Experten anrufen.

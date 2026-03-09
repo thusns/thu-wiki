@@ -1,3 +1,8 @@
+---
+id: 体育/“排山倒海”本科生班级排球赛
+slug: /educación física/Partido de voleibol de clase universitaria “impresionante”
+
+---
 # Partido de voleibol de clase universitaria “impresionante”
 
 ## comité organizador

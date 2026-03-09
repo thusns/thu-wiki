@@ -1,3 +1,8 @@
+---
+id: 体育/新生赤足运动会/拔河规则
+slug: /educación física/Juegos descalzos para estudiantes de primer año/reglas de tira y afloja
+
+---
 # Reglas de tira y afloja de los juegos para estudiantes de primer año
 
 ## Número de participantes

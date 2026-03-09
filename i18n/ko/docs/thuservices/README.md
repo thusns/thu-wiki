@@ -1,3 +1,8 @@
+---
+id: thuservices/README
+slug: /thuservices
+
+---
 # 칭화공통정보/서비스개요
 
 ## 빠른 코스 선택 입구

@@ -1,3 +1,8 @@
+---
+id: 体育/大马杯/极限飞盘/极限飞盘
+slug: /éducation physique/coupe de Malaisie/frisbee ultime/frisbee ultime
+
+---
 # Frisbee ultime "Majohn Cup"
 
 ## Objet du concours

@@ -1,3 +1,8 @@
+---
+id: thuservices/utils
+slug: /thuservices/utils
+
+---
 # quelques scripts et outils
 
 ## Résumé des outils d'authentification du réseau du campus

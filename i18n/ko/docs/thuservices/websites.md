@@ -1,3 +1,8 @@
+---
+id: thuservices/websites
+slug: /thuservices/websites
+
+---
 # 일반적으로 사용되는 캠퍼스 외부 웹사이트
 
 캠퍼스 웹사이트는 info.md를 참조하세요.

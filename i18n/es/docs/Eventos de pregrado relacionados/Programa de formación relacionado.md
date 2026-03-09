@@ -1,3 +1,8 @@
+---
+id: 本科大事件相关/培养方案相关
+slug: /Eventos de pregrado relacionados/Programa de formación relacionado
+
+---
 # Programa de formación relacionado
 
 Para preguntas específicas, se recomienda consultar al departamento de asuntos académicos del departamento para obtener respuestas profesionales.

@@ -1,3 +1,8 @@
+---
+id: 体育/新生赤足运动会/报名通知
+slug: /educación física/Juegos descalzos para estudiantes de primer año/Aviso de registro
+
+---
 # "La salud comienza con un paso" para los nuevos estudiantes - Aviso de inscripción a Barefoot Games
 
 ## objetivo

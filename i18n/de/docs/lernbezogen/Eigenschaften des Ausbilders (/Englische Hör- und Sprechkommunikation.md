@@ -1,3 +1,8 @@
+---
+id: 学习相关/授课老师特点（/英语听说交流
+slug: /lernbezogen/Eigenschaften des Ausbilders (/Englische Hör- und Sprechkommunikation
+
+---
 # Englische Hör- und Sprechkommunikation
 #### Grima John Paul Christopher
 1. Jede Klasse hat ein entsprechendes Thema (z. B. Glück, Kunst usw.) und der Kursinhalt wird durch Notizen ergänzt

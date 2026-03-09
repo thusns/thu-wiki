@@ -1,3 +1,8 @@
+---
+id: 体育/“紫荆之巅”本科生班级篮球赛
+slug: /educação física/Jogo de basquete da turma de graduação -Top of Bauhinia-
+
+---
 # Jogo de basquete da turma de graduação "Top of Bauhinia"
 
 ## comissão organizadora

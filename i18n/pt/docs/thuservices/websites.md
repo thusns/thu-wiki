@@ -1,3 +1,8 @@
+---
+id: thuservices/websites
+slug: /thuservices/websites
+
+---
 # Sites fora do campus comumente usados
 
 Para o site do campus, consulte info.md

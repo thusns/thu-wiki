@@ -1,3 +1,8 @@
+---
+id: thuservices/websites
+slug: /thuservices/websites
+
+---
 # 常用校外網站
 
 校內網站請參考 info.md

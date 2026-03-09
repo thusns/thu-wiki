@@ -1,3 +1,8 @@
+---
+id: 各院所机关热线/经管学院
+slug: /Línea directa de cada institución./Escuela de Economía y Gestión
+
+---
 # Escuela de Economía y Gestión
 
 ### 1. Inscripción

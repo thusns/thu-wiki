@@ -1,8 +1,9 @@
 ---
+id: 社会实践/实践项目
+slug: /prática social/Pratique projetos
 title: Pratique projetos
 description: Página índice de projetos de prática social, utilizada para organizar tipos de projetos, casos e experiências de participação.
 ---
-
 # Pratique projetos
 
 ## A ser adicionado/resumo

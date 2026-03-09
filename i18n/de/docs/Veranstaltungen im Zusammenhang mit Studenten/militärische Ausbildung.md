@@ -1,3 +1,8 @@
+---
+id: 本科大事件相关/军训
+slug: /Veranstaltungen im Zusammenhang mit Studenten/militärische Ausbildung
+
+---
 # militärische Ausbildung
 
 ### militärische Fähigkeiten

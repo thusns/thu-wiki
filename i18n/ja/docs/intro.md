@@ -1,9 +1,10 @@
 ---
+id: intro
+slug: /intro
 sidebar_position: 1
 title: 情報サービスガイド
 description: 清華大学の共通リンク、連絡先番号、電子 ID、キャンパス ネットワーク、電子メール、その他のサービス ガイドラインの概要。
 ---
-
 # 情報サービスガイド
 
 ## 共通リンク

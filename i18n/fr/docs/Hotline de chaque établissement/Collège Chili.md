@@ -1,3 +1,8 @@
+---
+id: 各院所机关热线/致理书院
+slug: /Hotline de chaque établissement/Collège Chili
+
+---
 # Collège Chili
 
 ### Site officiel

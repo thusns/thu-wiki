@@ -1,8 +1,9 @@
 ---
+id: 经验分享/科研经历
+slug: /Compartir experiencias/Experiencia en investigación científica.
 title: Experiencia en investigación científica.
 description: La página de experiencia de investigación científica resume los canales de entrada, los métodos de participación en proyectos y las sugerencias de crecimiento.
 ---
-
 # Experiencia en investigación científica.
 
 ## Para agregar/resumen

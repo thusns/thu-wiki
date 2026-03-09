@@ -1,3 +1,8 @@
+---
+id: 校园历史文化/一 二九合唱
+slug: /Historia y cultura del campus/Un coro veintinueve
+
+---
 # Uno, dos, nueve coro
 
 ## Historia de Tsinghua del Movimiento 9 de Diciembre

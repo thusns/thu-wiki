@@ -1,8 +1,9 @@
 ---
+id: 社会实践/实践指南
+slug: /pratique sociale/Guide pratique
 title: Guide pratique
 description: La page du guide de pratiques sociales résume les informations de base sur la sélection des sujets, l'établissement, la mise en œuvre et l'achèvement du projet.
 ---
-
 # Guide pratique
 
 ## À ajouter/résumé

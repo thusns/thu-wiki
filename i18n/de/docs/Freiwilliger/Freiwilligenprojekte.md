@@ -1,3 +1,8 @@
+---
+id: 志愿/志愿项目
+slug: /Freiwilliger/Freiwilligenprojekte
+
+---
 # Freiwilligenbezogene Informationen
 ## Ressourcen für Freiwillige
 Die meisten Informationen zu Freiwilligen auf dem Campus werden über das öffentliche WeChat-Konto „Tsinghua University Student Charity“** verschickt. Die Freiwilligengruppen jeder Abteilung werden auch ihre eigenen Freiwilligendienste durchführen, mit Ausnahme von Markenprojekten, die größtenteils abteilungsintern sind.

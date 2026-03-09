@@ -1,3 +1,8 @@
+---
+id: thuservices/README
+slug: /thuservices
+
+---
 # Summary of Commonly Used THU Information/Services
 
 ## Quick Course Registration Entry

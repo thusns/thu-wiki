@@ -1,3 +1,8 @@
+---
+id: 科研/SRT
+slug: /investigación/SRT
+
+---
 # TER
 
 Al inicio de cada semestre, se realizará la aprobación del proyecto y el registro para el proyecto SRT. Preste atención a los grupos de información y notificación del departamento de manera oportuna; la secuencia de tiempo es primero para que los estudiantes soliciten el proyecto y luego para que los estudiantes se registren. El sistema SRT está en la columna de información-aprendizaje. Tenga en cuenta que al registrarse, "Proyecto aprobado" significa que el profesor aprobó el proyecto pero ningún estudiante se ha inscrito; "Registrarse" significa que los estudiantes se han registrado.

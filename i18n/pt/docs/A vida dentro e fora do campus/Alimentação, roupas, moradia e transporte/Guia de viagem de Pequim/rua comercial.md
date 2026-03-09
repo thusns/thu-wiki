@@ -1,3 +1,8 @@
+---
+id: 校内外生活/衣食住行/北京旅游指南/商业街
+slug: /A vida dentro e fora do campus/Alimentação, roupas, moradia e transporte/Guia de viagem de Pequim/rua comercial
+
+---
 # rua comercial
 ### Nanluoguxiang
 

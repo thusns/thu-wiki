@@ -1,3 +1,8 @@
+---
+id: 体育/大马杯/极限飞盘/极限飞盘规则
+slug: /physical education/malaysian cup/ultimate frisbee/Ultimate Frisbee Rules
+
+---
 # Ma Yuehan Cup (马约翰杯) Ultimate Frisbee Rules
 
 ## Introduction

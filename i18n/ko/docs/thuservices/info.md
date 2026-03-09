@@ -1,3 +1,8 @@
+---
+id: thuservices/info
+slug: /thuservices/info
+
+---
 # INFO 중요정보 수집
 
 ## 학교 달력

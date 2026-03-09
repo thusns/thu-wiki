@@ -1,3 +1,8 @@
+---
+id: 学习相关/授课老师特点（/计算机语言与程序设计
+slug: /lernbezogen/Eigenschaften des Ausbilders (/Computersprachen und Programmierung
+
+---
 # Computersprachen und Programmierung
 #### Suo Jinli
 1. Das Unterrichtstempo ist hoch und wir bleiben viel bei Wissenspunkten. Wir gehen die Verfahren anhand von Beispielen durch und müssen vorab eine Vorschau anzeigen. Ein dreistündiger Kurs deckt normalerweise den Inhalt des vorherigen Kapitels in zwei Kursen ab und eröffnet ein neues Kapitel in einem Kurs (die Idee ist, unsere Vorschau zu erleichtern).

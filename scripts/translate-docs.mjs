@@ -126,6 +126,24 @@ function sanitizeSegment(value) {
     .trim();
 }
 
+function toPosix(relPath) {
+  return relPath.split(path.sep).join("/");
+}
+
+function getDocId(relPath) {
+  return toPosix(relPath).replace(/\.md$/i, "");
+}
+
+function getLocalizedSlug(relPath) {
+  const posixPath = getDocId(relPath);
+  const base = path.posix.basename(posixPath);
+  if (base === "README" || base === "index") {
+    const dir = path.posix.dirname(posixPath);
+    return dir === "." ? "/" : `/${dir}`;
+  }
+  return `/${posixPath}`;
+}
+
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
@@ -426,6 +444,25 @@ async function translateMarkdown(cache, raw, target) {
   return `${frontmatter}${out.join("\n").replace(/\s+$/u, "")}\n`;
 }
 
+function upsertDocIdentity(raw, sourceRel, translatedRel) {
+  const id = getDocId(sourceRel);
+  const slug = getLocalizedSlug(translatedRel);
+  const normalized = raw.replace(/\r\n/g, "\n");
+
+  if (normalized.startsWith("---\n")) {
+    const end = normalized.indexOf("\n---\n", 4);
+    if (end !== -1) {
+      const block = normalized.slice(4, end).split("\n");
+      const body = normalized.slice(end + 5);
+      const filtered = block.filter((line) => !/^id:\s*/.test(line) && !/^slug:\s*/.test(line));
+      const nextBlock = [`id: ${id}`, `slug: ${slug}`, ...filtered].join("\n");
+      return `---\n${nextBlock}\n---\n${body.replace(/^\n/, "")}`;
+    }
+  }
+
+  return `---\nid: ${id}\nslug: ${slug}\n---\n\n${normalized.replace(/^\n+/, "")}`;
+}
+
 async function translateSegment(cache, segment, target) {
   if (!containsCJK(segment) || KEEP_SEGMENTS.has(segment)) {
     return segment;
@@ -504,6 +541,8 @@ async function generateLocale(locale) {
     if (!translated) {
       translated = await translateMarkdown(cache, raw, target);
     }
+
+    translated = upsertDocIdentity(translated, rel, translatedRel);
 
     ensureDir(path.dirname(targetFile));
     fs.writeFileSync(targetFile, translated);

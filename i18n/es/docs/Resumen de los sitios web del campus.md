@@ -1,3 +1,8 @@
+---
+id: thuservices/websites
+slug: /Resumen de los sitios web del campus
+
+---
 # Resumen de los sitios web del campus
 
 ## Sitio web de servicio

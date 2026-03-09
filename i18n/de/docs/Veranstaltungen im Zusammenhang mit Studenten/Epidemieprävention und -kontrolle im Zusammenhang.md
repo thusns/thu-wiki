@@ -1,3 +1,8 @@
+---
+id: 本科大事件相关/疫情防控相关
+slug: /Veranstaltungen im Zusammenhang mit Studenten/Epidemieprävention und -kontrolle im Zusammenhang
+
+---
 # Epidemieprävention und -kontrolle im Zusammenhang
 
 ## Beispiel für die Meldung normalisierter Präventions- und Kontrollmaßnahmen

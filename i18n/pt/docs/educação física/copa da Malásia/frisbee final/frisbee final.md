@@ -1,3 +1,8 @@
+---
+id: 体育/大马杯/极限飞盘/极限飞盘
+slug: /educação física/copa da Malásia/frisbee final/frisbee final
+
+---
 # "Copa Majohn" Ultimate Frisbee
 
 ## Finalidade da competição

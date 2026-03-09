@@ -1,9 +1,10 @@
 ---
+id: intro
+slug: /intro
 sidebar_position: 1
 title: Leitfaden zum Informationsdienst
 description: Eine Zusammenfassung der allgemeinen Links, Kontaktnummern, der elektronischen Identität, des Campus-Netzwerks, der E-Mail-Adresse und anderer Servicerichtlinien der Tsinghua-Universität.
 ---
-
 # Leitfaden zum Informationsdienst
 
 ## Gemeinsame Links

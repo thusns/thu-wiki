@@ -1,3 +1,8 @@
+---
+id: thuservices/info
+slug: /thuservices/info
+
+---
 # INFO重要な情報収集
 
 ## 学校カレンダー

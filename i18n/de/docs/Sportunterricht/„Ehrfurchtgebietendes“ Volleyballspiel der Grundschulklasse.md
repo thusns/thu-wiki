@@ -1,3 +1,8 @@
+---
+id: 体育/“排山倒海”本科生班级排球赛
+slug: /Sportunterricht/„Ehrfurchtgebietendes“ Volleyballspiel der Grundschulklasse
+
+---
 # „Ehrfurchtgebietendes“ Volleyballspiel der Grundschulklasse
 
 ## Organisationskomitee

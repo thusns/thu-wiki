@@ -1,3 +1,8 @@
+---
+id: thuservices/info
+slug: /thuservices/info
+
+---
 # Important INFO Information Collection
 
 ## Academic Calendar

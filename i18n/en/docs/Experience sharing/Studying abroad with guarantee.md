@@ -1,8 +1,9 @@
 ---
+id: 经验分享/保研出国
+slug: /Experience sharing/Studying abroad with guarantee
 title: Studying abroad with guarantee
 description: The postgraduate study and study abroad experience sharing page organizes application paths, timelines and preparation suggestions.
 ---
-
 # Studying abroad with guarantee
 
 ## To be added/summary

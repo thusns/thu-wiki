@@ -1,3 +1,8 @@
+---
+id: 学习相关/校内自习场所
+slug: /relacionado à aprendizagem/Local de estudo no campus
+
+---
 # Introdução aos locais de auto-estudo e edifícios de ensino no campus
 
 ## Como verificar o status de ocupação da sala de aula?

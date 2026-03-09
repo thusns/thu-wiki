@@ -1,3 +1,8 @@
+---
+id: thuservices/README
+slug: /thuservices
+
+---
 # Informations communes/Résumé des services de Tsinghua
 
 ## Entrée de sélection de cours rapide

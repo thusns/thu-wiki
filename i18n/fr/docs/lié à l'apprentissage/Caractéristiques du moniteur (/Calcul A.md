@@ -1,3 +1,8 @@
+---
+id: 学习相关/授课老师特点（/微积分A
+slug: /lié à l'apprentissage/Caractéristiques du moniteur (/Calcul A
+
+---
 # Calcul A
 #### Wang Qingrui
 1. **La vitesse du cours est plus rapide**, ce qui permet de gagner du temps et d'utiliser le temps de cours pour faire les exercices après chaque chapitre (en fait pour garder la même progression que les autres cours)

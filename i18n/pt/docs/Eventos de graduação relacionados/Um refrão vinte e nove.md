@@ -1,8 +1,9 @@
 ---
+id: 本科大事件相关/一 二九合唱
+slug: /Eventos de graduação relacionados/Um refrão vinte e nove
 title: Refrão 129
 description: A página de introdução do Evento do Coro 129 organiza o processo de participação, modalidades de treinamento e cuidados comuns.
 ---
-
 # Refrão 129
 
 ## A ser adicionado/resumo

@@ -1,3 +1,8 @@
+---
+id: 各院所机关热线/探微书院
+slug: /Hotline jeder Institution/Entdecken Sie die Akademie
+
+---
 # Entdecken Sie die Akademie
 
 ### Offizielle Website

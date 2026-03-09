@@ -1,8 +1,9 @@
 ---
+id: 本科大事件相关/马约翰杯
+slug: /Eventos de pregrado relacionados/Copa John Ma
 title: Copa John Ma
 description: Una página de recopilación de información del evento de la Copa John MacDonald, que cubre el calendario, los métodos de inscripción y sugerencias de preparación.
 ---
-
 # Copa John Ma
 
 ## Para agregar/resumen

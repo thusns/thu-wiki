@@ -1,3 +1,8 @@
+---
+id: 社团/百团大战指南
+slug: /Sociedades/Guia de Guerra dos Cem Regimentos
+
+---
 # Guia de Guerra dos Cem Regimentos
 
 Horário: No início de cada semestre

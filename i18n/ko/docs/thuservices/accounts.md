@@ -1,3 +1,8 @@
+---
+id: thuservices/accounts
+slug: /thuservices/accounts
+
+---
 # 공개 계정
 
 이 페이지에는 WeChat 공개 계정, Zhihu 및 다양한 플랫폼의 공개 [수정됨]이 포함되어 있습니다.

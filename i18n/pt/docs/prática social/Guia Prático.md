@@ -1,8 +1,9 @@
 ---
+id: 社会实践/实践指南
+slug: /prática social/Guia Prático
 title: Guia Prático
 description: A página do guia de práticas sociais resume as principais informações sobre seleção de tópicos, estabelecimento, implementação e conclusão de projetos.
 ---
-
 # Guia Prático
 
 ## A ser adicionado/resumo

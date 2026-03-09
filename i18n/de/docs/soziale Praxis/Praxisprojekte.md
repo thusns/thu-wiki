@@ -1,8 +1,9 @@
 ---
+id: 社会实践/实践项目
+slug: /soziale Praxis/Praxisprojekte
 title: Praxisprojekte
 description: Indexseite für soziale Praxisprojekte, die zum Organisieren von Projekttypen, Fällen und Beteiligungserfahrungen verwendet wird.
 ---
-
 # Praxisprojekte
 
 ## Noch hinzuzufügen/Zusammenfassung

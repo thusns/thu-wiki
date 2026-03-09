@@ -1,3 +1,8 @@
+---
+id: 体育/大马杯/极限飞盘/极限飞盘赛前准备会
+slug: /physical education/malaysian cup/ultimate frisbee/Ultimate Frisbee game preparation meeting
+
+---
 # Ultimate Frisbee Pre-match Preparation Meeting
 
 ## Spirit of the Game (SOTG 飞盘精神)

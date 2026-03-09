@@ -1,3 +1,8 @@
+---
+id: thuservices/utils
+slug: /thuservices/utils
+
+---
 # Scripts and Tools
 
 ## Campus Network Authentication Tools Summary

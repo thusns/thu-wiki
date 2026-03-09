@@ -1,8 +1,9 @@
 ---
+id: 社会实践/实践指南
+slug: /práctica social/Guía práctica
 title: Guía práctica
 description: La página de la guía de práctica social resume la información básica sobre la selección de temas, el establecimiento, implementación y finalización del proyecto.
 ---
-
 # Guía práctica
 
 ## Para agregar/resumen

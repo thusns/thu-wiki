@@ -1,3 +1,8 @@
+---
+id: 校内外生活/衣食住行/北京旅游指南/动物园
+slug: /Life on and off campus/Food, clothing, housing and transportation/Beijing travel guide/zoo
+
+---
 # zoo
 
 ### Beijing Zoo

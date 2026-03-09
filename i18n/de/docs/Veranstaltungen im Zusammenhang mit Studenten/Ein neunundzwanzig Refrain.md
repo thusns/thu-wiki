@@ -1,8 +1,9 @@
 ---
+id: 本科大事件相关/一 二九合唱
+slug: /Veranstaltungen im Zusammenhang mit Studenten/Ein neunundzwanzig Refrain
 title: Chor 129
 description: Auf der Einführungsseite des 129-Chor-Events werden der Teilnahmeprozess, Schulungsmodalitäten und allgemeine Vorsichtsmaßnahmen erläutert.
 ---
-
 # Chor 129
 
 ## Noch hinzuzufügen/Zusammenfassung

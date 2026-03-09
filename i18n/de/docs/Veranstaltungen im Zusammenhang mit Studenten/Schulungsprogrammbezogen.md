@@ -1,3 +1,8 @@
+---
+id: 本科大事件相关/培养方案相关
+slug: /Veranstaltungen im Zusammenhang mit Studenten/Schulungsprogrammbezogen
+
+---
 # Schulungsprogrammbezogen
 
 Bei konkreten Fragen empfiehlt es sich, sich an die Abteilung Studienangelegenheiten des Fachbereichs zu wenden, um professionelle Antworten zu erhalten.

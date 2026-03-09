@@ -1,8 +1,9 @@
 ---
+id: 本科大事件相关/马约翰杯
+slug: /Événements de premier cycle liés/Coupe John Ma
 title: Coupe John Ma
 description: Une page de compilation d'informations sur l'événement de la Coupe John MacDonald, couvrant le calendrier, les méthodes d'inscription et les suggestions de préparation.
 ---
-
 # Coupe John Ma
 
 ## À ajouter/résumé

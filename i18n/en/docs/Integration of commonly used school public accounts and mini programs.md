@@ -1,3 +1,8 @@
+---
+id: 常用校内公众号与小程序整合
+slug: /Integration of commonly used school public accounts and mini programs
+
+---
 # Useful Campus WeChat Official Accounts & Mini Programs
 
 ## Official Accounts

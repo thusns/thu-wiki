@@ -1,3 +1,8 @@
+---
+id: 校内外生活/衣食住行/北京旅游指南/游乐场
+slug: /La vie sur et hors campus/Nourriture, vêtements, logement et transport/Guide de voyage à Pékin/aire de jeux
+
+---
 # aire de jeux
 
 ### Universal Pékin Resort

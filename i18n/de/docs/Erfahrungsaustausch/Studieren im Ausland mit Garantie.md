@@ -1,8 +1,9 @@
 ---
+id: 经验分享/保研出国
+slug: /Erfahrungsaustausch/Studieren im Ausland mit Garantie
 title: Studieren im Ausland mit Garantie
 description: Auf der Seite zum Erfahrungsaustausch für Postgraduiertenstudien und Auslandsstudien werden Bewerbungswege, Zeitpläne und Vorbereitungsvorschläge organisiert.
 ---
-
 # Studieren im Ausland mit Garantie
 
 ## Noch hinzuzufügen/Zusammenfassung

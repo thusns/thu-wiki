@@ -1,3 +1,8 @@
+---
+id: thuservices/accounts
+slug: /thuservices/accounts
+
+---
 # パブリックアカウント
 
 このページには、WeChat 公開アカウント、Zhihu、およびさまざまなプラットフォーム上の公開 [編集済み] が含まれています

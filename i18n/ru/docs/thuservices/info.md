@@ -1,3 +1,8 @@
+---
+id: thuservices/info
+slug: /thuservices/info
+
+---
 # INFO сбор важной информации
 
 ## Школьный календарь

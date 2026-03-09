@@ -1,3 +1,8 @@
+---
+id: 校内外生活/校内办事/校内服务电话
+slug: /La vida dentro y fuera del campus/Servicios en el campus/Número de teléfono de atención en el campus
+
+---
 # Mostrador de directorio de la Universidad de Tsinghua: 62793001
 
 - El mostrador de información del directorio puede encontrar los números de teléfono de todas las unidades de la Universidad de Tsinghua, y puede hacer reservas para albergues en el campus y llamar a expertos.

@@ -1,3 +1,8 @@
+---
+id: 体育/新生赤足运动会/报名通知
+slug: /éducation physique/Jeux pieds nus pour étudiants de première année/Avis d'inscription
+
+---
 # "La santé commence par un pas" pour les nouveaux étudiants - Avis d'inscription aux Barefoot Games
 
 ## but

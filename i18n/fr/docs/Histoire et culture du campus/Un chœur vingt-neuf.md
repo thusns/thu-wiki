@@ -1,3 +1,8 @@
+---
+id: 校园历史文化/一 二九合唱
+slug: /Histoire et culture du campus/Un chœur vingt-neuf
+
+---
 # Un, Deux, Neuf Chœur
 
 ## Histoire Tsinghua du Mouvement du 9 décembre

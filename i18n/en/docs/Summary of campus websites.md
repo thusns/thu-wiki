@@ -1,3 +1,8 @@
+---
+id: thuservices/websites
+slug: /Summary of campus websites
+
+---
 # Campus Website Directory
 
 ## Service Websites

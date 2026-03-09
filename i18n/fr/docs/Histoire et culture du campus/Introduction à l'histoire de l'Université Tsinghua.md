@@ -1,3 +1,8 @@
+---
+id: 校园历史文化/清华历史简介
+slug: /Histoire et culture du campus/Introduction à l'histoire de l'Université Tsinghua
+
+---
 # Introduction à l'histoire de l'Université Tsinghua
 
 Le prédécesseur de l'Université Tsinghua, l'Académie Tsinghua, a été fondée en 1911 et rebaptisée École Tsinghua en 1912. En 1928, elle a été rebaptisée Université nationale Tsinghua. Après le déclenchement de la guerre anti-japonaise en 1937, elle s'est déplacée vers le sud, à Changsha, et a formé l'Université provisoire nationale de Changsha avec l'Université de Pékin et l'Université de Nankai. En 1938, elle a déménagé à Kunming et a été rebaptisée National Southwest Associated University. Elle est revenue à l'Université Tsinghua en 1946 et compte aujourd'hui 5 collèges et 26 départements, dont les arts libéraux, le droit, les sciences, l'ingénierie et l'agriculture.

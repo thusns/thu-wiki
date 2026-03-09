@@ -1,3 +1,8 @@
+---
+id: 体育/“临门一脚”本科生班级足球赛
+slug: /educación física/Juego de fútbol de la clase universitaria -Patada final-
+
+---
 # Juego de fútbol de la clase universitaria "Patada final"
 
 ## comité organizador

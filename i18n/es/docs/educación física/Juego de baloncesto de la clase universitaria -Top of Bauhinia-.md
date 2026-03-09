@@ -1,3 +1,8 @@
+---
+id: 体育/“紫荆之巅”本科生班级篮球赛
+slug: /educación física/Juego de baloncesto de la clase universitaria -Top of Bauhinia-
+
+---
 # Juego de baloncesto de la clase universitaria "Top of Bauhinia"
 
 ## comité organizador

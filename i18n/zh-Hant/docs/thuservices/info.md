@@ -1,3 +1,8 @@
+---
+id: thuservices/info
+slug: /thuservices/info
+
+---
 # INFO重要資訊集合
 
 ## 校曆

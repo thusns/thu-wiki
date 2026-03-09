@@ -1,3 +1,8 @@
+---
+id: 校内外生活/衣食住行/校内超市
+slug: /Life on and off campus/Food, clothing, housing and transportation/On-campus supermarket
+
+---
 # On-campus supermarket
 ## Tmall Supermarket (Building 7, South District) (next to Qingfen Garden)
 

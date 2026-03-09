@@ -1,3 +1,8 @@
+---
+id: 体育/新生赤足运动会/拔河规则
+slug: /éducation physique/Jeux pieds nus pour étudiants de première année/règles du tir à la corde
+
+---
 # Règles du tir à la corde des jeux de première année
 
 ## Nombre de participants

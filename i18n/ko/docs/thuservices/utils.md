@@ -1,3 +1,8 @@
+---
+id: thuservices/utils
+slug: /thuservices/utils
+
+---
 # 일부 스크립트 및 도구
 
 ## 캠퍼스 네트워크 인증 도구 요약

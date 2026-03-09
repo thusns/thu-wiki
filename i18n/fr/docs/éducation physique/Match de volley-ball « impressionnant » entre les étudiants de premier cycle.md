@@ -1,3 +1,8 @@
+---
+id: 体育/“排山倒海”本科生班级排球赛
+slug: /éducation physique/Match de volley-ball « impressionnant » entre les étudiants de premier cycle
+
+---
 # Match de volley-ball « impressionnant » entre les étudiants de premier cycle
 
 ## comité d'organisation

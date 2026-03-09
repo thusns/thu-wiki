@@ -1,3 +1,8 @@
+---
+id: 本科大事件相关/疫情防控相关
+slug: /Eventos de graduação relacionados/Prevenção e controle de epidemias relacionadas
+
+---
 # Prevenção e controle de epidemias relacionadas
 
 ## Exemplo de notificação de medidas normalizadas de prevenção e controlo

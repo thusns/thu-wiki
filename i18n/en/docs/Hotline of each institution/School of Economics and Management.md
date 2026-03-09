@@ -1,3 +1,8 @@
+---
+id: 各院所机关热线/经管学院
+slug: /Hotline of each institution/School of Economics and Management
+
+---
 # School of Economics and Management
 
 ### 1. Enrollment

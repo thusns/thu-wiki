@@ -1,3 +1,8 @@
+---
+id: 学习相关/选课/选课指南
+slug: /learning related/Course selection/Course Selection Guide
+
+---
 # Course Selection Guide
 
 ## Course selection website

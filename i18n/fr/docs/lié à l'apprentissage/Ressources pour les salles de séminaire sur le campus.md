@@ -1,3 +1,8 @@
+---
+id: 学习相关/校内研讨间资源
+slug: /lié à l'apprentissage/Ressources pour les salles de séminaire sur le campus
+
+---
 # Ressources pour les salles de séminaire sur le campus
 
 Les salles de séminaire suivantes peuvent être réservées sur le compte officiel de Tsinghua Home Network ; lors de son utilisation, vous devez être en possession d'une carte d'étudiant pour trois personnes et changer la clé au bureau de l'administrateur du bâtiment d'enseignement :

@@ -1,8 +1,9 @@
 ---
+id: 社会实践/实践指南
+slug: /soziale Praxis/Praktischer Leitfaden
 title: Praktischer Leitfaden
 description: Die Leitfadenseite zur sozialen Praxis fasst die Kerninformationen zur Themenauswahl, Projektgründung, -umsetzung und -abwicklung zusammen.
 ---
-
 # Praktischer Leitfaden
 
 ## Noch hinzuzufügen/Zusammenfassung

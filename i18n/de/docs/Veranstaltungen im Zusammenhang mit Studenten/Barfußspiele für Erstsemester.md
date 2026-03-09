@@ -1,3 +1,8 @@
+---
+id: 本科大事件相关/新生赤足运动会
+slug: /Veranstaltungen im Zusammenhang mit Studenten/Barfußspiele für Erstsemester
+
+---
 # Barfußspiele für Erstsemester
 
 Wie der Name schon sagt, sind die Barefoot Games die Barefoot Games (x)

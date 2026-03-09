@@ -1,3 +1,8 @@
+---
+id: 本科大事件相关/共青团相关活动
+slug: /Veranstaltungen im Zusammenhang mit Studenten/Aktivitäten im Zusammenhang mit der Kommunistischen Jugendliga
+
+---
 # Aktivitäten im Zusammenhang mit Mitgliedern des Kommunistischen Jugendverbandes
 
 ## Thematische Caucus-Tage jedes Semester

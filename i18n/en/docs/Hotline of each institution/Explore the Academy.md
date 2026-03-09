@@ -1,3 +1,8 @@
+---
+id: 各院所机关热线/探微书院
+slug: /Hotline of each institution/Explore the Academy
+
+---
 # Explore the Academy
 
 ### Official website

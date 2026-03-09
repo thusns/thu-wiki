@@ -1,3 +1,8 @@
+---
+id: 体育/“紫荆之巅”本科生班级篮球赛
+slug: /physical education/-Top of Bauhinia- Undergraduate Class Basketball Game
+
+---
 # "Top of Bauhinia" Undergraduate Class Basketball Game
 
 ## organizing committee

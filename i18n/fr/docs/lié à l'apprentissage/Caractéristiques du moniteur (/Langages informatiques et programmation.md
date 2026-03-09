@@ -1,3 +1,8 @@
+---
+id: 学习相关/授课老师特点（/计算机语言与程序设计
+slug: /lié à l'apprentissage/Caractéristiques du moniteur (/Langages informatiques et programmation
+
+---
 # Langages informatiques et programmation
 #### Suo Jinli
 1. Le rythme des cours est rapide, et on reste beaucoup sur les points de connaissances. Nous passons en revue les procédures avec des exemples et devons les prévisualiser à l'avance. Un cours de trois heures couvre généralement le contenu du chapitre précédent dans deux cours, et ouvre un nouveau chapitre dans un cours (l'idée est de faciliter notre aperçu)

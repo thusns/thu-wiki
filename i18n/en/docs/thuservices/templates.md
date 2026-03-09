@@ -1,3 +1,8 @@
+---
+id: thuservices/templates
+slug: /thuservices/templates
+
+---
 # LaTeX and Other Templates
 
 PPT template: https://github.com/atomiechen/THU-PPT-Theme

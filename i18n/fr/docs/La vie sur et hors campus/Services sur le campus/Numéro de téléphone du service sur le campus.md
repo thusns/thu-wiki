@@ -1,3 +1,8 @@
+---
+id: 校内外生活/校内办事/校内服务电话
+slug: /La vie sur et hors campus/Services sur le campus/Numéro de téléphone du service sur le campus
+
+---
 # Bureau d'annuaire de l'Université Tsinghua : 62793001
 
 - Le bureau d'information d'annuaire peut trouver les numéros de téléphone de toutes les unités de l'Université Tsinghua, et vous pouvez faire des réservations pour des auberges sur le campus et appeler des experts.

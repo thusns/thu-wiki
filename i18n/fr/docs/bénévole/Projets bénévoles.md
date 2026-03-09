@@ -1,3 +1,8 @@
+---
+id: 志愿/志愿项目
+slug: /bénévole/Projets bénévoles
+
+---
 # Informations relatives aux bénévoles
 ## Ressources bénévoles
 La plupart des informations sur les bénévoles sur le campus seront envoyées sur le compte public WeChat ** « Tsinghua University Student Charity » **. Les groupes de bénévoles de chaque département réaliseront également leurs propres prestations bénévoles, à l'exception des projets de marque, dont la plupart sont internes au département.

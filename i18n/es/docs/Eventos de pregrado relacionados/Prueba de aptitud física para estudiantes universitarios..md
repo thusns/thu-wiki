@@ -1,3 +1,8 @@
+---
+id: 本科大事件相关/大学生体质健康测试
+slug: /Eventos de pregrado relacionados/Prueba de aptitud física para estudiantes universitarios.
+
+---
 # Prueba de aptitud física para estudiantes universitarios.
 
 ## Descripción general

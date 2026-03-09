@@ -1,3 +1,8 @@
+---
+id: 体育/大马杯/极限飞盘/极限飞盘规则
+slug: /educación física/copa de malasia/disco volador definitivo/Reglas definitivas del frisbee
+
+---
 # Reglas definitivas del frisbee de la "Copa Marjohn"
 
 ## introducir

@@ -1,3 +1,8 @@
+---
+id: 学习相关/校内自习场所
+slug: /lié à l'apprentissage/Lieu d'étude sur le campus
+
+---
 # Introduction aux lieux d'auto-apprentissage et aux bâtiments d'enseignement sur le campus
 
 ## Comment vérifier l’état d’occupation d’une salle de classe ?

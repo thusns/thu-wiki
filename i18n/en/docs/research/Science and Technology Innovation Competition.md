@@ -1,3 +1,8 @@
+---
+id: 科研/科创赛事
+slug: /research/Science and Technology Innovation Competition
+
+---
 # Science and Technology Innovation Competition
 
 (Additional note, this content comes from the 2021 Science and Technology Innovation Competition (face cover) of the * Official Account Association for Science and Technology THU*. If there is any discrepancy with the 2022 competition, please help change it, thank you)

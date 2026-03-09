@@ -1,9 +1,10 @@
 ---
+id: intro
+slug: /intro
 sidebar_position: 1
 title: 資訊化服務指南
 description: 彙整清華大學資訊化常用連結、聯絡電話與電子身分、校園網路、信箱等服務指引。
 ---
-
 # 資訊化服務指南
 
 ## 常用連結

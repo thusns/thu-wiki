@@ -1,9 +1,10 @@
 ---
+id: intro
+slug: /intro
 sidebar_position: 1
 title: 정보서비스 안내
 description: 칭화대학교의 공통 링크, 연락처, 전자 신원, 캠퍼스 네트워크, 이메일 및 기타 서비스 지침에 대한 요약입니다.
 ---
-
 # 정보서비스 안내
 
 ## 공통 링크

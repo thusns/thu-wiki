@@ -1,3 +1,8 @@
+---
+id: 社团/百团大战指南
+slug: /Societies/Hundred Regiment War Guide
+
+---
 # Hundred Regiment War Guide
 
 Time: At the beginning of each semester

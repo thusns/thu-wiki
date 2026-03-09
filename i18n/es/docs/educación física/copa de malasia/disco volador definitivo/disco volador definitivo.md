@@ -1,3 +1,8 @@
+---
+id: 体育/大马杯/极限飞盘/极限飞盘
+slug: /educación física/copa de malasia/disco volador definitivo/disco volador definitivo
+
+---
 # Frisbee definitivo "Copa Majohn"
 
 ## Propósito de la competencia

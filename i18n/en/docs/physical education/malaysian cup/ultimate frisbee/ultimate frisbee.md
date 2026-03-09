@@ -1,3 +1,8 @@
+---
+id: 体育/大马杯/极限飞盘/极限飞盘
+slug: /physical education/malaysian cup/ultimate frisbee/ultimate frisbee
+
+---
 # Ma Yuehan Cup (马约翰杯) Ultimate Frisbee
 
 ## Competition Purpose

@@ -1,3 +1,8 @@
+---
+id: 体育/新生赤足运动会/报名通知
+slug: /physical education/Freshman Barefoot Games/Registration notice
+
+---
 # Freshman "Health Starts from the Ground Up" (健康始于足下) — Barefoot Sports Meet Registration Notice
 
 ## Purpose

@@ -1,3 +1,8 @@
+---
+id: 体育/校内体育场馆
+slug: /physical education/On-campus sports venues
+
+---
 # On-Campus Sports Venues
 
 ## Zijing Air Dome (紫荆气膜馆)

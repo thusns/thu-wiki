@@ -1,3 +1,8 @@
+---
+id: 学习相关/授课老师特点（/英语听说交流
+slug: /learning related/Characteristics of the instructor (/English listening and speaking communication
+
+---
 # English listening and speaking communication
 #### Grima John Paul Christopher
 1. Each class has a corresponding theme (such as Happiness, Art, etc.), and the course content is supplemented by how to take notes

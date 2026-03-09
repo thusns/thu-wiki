@@ -1,3 +1,8 @@
+---
+id: thuservices/info
+slug: /thuservices/info
+
+---
 # INFO coleta de informações importantes
 
 ## Calendário escolar

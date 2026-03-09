@@ -1,3 +1,8 @@
+---
+id: 校内外生活/衣食住行/北京旅游指南/名胜古迹_公园
+slug: /Life on and off campus/Food, clothing, housing and transportation/Beijing travel guide/Places of Interest_Park
+
+---
 # places of interest
 
 ### National Palace Museum

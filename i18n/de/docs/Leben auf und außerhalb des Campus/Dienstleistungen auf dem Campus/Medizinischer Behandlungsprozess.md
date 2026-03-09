@@ -1,3 +1,8 @@
+---
+id: 校内外生活/校内办事/就医流程
+slug: /Leben auf und außerhalb des Campus/Dienstleistungen auf dem Campus/Medizinischer Behandlungsprozess
+
+---
 # Medizinischer Behandlungsprozess im Schulkrankenhaus
 
 Referenz: https://mp.weixin.qq.com/s/P7D4jtaZHo4PHC6CvwBXmw

@@ -1,3 +1,8 @@
+---
+id: 体育/“临门一脚”本科生班级足球赛
+slug: /educação física/Jogo de futebol da turma de graduação -Chute final-
+
+---
 # Jogo de futebol da turma de graduação "Chute final"
 
 ## comissão organizadora

@@ -1,3 +1,8 @@
+---
+id: 各院所机关热线/经管学院
+slug: /Hotline de chaque établissement/École d'économie et de gestion
+
+---
 # École d'économie et de gestion
 
 ### 1. Inscription

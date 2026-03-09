@@ -1,3 +1,8 @@
+---
+id: 各院所机关热线/致理书院
+slug: /Línea directa de cada institución./colegio chile
+
+---
 # colegio chile
 
 ### Sitio web oficial

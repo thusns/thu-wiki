@@ -1,3 +1,8 @@
+---
+id: 校园历史文化/二校门
+slug: /Histoire et culture du campus/Deuxième porte d'école
+
+---
 # Deuxième porte d'école
 
 ## Apparence

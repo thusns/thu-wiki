@@ -1,3 +1,8 @@
+---
+id: 常见问题
+slug: /Perguntas frequentes
+
+---
 # Perguntas frequentes
 
 Instalações no campus:

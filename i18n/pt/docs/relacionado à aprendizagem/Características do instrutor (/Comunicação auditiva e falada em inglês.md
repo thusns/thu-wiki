@@ -1,3 +1,8 @@
+---
+id: 学习相关/授课老师特点（/英语听说交流
+slug: /relacionado à aprendizagem/Características do instrutor (/Comunicação auditiva e falada em inglês
+
+---
 # Comunicação auditiva e falada em inglês
 #### Grima João Paulo Cristóvão
 1. Cada aula tem um tema correspondente (como Felicidade, Arte, etc.), e o conteúdo do curso é complementado por como fazer anotações

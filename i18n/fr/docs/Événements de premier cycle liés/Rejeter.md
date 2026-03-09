@@ -1,3 +1,8 @@
+---
+id: 校园历史文化/校内景点
+slug: /Événements de premier cycle liés/Rejeter
+
+---
 # Rejeter
 
 ## expliquer

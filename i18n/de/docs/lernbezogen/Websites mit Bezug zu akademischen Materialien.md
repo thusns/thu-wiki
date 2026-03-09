@@ -1,3 +1,8 @@
+---
+id: 学习相关/学术资料相关网址
+slug: /lernbezogen/Websites mit Bezug zu akademischen Materialien
+
+---
 # Verwandte URLs für akademische Materialien:
 
 Datenbanknavigationssystem der Tsinghua-Universität http://nav.lib.tsinghua.edu.cn/xport/dbdh.htm

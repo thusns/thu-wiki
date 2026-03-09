@@ -1,3 +1,8 @@
+---
+id: thuservices/info
+slug: /thuservices/info
+
+---
 # INFO جمع المعلومات الهامة
 
 ## التقويم المدرسي

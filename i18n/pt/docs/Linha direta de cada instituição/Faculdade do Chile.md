@@ -1,3 +1,8 @@
+---
+id: 各院所机关热线/致理书院
+slug: /Linha direta de cada instituição/Faculdade do Chile
+
+---
 # Faculdade do Chile
 
 ### Site oficial

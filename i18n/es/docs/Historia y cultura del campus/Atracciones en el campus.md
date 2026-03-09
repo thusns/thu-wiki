@@ -1,3 +1,8 @@
+---
+id: 校园历史文化/校内景点
+slug: /Historia y cultura del campus/Atracciones en el campus
+
+---
 ﻿
 
 

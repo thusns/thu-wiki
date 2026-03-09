@@ -1,3 +1,8 @@
+---
+id: 体育/大马杯/大马杯
+slug: /éducation physique/coupe de Malaisie/coupe de Malaisie
+
+---
 # Règlement général de la compétition de la Coupe John Ma John
 
 ## Objet du concours

@@ -1,3 +1,8 @@
+---
+id: thuservices/accounts
+slug: /thuservices/accounts
+
+---
 # Comptes publics
 
 Cette page comprend les comptes publics WeChat, Zhihu et publics [expurgés] sur diverses plateformes

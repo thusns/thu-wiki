@@ -1,3 +1,8 @@
+---
+id: thuservices/services
+slug: /thuservices/services
+
+---
 # 칭화 서비스 이용안내(주로 Linux 사용자 대상)
 
 이 기사에서는 원격 서버를 포함하여 Linux 시스템에서 일부 Tsinghua 서비스의 사용 지침에 중점을 둘 것입니다.

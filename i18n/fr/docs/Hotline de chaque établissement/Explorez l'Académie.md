@@ -1,3 +1,8 @@
+---
+id: 各院所机关热线/探微书院
+slug: /Hotline de chaque établissement/Explorez l'Académie
+
+---
 # Explorez l'Académie
 
 ### Site officiel

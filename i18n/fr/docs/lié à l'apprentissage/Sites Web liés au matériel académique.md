@@ -1,3 +1,8 @@
+---
+id: 学习相关/学术资料相关网址
+slug: /lié à l'apprentissage/Sites Web liés au matériel académique
+
+---
 # URL associées pour le matériel académique :
 
 Système de navigation dans la base de données de l'Université Tsinghua http://nav.lib.tsinghua.edu.cn/xport/dbdh.htm

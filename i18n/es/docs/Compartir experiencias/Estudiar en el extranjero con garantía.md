@@ -1,8 +1,9 @@
 ---
+id: 经验分享/保研出国
+slug: /Compartir experiencias/Estudiar en el extranjero con garantía
 title: Estudiar en el extranjero con garantía
 description: La página para compartir experiencias de estudios de posgrado y estudios en el extranjero organiza rutas de solicitud, cronogramas y sugerencias de preparación.
 ---
-
 # Estudiar en el extranjero con garantía
 
 ## Para agregar/resumen

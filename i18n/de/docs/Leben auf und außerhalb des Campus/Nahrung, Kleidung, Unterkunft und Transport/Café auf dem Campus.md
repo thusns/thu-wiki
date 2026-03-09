@@ -1,3 +1,8 @@
+---
+id: 校内外生活/衣食住行/校内咖啡店
+slug: /Leben auf und außerhalb des Campus/Nahrung, Kleidung, Unterkunft und Transport/Café auf dem Campus
+
+---
 # Café auf dem Campus
 
 (Kommt noch hinzu, Geschmack, Preis...)

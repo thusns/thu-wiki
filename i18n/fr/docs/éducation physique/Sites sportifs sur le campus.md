@@ -1,3 +1,8 @@
+---
+id: 体育/校内体育场馆
+slug: /éducation physique/Sites sportifs sur le campus
+
+---
 # Sites sportifs sur le campus
 ## Pavillon Bauhinia Air Film
 Emplacement : Côté nord du bâtiment 18, Bauhinia

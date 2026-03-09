@@ -1,3 +1,8 @@
+---
+id: 校园历史文化/一 二九合唱
+slug: /Campus History and Culture/One twenty-nine chorus
+
+---
 # One, Two, Nine Chorus
 
 ## Tsinghua History of the December 9th Movement

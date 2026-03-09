@@ -1,3 +1,8 @@
+---
+id: 各院所机关热线/探微书院
+slug: /Línea directa de cada institución./Explora la Academia
+
+---
 # Explora la Academia
 
 ### Sitio web oficial

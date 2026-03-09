@@ -1,3 +1,8 @@
+---
+id: 校内外生活/衣食住行/你清今天吃什么？
+slug: /A vida dentro e fora do campus/Alimentação, roupas, moradia e transporte/O que você quer comer hoje-
+
+---
 # O que você quer comer hoje?
 
 Um inventário estatístico de quais pratos são servidos em cada janela de cada restaurante do campus

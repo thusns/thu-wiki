@@ -1,3 +1,8 @@
+---
+id: thuservices/utils
+slug: /thuservices/utils
+
+---
 # بعض البرامج النصية والأدوات
 
 ## ملخص أدوات مصادقة شبكة الحرم الجامعي

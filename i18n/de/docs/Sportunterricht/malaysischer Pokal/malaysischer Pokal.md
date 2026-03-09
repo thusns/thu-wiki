@@ -1,3 +1,8 @@
+---
+id: 体育/大马杯/大马杯
+slug: /Sportunterricht/malaysischer Pokal/malaysischer Pokal
+
+---
 # Allgemeine Bestimmungen des John Ma John Cup-Wettbewerbs
 
 ## Wettbewerbszweck

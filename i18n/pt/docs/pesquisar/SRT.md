@@ -1,3 +1,8 @@
+---
+id: 科研/SRT
+slug: /pesquisar/SRT
+
+---
 # SRT
 
 No início de cada semestre haverá aprovação do projeto e inscrição no projeto SRT. Preste atenção aos grupos de informações e notificação do departamento em tempo hábil; a sequência de tempo é primeiro para os alunos se inscreverem no projeto e depois para os alunos se inscreverem. O sistema SRT está na coluna de informação-aprendizagem. Observe que ao se inscrever, “Projeto aprovado” significa que o professor aprovou o projeto, mas nenhum aluno se inscreveu; "Registrar" significa que os alunos se inscreveram.

@@ -1,3 +1,8 @@
+---
+id: thuservices/services
+slug: /thuservices/services
+
+---
 # 清華サービス利用ガイド（主にLinuxユーザー向け）
 
 この記事では、リモート サーバーを含む、Linux マシン上の一部の清華サービスの使用手順に焦点を当てます。

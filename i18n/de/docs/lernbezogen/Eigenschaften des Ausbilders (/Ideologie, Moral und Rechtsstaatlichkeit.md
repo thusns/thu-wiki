@@ -1,3 +1,8 @@
+---
+id: 学习相关/授课老师特点（/思想道德与法治
+slug: /lernbezogen/Eigenschaften des Ausbilders (/Ideologie, Moral und Rechtsstaatlichkeit
+
+---
 # Ideologie, Moral und Rechtsstaatlichkeit
 #### Dai Mucai
 1. Die Klasse ist **lustig** und liebt es, Geschichten zu erzählen

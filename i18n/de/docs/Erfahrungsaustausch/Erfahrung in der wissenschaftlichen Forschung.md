@@ -1,8 +1,9 @@
 ---
+id: 经验分享/科研经历
+slug: /Erfahrungsaustausch/Erfahrung in der wissenschaftlichen Forschung
 title: Erfahrung in der wissenschaftlichen Forschung
 description: Auf der Seite „Erfahrung in der wissenschaftlichen Forschung“ sind Einstiegskanäle, Projektbeteiligungsmethoden und Wachstumsvorschläge zusammengefasst.
 ---
-
 # Erfahrung in der wissenschaftlichen Forschung
 
 ## Noch hinzuzufügen/Zusammenfassung

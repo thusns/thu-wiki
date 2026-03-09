@@ -1,3 +1,8 @@
+---
+id: 体育/“临门一脚”本科生班级足球赛
+slug: /physical education/-Final kick- undergraduate class football game
+
+---
 # "Final kick" undergraduate class football game
 
 ## organizing committee

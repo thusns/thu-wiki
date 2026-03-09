@@ -1,3 +1,8 @@
+---
+id: 校内外生活/衣食住行/校内出行
+slug: /Life on and off campus/Food, clothing, housing and transportation/On-campus travel
+
+---
 # On-campus travel
 
 ## school bus

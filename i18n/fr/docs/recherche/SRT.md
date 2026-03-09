@@ -1,3 +1,8 @@
+---
+id: 科研/SRT
+slug: /recherche/SRT
+
+---
 # SRT
 
 Au début de chaque semestre, il y aura l'approbation du projet et l'inscription au projet SRT. Veuillez prêter attention aux groupes d'informations et de notification du département en temps opportun ; la séquence temporelle permet d'abord aux étudiants de postuler au projet, puis aux étudiants de s'inscrire. Le système SRT est dans la colonne info-apprentissage. Veuillez noter que lors de l'inscription, « Le projet a été approuvé » signifie que l'enseignant a approuvé le projet mais qu'aucun élève ne s'est inscrit ; « S'inscrire » signifie que les étudiants se sont inscrits.

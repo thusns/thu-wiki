@@ -1,3 +1,8 @@
+---
+id: 校园历史文化/一 二九合唱
+slug: /Geschichte und Kultur des Campus/Ein neunundzwanzig Refrain
+
+---
 # Eins, zwei, neun Refrain
 
 ## Tsinghua Geschichte der Bewegung des 9. Dezember

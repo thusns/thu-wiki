@@ -1,3 +1,8 @@
+---
+id: 本科大事件相关/疫情防控相关
+slug: /Undergraduate events related/Epidemic prevention and control related
+
+---
 # Epidemic prevention and control related
 
 ## Example of notification of normalized prevention and control measures

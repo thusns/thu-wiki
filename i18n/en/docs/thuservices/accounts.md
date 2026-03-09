@@ -1,3 +1,8 @@
+---
+id: thuservices/accounts
+slug: /thuservices/accounts
+
+---
 # Public Accounts
 
 This page collects WeChat official accounts, Zhihu accounts, and public accounts on various platforms. [redacted]

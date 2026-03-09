@@ -1,3 +1,8 @@
+---
+id: 学习相关/授课老师特点（/微积分A
+slug: /lernbezogen/Eigenschaften des Ausbilders (/Kalkül A
+
+---
 # Kalkül A
 #### Wang Qingrui
 1. **Die Vorlesungsgeschwindigkeit ist schneller**, was Zeit sparen und die Unterrichtszeit nutzen kann, um sich nach jedem Kapitel mit den Übungen zu befassen (eigentlich um den gleichen Fortschritt wie in anderen Kursen beizubehalten).

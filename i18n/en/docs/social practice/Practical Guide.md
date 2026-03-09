@@ -1,8 +1,9 @@
 ---
+id: 社会实践/实践指南
+slug: /social practice/Practical Guide
 title: Practical Guide
 description: The social practice guide page summarizes the core information on topic selection, project establishment, implementation and completion.
 ---
-
 # Practical Guide
 
 ## To be added/summary

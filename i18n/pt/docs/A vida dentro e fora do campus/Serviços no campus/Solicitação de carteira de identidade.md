@@ -1,3 +1,8 @@
+---
+id: 校内外生活/校内办事/身份证办理
+slug: /A vida dentro e fora do campus/Serviços no campus/Solicitação de carteira de identidade
+
+---
 Primeiro, vá ao Escritório de Registro Doméstico de Tsinghua no campus para emitir um certificado
 Em seguida, vá para a ==Delegacia de Polícia de Zhongguancun== fora da escola para obter a reemissão do seu cartão de identificação, ou você pode ir para o ==Salão de Assuntos Governamentais de Dongsheng== fora do portão norte (_Geralmente há menos pessoas_)
 

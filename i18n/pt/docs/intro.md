@@ -1,9 +1,10 @@
 ---
+id: intro
+slug: /intro
 sidebar_position: 1
 title: Guia de serviço de informação
 description: Um resumo dos links comuns, números de contato, identidade eletrônica, rede do campus, e-mail e outras diretrizes de serviço da Universidade de Tsinghua.
 ---
-
 # Guia de serviço de informação
 
 ## Links comuns

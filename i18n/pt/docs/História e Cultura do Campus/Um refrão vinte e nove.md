@@ -1,3 +1,8 @@
+---
+id: 校园历史文化/一 二九合唱
+slug: /História e Cultura do Campus/Um refrão vinte e nove
+
+---
 # Um, dois, nove refrão
 
 ## História de Tsinghua do Movimento 9 de Dezembro

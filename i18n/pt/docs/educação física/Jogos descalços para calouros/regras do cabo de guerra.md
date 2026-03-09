@@ -1,3 +1,8 @@
+---
+id: 体育/新生赤足运动会/拔河规则
+slug: /educação física/Jogos descalços para calouros/regras do cabo de guerra
+
+---
 # Regras do cabo de guerra dos jogos para calouros
 
 ## Número de participantes

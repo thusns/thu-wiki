@@ -1,3 +1,8 @@
+---
+id: 社团/清华大学科幻协会
+slug: /Sociedades/Asociación de ciencia ficción de la Universidad de Tsinghua
+
+---
 # Asociación de ciencia ficción de la Universidad de Tsinghua
 
 

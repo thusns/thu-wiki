@@ -1,3 +1,8 @@
+---
+id: thuservices/README
+slug: /thuservices
+
+---
 # 清華大学の共通情報/サービス概要
 
 ## クイックコース選択入口

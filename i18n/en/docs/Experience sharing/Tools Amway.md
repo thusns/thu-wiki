@@ -1,3 +1,8 @@
+---
+id: 经验分享/工具安利
+slug: /Experience sharing/Tools Amway
+
+---
 # Tools Amway
 
 ## How to obtain e-books

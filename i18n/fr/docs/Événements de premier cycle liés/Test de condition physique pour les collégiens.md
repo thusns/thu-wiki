@@ -1,3 +1,8 @@
+---
+id: 本科大事件相关/大学生体质健康测试
+slug: /Événements de premier cycle liés/Test de condition physique pour les collégiens
+
+---
 # Test de condition physique pour les collégiens
 
 ## Aperçu

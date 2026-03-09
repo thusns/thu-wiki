@@ -1,3 +1,8 @@
+---
+id: 体育/校内体育场馆
+slug: /educação física/Instalações esportivas no campus
+
+---
 # Instalações esportivas no campus
 ## Pavilhão de Cinema Aéreo Bauhinia
 Localização: Lado norte do Edifício 18, Bauhinia

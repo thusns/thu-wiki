@@ -1,3 +1,8 @@
+---
+id: 学习相关/校内研讨间资源
+slug: /lernbezogen/Ressourcen für Seminarräume auf dem Campus
+
+---
 # Ressourcen für Seminarräume auf dem Campus
 
 Die folgenden Seminarräume können über das offizielle Konto des Tsinghua Home Network reserviert werden; Bei der Nutzung müssen Sie einen Dreier-Studierendenausweis besitzen und den Schlüssel im Büro der Lehrgebäudeverwaltung umtauschen:

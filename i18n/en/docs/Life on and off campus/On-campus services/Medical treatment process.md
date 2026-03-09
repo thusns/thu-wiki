@@ -1,3 +1,8 @@
+---
+id: 校内外生活/校内办事/就医流程
+slug: /Life on and off campus/On-campus services/Medical treatment process
+
+---
 # School hospital medical treatment process
 
 Reference: https://mp.weixin.qq.com/s/P7D4jtaZHo4PHC6CvwBXmw

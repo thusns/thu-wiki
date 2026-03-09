@@ -1,3 +1,8 @@
+---
+id: 本科大事件相关/新生赤足运动会
+slug: /Eventos de graduação relacionados/Jogos descalços para calouros
+
+---
 # Jogos descalços para calouros
 
 Como o nome sugere, os Barefoot Games são os Barefoot Games (x)

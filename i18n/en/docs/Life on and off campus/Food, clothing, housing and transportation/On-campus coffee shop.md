@@ -1,3 +1,8 @@
+---
+id: 校内外生活/衣食住行/校内咖啡店
+slug: /Life on and off campus/Food, clothing, housing and transportation/On-campus coffee shop
+
+---
 # On-campus coffee shop
 
 (To be added, taste, price...)

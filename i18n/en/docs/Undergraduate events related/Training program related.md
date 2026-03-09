@@ -1,3 +1,8 @@
+---
+id: 本科大事件相关/培养方案相关
+slug: /Undergraduate events related/Training program related
+
+---
 # Training program related
 
 For specific questions, it is recommended to ask the academic affairs department of the department to obtain professional answers.

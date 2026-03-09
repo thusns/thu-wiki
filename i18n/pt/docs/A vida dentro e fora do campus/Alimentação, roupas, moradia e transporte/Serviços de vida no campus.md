@@ -1,3 +1,8 @@
+---
+id: 校内外生活/衣食住行/校内生活服务
+slug: /A vida dentro e fora do campus/Alimentação, roupas, moradia e transporte/Serviços de vida no campus
+
+---
 # Supermercado no campus
 
 ## Supermercado Tmall (Edifício 7, Distrito Sul) (próximo ao Jardim Qingfen)

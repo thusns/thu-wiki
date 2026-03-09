@@ -1,3 +1,8 @@
+---
+id: 体育/校内体育场馆
+slug: /educación física/Instalaciones deportivas en el campus
+
+---
 # Instalaciones deportivas en el campus
 ## Pabellón de cine aéreo Bauhinia
 Ubicación: Lado norte del Edificio 18, Bauhinia

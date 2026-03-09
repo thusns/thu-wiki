@@ -1,3 +1,8 @@
+---
+id: 常见问题
+slug: /FAQ
+
+---
 # FAQ
 
 Installations sur le campus :

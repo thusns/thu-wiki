@@ -1,3 +1,8 @@
+---
+id: 学习相关/校内研讨间资源
+slug: /relacionado con el aprendizaje/Recursos de salas de seminarios en el campus
+
+---
 # Recursos de salas de seminarios en el campus
 
 Las siguientes salas de seminarios se pueden reservar en la cuenta oficial de Tsinghua Home Network; al usarlo, debe tener una tarjeta de identificación de estudiante para tres personas y cambiar la clave en la oficina del administrador del edificio de enseñanza:

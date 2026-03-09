@@ -1,3 +1,8 @@
+---
+id: 各院所机关热线/行健书院
+slug: /Línea directa de cada institución./Academia Xingjian
+
+---
 # Academia Xingjian
 
 ### Sitio web oficial

@@ -1,3 +1,8 @@
+---
+id: 校内外生活/衣食住行/北京旅游指南/游乐场
+slug: /La vida dentro y fuera del campus/Alimentación, vestido, vivienda y transporte./Guía de viaje de Pekín/patio de juegos
+
+---
 # patio de juegos
 
 ### Universal Beijing Resort

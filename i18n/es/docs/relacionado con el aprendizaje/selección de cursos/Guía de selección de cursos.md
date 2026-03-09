@@ -1,3 +1,8 @@
+---
+id: 学习相关/选课/选课指南
+slug: /relacionado con el aprendizaje/selección de cursos/Guía de selección de cursos
+
+---
 # Guía de selección de cursos
 
 ## Sitio web de selección de cursos.

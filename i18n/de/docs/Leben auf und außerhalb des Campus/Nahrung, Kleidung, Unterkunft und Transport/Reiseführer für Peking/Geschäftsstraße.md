@@ -1,3 +1,8 @@
+---
+id: 校内外生活/衣食住行/北京旅游指南/商业街
+slug: /Leben auf und außerhalb des Campus/Nahrung, Kleidung, Unterkunft und Transport/Reiseführer für Peking/Geschäftsstraße
+
+---
 # Geschäftsstraße
 ### Nanluoguxiang
 

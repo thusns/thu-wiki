@@ -1,3 +1,8 @@
+---
+id: 本科大事件相关/党组织相关活动
+slug: /Événements de premier cycle liés/Activités liées à l'organisation du parti
+
+---
 # Activités liées à l'organisation du parti
 
 ## 1. Association TMS

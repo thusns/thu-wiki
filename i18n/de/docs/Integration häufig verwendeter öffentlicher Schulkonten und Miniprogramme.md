@@ -1,3 +1,8 @@
+---
+id: 常用校内公众号与小程序整合
+slug: /Integration häufig verwendeter öffentlicher Schulkonten und Miniprogramme
+
+---
 # Integration häufig verwendeter öffentlicher Schulkonten und Miniprogramme
 
 ## Offizieller Account

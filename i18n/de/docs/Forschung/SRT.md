@@ -1,3 +1,8 @@
+---
+id: 科研/SRT
+slug: /Forschung/SRT
+
+---
 # SRT
 
 Zu Beginn jedes Semesters erfolgt die Projektfreigabe und Anmeldung zum SRT-Projekt. Bitte achten Sie rechtzeitig auf die Info- und Abteilungsbenachrichtigungsgruppen; Die zeitliche Reihenfolge besteht darin, dass sich die Studierenden zunächst für das Projekt bewerben und sich dann anmelden. Das SRT-System befindet sich in der Info-Lern-Spalte. Bitte beachten Sie, dass bei der Anmeldung „Projekt wurde genehmigt“ bedeutet, dass der Lehrer das Projekt genehmigt hat, sich aber kein Schüler angemeldet hat; „Anmeldung“ bedeutet, dass Studierende sich angemeldet haben.

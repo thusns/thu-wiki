@@ -1,3 +1,8 @@
+---
+id: 本科大事件相关/共青团相关活动
+slug: /Eventos de graduação relacionados/Atividades relacionadas à Liga da Juventude Comunista
+
+---
 # Atividades relacionadas aos membros da Liga da Juventude Comunista
 
 ## Dias temáticos de caucus a cada semestre

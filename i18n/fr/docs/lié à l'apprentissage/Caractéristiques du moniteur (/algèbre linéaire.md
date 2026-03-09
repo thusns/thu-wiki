@@ -1,3 +1,8 @@
+---
+id: 学习相关/授课老师特点（/线性代数
+slug: /lié à l'apprentissage/Caractéristiques du moniteur (/algèbre linéaire
+
+---
 # algèbre linéaire
 #### Liang Xin
 1. **À rythme modéré**, une leçon correspond généralement à un chapitre (l'introduction à l'algèbre linéaire est le manuel)

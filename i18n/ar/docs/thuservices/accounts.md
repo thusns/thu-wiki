@@ -1,3 +1,8 @@
+---
+id: thuservices/accounts
+slug: /thuservices/accounts
+
+---
 # الحسابات العامة
 
 تتضمن هذه الصفحة حسابات WeChat العامة، وZhihu، والحسابات العامة [المنقحة] على منصات مختلفة

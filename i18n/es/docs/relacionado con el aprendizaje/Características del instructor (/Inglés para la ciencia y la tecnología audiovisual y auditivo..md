@@ -1,3 +1,8 @@
+---
+id: 学习相关/授课老师特点（/科技英语视听说
+slug: /relacionado con el aprendizaje/Características del instructor (/Inglés para la ciencia y la tecnología audiovisual y auditivo.
+
+---
 # Inglés para Ciencias y Tecnología Audiovisual y Auditiva (Intermedio, Avanzado)
 
 

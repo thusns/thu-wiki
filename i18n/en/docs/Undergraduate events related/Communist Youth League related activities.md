@@ -1,3 +1,8 @@
+---
+id: 本科大事件相关/共青团相关活动
+slug: /Undergraduate events related/Communist Youth League related activities
+
+---
 # Activities related to Communist Youth League members
 
 ## Themed caucus days each semester

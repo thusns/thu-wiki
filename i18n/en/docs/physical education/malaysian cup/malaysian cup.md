@@ -1,3 +1,8 @@
+---
+id: 体育/大马杯/大马杯
+slug: /physical education/malaysian cup/malaysian cup
+
+---
 # Ma Yuehan Cup (马约翰杯) Competition General Regulations
 
 ## Competition Purpose

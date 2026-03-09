@@ -1,3 +1,8 @@
+---
+id: intro
+slug: /Eventos de graduação relacionados/Liberar
+
+---
 # Liberar
 
 ## explicar

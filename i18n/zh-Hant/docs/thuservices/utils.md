@@ -1,3 +1,8 @@
+---
+id: thuservices/utils
+slug: /thuservices/utils
+
+---
 # 一些文稿和工具
 
 ## 校園網路認證工具總合

@@ -1,3 +1,8 @@
+---
+id: 本科大事件相关/培养方案相关
+slug: /Eventos de graduação relacionados/Programa de treinamento relacionado
+
+---
 # Programa de treinamento relacionado
 
 Para dúvidas específicas, é recomendável consultar o departamento de assuntos acadêmicos do departamento para obter respostas profissionais.

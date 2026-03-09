@@ -1,3 +1,8 @@
+---
+id: 各院所机关热线/未央书院
+slug: /Linha direta de cada instituição/Academia Weiyang
+
+---
 # Academia Weiyang
 
 ### Site oficial

@@ -1,3 +1,8 @@
+---
+id: 体育/大马杯/极限飞盘/极限飞盘赛前准备会
+slug: /éducation physique/coupe de Malaisie/frisbee ultime/Réunion de préparation au jeu Ultimate Frisbee
+
+---
 # Réunion de préparation à l'Ultimate Frisbee "Majohn Cup"
 
 ## Calendrier

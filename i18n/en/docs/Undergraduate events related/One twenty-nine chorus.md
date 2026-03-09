@@ -1,8 +1,9 @@
 ---
+id: 本科大事件相关/一 二九合唱
+slug: /Undergraduate events related/One twenty-nine chorus
 title: Chorus 129
 description: The introduction page of the 129 Choir Event organizes the participation process, training arrangements and common precautions.
 ---
-
 # Chorus 129
 
 ## To be added/summary

@@ -1,3 +1,8 @@
+---
+id: thuservices/utils
+slug: /thuservices/utils
+
+---
 # いくつかのスクリプトとツール
 
 ## キャンパスネットワーク認証ツールの概要

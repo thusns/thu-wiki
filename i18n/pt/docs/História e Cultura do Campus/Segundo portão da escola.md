@@ -1,3 +1,8 @@
+---
+id: 校园历史文化/二校门
+slug: /História e Cultura do Campus/Segundo portão da escola
+
+---
 # Segundo portão da escola
 
 ## Aparência

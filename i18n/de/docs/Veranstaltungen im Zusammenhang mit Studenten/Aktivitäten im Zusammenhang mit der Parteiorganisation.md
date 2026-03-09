@@ -1,3 +1,8 @@
+---
+id: 本科大事件相关/党组织相关活动
+slug: /Veranstaltungen im Zusammenhang mit Studenten/Aktivitäten im Zusammenhang mit der Parteiorganisation
+
+---
 # Aktivitäten im Zusammenhang mit der Parteiorganisation
 
 ## 1. TMS-Vereinigung

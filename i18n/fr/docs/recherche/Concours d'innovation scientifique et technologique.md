@@ -1,3 +1,8 @@
+---
+id: 科研/科创赛事
+slug: /recherche/Concours d'innovation scientifique et technologique
+
+---
 # Concours d'innovation scientifique et technologique
 
 (Remarque supplémentaire, ce contenu provient du Concours d'innovation scientifique et technologique 2021 (couverture) de la *Association de compte officiel pour la science et la technologie THU*. S'il y a un écart avec le concours 2022, veuillez aider à le modifier, merci)
