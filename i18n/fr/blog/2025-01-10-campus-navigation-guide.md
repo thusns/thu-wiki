@@ -9,7 +9,7 @@ tags: [Navigation sur le campus, transport, Guide du nouvel étudiant]
 
 En tant que nouvel étudiant ou visiteur, trouver son chemin sur l'immense campus de Tsinghua peut être déroutant. Ce guide vous aidera à vous familiariser rapidement avec l'aménagement du campus et les options de transport.
 
-<!-- tronqué -->
+<!-- truncate -->
 
 ## 🚌Transport sur le campus
 

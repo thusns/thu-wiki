@@ -9,7 +9,7 @@ tags: [Sélection de cours, étude, Stratégie, Guide du nouvel étudiant]
 
 La sélection des cours est une partie importante de chaque semestre. Une bonne stratégie de sélection de cours peut rendre votre vie universitaire plus épanouissante et plus efficace. Cet article partagera quelques conseils pratiques pour la sélection de cours.
 
-<!-- tronqué -->
+<!-- truncate -->
 
 ## 🎯 Préparation avant de choisir un cours
 
