@@ -9,7 +9,7 @@ tags: [thu-wiki, Université Qinghua, guide, accueillir]
 
 Bienvenue sur le wiki des étudiants de l'Université Tsinghua (THU Wiki) ! Il s'agit d'une plate-forme de partage de connaissances gérée par l'équipe de service du réseau étudiant de l'université Tsinghua (THU SNS), qui se consacre à fournir aux étudiants de Tsinghua un guide complet et pratique sur la vie sur le campus.
 
-<!-- tronqué -->
+<!-- truncate -->
 
 ## 📚 Que proposons-nous ?
 
