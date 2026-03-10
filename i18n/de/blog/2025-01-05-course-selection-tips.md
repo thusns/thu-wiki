@@ -1,94 +1,94 @@
 ---
 slug: course-selection-tips
-title: 选课攻略：如何选择适合你的课程
+title: Leitfaden zur Kursauswahl: So wählen Sie den Kurs aus, der zu Ihnen passt
 authors: [thu-contributor]
-tags: [选课, 学习, 攻略, 新生指南]
+tags: [Kursauswahl, Studie, Strategie, Neuer Studentenführer]
 ---
 
-# 选课攻略：如何选择适合你的课程 📚
+# Leitfaden zur Kursauswahl: So wählen Sie einen Kurs aus, der zu Ihnen passt 📚
 
-选课是每个学期的重要环节，好的选课策略能让你的大学生活更加充实和高效。本文将分享一些实用的选课技巧。
+Die Kurswahl ist ein wichtiger Bestandteil jedes Semesters. Eine gute Kursauswahlstrategie kann Ihr Universitätsleben erfüllender und effizienter machen. In diesem Artikel finden Sie einige Tipps zur praktischen Kursauswahl.
 
-<!-- truncate -->
+<!--truncate -->
 
-## 🎯 选课前准备
+## 🎯 Vorbereitung vor der Kurswahl
 
-### 1. 了解培养方案
-- 仔细阅读你所在专业的培养方案
-- 明确必修课、限选课和任选课的要求
-- 规划好四年的课程安排
+### 1. Den Trainingsplan verstehen
+- Lesen Sie das Ausbildungsprogramm für Ihr Hauptfach sorgfältig durch
+- Klärung der Anforderungen an Pflichtkurse, begrenzte Wahlfächer und Wahlkurse
+- Planen Sie den vierjährigen Kursplan
 
-### 2. 收集课程信息
-- **课程评价**：查看学长学姐的课程评价
-- **老师风格**：了解任课教师的教学特点
-- **课程难度**：评估自己的能力和兴趣
+### 2. Sammeln Sie Kursinformationen
+- **Kursbewertung**: Sehen Sie sich die Kursbewertungen älterer Studenten an
+- **Lehrerstil**: Verstehen Sie die Unterrichtsmerkmale von Klassenlehrern
+- **Schwierigkeitsgrad des Kurses**: Bewerten Sie Ihre eigenen Fähigkeiten und Interessen
 
-## 📋 选课策略
+## 📋 Kursauswahlstrategie
 
-### 学期负荷平衡
-```
-建议课程搭配：
-- 2-3门专业核心课
-- 1-2门通识课程
-- 1门体育课/艺术课
-总学分控制在 15-18 分
-```
+### Semesterbelastungsausgleich
+„
+Empfohlene Kurskombinationen:
+- 2-3 professionelle Kernkurse
+- 1-2 allgemeine Kurse
+- 1 Sport-/Kunstunterricht
+Die Gesamtpunktzahl wird auf 15–18 Punkte begrenzt
+„
 
-### 时间安排优化
-- **避免课程冲突**：检查上课时间是否重叠
-- **合理分布**：不要把课程全排在同一天
-- **预留时间**：为作业和复习留出充足时间
+### Optimierung der Zeitplanung
+- **Kurskonflikte vermeiden**: Überprüfen Sie, ob sich die Unterrichtszeiten überschneiden
+- **Angemessene Verteilung**: Planen Sie nicht alle Kurse am selben Tag
+- **Zeit einplanen**: Planen Sie genügend Zeit für Hausaufgaben und Wiederholungen ein
 
-## 🔍 课程选择建议
+## 🔍Vorschläge zur Kursauswahl
 
-### 必修课程
-- **优先选择**：每学期优先安排必修课
-- **难易搭配**：避免同时选择多门高难度课程
-- **提前规划**：某些课程有先修要求
+### Erforderliche Kurse
+- **Priorität**: Pflichtveranstaltungen haben in jedem Semester Vorrang
+- **Schwierigkeitsgrad und einfache Übereinstimmung**: Vermeiden Sie die gleichzeitige Auswahl mehrerer schwieriger Kurse
+- **Planen Sie im Voraus**: Für einige Kurse gelten Voraussetzungen
 
-### 选修课程
-- **兴趣导向**：选择感兴趣的领域
-- **技能提升**：考虑实用技能类课程
-- **学分要求**：确保满足毕业要求
+### Wahlfächer
+- **Interessenorientiert**: Interessengebiete auswählen
+- **Fähigkeitsverbesserung**: Ziehen Sie Kurse für praktische Fertigkeiten in Betracht
+- **Credit-Anforderungen**: Stellen Sie sicher, dass die Abschlussvoraussetzungen erfüllt sind
 
-## 💡 实用工具
+## 💡 Hilfswerkzeuge
 
-### 选课系统使用技巧
-1. **提前登录**：选课开始前测试系统
-2. **多浏览器**：准备备用浏览器
-3. **刷新频率**：适度刷新，避免系统卡顿
-4. **候补机制**：充分利用候补功能
+### Tipps zur Nutzung des Kursauswahlsystems
+1. **Frühzeitiges Login**: Testen Sie das System, bevor Sie mit der Kursauswahl beginnen
+2. **Mehrere Browser**: Bereiten Sie Backup-Browser vor
+3. **Aktualisierungshäufigkeit**: Mäßige Aktualisierung, um Systemverzögerungen zu vermeiden
+4. **Kellnermechanismus**: Nutzen Sie die Wartefunktion voll aus
 
-### 信息获取渠道
-- **官方网站**：教务处和院系网站
-- **学长学姐**：加入相关群组交流
-- **课程群**：关注课程相关的群组信息
+### Informationsbeschaffungskanäle
+- **Offizielle Website**: Websites des Büros für akademische Angelegenheiten und der Abteilungen
+- **Ältere Schwestern**: Treten Sie relevanten Gruppen bei, um zu kommunizieren
+- **Kursgruppe**: Befolgen Sie die kursbezogenen Gruppeninformationen
 
-## ⚠️ 常见误区
+## ⚠️ Häufige Missverständnisse
 
-### 避免的选课误区
-1. **盲目跟风**：不要只因为别人选择就跟着选
-2. **过分追求轻松**：平衡学习收获和课程难度
-3. **忽视时间安排**：考虑通勤和其他活动时间
-4. **临时决定**：避免选课截止前匆忙决定
+### Missverständnisse bei der Kurswahl vermeiden
+1. **Dem Trend blind folgen**: Folgen Sie nicht einfach den Entscheidungen anderer.
+2. **Übermäßiges Streben nach Leichtigkeit**: Lernfortschritte und Kursschwierigkeiten in Einklang bringen
+3. **Zeit ignorieren**: Erwägen Sie Pendeln und andere Aktivitäten
+4. **Vorläufige Entscheidung**: Vermeiden Sie übereilte Entscheidungen vor Ablauf der Kursauswahlfrist
 
-## 📅 选课时间节点
+## 📅 Zeitknoten für die Kursauswahl
 
-- **选课准备期**：提前2-3周开始准备
-- **正式选课**：按照学校安排的时间进行
-- **调课期**：利用调课时间优化课程安排
-- **试听期**：前两周可以试听和调整
+- **Vorbereitungszeitraum für die Kursauswahl**: Beginnen Sie mit der Vorbereitung 2-3 Wochen im Voraus
+- **Formelle Kursauswahl**: Entsprechend der von der Schule vereinbarten Zeit
+- **Kursanpassungszeit**: Nutzen Sie die Kursanpassungszeit, um die Kursgestaltung zu optimieren
+- **Testzeitraum**: Sie können in den ersten zwei Wochen ausprobieren und sich anpassen
 
-## 🎯 特殊课程建议
+## 🎯 Spezielle Kursvorschläge
 
-### 热门课程
-- **提前准备**：热门课程竞争激烈
-- **备选方案**：准备第二、第三选择
-- **关注通知**：及时关注加课信息
+### Beliebte Kurse
+- **Bereiten Sie sich im Voraus vor**: Der Wettbewerb um beliebte Kurse ist hart
+- **Alternativen**: Bereiten Sie die zweite und dritte Wahl vor
+- **Benachrichtigung folgen**: Achten Sie rechtzeitig auf zusätzliche Kursinformationen
 
-### 英文授课课程
-- **语言能力**：评估自己的英语水平
-- **专业相关性**：选择与专业相关的课程
-- **国际化视野**：有助于拓展国际视野
+### Kurse werden auf Englisch unterrichtet
+- **Sprachkenntnisse**: Bewerten Sie Ihr eigenes Englischniveau
+- **Berufliche Relevanz**: Wählen Sie Kurse mit Bezug zu Ihrem Hauptfach
+- **Internationale Perspektive**: Hilft, die internationale Perspektive zu erweitern
 
-记住，选课不仅是选择知识，更是选择成长的方向。希望每位同学都能选到心仪的课程，度过充实的学期！
+Denken Sie daran: Bei der Wahl der Kurse geht es nicht nur um die Wahl des Wissens, sondern auch um die Wahl der Wachstumsrichtung. Ich wünsche allen Studierenden, dass sie sich für den Studiengang ihrer Wahl entscheiden können und ein erfülltes Semester haben!

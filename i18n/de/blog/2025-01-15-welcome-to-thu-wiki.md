@@ -1,45 +1,45 @@
 ---
 slug: welcome-to-thu-wiki
-title: 欢迎来到 THU Wiki！
+title: Willkommen im THU-Wiki!
 authors: [thuwiki-team]
-tags: [thu-wiki, 清华大学, 指南, 欢迎]
+tags: [thu-wiki, Tsinghua-Universität, Führung, Willkommen]
 ---
 
-# 欢迎来到 THU Wiki！
+# Willkommen im THU-Wiki!
 
-欢迎来到清华大学学生维基百科（THU Wiki）！这里是由清华大学学生网络服务团队（THU SNS）维护的知识分享平台，致力于为清华学子提供全面、实用的校园生活指南。
+Willkommen im Tsinghua University Student Wiki (THU Wiki)! Dabei handelt es sich um eine Wissensaustauschplattform, die vom Tsinghua University Student Network Service Team (THU SNS) betrieben wird und sich zum Ziel gesetzt hat, Tsinghua-Studenten einen umfassenden und praktischen Leitfaden für das Leben auf dem Campus zu bieten.
 
-<!-- truncate -->
+<!--truncate -->
 
-## 📚 我们提供什么？
+## 📚 Was bieten wir an?
 
-THU Wiki 涵盖了清华校园生活的各个方面：
+Das THU-Wiki deckt alle Aspekte des Lebens auf dem Tsinghua-Campus ab:
 
-- **🎓 学习相关**：选课指南、学术资源、自习场所推荐
-- **🏃‍♀️ 体育活动**：各类体育赛事、场馆介绍、活动规则
-- **🍽️ 校内外生活**：餐饮推荐、出行指南、办事流程
-- **🏛️ 校园文化**：历史景点、文化活动、社团介绍
-- **💻 THU Services**：校园服务、实用工具、网站汇总
+- **🎓 Studienbezogen**: Leitfaden zur Kursauswahl, akademische Ressourcen, Empfehlungen für Selbstlernorte
+- **🏃‍♀️Sportaktivitäten**: Verschiedene Sportveranstaltungen, Vorstellung von Veranstaltungsorten, Veranstaltungsregeln
+- **🍽️ Leben auf und außerhalb des Campus**: Restaurantempfehlungen, Reiseführer und Serviceverfahren
+- **🏛️Campus-Kultur**: Einführung in historische Sehenswürdigkeiten, kulturelle Aktivitäten und Gesellschaften
+- **💻 THU-Services**: Campus-Services, praktische Tools, Website-Zusammenfassung
 
-## 🌟 特色功能
+## 🌟 Funktionen
 
-- **多语言支持**：支持中文、英文、日文等11种语言
-- **智能搜索**：基于 Algolia 的强大搜索功能
-- **AI 助手**：集成 AI 聊天功能，快速获取信息
-- **离线支持**：PWA 应用，支持离线访问
-- **社区评论**：基于 GitHub 的评论系统
+- **Unterstützung mehrerer Sprachen**: Unterstützt 11 Sprachen, darunter Chinesisch, Englisch und Japanisch
+- **Intelligente Suche**: Leistungsstarke Suchfunktionen basierend auf Algolia
+- **KI-Assistent**: Integrierte KI-Chat-Funktion zur schnellen Informationsbeschaffung
+- **Offline-Unterstützung**: PWA-Anwendung, unterstützt Offline-Zugriff
+- **Community-Kommentare**: GitHub-basiertes Kommentarsystem
 
-## 🤝 如何参与？
+## 🤝 Wie kann ich teilnehmen?
 
-THU Wiki 是一个开放的知识分享平台，我们欢迎所有清华学子参与贡献：
+THU Wiki ist eine offene Plattform zum Wissensaustausch. Wir heißen alle Tsinghua-Studenten herzlich willkommen, einen Beitrag zu leisten:
 
-1. **内容贡献**：提交新的文档和指南
-2. **问题反馈**：在 GitHub Issues 中报告问题
-3. **翻译帮助**：帮助翻译内容到其他语言
-4. **功能建议**：提出改进建议
+1. **Inhaltsbeiträge**: Neue Dokumentation und Leitfäden einreichen
+2. **Feedback zum Problem**: Melden Sie ein Problem in GitHub Issues
+3. **Übersetzungshilfe**: Helfen Sie bei der Übersetzung von Inhalten in andere Sprachen
+4. **Funktionsvorschläge**: Machen Sie Verbesserungsvorschläge
 
-访问我们的 [GitHub 仓库](https://github.com/thusns/thu-wiki) 了解更多详情！
+Besuchen Sie unser [GitHub-Repository](https://github.com/thusns/thu-wiki) für weitere Details!
 
 ---
 
-*让我们一起打造更好的清华校园知识库！*
+*Lassen Sie uns zusammenarbeiten, um eine bessere Wissensbasis auf dem Tsinghua-Campus aufzubauen! *

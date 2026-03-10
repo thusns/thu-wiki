@@ -1,94 +1,94 @@
 ---
 slug: course-selection-tips
-title: 选课攻略：如何选择适合你的课程
+title: Course selection guide: How to choose the course that suits you
 authors: [thu-contributor]
-tags: [选课, 学习, 攻略, 新生指南]
+tags: [Course selection, study, Strategy, New Student Guide]
 ---
 
-# 选课攻略：如何选择适合你的课程 📚
+# Course selection guide: How to choose a course that suits you 📚
 
-选课是每个学期的重要环节，好的选课策略能让你的大学生活更加充实和高效。本文将分享一些实用的选课技巧。
+Course selection is an important part of every semester. A good course selection strategy can make your college life more fulfilling and efficient. This article will share some practical course selection tips.
 
 <!-- truncate -->
 
-## 🎯 选课前准备
+## 🎯 Preparation before choosing a course
 
-### 1. 了解培养方案
-- 仔细阅读你所在专业的培养方案
-- 明确必修课、限选课和任选课的要求
-- 规划好四年的课程安排
+### 1. Understand the training plan
+- Read carefully the training program for your major
+- Clarify the requirements for compulsory courses, limited elective courses and optional courses
+- Plan the four-year course schedule
 
-### 2. 收集课程信息
-- **课程评价**：查看学长学姐的课程评价
-- **老师风格**：了解任课教师的教学特点
-- **课程难度**：评估自己的能力和兴趣
+### 2. Collect course information
+- **Course Evaluation**: View the course evaluations of senior students
+- **Teacher Style**: Understand the teaching characteristics of classroom teachers
+- **Course Difficulty**: Assess your own abilities and interests
 
-## 📋 选课策略
+## 📋 Course Selection Strategy
 
-### 学期负荷平衡
+### Semester load balancing
 ```
-建议课程搭配：
-- 2-3门专业核心课
-- 1-2门通识课程
-- 1门体育课/艺术课
-总学分控制在 15-18 分
+Suggested course combinations:
+- 2-3 professional core courses
+- 1-2 general courses
+- 1 physical education/art class
+Total credits are controlled at 15-18 points
 ```
 
-### 时间安排优化
-- **避免课程冲突**：检查上课时间是否重叠
-- **合理分布**：不要把课程全排在同一天
-- **预留时间**：为作业和复习留出充足时间
+### Time scheduling optimization
+- **Avoid course conflicts**: Check if class times overlap
+- **Reasonable Distribution**: Don’t schedule all courses on the same day
+- **Allow Time**: Leave enough time for homework and review
 
-## 🔍 课程选择建议
+## 🔍 Course selection suggestions
 
-### 必修课程
-- **优先选择**：每学期优先安排必修课
-- **难易搭配**：避免同时选择多门高难度课程
-- **提前规划**：某些课程有先修要求
+### Required courses
+- **Priority**: Priority is given to required courses each semester
+- **Difficulty and Easy Match**: Avoid choosing multiple difficult courses at the same time
+- **Plan Ahead**: Some courses have prerequisites
 
-### 选修课程
-- **兴趣导向**：选择感兴趣的领域
-- **技能提升**：考虑实用技能类课程
-- **学分要求**：确保满足毕业要求
+### Elective courses
+- **Interest-oriented**: Select areas of interest
+- **Skill Improvement**: Consider practical skills courses
+- **Credit Requirements**: Ensure graduation requirements are met
 
-## 💡 实用工具
+## 💡 Utility tools
 
-### 选课系统使用技巧
-1. **提前登录**：选课开始前测试系统
-2. **多浏览器**：准备备用浏览器
-3. **刷新频率**：适度刷新，避免系统卡顿
-4. **候补机制**：充分利用候补功能
+### Tips for using the course selection system
+1. **Early login**: Test the system before course selection begins
+2. **Multiple browsers**: Prepare backup browsers
+3. **Refresh frequency**: Moderate refresh to avoid system lags
+4. **Waiter Mechanism**: Make full use of the waiting function
 
-### 信息获取渠道
-- **官方网站**：教务处和院系网站
-- **学长学姐**：加入相关群组交流
-- **课程群**：关注课程相关的群组信息
+### Information acquisition channels
+- **Official website**: Academic Affairs Office and department websites
+- **Senior Sisters**: Join relevant groups to communicate
+- **Course Group**: Follow course-related group information
 
-## ⚠️ 常见误区
+## ⚠️ Common misunderstandings
 
-### 避免的选课误区
-1. **盲目跟风**：不要只因为别人选择就跟着选
-2. **过分追求轻松**：平衡学习收获和课程难度
-3. **忽视时间安排**：考虑通勤和其他活动时间
-4. **临时决定**：避免选课截止前匆忙决定
+### Misunderstandings in course selection to avoid
+1. **Blindly following the trend**: Don’t just follow others’ choices.
+2. **Excessive pursuit of ease**: Balance learning gains and course difficulty
+3. **Ignore Time**: Consider commuting and other activities
+4. **Temporary decision**: Avoid hasty decisions before the course selection deadline
 
-## 📅 选课时间节点
+## 📅 Course selection time node
 
-- **选课准备期**：提前2-3周开始准备
-- **正式选课**：按照学校安排的时间进行
-- **调课期**：利用调课时间优化课程安排
-- **试听期**：前两周可以试听和调整
+- **Course selection preparation period**: Start preparation 2-3 weeks in advance
+- **Formal course selection**: According to the time arranged by the school
+- **Class Adjustment Period**: Use the class adjustment time to optimize course arrangements
+- **Trial Period**: You can try and adjust in the first two weeks
 
-## 🎯 特殊课程建议
+## 🎯 Special course suggestions
 
-### 热门课程
-- **提前准备**：热门课程竞争激烈
-- **备选方案**：准备第二、第三选择
-- **关注通知**：及时关注加课信息
+### Popular courses
+- **Prepare in advance**: Competition for popular courses is fierce
+- **Alternatives**: Prepare second and third choices
+- **Follow Notification**: Pay attention to additional class information in a timely manner
 
-### 英文授课课程
-- **语言能力**：评估自己的英语水平
-- **专业相关性**：选择与专业相关的课程
-- **国际化视野**：有助于拓展国际视野
+### Courses taught in English
+- **Language Proficiency**: Evaluate your own English level
+- **Professional Relevance**: Choose courses related to your major
+- **International Perspective**: Helps expand international perspective
 
-记住，选课不仅是选择知识，更是选择成长的方向。希望每位同学都能选到心仪的课程，度过充实的学期！
+Remember, choosing courses is not only choosing knowledge, but also choosing the direction of growth. I hope that every student can choose the course of their choice and have a fulfilling semester!
