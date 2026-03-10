@@ -12,7 +12,7 @@ export default function swCustom(params) {
       [
         /graph\.thu\.wiki\/.*\/picture/,
         /vercel\.com\/img/,
-        /avatars1\.githubusercontent/,
+        /avatars\d*\.githubusercontent\.com/,
       ].some((regex) => context.url.href.match(regex)),
     new StaleWhileRevalidate(),
   );
