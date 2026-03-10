@@ -51,14 +51,23 @@ cd thu-wiki
 
 ### 3) Install dependencies
 
+Use **npm** (recommended) or **Bun**:
+
 ```bash
 npm install
+# or
+bun install
 ```
 
+> **Lockfiles:** This project uses npm as the primary package manager.  
+> Commit `package-lock.json`, but do **not** commit alternative lockfiles such as `bun.lockb` or `yarn.lock`.  
+> If you use Bun or Yarn locally, please remove their generated lockfiles before opening a pull request.
 ### 4) Start development server
 
 ```bash
-npm run build
+npm run start
+# or
+bun run start
 ```
 
 Then open:
