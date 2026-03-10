@@ -1,45 +1,45 @@
 ---
 slug: welcome-to-thu-wiki
-title: 欢迎来到 THU Wiki！
+title: Welcome to the THU Wiki!
 authors: [thuwiki-team]
-tags: [thu-wiki, 清华大学, 指南, 欢迎]
+tags: [thu-wiki, Tsinghua University, guide, welcome]
 ---
 
-# 欢迎来到 THU Wiki！
+# Welcome to THU Wiki!
 
-欢迎来到清华大学学生维基百科（THU Wiki）！这里是由清华大学学生网络服务团队（THU SNS）维护的知识分享平台，致力于为清华学子提供全面、实用的校园生活指南。
+Welcome to Tsinghua University Student Wiki (THU Wiki)! This is a knowledge sharing platform maintained by the Tsinghua University Student Network Service Team (THU SNS), which is dedicated to providing Tsinghua students with a comprehensive and practical guide to campus life.
 
 <!-- truncate -->
 
-## 📚 我们提供什么？
+## 📚 What do we offer?
 
-THU Wiki 涵盖了清华校园生活的各个方面：
+THU Wiki covers all aspects of Tsinghua campus life:
 
-- **🎓 学习相关**：选课指南、学术资源、自习场所推荐
-- **🏃‍♀️ 体育活动**：各类体育赛事、场馆介绍、活动规则
-- **🍽️ 校内外生活**：餐饮推荐、出行指南、办事流程
-- **🏛️ 校园文化**：历史景点、文化活动、社团介绍
-- **💻 THU Services**：校园服务、实用工具、网站汇总
+- **🎓 Study related**: course selection guide, academic resources, self-study venue recommendations
+- **🏃‍♀️Sports Activities**: Various sports events, venue introductions, event rules
+- **🍽️ Life on and off campus**: dining recommendations, travel guides, and service procedures
+- **🏛️Campus Culture**: Introduction to historical attractions, cultural activities, and societies
+- **💻 THU Services**: campus services, practical tools, website summary
 
-## 🌟 特色功能
+## 🌟 Features
 
-- **多语言支持**：支持中文、英文、日文等11种语言
-- **智能搜索**：基于 Algolia 的强大搜索功能
-- **AI 助手**：集成 AI 聊天功能，快速获取信息
-- **离线支持**：PWA 应用，支持离线访问
-- **社区评论**：基于 GitHub 的评论系统
+- **Multi-language support**: Supports 11 languages including Chinese, English, and Japanese
+- **Smart Search**: Powerful search capabilities based on Algolia
+- **AI Assistant**: Integrated AI chat function to quickly obtain information
+- **Offline support**: PWA application, supports offline access
+- **Community Comments**: GitHub-based comment system
 
-## 🤝 如何参与？
+## 🤝 How to participate?
 
-THU Wiki 是一个开放的知识分享平台，我们欢迎所有清华学子参与贡献：
+THU Wiki is an open knowledge sharing platform. We welcome all Tsinghua students to contribute:
 
-1. **内容贡献**：提交新的文档和指南
-2. **问题反馈**：在 GitHub Issues 中报告问题
-3. **翻译帮助**：帮助翻译内容到其他语言
-4. **功能建议**：提出改进建议
+1. **Content Contribution**: Submit new documentation and guides
+2. **Issue Feedback**: Report an issue in GitHub Issues
+3. **Translation Help**: Help translate content into other languages
+4. **Feature Suggestions**: Make suggestions for improvements
 
-访问我们的 [GitHub 仓库](https://github.com/thusns/thu-wiki) 了解更多详情！
+Visit our [GitHub repository](https://github.com/thusns/thu-wiki) for more details!
 
 ---
 
-*让我们一起打造更好的清华校园知识库！*
+*Let us work together to build a better Tsinghua campus knowledge base! *

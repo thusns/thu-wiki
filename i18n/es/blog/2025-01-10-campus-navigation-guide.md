@@ -1,59 +1,59 @@
 ---
 slug: campus-navigation-guide
-title: 清华校园导航指南
+title: Guía de navegación del campus de Tsinghua
 authors: [thu-contributor]
-tags: [校园导航, 交通, 新生指南]
+tags: [Navegación por el campus, transporte, Nueva guía para estudiantes]
 ---
 
-# 清华校园导航指南 🗺️
+# Guía de navegación del campus de Tsinghua 🗺️
 
-作为新生或者访客，在清华偌大的校园里找路可能会让人感到困惑。这篇指南将帮助你快速熟悉校园布局和交通方式。
+Como estudiante nuevo o visitante, orientarse en el enorme campus de Tsinghua puede resultar confuso. Esta guía lo ayudará a familiarizarse rápidamente con el diseño del campus y las opciones de transporte.
 
-<!-- truncate -->
+<!-- truncar -->
 
-## 🚌 校园交通
+## 🚌Transporte al campus
 
-### 校园巴士
-- **运行时间**：工作日 7:00-22:00，周末 8:00-21:00
-- **主要路线**：
-  - 环线：连接各主要教学区和生活区
-  - 直达线：紫荆公寓 ↔ 主楼区域
-- **站点标识**：蓝色校车站牌，有详细路线图
+### Autobús universitario
+- **Horario de funcionamiento**: de 7:00 a 22:00 de lunes a viernes, de 8:00 a 21:00 los fines de semana
+- **Rutas Principales**:
+  - Línea de circunvalación: conecta las principales zonas de enseñanza y zonas de estar.
+  - Línea directa: Apartamento Bauhinia ↔ Área del edificio principal
+- **Señal del sitio**: señal de stop escolar azul con mapa de ruta detallado
 
-### 自行车
-- **租赁点**：各主要建筑附近都有共享单车
-- **建议路线**：
-  - 从紫荆到教学区：沿主干道骑行约10-15分钟
-  - 校内景点游览：建议使用自行车，方便灵活
+### Bicicleta
+- **Punto de alquiler**: hay bicicletas compartidas cerca de cada edificio principal
+- **Ruta sugerida**:
+  - Desde Bauhinia hasta la zona de enseñanza: recorra la carretera principal durante unos 10-15 minutos.
+  - Recorrido por las atracciones del campus: se recomienda el uso de bicicletas por comodidad y flexibilidad.
 
-## 📍 重要地标
+## 📍 Hitos importantes
 
-### 教学区
-- **主楼**：行政中心，各院系办公室
-- **六教**：主要教学楼，大多数课程在此进行
-- **图书馆**：主要有老馆和新馆，24小时开放区域
+### Área de enseñanza
+- **Edificio Principal**: Centro administrativo, oficinas de cada departamento
+- **Sexta Enseñanza**: el edificio principal de enseñanza, donde se imparten la mayoría de los cursos.
+- **Biblioteca**: Hay principalmente bibliotecas antiguas y bibliotecas nuevas, con áreas abiertas las 24 horas.
 
-### 生活区
-- **紫荆公寓**：本科生宿舍区
-- **桃李园**：研究生宿舍区
-- **各食堂**：分布在校园各处，各有特色
+### Sala de estar
+- **Apartamento Zijing**: zona de dormitorios universitarios
+- **Taoliyuan**: zona de dormitorios para graduados
+- **Comedores**: distribuidos por todo el campus, cada uno con sus propias características
 
-### 体育设施
-- **西大操场**：田径场，各种体育活动举办地
-- **综合体育馆**：室内运动场馆
-- **游泳馆**：恒温游泳池
+### Instalaciones deportivas
+- **Western University Playground**: atletismo, sede para diversas actividades deportivas
+- **Complejo Deportivo**: recinto deportivo cubierto
+- **Piscina**: Piscina climatizada
 
-## 🎯 实用建议
+## 🎯 Consejos prácticos
 
-1. **下载清华校园 App**：有详细的校园地图和导航功能
-2. **记住关键路标**：如二校门、大礼堂等标志性建筑
-3. **携带校园卡**：进入某些区域需要刷卡
-4. **雨天准备**：校园较大，建议准备雨具
+1. **Descargue la aplicación Tsinghua Campus**: Tiene mapas detallados del campus y funciones de navegación.
+2. **Recuerde los puntos de referencia clave**: edificios emblemáticos como la puerta de la Segunda Escuela, el Gran Salón, etc.
+3. **Traiga su tarjeta del campus**: debe pasar su tarjeta para ingresar a ciertas áreas
+4. **Preparación para días de lluvia**: El campus es grande, por lo que se recomienda preparar ropa para la lluvia.
 
-## 📱 数字化工具
+## 📱 Herramientas digitales
 
-- **校园地图小程序**：微信搜索"清华校园"
-- **实时班车信息**：校园 App 中的班车板块
-- **室内导航**：主要建筑内都有指示标识
+- **Mini programa Campus Map**: busque "Campus de Tsinghua" en WeChat
+- **Información de traslado en tiempo real**: sección de traslado en autobús en la aplicación del campus
+- **Navegación Interior**: Hay señales en los edificios principales.
 
-希望这份指南能帮助你更好地在清华校园中穿行！如果你有其他问题，欢迎在评论区留言。
+¡Espero que esta guía te ayude a navegar mejor por el campus de Tsinghua! Si tiene otras preguntas, déjelas en el área de comentarios.
