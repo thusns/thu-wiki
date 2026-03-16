@@ -203,7 +203,7 @@ token=::114:514:1919:810
 
 那麼你的 `NetworkManager` 可能由於 tls 1.0 連接被禁用而連不上 `Tsinghua-Secure`，此時有以下兩種解決方法，任何一種都能解決：
 
-1.  升級 NetworkManager 到 `1.41.5-dev` 以上，準確的說是確保 [這個 commit](https://gitlab.freedesktop.org/NetworkManager/NetworkManager/-/commit/98dd4180ec163af63fe1e0fda00158ac7f0047df) 已經被包含。在上述設定檔的 `[802-1x]` 一節中加入一行 `phase1-auth-flags=32`（`NetworkManager` 中 `tls-1-0-enable` 此選項對應 `0x20`，換算成十進位是 `32`，這一換算關係目前沒有在文件裡記錄，所以不保證 32 這個數字總是有效 `32`，這個換算關係目前沒有在文件裡記錄，所以不保證 32 這個數字總是有效@ @ @ `tls-1-0-enable`）。
+1.  升級 NetworkManager 到 `1.41.5-dev` 以上，準確的說是確保 [這個 commit](https://gitlab.freedesktop.org/NetworkManager/NetworkManager/-/commit/98dd4180ec163af63fe1e0fda00158ac7f0047df) 已經被包含。在上述設定檔的 `[802-1x]` 一節中加入一行 `phase1-auth-flags=32`（`NetworkManager` 中 `tls-1-0-enable` 此選項對應 `0x20`，換算成十進位是 `32`，這一換算關係目前沒有在文件裡記錄，所以不保證 32 這個數字總是有效。更能保證有效的方法是手動用 `nmcli` 在 `Tsinghua-Secure` 中將 `802-1x.phase1-auth-flags` 設置為 `tls-1-0-enable`）。
 1.  給自己的 `wpa_supplicant` 打上前面提到的 patch。
 
 #### wpa_supplicant
