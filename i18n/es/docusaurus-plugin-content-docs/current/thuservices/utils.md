@@ -7,14 +7,14 @@ Con el espíritu de utilizar ruedas en lugar de fabricar ruedas, generaciones de
 | Enlaces del proyecto | Plataformas compatibles | Idiomas de implementación | Actualmente disponible (mantenido) | Características |
 | --- | --- | --- | --- | --- |
 | [Tunet-2018 (oficial)](https://its.tsinghua.edu.cn/xywl/xywsyzn/yxw_hkhd_/khdxz.htm) | GUI de Windows, CLI de Linux | Desconocido | Disponible | No investigado |
-| [GoAuthing](https://github.com/z4yx/GoAuthing/) | Linux-CLI (x86\_64, arm, mips, ppc, riscv), Windows-CLI, Mac OS-CLI (Intel, Apple) | Ir | Disponible | Plataforma completa y arquitectura completa, acceso y acceso, v4 y v6, servicio systemd, TUNA proporciona [espejo] (https://mirrors.tuna.tsinghua.edu.cn/github-release/z4yx/GoAuthing/LatestRelease/) para descargar herramientas de autenticación cuando no está autenticado y proporciona bibliotecas relacionadas con la autenticación |
+| [GoAuthing](https://github.com/z4yx/GoAuthing/) | Linux-CLI (x86\_64, arm, mips, ppc, riscv), Windows-CLI, Mac OS-CLI (Intel, Apple) | Ir | Disponible | Plataforma completa y arquitectura completa, acceso y acceso, v4 y v6, servicio systemd, TUNA proporciona [espejo](https://mirrors.tuna.tsinghua.edu.cn/github-release/z4yx/GoAuthing/LatestRelease/) para descargar herramientas de autenticación cuando no está autenticado y proporciona bibliotecas relacionadas con la autenticación |
 | [tunet-python](https://github.com/yuantailing/tunet-python) | Plataforma que soporta python, CLI | Pitón | Disponible | v4 y v6, admisión y salida, tráfico y monitoreo del estado de admisión y salida |
 | [tunet-c](https://github.com/robertying/tunet-c) | OpenWRT, Linux, MacOS; CLI | C | Disponible | Proporciona bibliotecas relacionadas con la autenticación, los archivos binarios son pequeños |
-| [tunet-óxido] (https://github.com/Berrysoft/tunet-rust) | Windows, Mac OS, Linux, Android, iOS | Óxido, dardo | Disponible | Monitoreo de tránsito y saldo, admisión y salida, v4 y v6; proporciona bibliotecas relacionadas con la autenticación; proporciona CLI, CUI, GUI, servicio de Windows, servicio systemd, servicio launchd en el escritorio; proporciona GUI en el terminal móvil |
+| [tunet-óxido](https://github.com/Berrysoft/tunet-rust) | Windows, Mac OS, Linux, Android, iOS | Óxido, dardo | Disponible | Monitoreo de tránsito y saldo, admisión y salida, v4 y v6; proporciona bibliotecas relacionadas con la autenticación; proporciona CLI, CUI, GUI, servicio de Windows, servicio systemd, servicio launchd en el escritorio; proporciona GUI en el terminal móvil |
 | [TsinghuaTunet](https://github.com/WhymustIhaveaname/TsinghuaTunet) | Plataformas que soportan python, CLI | Pitón | Disponible para subredes específicas | No investigado |
 | [auth-tsinghua](https://github.com/jiegec/auth-tsinghua) | Soporte para plataforma node.js, CLI | JavaScript | Ya no se mantiene | Redirigido a GoAuthing |
 | [TsinghuaNet](https://github.com/Berrysoft/TsinghuaNet) | Windows, Mac OS, Linux, UWP, Android, iOS | C# | Ya no se mantiene | Redirigido a tunet-rust |
-| [tunet-cli] (https://github.com/syimyuzya/tunet-cli) | Plataforma que soporta python, CLI | Pitón | Ya no se mantiene, última confirmación en 2017 | No investigado |
+| [tunet-cli](https://github.com/syimyuzya/tunet-cli) | Plataforma que soporta python, CLI | Pitón | Ya no se mantiene, última confirmación en 2017 | No investigado |
 | [Tsinghua-Online](https://github.com/xxr3376/Tsinghua-Online) | Complemento del navegador, en [Chrome Store](https://chrome.google.com/webstore/detail/tsinghua-online/elkbekfdkihpbcbacmppemegcekohkjo) | JavaScript | Ya no se mantiene, última confirmación en 2013 | Complemento del navegador |
 | [THUNed](https://github.com/zhaofeng-shu33/THUNetwork) | Admite plataforma Python, CLI | Pitón | Ya no se mantiene | La contraseña se pasa a la línea de comando en texto claro, lo cual es relativamente inseguro |
 
@@ -223,7 +223,7 @@ La dirección del proyecto es [aquí](https://github.com/i207M/reserves-lib-tsin
 
 ### Academia Wenquan
 
-Wenquan Xuetang se utiliza para buscar libros en Tsinghua University Press. El anti-rastreo es estricto. Puede utilizar [este] script (https://greasyfork.org/zh-CN/scripts/437737-%E6%96%87%E6%B3%89%E5%AD%A6%E5%A0%82pdf%E4%B8%8B%E8%BD%BD%E4%BF%AE%E5%A4%8D%E7%89%88) para descargarlo.
+Wenquan Xuetang se utiliza para buscar libros en Tsinghua University Press. El anti-rastreo es estricto. Puede utilizar [este script](https://greasyfork.org/zh-CN/scripts/437737-%E6%96%87%E6%B3%89%E5%AD%A6%E5%A0%82pdf%E4%B8%8B%E8%BD%BD%E4%BF%AE%E5%A4%8D%E7%89%88) para descargarlo.
 
 ## Compartir la ubicación del curso
 
@@ -231,11 +231,11 @@ Actualmente disponible: [plan de intercambio de información del curso CourseX](
 
 Actualmente los siguientes proyectos han cesado en mantenimiento y operación:
 
-En [https://wmcgcdn.rika.tech/](https://wmcgcdn.rika.tech/), la dirección de su proyecto es [this](https://github.com/RikaKagurasaka/where-my-course-gone-backend).
+En [https://wmcgcdn.rika.tech/](https://wmcgcdn.rika.tech/), la dirección de su proyecto es [aquí](https://github.com/RikaKagurasaka/where-my-course-gone-backend).
 
 ## Marca de registro (para billetes de tren)
 
-Consulte [este sitio web] (https://tuixue.online/zcimage/) para obtener calificaciones de registro relevantes cuando esté fuera de la escuela.
+Consulte [este sitio web](https://tuixue.online/zcimage/) para obtener calificaciones de registro relevantes cuando esté fuera de la escuela.
 
 ## Consulta de factura de electricidad del dormitorio.
 

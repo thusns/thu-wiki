@@ -116,7 +116,7 @@ Inicie el servicio correspondiente para lograr el propósito de autenticación a
 
 Si desea implementar la admisión automática de `v6`, consulte `goauthing6.service` y `goauthing6@.service`. Si solo desea la admisión automática v4, debe cambiar `auth` en `goauthing.service` a `auth -C` y eliminar la línea `login`.
 
-Si alguien empaqueta esto, por favor PR. Actualmente hay paquetes `auth-thu-bin` en AUR (@los paquetes @1@@ están obsoletos).
+Si alguien empaqueta esto, por favor PR. Actualmente hay paquetes `auth-thu-bin` en AUR (el paquete `auth-thu` está obsoleto).
 
 ### Autenticación de servidor remoto
 

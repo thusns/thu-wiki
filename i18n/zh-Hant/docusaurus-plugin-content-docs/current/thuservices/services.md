@@ -203,7 +203,7 @@ token=::114:514:1919:810
 
 那麼你的 `NetworkManager` 可能由於 tls 1.0 連接被禁用而連不上 `Tsinghua-Secure`，此時有以下兩種解決方法，任何一種都能解決：
 
-1.  升級 NetworkManager 到 `1.41.5-dev` 以上，準確的說是確保 [這個 commit](https://gitlab.freedesktop.org/NetworkManager/NetworkManager/-/commit/98dd4180ec163af63fe1e0fda00158ac7f0047df) 已經被包含。在上述設定檔的 `[802-1x]` 一節中加入一行 `phase1-auth-flags=32`（`NetworkManager` 中 `tls-1-0-enable` 此選項對應 `0x20`，換算成十進位是 `32`，這一換算關係目前沒有在文件裡記錄，所以不保證 32 這個數字總是有效 `32`，這個換算關係目前沒有在文件裡記錄，所以不保證 32 這個數字總是有效@ @ @ `tls-1-0-enable`）。
+1.  升級 NetworkManager 到 `1.41.5-dev` 以上，準確的說是確保 [這個 commit](https://gitlab.freedesktop.org/NetworkManager/NetworkManager/-/commit/98dd4180ec163af63fe1e0fda00158ac7f0047df) 已經被包含。在上述設定檔的 `[802-1x]` 一節中加入一行 `phase1-auth-flags=32`（`NetworkManager` 中 `tls-1-0-enable` 此選項對應 `0x20`，換算成十進位是 `32`，這一換算關係目前沒有在文件裡記錄，所以不保證 32 這個數字總是有效。更能保證有效的方法是手動用 `nmcli` 設定 `Tsinghua-Secure` 中設定 `802-1x.phase1-auth-flags` 為 `tls-1-0-enable`）。
 1.  給自己的 `wpa_supplicant` 打上前面提到的 patch。
 
 #### wpa_supplicant
@@ -449,7 +449,7 @@ pacman -S seafile-client
 
 ### 使用 Terminal 客戶端
 
-Terminal 用戶端在 8.0.4 版本後以後支援使用 Token 進行同步，你可以在 [install_linux_client](https://help.seafile.com/syncing_client/install_linux_client/) 中找到大部分發行版 AMD64 架構的來源，如果你所使用的套件管理器中 `seafile` 或 `seafile-cli` 版本號低於 `8.0.4`2@2@2.
+Terminal 用戶端在 8.0.4 版本後以後支援使用 Token 進行同步，你可以在 [install_linux_client](https://help.seafile.com/syncing_client/install_linux_client/) 中找到大部分發行版 AMD64 架構的來源，如果你所使用的套件管理器中 `seafile` 或 `seafile-cli` 版本號低於 `8.0.4`，可以安裝並參考後面替換部分文件的方法，也可以直接手動編譯最新版。
 
 #### 獲取 Token
 

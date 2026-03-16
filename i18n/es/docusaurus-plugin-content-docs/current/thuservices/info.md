@@ -99,7 +99,7 @@ Para conocer el estado de operación de los autobuses escolares en tiempo real, 
 
 ## Sistema de cuestionarios de la Universidad de Tsinghua
 
-[Sistema de cuestionarios de la Universidad de Tsinghua] (https://wenjuan.tsinghua.edu.cn)
+[Sistema de cuestionarios de la Universidad de Tsinghua](https://wenjuan.tsinghua.edu.cn)
 
 ## Código Tsinghua Bauhinia
 
