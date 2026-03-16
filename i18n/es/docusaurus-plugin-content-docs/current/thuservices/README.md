@@ -1,18 +1,15 @@
----
-
----
 # Información común/Resumen de servicios de Tsinghua
 
 ## Entrada de selección rápida de cursos.
 
-__JUE_WIKI_TOKEN_0__
+[Inicio de sesión de selección de cursos (en el campus o SSLVPN) (válido durante el período de selección de cursos)](http://zhjwxk.cic.tsinghua.edu.cn/xklogin.do)
 
 ## Contenido del archivo
-- __JUE_WIKI_TOKEN_0__
+- [cuentas.md](accounts.md)
     - cuentas publicas
         - cuenta pública de wechat
         - Zhihu
-- __JUE_WIKI_TOKEN_0__
+- [info.md](info.md)
     - INFO recopilación de información importante
         - Calendario Escolar
             - año escolar 2022-2023
@@ -51,7 +48,7 @@ __JUE_WIKI_TOKEN_0__
         - LibGuides en la Universidad de Tsinghua
         - tiempos frescos
         - Número de personas que entran en cada comedor
-- __JUE_WIKI_TOKEN_0__
+- [servicios.md](services.md)
     - Guía de uso del servicio Tsinghua (principalmente para usuarios de Linux)
         - DNS/NTP
         - SSLVPN
@@ -94,7 +91,7 @@ __JUE_WIKI_TOKEN_0__
             - ES
             - ATÚN
         - Segmento IP en el campus
-- __JUE_WIKI_TOKEN_0__
+- [plantillas.md](templates.md)
     - LaTeX y otras plantillas
         - Apuntes de conferencias sobre "Cómo utilizar LaTeX para dar formato a artículos"
         - Tesis
@@ -111,7 +108,7 @@ __JUE_WIKI_TOKEN_0__
         - Plantilla-CV-tsinghua
         - Plantilla-LaTeX-examen-JUE
         - ilatex
-- __JUE_WIKI_TOKEN_0__
+- [utils.md](utils.md)
     - algunos scripts y herramientas
         - Resumen de las herramientas de autenticación de la red del campus
         - INFORMACIÓN/APLICACIÓN de escuela en línea/Plug-in
@@ -156,7 +153,7 @@ __JUE_WIKI_TOKEN_0__
         - copia de seguridad de la base de datos de Thuhole
         - Documento de orientación de habilidades de la Asociación de Ciencias Estudiantiles del Departamento de Computación
         - Rastreador del sistema de práctica social de estudiantes graduados de la Universidad de Tsinghua
-- __JUE_WIKI_TOKEN_0__
+- [sitios web.md](websites.md)
     - Sitios web fuera del campus de uso común
         - jue.servicios
         - T Dashu Dong
@@ -172,9 +169,9 @@ __JUE_WIKI_TOKEN_0__
 
 ¡Bienvenidos aportes! ¡Por favor [PR](https://github.com/ZenithalHourlyRate/thuservices/pulls)!
 
-Cabe señalar que [pre-commit hook](https://github.com/ZenithalHourlyRate/thuservices/blob/master/pre-commit) se usa en [本 repo](https://github.com/ZenithalHourlyRate/thuservices), por favor [安装](https://git-scm.com/book/zh/v2/%E8%87%AA%E5%AE%9A%E4%B9%89-Git-Git-%E9%92%A9%E5%AD%90) y confirme en un entorno con bash y python3.
+Cabe señalar que [gancho de confirmación previa](https://github.com/ZenithalHourlyRate/thuservices/blob/master/pre-commit) se usa en [este repositorio](https://github.com/ZenithalHourlyRate/thuservices), [instale](https://git-scm.com/book/zh/v2/%E8%87%AA%E5%AE%9A%E4%B9%89-Git-Git-%E9%92%A9%E5%AD%90) y confirme en un entorno con bash y python3.
 
-Bajo la acción del gancho de confirmación previa, README.md se genera automáticamente, por lo que si necesita modificarlo en README.md, hágalo en [aux 文件夹](https://github.com/ZenithalHourlyRate/thuservices/tree/master/aux).
+Bajo la acción del gancho de confirmación previa, README.md se genera automáticamente, por lo que si necesita modificarlo en README.md, hágalo en [carpeta auxiliar](https://github.com/ZenithalHourlyRate/thuservices/tree/master/aux).
 
 Debido a las limitaciones del sistema de archivos de Windows, el nombre de la carpeta no puede ser aux. Clone el proyecto en un entorno que no sea Windows (WSL también está disponible).
 

@@ -1,6 +1,3 @@
----
-
----
 # algunos scripts y herramientas
 
 ## Resumen de las herramientas de autenticación de la red del campus
@@ -9,17 +6,17 @@ Con el espíritu de utilizar ruedas en lugar de fabricar ruedas, generaciones de
 
 | Enlaces del proyecto | Plataformas compatibles | Idiomas de implementación | Actualmente disponible (mantenido) | Características |
 | --- | --- | --- | --- | --- |
-| __JUE_WIKI_TOKEN_0__ | GUI de Windows, CLI de Linux | Desconocido | Disponible | No investigado |
-| __JUE_WIKI_TOKEN_0__ | Linux-CLI (x86\_64, arm, mips, ppc, riscv), Windows-CLI, Mac OS-CLI (Intel, Apple) | Ir | Disponible | Plataforma completa y arquitectura completa, acceso y acceso, v4 y v6, servicio systemd, TUNA Proporciona [镜像](https://mirrors.tuna.tsinghua.edu.cn/github-release/z4yx/GoAuthing/LatestRelease/) para descargar herramientas de autenticación cuando no está autenticado y proporciona bibliotecas relacionadas con la autenticación |
-| __JUE_WIKI_TOKEN_0__ | Plataforma que soporta python, CLI | Pitón | Disponible | v4 y v6, admisión y salida, monitoreo de estado de tráfico y admisión |
-| __JUE_WIKI_TOKEN_0__ | OpenWRT, Linux, MacOS; CLI | C | Disponible | Proporciona bibliotecas relacionadas con la autenticación, los archivos binarios son pequeños |
-| __JUE_WIKI_TOKEN_0__ | Windows, Mac OS, Linux, Android, iOS | Óxido, dardo | Disponible | Monitoreo de tránsito y saldo, admisión y salida, v4 y v6; proporciona bibliotecas relacionadas con la autenticación; proporciona CLI, CUI, GUI, servicio de Windows, servicio systemd, servicio launchd en el escritorio; proporciona GUI en el terminal móvil |
-| __JUE_WIKI_TOKEN_0__ | Plataformas que soportan python, CLI | Pitón | Disponible en subredes específicas | No investigado |
-| __JUE_WIKI_TOKEN_0__ | Compatible con plataformas node.js, CLI | JavaScript | Ya no se mantiene | Redirigido a GoAuthing |
-| __JUE_WIKI_TOKEN_0__ | Windows, Mac OS, Linux, UWP, Android, iOS | C# | Ya no se mantiene | Redirigido a tunet-rust |
-| __JUE_WIKI_TOKEN_0__ | Plataforma que soporta python, CLI | Pitón | Ya no se mantiene, última confirmación en 2017 | No investigado |
-| __JUE_WIKI_TOKEN_0__ | Complemento del navegador, en [Chrome 商店](https://chrome.google.com/webstore/detail/tsinghua-online/elkbekfdkihpbcbacmppemegcekohkjo) | JavaScript | Ya no se mantiene, última confirmación en 2013 | Complemento del navegador |
-| __JUE_WIKI_TOKEN_0__ | Admite plataforma Python, CLI | Pitón | Ya no se mantiene | La contraseña se pasa a la línea de comando en texto claro, lo cual es relativamente inseguro |
+| [Tunet-2018 (oficial)](https://its.tsinghua.edu.cn/xywl/xywsyzn/yxw_hkhd_/khdxz.htm) | GUI de Windows, CLI de Linux | Desconocido | Disponible | No investigado |
+| [GoAuthing](https://github.com/z4yx/GoAuthing/) | Linux-CLI (x86\_64, arm, mips, ppc, riscv), Windows-CLI, Mac OS-CLI (Intel, Apple) | Ir | Disponible | Plataforma completa y arquitectura completa, acceso y acceso, v4 y v6, servicio systemd, TUNA proporciona [espejo] (https://mirrors.tuna.tsinghua.edu.cn/github-release/z4yx/GoAuthing/LatestRelease/) para descargar herramientas de autenticación cuando no está autenticado y proporciona bibliotecas relacionadas con la autenticación |
+| [tunet-python](https://github.com/yuantailing/tunet-python) | Plataforma que soporta python, CLI | Pitón | Disponible | v4 y v6, admisión y salida, tráfico y monitoreo del estado de admisión y salida |
+| [tunet-c](https://github.com/robertying/tunet-c) | OpenWRT, Linux, MacOS; CLI | C | Disponible | Proporciona bibliotecas relacionadas con la autenticación, los archivos binarios son pequeños |
+| [tunet-óxido] (https://github.com/Berrysoft/tunet-rust) | Windows, Mac OS, Linux, Android, iOS | Óxido, dardo | Disponible | Monitoreo de tránsito y saldo, admisión y salida, v4 y v6; proporciona bibliotecas relacionadas con la autenticación; proporciona CLI, CUI, GUI, servicio de Windows, servicio systemd, servicio launchd en el escritorio; proporciona GUI en el terminal móvil |
+| [TsinghuaTunet](https://github.com/WhymustIhaveaname/TsinghuaTunet) | Plataformas que soportan python, CLI | Pitón | Disponible para subredes específicas | No investigado |
+| [auth-tsinghua](https://github.com/jiegec/auth-tsinghua) | Soporte para plataforma node.js, CLI | JavaScript | Ya no se mantiene | Redirigido a GoAuthing |
+| [TsinghuaNet](https://github.com/Berrysoft/TsinghuaNet) | Windows, Mac OS, Linux, UWP, Android, iOS | C# | Ya no se mantiene | Redirigido a tunet-rust |
+| [tunet-cli] (https://github.com/syimyuzya/tunet-cli) | Plataforma que soporta python, CLI | Pitón | Ya no se mantiene, última confirmación en 2017 | No investigado |
+| [Tsinghua-Online](https://github.com/xxr3376/Tsinghua-Online) | Complemento del navegador, en [Chrome Store](https://chrome.google.com/webstore/detail/tsinghua-online/elkbekfdkihpbcbacmppemegcekohkjo) | JavaScript | Ya no se mantiene, última confirmación en 2013 | Complemento del navegador |
+| [THUNed](https://github.com/zhaofeng-shu33/THUNetwork) | Admite plataforma Python, CLI | Pitón | Ya no se mantiene | La contraseña se pasa a la línea de comando en texto claro, lo cual es relativamente inseguro |
 
 ## INFORMACIÓN/APLICACIÓN de escuela en línea/Plug-in
 
@@ -27,15 +24,15 @@ Con el espíritu de utilizar ruedas en lugar de fabricar ruedas, generaciones de
 
 | Enlaces del proyecto | Plataformas compatibles | Idiomas de implementación | Actualmente disponible (mantenido) | Características |
 | --- | --- | --- | --- | --- |
-| __JUE_WIKI_TOKEN_0__ | Página web | No investigado | Disponible | Página web oficial |
-| __JUE_WIKI_TOKEN_0__ | Página web | No investigado | Disponible | Página web oficial |
-| __JUE_WIKI_TOKEN_0__ | Complementos del navegador | Texto mecanografiado | Disponible | Proyectos escolares en línea ordenados por cronograma y categoría, en las tiendas de complementos de Google, Firefox y Edge, interfaz moderna |
-| __JUE_WIKI_TOKEN_0__ | iOS, iPad OS, macOS, Android | Reaccionar | Disponible | Licencia de código abierto del proyecto, consulte la introducción del proyecto para el resto |
-| __JUE_WIKI_TOKEN_0__ | APLICACIÓN Móvil | Texto mecanografiado | Disponible | Con distribución de Apple App Store, incluido el hogar, el departamento de estudiantes (aula), proyectos de biblioteca, soportes para huecos de árboles |
-| En Tsinghua | APLICACIÓN Móvil | Desconocido | Desconocido | Distribuida por la App Store de Apple, el resto no ha sido investigado, es un trabajo para la celebración del campus de cierto laboratorio |
-| __JUE_WIKI_TOKEN_0__ | Plataforma que soporta Python | Pitón | Disponible | Verdadera información completa/descarga de archivos (consulte la introducción del proyecto para obtener más detalles) |
-| __JUE_WIKI_TOKEN_0__ | Androide | Kotlin | Desconocido | Horario del curso |
-| __JUE_WIKI_TOKEN_0__ | Linux, Mac, Windows | Pitón | Disponible | Archivos de cursos presenciales en línea y descargas de tareas con una hermosa interfaz (consulte los documentos del proyecto para obtener más detalles) |
+| [INFORMACIÓN](http://info.tsinghua.edu.cn/) | Página web | No investigado | Disponible | Página web oficial |
+| [APRENDER](http://learn.tsinghua.edu.cn/) | Página web | No investigado | Disponible | Página web oficial |
+| [Proyecto de aprendizaje](https://github.com/xxr3376/Learn-Project) | Complementos del navegador | Texto mecanografiado | Disponible | Proyectos escolares en línea ordenados por cronograma y categoría, en las tiendas de complementos de Google, Firefox y Edge, interfaz moderna |
+| [AprendeX](https://github.com/robertying/learnX) | iOS, iPad OS, macOS, Android | Reaccionar | Disponible | Licencia de código abierto del proyecto, consulte la introducción del proyecto para el resto |
+| [JUEInfo](https://github.com/UNIDY2002/THUInfo) | APLICACIÓN Móvil | Texto mecanografiado | Disponible | Distribuido por Apple App Store, incluido el hogar, el departamento de estudiantes (aula), proyectos de biblioteca, soportes para huecos de árboles |
+| En Tsinghua | APLICACIÓN Móvil | Desconocido | Desconocido | Distribuida por la App Store de Apple, el resto no ha sido investigado, es un trabajo para la celebración del campus de un laboratorio |
+| [aprender2018-autodown](https://github.com/Trinkle23897/learn2018-autodown) | Plataforma que soporta Python | Pitón | Disponible | Verdadera información completa/descarga de archivos (consulte la introducción del proyecto para obtener más detalles) |
+| [THUCourseHelper](https://github.com/Starrah/THUCourseHelper) | Androide | Kotlin | Desconocido | Horario del curso |
+| [jueves-aprender-descargador](https://github.com/liblaf/thu-learn-downloader) | Linux, Mac, Windows | Pitón | Disponible | Archivos de cursos escolares en línea y descargas de tareas con una hermosa interfaz (consulte la documentación del proyecto para obtener más detalles) |
 
 ## Bandera de conflicto de selección de cursos
 
@@ -51,13 +48,13 @@ Al mismo tiempo, no puede funcionar en la interfaz de consulta de información d
 
 Este script está en aux/TsinghuaCourseConflictMarker.user.js y debe instalarse utilizando Oil Monkey.
 
-O puedes acceder visitando [这里](https://greasyfork.org/en/scripts/408340-tsinghuacourseconflictmarker)
+O puedes visitar [aquí](https://greasyfork.org/en/scripts/408340-tsinghuacourseconflictmarker)
 Ven y obtén el guión con un clic.
 
 Ahora se ha agregado soporte para Webvpn.
 
-Gracias a [CircuitCoder](https://github.com/CircuitCoder) por su orientación técnica.
-Gracias a [SharzyL](https://github.com/SharzyL) por las sugerencias y DEBUG.
+Gracias a [CircuitCoder](https://github.com/CircuitCoder) por brindar orientación técnica.
+Gracias a [SharzyL](https://github.com/SharzyL) por las sugerencias y DEBUG
 
 ## Marca de contenido del curso restante para la selección del curso
 
@@ -68,14 +65,14 @@ Este script colorea el número de solicitantes. ¡El último color verde es el m
 
 ¡El guión aún está en desarrollo y pronto habrá soporte para colas!
 
-Visita [这里](https://greasyfork.org/en/scripts/456440-colorful-course) para obtener el guión.
+Visita [aquí](https://greasyfork.org/en/scripts/456440-colorful-course) para obtener el guión.
 
 ## Información push de mensajes de telegramas escolares en línea
 
 Ver [thu-weblearn-tgbot](https://github.com/Konano/thu-weblearn-tgbot) y
-__JUE_WIKI_TOKEN_0__.
+[jueves-reenviador de información] (https://github.com/Konano/thu-info-forwarder).
 
-JUE CANAL DE INFORMACIÓN ya existe en Telegram. Como es un canal privado, debes pasar [邮件](mailto:i@zenithal.me)
+JUE CANAL DE INFORMACIÓN ya existe en Telegram. Como es un canal privado, debes enviarlo por [correo electrónico](mailto:i@zenithal.me)
 Obtenga el enlace de invitación.
 
 ## Estado de la lavadora en toda la escuela
@@ -96,14 +93,14 @@ También puedes consultar el estado de la lavadora en el subprograma del fabrica
 
 La entrada es el botón "Lavadora cercana" en la parte inferior de la página de inicio.
 
-![“自助智能校园”小程序码](pathname:///docs/thuservices/image/washer_official.jpg)
+![“自助智能校园”小程序码](image/washer_official.jpg)
 
 ### Estado de la lavadora en toda la escuela: interfaz API (versión de texto, obsoleta)
 
 ¿Sigues trabajando duro para conseguir una lavadora? ¿Sigues sufriendo por correr de un lado a otro sólo para descubrir que no hay lavadora? este servicio
 ¡Ayudarte a detectar el estado de la lavadora, y conocer las tendencias de las lavadoras de todo el colegio con un clic sin salir de casa!
 
-El código fuente está en el directorio aux del repositorio. Actualmente desplegado en trabajadores de cf en [https://washer.thu.services](https://washer.thu.services)
+El código fuente está en el directorio aux del repositorio. Actualmente desplegado en trabajadores de cf en [https://washer.thu.services](@@0@@)
 
 Para implementar la búsqueda, necesitamos agregar parámetros. Actualmente acepta tres parámetros, "s", "j" y "p". "s" es la búsqueda
 Para edificios de apartamentos, las cadenas generalmente aceptadas son "Edificio x, Bauhinia" o "Edificio x, Distrito Sur". Por ejemplo
@@ -123,23 +120,23 @@ Los parámetros "s" y "p" se pueden utilizar al mismo tiempo. Cuando "j" y "p" a
 
 ### Estado de la lavadora en toda la escuela: acceso directo de iOS (no disponible)
 
-Los usuarios con iOS 12 o superior pueden instalar el acceso directo a través de este [链接](https://www.icloud.com/shortcuts/ffc9d9fff7e140ec9e5a92e5f7d16ae0) para verificar rápidamente la lavadora inactiva. Actualmente, solo se admiten consultas precisas de pisos.
+Los usuarios con iOS 12 o superior pueden instalar un acceso directo a través de este [enlace](https://www.icloud.com/shortcuts/ffc9d9fff7e140ec9e5a92e5f7d16ae0) para verificar rápidamente la lavadora inactiva. Actualmente, solo se admiten consultas precisas de pisos.
 
 ### Estado de la lavadora en toda la escuela - Telegram Bot Erha (no disponible)
 
-Basado en esta interfaz [Konano](https://github.com/Konano), se desarrolló un Telegram Bot llamado Erha.
+Basado en esta interfaz, [Konano] (https://github.com/Konano) desarrolló un Telegram Bot llamado Erha.
 
-La dirección del proyecto es [此](https://github.com/Konano/Tuna-Erha-Bot). Además de la función de consulta del estado de la lavadora, existen más funciones.
+La dirección del proyecto es [aquí](https://github.com/Konano/Tuna-Erha-Bot). Además de la función de consulta del estado de la lavadora, existen más funciones.
 
 Se puede acceder al bot a través de [t.me/erhabot](https://t.me/erhabot).
 
 ### Monitoreo y recordatorio de lavandería: subprograma WeChat (no disponible)
 
-![THU洗衣](pathname:///docs/thuservices/image/washer.jpg)
+![THU洗衣](image/washer.jpg)
 
 Usando la misma API, después de prestar atención a la lavadora, cuando la lavadora esté inactiva, se enviará un recordatorio a través de la cuenta del servicio WeChat.
 
-__JUE_WIKI_TOKEN_0__
+[Dirección del proyecto](https://github.com/zrt/thu-wash-notify)
 
 ## INFORMACIÓN Calculadora de GPA
 
@@ -155,60 +152,60 @@ Este script solo leerá los resultados que existen en la interfaz "INFO-Todos lo
 Obtenido a través de cksqs o expedientes académicos pagados, no incluidos en el cálculo), utilice los algoritmos nuevos y antiguos para combinar todo el GPA y el GPA requerido.
 Calcúlelo (emita el doble directamente) y muestre un recordatorio de notificación.
 
-Este script está en `aux/Tsinghua GPA Calculator.user.js` y debe instalarse mediante Oil Monkey.
+Este script está en `aux/Tsinghua GPA Calculator.user.js` y debe instalarse usando Greasemonkey.
 
-O a través de [这里](https://greasyfork.org/zh-CN/scripts/410960-tsinghua-gpa-calculator)
+O a través de [aquí](https://greasyfork.org/zh-CN/scripts/410960-tsinghua-gpa-calculator)
 Llegar.
 
 ## Consulta de GPA de la Universidad de Tsinghua
 
 Consulte la sección anterior para obtener una introducción.
 
-Calcule el GPA para cada semestre y las calificaciones totales requeridas y requeridas en la página "INFO-Todas las calificaciones". La dirección del script es [此](https://greasyfork.org/zh-CN/scripts/420540-清华大学gpa查询)
+Calcule el GPA para cada semestre y las calificaciones totales requeridas y requeridas en la página "INFO-Todas las calificaciones". La dirección del script es [aquí](https://greasyfork.org/zh-CN/scripts/420540-清华大学gpa查询)
 
 ## Ayudante de aula de lluvia
 
 Este script de usuario está diseñado para brindar una mejor experiencia de usuario a los estudiantes de Rain Classroom en dispositivos de pantalla grande (PC, tableta).
 
-La dirección del proyecto es [此](https://github.com/RainEggplant/rain-classroom-helper)
+La dirección del proyecto es [aquí](https://github.com/RainEggplant/rain-classroom-helper)
 
 ## Reproducción automática de vídeo de plataforma integrada de la Universidad de Tsinghua
 
-El guión está en [此](https://github.com/Co1lin/Tsinghua-Yukuotang-Autoplay) y puede reproducir automáticamente el vídeo del curso en [tsinghua.yuketang.cn](https://github.com/Co1lin/Tsinghua-Yukuotang-Autoplay/blob/main/tsinghua.yuketang.cn).
+El guión está [aquí](https://github.com/Co1lin/Tsinghua-Yukuotang-Autoplay), que puede reproducir automáticamente el vídeo del curso en [tsinghua.yuketang.cn](https://github.com/Co1lin/Tsinghua-Yukuotang-Autoplay/blob/main/tsinghua.yuketang.cn).
 
 ## El video en línea de Xuetang se reproduce automáticamente
 
 ¿Compruebas a menudo si se ha detenido cuando estás estudiando MOOC en segundo plano? ¡Un guión reproducirá automáticamente la siguiente lección!
 
-El guión está en [此](https://greasyfork.org/en/scripts/373881-清华学堂在线视频自动播放)
+El guión está [aquí](https://greasyfork.org/en/scripts/373881-清华学堂在线视频自动播放)
 
-Dado que este script tiene una larga historia, no se ha mantenido durante mucho tiempo y también contiene algunos errores, no se puede garantizar su disponibilidad a largo plazo. Cuando encuentre problemas o mejore el código, puede comunicarse con el autor original @RikaSugisawa.
+Dado que este script tiene una larga historia, no se ha mantenido durante mucho tiempo y también tiene algunos errores, no se puede garantizar su disponibilidad a largo plazo. Cuando encuentre problemas o mejore el código, puede comunicarse con el autor original @RikaSugisawa.
 
 ## Descargador de subtítulos en línea de Xuetang
 
 ¿Sigues hojeando vídeos uno por uno y descargando subtítulos cuando te preparas para revisarlos? ¡Este script te ayuda!
 
-Versión Rabbit Hu: el script está en [此](https://greasyfork.org/zh-CN/scripts/408878-xuetangx-caption-crawler) y la dirección del proyecto está en [此](https://github.com/Rabbit-Hu/xuetangx-caption-crawler).
+Versión Rabbit Hu: el guión está [aquí](https://greasyfork.org/zh-CN/scripts/408878-xuetangx-caption-crawler) y la dirección del proyecto está [aquí](https://github.com/Rabbit-Hu/xuetangx-caption-crawler).
 
-Versión de Roberts Holder: la dirección del proyecto es [此](https://github.com/rcy17/MOOC_subtitle_spider)
+Versión de Roberts Holder: La dirección del proyecto es [aquí](https://github.com/rcy17/MOOC_subtitle_spider)
 
-Versión de Rynco Maekawa: la dirección del proyecto es [此](https://github.com/lynzrand/xuetangx_sub)
+Versión de Rynco Maekawa: La dirección del proyecto es [aquí](https://github.com/lynzrand/xuetangx_sub)
 
-Versión c7w: la dirección del proyecto es [此](https://github.com/c7w/TsinghuaMoocCaptionCrawler)
+Versión c7w: la dirección del proyecto es [aquí](https://github.com/c7w/TsinghuaMoocCaptionCrawler)
 
 ## Descargador de material didáctico de Rain Classroom
 
 Actualmente, solo se aplica al "Aula de lluvia del río Yangtze", pero se puede usar en el Aula de lluvia del estanque de loto después de una modificación.
 
-La dirección del proyecto es [此](https://github.com/ShevonKuan/yuektang_ppt2pdf).
+La dirección del proyecto es [aquí](https://github.com/ShevonKuan/yuektang_ppt2pdf).
 
 ## Rastreo del libro de referencia de enseñanza de Tsinghua
 
-La biblioteca de la escuela ha comprado una gran cantidad de [图书资源](https://nav.lib.tsinghua.edu.cn/cgi-bin/searchuse.cgi?c=7). Se recomienda utilizar [清华大学教参服务平台](http://reserves.lib.tsinghua.edu.cn/) y [文泉学堂-清华大学出版社电子图书数据库](https://lib-tsinghua.wqxuetang.com/) primero para buscar materiales didácticos de chino.
+La biblioteca de la escuela ha comprado muchos [Recursos de libros] (https://nav.lib.tsinghua.edu.cn/cgi-bin/searchuse.cgi?c=7). Se recomienda dar prioridad a la [Plataforma de servicios de referencia docente de la Universidad de Tsinghua] (http://reserves.lib.tsinghua.edu.cn/) y la [Base de datos de libros electrónicos de Wenquan Academy-Tsinghua University Press] (https://lib-tsinghua.wqxuetang.com/) para buscar libros de texto en chino.
 
 ### Plataforma de servicios de referencia docente de la Universidad de Tsinghua
 
-La plataforma de servicios de referencia docente de la Universidad de Tsinghua proporciona versiones electrónicas escaneadas de los libros de texto de los cursos y materiales de referencia docente dentro del alcance de los derechos de autor (navegación en línea). Si necesita materiales didácticos que no están disponibles en la plataforma, puede comunicarse con [相关部门](https://lib.tsinghua.edu.cn/info/1184/3617.htm) directamente por correo electrónico o por teléfono para escanearlos.
+La plataforma de servicios de referencia docente de la Universidad de Tsinghua proporciona versiones electrónicas escaneadas de los libros de texto de los cursos y materiales de referencia docente dentro del alcance de los derechos de autor (navegación en línea). Si necesita materiales didácticos que no están disponibles en la plataforma, puede comunicarse directamente con el [departamento correspondiente] (https://lib.tsinghua.edu.cn/info/1184/3617.htm) por correo electrónico o por teléfono para escanearlos.
 
 Se recomienda utilizar [reserves-lib-tsinghua-downloader](https://github.com/libthu/reserves-lib-tsinghua-downloader) para la descarga.
 
@@ -218,33 +215,33 @@ Los dos elementos siguientes no están disponibles debido a cambios en la API.
 
 Citado del texto original: La reciente epidemia ha sido grave y ha resultado difícil comprar libros de texto. Para facilitar el aprendizaje en línea de todos, escribí un script en Python para rastrear los materiales didácticos de Tsinghua.
 
-La dirección del proyecto es [此](https://github.com/lflame/TsinghuaBookCrawler)
+La dirección del proyecto es [aquí](https://github.com/lflame/TsinghuaBookCrawler)
 
 Citando el texto original: Descarga automáticamente las imágenes originales de cada página del libro.
 
-La dirección del proyecto es [此](https://github.com/i207M/reserves-lib-tsinghua-downloader)
+La dirección del proyecto es [aquí](https://github.com/i207M/reserves-lib-tsinghua-downloader)
 
 ### Academia Wenquan
 
-Wenquan Xuetang se utiliza para buscar libros en Tsinghua University Press. El anti-rastreo es estricto. Puede utilizar el script [这个](https://greasyfork.org/zh-CN/scripts/437737-%E6%96%87%E6%B3%89%E5%AD%A6%E5%A0%82pdf%E4%B8%8B%E8%BD%BD%E4%BF%AE%E5%A4%8D%E7%89%88) para descargar.
+Wenquan Xuetang se utiliza para buscar libros en Tsinghua University Press. El anti-rastreo es estricto. Puede utilizar [este] script (https://greasyfork.org/zh-CN/scripts/437737-%E6%96%87%E6%B3%89%E5%AD%A6%E5%A0%82pdf%E4%B8%8B%E8%BD%BD%E4%BF%AE%E5%A4%8D%E7%89%88) para descargarlo.
 
 ## Compartir la ubicación del curso
 
-Actualmente disponible: [courseX 课程信息共享计划](https://tsinghua.app/courses) mantenido por el equipo de desarrollo de learnX
+Actualmente disponible: [plan de intercambio de información del curso CourseX](https://tsinghua.app/courses) mantenido por el equipo de desarrollo de learnX
 
 Actualmente los siguientes proyectos han cesado en mantenimiento y operación:
 
-En [https://wmcgcdn.rika.tech/](https://wmcgcdn.rika.tech/), la dirección de su proyecto es [此](https://github.com/RikaKagurasaka/where-my-course-gone-backend).
+En [https://wmcgcdn.rika.tech/](@@0@@), la dirección de su proyecto es [this](https://github.com/RikaKagurasaka/where-my-course-gone-backend).
 
 ## Marca de registro (para billetes de tren)
 
-Consulte [此网站](https://tuixue.online/zcimage/) para obtener fácilmente la marca de registro correspondiente cuando esté fuera del campus.
+Consulte [este sitio web] (https://tuixue.online/zcimage/) para obtener calificaciones de registro relevantes cuando esté fuera de la escuela.
 
 ## Consulta de factura de electricidad del dormitorio.
 
-Hay [实现](https://github.com/WhymustIhaveaname/TsinghuaElectric) a través de Chrome sin cabeza
+Hay [implementación] a través de Chrome sin cabeza (https://github.com/WhymustIhaveaname/TsinghuaElectric)
 
-También hay otra implementación, consulte `TsinghuaElectricityBillChecker.py` en el directorio auxiliar, el usuario necesita modificar algunos parámetros integrados.
+También hay otra implementación, consulte `TsinghuaElectricityBillChecker.py` en el directorio auxiliar, el usuario necesita modificar algunos parámetros incrustados.
 
 También hay otra implementación, consulte `TsinghuaBills.py` en el directorio aux.
 
@@ -262,13 +259,13 @@ Este script puede verter datos en grafana para implementar alarmas y monitoreo d
 
 ¿No hay ambiente para estudiar en casa y extrañas la sala de estudio de la escuela? ¡El software de tonos de llamada Tsinghua te ayuda!
 
-Actualmente existe una versión de macOS, proyecto [在此](https://github.com/LyricZhao/THU-Bell)
+Actualmente existe una versión de macOS, el proyecto está [aquí](https://github.com/LyricZhao/THU-Bell)
 
 ## Seleccione aleatoriamente restaurantes en el campus: mini programa WeChat
 
 ¿Hay demasiados comedores y no sabes dónde comer? ¡Generador de números aleatorios para ayudar!
 
-Proyecto en [此](https://github.com/SuXY15/RandomCanteen)
+El proyecto está [aquí](https://github.com/SuXY15/RandomCanteen)
 
 Código QR del mini programa
 
@@ -280,7 +277,7 @@ Lo mismo que arriba.
 
 Además, Telegram Bot también proporciona funciones interactivas como beber té con leche en línea, beber capuchino en línea y producir bebidas en línea.
 
-La dirección del proyecto es [此](https://github.com/Lancern/thufood-tgbot)
+La dirección del proyecto es [aquí](https://github.com/Lancern/thufood-tgbot)
 
 La dirección BOT es https://t.me/thufood_bot
 
@@ -288,17 +285,17 @@ Los similares son https://t.me/thufoodbot
 
 ## Guía del curso de informática de la Universidad de Tsinghua
 
-[GitHub地址](https://github.com/PKUanonym/REKCARC-TSC-UHT) y [校内地址](https://git.tsinghua.edu.cn/pkuanonym/REKCARC-TSC-UHT)
+[Dirección de GitHub](https://github.com/PKUanonym/REKCARC-TSC-UHT) y [dirección del campus](https://git.tsinghua.edu.cn/pkuanonym/REKCARC-TSC-UHT)
 
 ## Guía del curso del Instituto Tsinghua de Ingeniería de Software
 
-__JUE_WIKI_TOKEN_0__
+[Dirección de GitHub] (https://github.com/SerCharles/THSS-CRACKER)
 
 ## Plan de intercambio de guías de cursos de la Universidad de Huaqing
 
-El plan de intercambio de guías del curso para todos los estudiantes de la escuela tiene como objetivo eliminar la asimetría de información en los recursos de aprendizaje y promover el intercambio abierto de recursos y materiales de aprendizaje. Proyecto [在此](https://closed.social/pastExam/). En comparación con GitHub, las operaciones de compartir y descargar son más amigables para los estudiantes que no están familiarizados con la tecnología. ¡Bienvenidos a compartir!
+El plan de intercambio de guías del curso para todos los estudiantes de la escuela tiene como objetivo eliminar la asimetría de información en los recursos de aprendizaje y promover el intercambio abierto de recursos y materiales de aprendizaje. Proyecto [aquí](https://closed.social/pastExam/). En comparación con GitHub, las operaciones de compartir y descargar son más amigables para los estudiantes que no están familiarizados con la tecnología. ¡Bienvenidos a compartir!
 
-![华清大学课程攻略共享计划](pathname:///docs/thuservices/image/course_strategy.jpg)
+![华清大学课程攻略共享计划](image/course_strategy.jpg)
 
 ## Plataforma de evaluación docente del campus
 
@@ -345,7 +342,7 @@ https://github.com/thuhole/database_backup
 
 ## Documento de orientación de habilidades de la Asociación de Ciencias Estudiantiles del Departamento de Computación
 
-Este documento de orientación de habilidades lo mantiene la Asociación de Estudiantes de Ciencias de la Computación de la Universidad de Tsinghua. El objetivo es permitir que los estudiantes de informática y ciencias de la computación dominen rápidamente ciertas habilidades específicas. Al brindar formas en que estas habilidades pueden usarse en cursos, investigaciones científicas y pasantías, se ahorra tiempo a los estudiantes en la recopilación de información relevante y se mejora su capacidad para aprender nuevas habilidades.
+Este documento de orientación de habilidades es mantenido por la Asociación de Estudiantes de Ciencias de la Computación de la Universidad de Tsinghua. El objetivo es permitir que los estudiantes de informática y ciencias de la computación dominen rápidamente ciertas habilidades específicas. Al brindar formas en que estas habilidades pueden usarse en cursos, investigaciones científicas y pasantías, se ahorra tiempo a los estudiantes en la recopilación de información relevante y se mejora su capacidad para aprender nuevas habilidades.
 
 https://docs.net9.org/
 

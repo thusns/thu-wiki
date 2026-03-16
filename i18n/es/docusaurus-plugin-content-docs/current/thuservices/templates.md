@@ -1,44 +1,41 @@
----
-
----
-# LaTeX 等模板
+# LaTeX y otras plantillas
 
 
-ppt 模板：https://github.com/atomiechen/THU-PPT-Theme
+plantilla ppt: https://github.com/atomiechen/THU-PPT-Theme
 
-以下模板均可在 https://overleaf.tsinghua.edu.cn/templates/ 中找到并使用。
+Las siguientes plantillas se pueden encontrar y utilizar en https://overleaf.tsinghua.edu.cn/templates/.
 
-## 《如何使用 LaTeX 排版论文》讲稿
+## Apuntes de conferencias sobre "Cómo utilizar LaTeX para dar formato a artículos"
 
-2015 年起，每年 4 月、11 月清华大学图书馆专题培训讲座 《如何使用 LaTeX 排版论文》
+Desde 2015, la Biblioteca de la Universidad de Tsinghua ha impartido conferencias de formación especiales sobre "Cómo utilizar LaTeX para dar formato a documentos" cada abril y noviembre.
 
-项目地址在[此](https://github.com/alick/thulib-latex-talk)以及其较新分支分支在[此](https://github.com/tuna/thulib-latex-talk)
+La dirección del proyecto es [aquí](https://github.com/alick/thulib-latex-talk) y su rama más nueva es [aquí](https://github.com/tuna/thulib-latex-talk)
 
-## ThuThesis
+## Tesis
 
-ThuThesis 是 Tsinghua University Thesis LaTeX Template 的缩写。
+ThuThesis es la abreviatura de Plantilla LaTeX de tesis de la Universidad de Tsinghua.
 
-此宏包旨在建立一个简单易用的清华大学学位论文 LaTeX 模板，包括本科综合论文训练、硕士论文、博士论文以及博士后出站报告。
+Este paquete de macros está diseñado para crear una plantilla LaTeX de disertación de la Universidad de Tsinghua simple y fácil de usar, que incluye capacitación integral en tesis de pregrado, tesis de maestría, tesis doctoral e informe de salida posdoctoral.
 
-项目地址在[此](https://github.com/tuna/thuthesis)
+La dirección del proyecto es [aquí](https://github.com/tuna/thuthesis)
 
-## ThuWordThesis
+## JuePalabraTesis
 
-清华本科毕业论文Word模板
+Plantilla de Word - tesis de pregrado de Tsinghua
 
-项目地址在[此](https://github.com/qbh16/ThuWordThesis)
+La dirección del proyecto es [aquí](https://github.com/qbh16/ThuWordThesis)
 
-[清华云盘下载](https://cloud.tsinghua.edu.cn/d/5e264d25ce124695b3de)
+[Descarga del disco en la nube de Tsinghua](https://cloud.tsinghua.edu.cn/d/5e264d25ce124695b3de)
 
-## THU-Beamer-Theme
+## Tema THU-Beamer
 
-A LaTeX beamer theme template for Tsinghua students.
+Una plantilla temática de proyector LaTeX para estudiantes de Tsinghua.
 
-项目地址在[此](https://github.com/Trinkle23897/THU-Beamer-Theme)
+La dirección del proyecto es [aquí](https://github.com/Trinkle23897/THU-Beamer-Theme)
 
-Overleaf模板位于：https://www.overleaf.com/latex/templates/thu-beamer-theme/vwnqmzndvwyb ，可以直接点开
+La plantilla al dorso se encuentra en: https://www.overleaf.com/latex/templates/thu-beamer-theme/vwnqmzndvwyb, puede hacer clic en ella directamente
 
-## 清华大学中文Beamer 模板
+## Plantilla de proyector chino de la Universidad de Tsinghua
 
 https://www.overleaf.com/latex/templates/qing-hua-da-xue-zhong-wen-beamer-mo-ban/djcnhxpwhrks
 
@@ -46,42 +43,42 @@ https://www.overleaf.com/latex/templates/qing-hua-da-xue-zhong-wen-beamer-mo-ban
 
 https://www.overleaf.com/latex/templates/tsinghuabeamer/gwchbskgbvrm
 
-## Report Presentation for Tsinghua University
+## Presentación de informe para la Universidad de Tsinghua
 
 https://www.overleaf.com/latex/templates/report-presentation-for-tsinghua-university/yxcbdvyctybp
 
-## thubeamer
+## proyector de tubo
 
 https://github.com/YangLaTeX/thubeamer
 
-## THU coursework Template
+## Plantilla de cursos de jueves
 
-LaTeX package for students in Tsinghua University to write coursework more efficiently, also can be used by students from other university.
+El paquete LaTeX para que los estudiantes de la Universidad de Tsinghua escriban trabajos de curso de manera más eficiente, también puede ser utilizado por estudiantes de otras universidades.
 
-项目地址在[此](https://github.com/zhaofeng-shu33/THU-coursework-template)
+La dirección del proyecto es [aquí](https://github.com/zhaofeng-shu33/THU-coursework-template)
 
-## 清华大学近代物理实验报告模版
+## Plantilla de informe de experimento de física moderna de la Universidad de Tsinghua
 
 https://www.overleaf.com/latex/templates/thu-emp-qing-hua-da-xue-jin-dai-wu-li-shi-yan-bao-gao-mo-ban/mbgqcryqhwqd
 
-## THU Letter of Recommendation Template
+## JUE Plantilla de carta de recomendación
 
 https://www.overleaf.com/latex/templates/thu-letter-of-recommendation-template/ghjfgfhykprk
 
-## A Simple Tsinghua Letterhead Template
+## Una sencilla plantilla de membrete de Tsinghua
 
 https://www.overleaf.com/latex/templates/a-simple-tsinghua-letterhead-template/zhpywsjswnjs
 
-## CV-tsinghua-template
+## Plantilla-CV-tsinghua
 
 https://github.com/K-Wu/CV-tsinghua-template
 
-## THU-Exam-LaTeX-Template
+## Plantilla-LaTeX-examen-JUE
 
 https://github.com/VicaYang/THU-Exam-LaTeX-Template
 
 ## ilatex
 
-课程作业, 实验报告模板
+Trabajo de curso, plantilla de informe de laboratorio
 
 https://github.com/liblaf/ilatex

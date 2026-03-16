@@ -1,6 +1,3 @@
----
-
----
 # 清華服務使用指北（主要面向 Linux 用戶）
 
 本文將重點放在清華一些服務在 Linux 機器，包括遠端伺服器上的使用說明
@@ -23,7 +20,7 @@
 
 ## SSLVPN
 
-在 Linux 機器上沒有 PULSE SECURE 用戶端，除了可以使用 WEB VPN 外，也可使用 `openconnect` 來做到連線清華VPN。
+在 Linux 機器上沒有 PULSE SECURE 用戶端，除了可以使用 WEB VPN 外，也可使用 `openconnect` 來做到連接清華VPN。
 
 若是 Debian 系，包括 Ubuntu，可以使用
 
@@ -55,21 +52,21 @@ openconnect --protocol=pulse https://sslvpn.tsinghua.edu.cn --useragent Pulse-Se
 
 輸入帳號及密碼後即連接上校園網，可存取校內服務（INFO/USEREG）。
 
-值得注意的是，與清華無關的流量依舊依照原有路由發出，此行為與 Windows 下不同。 （此項需求證）
+值得注意的是，與清華無關的流量依舊依照原有路由發出，此行為與 Windows 下不同。 （此项需求证）
 
 ## 上網認證
 
 ### 校園網基礎知識
 
-[清华大学校园网使用简介](https://its.tsinghua.edu.cn/helpsystem/train/CampusNetworkLectureNotes201909.pdf)（由於網頁升級連結已失效，可參閱本站的[备份](pathname:///docs/thuservices/file/CampusNetworkLectureNotes201909.pdf)）
+[清華大學校園網使用簡介](https://its.tsinghua.edu.cn/helpsystem/train/CampusNetworkLectureNotes201909.pdf)（由於網頁升級連結已失效，可參閱本站的[備份](file/CampusNetworkLectureNotes201909.pdf)）
 
-[准入上网使用说明](http://166.111.5.8/commsoft/helpsystem/wirednetwork/RealNameAuthentication20190121.pdf)（本站[备份](pathname:///docs/thuservices/file/RealNameAuthentication20190121.pdf)）
+[存取上網使用說明](http://166.111.5.8/commsoft/helpsystem/wirednetwork/RealNameAuthentication20190121.pdf)（本站[備援](file/RealNameAuthentication20190121.pdf)）
 
-[清华大学校园网有线局域网用户准入系统使用说明（问与答）](https://its.tsinghua.edu.cn/helpsystem/wirednetwork/RealNameAuthenticationFAQ20190614.pdf)（由於網頁升級連結已失效，可參閱本站的[备份](pathname:///docs/thuservices/file/RealNameAuthenticationFAQ20190614.pdf)）
+[清華大學校園網路有線區域網路使用者進入系統使用說明（問與答）](https://its.tsinghua.edu.cn/helpsystem/wirednetwork/RealNameAuthenticationFAQ20190614.pdf)（由於網頁升級連結已失效，可參閱本站的[備份](file/RealNameAuthenticationFAQ20190614.pdf)）
 
 上述文件太長不看版：在校園網中上網分為兩步，一步是准入，另一步是準出。
 
-沒有准入與準出時，機器只能 ping 通 `166.111.8.28` 與 `2402:f000:1:801::8:28`，如果你有相應 v4 與 v6 位址。校內其他地址不通。
+沒有准入與準出時，機器只能 ping 通 `166.111.8.28` 與 `2402:f000:1:801::8:28`，如果你有對應 v4 與 v6 位址。校內其他地址不通。
 
 對於 IPv4 而言，當有准入而沒有準出時，機器可以 ping 通校內機器，但不能 ping 通校外機器，即不能上網。只有當有准入而且有準出時，機器可以連接外網。
 
@@ -81,7 +78,7 @@ openconnect --protocol=pulse https://sslvpn.tsinghua.edu.cn --useragent Pulse-Se
 
 ### 命令列認證 自動認證
 
-請參閱 [utils.md](utils.md) 中的認證工具總計。
+請參閱 [utils.md](utils.md) 中的認證工具總表。
 
 以下參考 [GoAuthing](https://github.com/z4yx/GoAuthing)
 
@@ -101,7 +98,7 @@ auth-thu online # 保持机器在线
 
 普通用戶將其放在家目錄下，作為命令列工具使用，即可滿足大部分認證需求。
 
-已知問題：在使用者通過`auth-thu auth -C`（僅准入）後呼叫`auth-thu login`（僅準出），准出會失敗。
+已知問題：在使用者通過`auth-thu auth -C`（僅准入）後呼叫`auth-thu login`（僅準出），準出會失敗。
 
 #### 自動認證
 
@@ -109,15 +106,15 @@ auth-thu online # 保持机器在线
 
 下載好檔案以後請合理放置在對應目錄（如 /usr/local/bin）下，同時將設定檔放在合理目錄下，即可使用
 
-要做到自動 **準出**，需將其中附帶的 `goauthing.service` 或 `goauthing@.service` 放置 `/etc/systemd/system/` 文件夾下 ，並調整相應內容以符合程序文件以及配置文件的路徑，使用
+要做到自動 **準出**，需將其中附帶的 `goauthing.service` 或 `goauthing@.service` 放置 `/etc/systemd/system/` 資料夾下 ，並調整相應內容以符合程式檔案以及設定檔的路徑，使用
 
 ``` bash
 $ systemctl enable goauthing.service
 ```
 
-啟動對應服務，即可達到自動認證的目的。如果要實現帳戶資訊儲存在使用者家庭目錄中而非 `/etc` 中，可以參考 `goauthing@.service`。
+啟動對應服務，即可達到自動認證的目的。如果要實現帳戶資訊儲存在使用者家中目錄中而不是 `/etc` 中，可以參考 `goauthing@.service`。
 
-若要實現 `v6` 的自動存取，可參考 `goauthing6.service` 和 `goauthing6@.service`。如果只要 v4 的自動准入，需要將 `goauthing.service` 中的 `auth` 變成 `auth -C`，且刪除 `login` 一行。
+如果要實現 `v6` 的自動准入，可參考 `goauthing6.service` 和 `goauthing6@.service`。如果只要 v4 的自動准入，需要將 `goauthing.service` 中的 `auth` 變為 `auth -C`，且刪除 `login` 一行。
 
 如果有打包者將此打包，請 PR。目前在 AUR 中存在 `auth-thu-bin` 套件（`auth-thu` 套件已經過時）。
 
@@ -125,9 +122,9 @@ $ systemctl enable goauthing.service
 
 （從筆者的經驗來看，usereg 的對准入準出成功和失敗的回饋較少，建議採用命令列以及網頁認證，而只將 usereg 作為狀態面板使用）
 
-在某些伺服器上無法使用瀏覽器開啟 [net.tsinghua.edu.cn](https://net.tsinghua.edu.cn) 來認證，只能使用 [命令行工具](### 命令行认证 自动认证) 或「存取代認證」的方式來實現存取。
+在某些伺服器上無法使用瀏覽器開啟 [net.tsinghua.edu.cn](https://net.tsinghua.edu.cn) 來認證，只能使用 [命令列工具](### 命令行认证 自动认证) 或「准入代認證」的方式來實現准入。
 
-對於代認證，需要先知道伺服器的 IPv4 位址，形如 `166.111.x.x` 或 `59.66.x.x` 或 `101.x.x.x`，之後開啟 [usereg.tsinghua.edu.cn](https://usereg.tsinghua.edu.cn) “准入代認證”部分，進入代入認證中
+對於代認證，需要先知道伺服器的 IPv4 位址，形如 `166.111.x.x` 或 `59.66.x.x` 或 `101.x.x.x`，之後開啟 [usereg.tsinghua.edu.cn](https://usereg.tsinghua.edu.cn) 「准入代認證」部分，填入 IP 即可准入，在准入時可以選擇是否開啟准出。
 
 對於某些三層接取的機器，如果要實現 v6 的准入，也可在「准入代認證」中實現准入。
 
@@ -145,7 +142,7 @@ $ systemctl enable goauthing.service
 ssh -D <port> host
 ```
 
-這樣在本地會搭建一個以 `<port>` 為連接埠的 socks5 代理，如果在瀏覽器中使用該代理，即可與往常一樣實現網頁認證。
+這樣在本地會搭建以 `<port>` 為連接埠的 socks5 代理，如果在瀏覽器中使用該代理，即可與往常一樣實現網頁認證。
 
 尤其要注意的是，不能直接訪問 auth4/auth6 來進行認證（參考問與答），需要通過跳轉的方式來訪問 auth4/auth6 以獲取正確的 ac\_id.3.3 可以訪問 info/learn/login 來跳轉，也可通過 3.3.3.3 和 [3:3:3::3] 一般。後者對於三層存取的使用者來說是較為方便的存取 auth6 的方案。
 
@@ -155,7 +152,7 @@ ssh -D <port> host
 
 #### NetworkManager
 
-設定好後，可以使用 `NetworkManager` 連接該 Wifi，可以參考 its 的文件 [清华大学无线校园网 802.1x 认证登录客户端配置说明](https://its.tsinghua.edu.cn/info/1333/2318.htm)（本站[备份](pathname:///docs/thuservices/file/tsinghua-secure-config.pdf)）
+設定好後，可使用 `NetworkManager` 連線該 Wifi，可參考 its 的文件 [清華大學無線校園網 802.1x 認證登入用戶端設定說明](https://its.tsinghua.edu.cn/info/1333/2318.htm)（本站[備援](file/tsinghua-secure-config.pdf)）
 
 範例配置 `/etc/NetworkManager/system-connections/Tsinghua-Secure.nmconnection` 如下
 
@@ -202,16 +199,16 @@ token=::114:514:1919:810
 
 1.  `NetworkManager` 使用了 `wpa_supplicant` 後端
 1.  使用了 3.0.0 以上版本的 `openssl`
-1.  使用的發行版沒有給 `wpa_supplicant` 打上 [修复 tls 1.0/1.1 连接的 patch](https://launchpad.net/ubuntu/+source/wpa/2:2.10-6ubuntu2) （目前確認 Ubuntu 有 patch，NixOS 沒有 patch）
+1.  使用的發行版沒有給 `wpa_supplicant` 打上 [修復 tls 1.0/1.1 連接的 patch](https://launchpad.net/ubuntu/+source/wpa/2:2.10-6ubuntu2) （目前確認 Ubuntu 有 patch，NixOS 沒有 patch）
 
-那麼你的 `NetworkManager` 可能因為 tls 1.0 連接被停用而連不上 `Tsinghua-Secure`，此時有以下兩種解決方法，任一種都能解決：
+那麼你的 `NetworkManager` 可能由於 tls 1.0 連接被禁用而連不上 `Tsinghua-Secure`，此時有以下兩種解決方法，任何一種都能解決：
 
-1.  升級 NetworkManager 到 `1.41.5-dev` 及以上，準確的說是確保 [这个 commit](https://gitlab.freedesktop.org/NetworkManager/NetworkManager/-/commit/98dd4180ec163af63fe1e0fda00158ac7f0047df) 已經被包含。在上述設定檔的 `[802-1x]` 一節中加入一行 `phase1-auth-flags=32`（`NetworkManager` 中 `tls-1-0-enable` 此選項對應 `0x20`是換算成十進制，換算成十進制`32`，這項換算關係目前沒有在文件裡記錄，所以不保證 32 這個數字總是有效。
+1.  升級 NetworkManager 到 `1.41.5-dev` 以上，準確的說是確保 [這個 commit](https://gitlab.freedesktop.org/NetworkManager/NetworkManager/-/commit/98dd4180ec163af63fe1e0fda00158ac7f0047df) 已經被包含。在上述設定檔的 `[802-1x]` 一節中加入一行 `phase1-auth-flags=32`（`NetworkManager` 中 `tls-1-0-enable` 此選項對應 `0x20`，換算成十進位是 `32`，這一換算關係目前沒有在文件裡記錄，所以不保證 32 這個數字總是有效 `32`，這個換算關係目前沒有在文件裡記錄，所以不保證 32 這個數字總是有效@ @ @ `tls-1-0-enable`）。
 1.  給自己的 `wpa_supplicant` 打上前面提到的 patch。
 
 #### wpa_supplicant
 
-也可使用 `wpa_supplicant` 完成對應 wifi 連線。安裝 `wpa_supplicant`，編輯 `/etc/wpa_supplicant/wpa_supplicant-nl80211-XXXX.conf`， 其中 `XXXX` 是本機網路卡名稱，輸入下列配置
+也可使用 `wpa_supplicant` 完成對應 wifi 連線。安裝 `wpa_supplicant`，編輯 `/etc/wpa_supplicant/wpa_supplicant-nl80211-XXXX.conf`， 其中 `XXXX` 為本機網路卡名稱，輸入以下配置
 
 ```
 ctrl_interface=/var/run/wpa_supplicant
@@ -244,9 +241,9 @@ $ systemctl enable --now wpa_supplicant-nl80211@XXXX.service
 
 #### iwd
 
-由於 Tsinghua-Secure 的憑證問題（dhparams 中 p 的長度只有 1024，不符合 [Linux 内核的 1536 长度需求](https://elixir.bootlin.com/linux/v6.0/source/crypto/dh.c#L52)），而 iwd 依賴核心的密碼學工具，預設使用 iwd 無法連線。
+由於 Tsinghua-Secure 的憑證問題（dhparams 中 p 的長度僅為 1024，不符合 [Linux 核心的 1536 長度需求](https://elixir.bootlin.com/linux/v6.0/source/crypto/dh.c#L52)），而 iwd 依賴核心的密碼學工具，預設使用 iwd 無法連線。
 
-[NickCao](https://github.com/NickCao) 為此提供了 [dhack 内核模块](https://github.com/NickCao/dhack) 與 ell 工具補丁（如下）；前者通過劫持相應符號實現補丁，後者在 nix 構建軟體包時直接替換源碼中的參數。用戶可以依此類推自行建立核心與工具。
+[NickCao](https://github.com/NickCao) 為此提供了 [dhack 內核模組](https://github.com/NickCao/dhack) 與 ell 工具補丁（如下）；前者通過劫持相應符號實現補丁，後者在 nix 構建軟體包時直接替換源碼中的參數。用戶可以依此類推自行建立核心與工具。
 
 ```nix
 iwd.override {
@@ -332,7 +329,7 @@ curl -4 "https://domain.example.com:T@dyn.dns.he.net/nic/update?hostname=domain.
 ```
 注意Token為其中的T。其餘參數依需求修改。
 
-並用 cron 定期執行該腳本，例如每五分鐘一次。可以參考 https://crontab.guru/ 指令取得具體闡釋。
+並用 cron 定期執行該腳本，例如每五分鐘一次。可參考 https://crontab.guru/ 指令以取得具體闡釋。
 
 #### IPv6 靜態後綴或短 IPv6 位址
 
@@ -348,9 +345,9 @@ curl -4 "https://domain.example.com:T@dyn.dns.he.net/nic/update?hostname=domain.
 ip token set ::114:514:1919:810/64 dev wlan0
 ```
 
-在執行此命令 **之前**，我們需要注意，我們需要將網卡的 `forwarding` 關閉（ **在配置時** ，配置後可以打開轉送），並打開 `accept_ra` 與 `autoconf`，並將其他 dhcp 客戶端的 v6 功能。
+在執行此命令 **之前**，我們需要注意，我們需要將網卡的 `forwarding` 關閉（ **在配置時** ，配置後可以打開轉送），並打開 `accept_ra` 與 `autoconf`，並將其他 dhcp 客戶端的 v6 功能關閉。
 
-（吐槽：dhcpcd 雖然說是個 dhcp 用戶端，它把 SLAAC 的事情也接管了，就很惱。按照傳統只需要開了 `accept_ra` 與 `autoconf`，Linux 內核就會自動配置v6地址。如果 __THU_KI_ `accept_ra=2`）
+（吐槽：dhcpcd 雖然說是個 dhcp 用戶端，它把 SLAAC 的事情也接管了，就很惱。按照傳統只需要開了 `accept_ra` 與 `autoconf`，Linux 核心就會自動配置v6位址。如果 `forwarding=1`時，我們需要使 `accept_ra=2`）
 
 ```bash
 sysctl net/ipv6/conf/wlan0/accept_ra=1
@@ -403,20 +400,20 @@ Apr 02 07:00:34 Zenith dhcpcd[497]: enp3s0: adding address 2402:f000:4:3:888:192
 >
 > 根據相關人士訊息，只有 DUID Type 1，也就是 DUID-LLT 被承認，以下給出 dhcpcd 的相應配置方式。
 >
-> 先將 `/etc/dhcpcd.conf` 中的 `duid` 打開，同時確保沒有開啟 `clientid`。然後我們檢查下列文件
+> 先將 `/etc/dhcpcd.conf` 中的 `duid` 打開，同時保證沒有開啟 `clientid`。然後我們檢查下列文件
 >
 > ```
 > $ cat /var/lib/dhcpcd/duid
 > 00:01:00:01:26:53:6d:9d:ff:ff:ff:ff:ff:ff
 > ```
 >
-> 若以 `00:01` 開頭，則表示為 DUID-LLT，否則（或檔案不存在）需要改為上述格式。同時需要檢查最後的 `ff:ff:ff:ff:ff:ff` 是否為相關網路卡的MAC位址，如果不是需要變更為對應位址。
+> 若以 `00:01` 開頭，則表示為 DUID-LLT，否則（或檔案不存在）需改為上述格式。同時需要檢查最後的 `ff:ff:ff:ff:ff:ff` 是否為相關網路卡的MAC位址，如果不是需要更改為對應位址。
 >
 > **更新** 的測試發現，我們並不知道你校的 DHCPv6 是如何運作的，其如何工作完全是玄學。有的開啟了 Anonymize 即可使用，有的開啟了也嘗試失敗。
 >
-> 一些經驗可以參考 https://pwe.cat/zijing-dhcpv6/
+> 一些體驗可以參考 https://pwe.cat/zijing-dhcpv6/
 
-最近的嘗試發現，使用較新版本的 `systemd-networkd` 能穩定取得位址。
+最近的嘗試發現，使用較新版本的 `systemd-networkd` 能穩定地取得位址。
 
 ### 30分鐘無流量掉入
 
@@ -452,11 +449,11 @@ pacman -S seafile-client
 
 ### 使用 Terminal 客戶端
 
-Terminal 用戶端在 8.0.4 版本後以後支援使用 Token 進行同步，你可以在 [install_linux_client](https://help.seafile.com/syncing_client/install_linux_client/) 中找到大部分發行版 AMD64 架構的來源，如果你所使用的套件管理器中 `seafile` 或 __THU_WIKI_TOKEN_WI__ `8.0.4`，可以安裝並參考後面替換部分檔案的方法，也可以直接手動編譯最新版。
+Terminal 用戶端在 8.0.4 版本後以後支援使用 Token 進行同步，你可以在 [install_linux_client](https://help.seafile.com/syncing_client/install_linux_client/) 中找到大部分發行版 AMD64 架構的來源，如果你所使用的套件管理器中 `seafile` 或 `seafile-cli` 版本號低於 `8.0.4`2@2@2.
 
 #### 獲取 Token
 
-在瀏覽器中登入清華雲盤，Cookie 中的 `seahub_auth` 應該為 `用户名（学号@tsinghua.edu.cn）@Token` 的模式，最後一段即為 Token 。每個帳戶的 Token 是唯一的，不會過期。
+在瀏覽器中登入清華雲盤，Cookie 中的 `seahub_auth` 應該是 `用户名（学号@tsinghua.edu.cn）@Token` 的模式，最後一段是 Token 。每個帳戶的 Token 是唯一的，不會過期。
 
 在能正常運作 `seaf-cli` 後，可以使用命令列進行同步操作
 
@@ -467,9 +464,9 @@ seaf-cli sync -l <library-id> -s https://cloud.tsinghua.edu.cn -d <place-directo
 seaf-cli desync -d <existing-folder>
 ```
 
-#### token 登入
+#### 取代部分檔案實作 Token 登入
 
-`seaf-cli` 實質上是透過 `pysearpc` 與 `seaf-daemon` 通訊，因此大部分發行版預設來源中較低版本的 `seafile` 在只替換 `seaf-cli`4__ 工作的情況下也能正常工作。這裡提供一個安裝 Terminal 用戶端後替換 `seaf-cli` 實作 Token 登入的簡單方法。
+`seaf-cli` 實質上透過 `pysearpc` 與 `seaf-daemon` 通訊，因此大部分發行版預設來源中較低版本的 `seafile` 在只取代 `seaf-cli` 的情況下也能正常運作。這裡提供一個安裝 Terminal 用戶端後替換 `seaf-cli` 實作 Token 登入的簡單方法。
 
 ```
 git clone https://github.com/haiwen/seafile
@@ -484,9 +481,9 @@ cp -r python/seafile $(python3 -m site --user-site)
 具體的編譯流程可以參考 [build_seafile](https://manual.seafile.com/build_seafile/linux/)，但要注意幾點：
 
 - 下載並編譯每個倉庫中的最新原始碼或最新的 release
-- 可以忽略文件中的 `ccnet` 部分，倉庫已經消失且不存在相關依賴
+- 可以忽略文件中的 `ccnet` 部分，倉庫已經消失並且不存在相關依賴
 - make 有機率失敗，可以多來幾次
-- 如果安裝完成後 `seaf-cli` 報錯，例如 `No module named 'seafile'` 可以參考上一節手動複製 `seafile` 包
+- 若安裝完成後 `seaf-cli` 報錯，例如 `No module named 'seafile'` 可參考上一節手動複製 `seafile` 包
 
 ### Chrome 提醒下載的檔案危險
 
