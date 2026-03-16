@@ -449,7 +449,7 @@ pacman -S seafile-client
 
 ### 使用 Terminal 客戶端
 
-Terminal 用戶端在 8.0.4 版本後以後支援使用 Token 進行同步，你可以在 [install_linux_client](https://help.seafile.com/syncing_client/install_linux_client/) 中找到大部分發行版 AMD64 架構的來源，如果你所使用的套件管理器中 `seafile` 或 `seafile-cli` 版本號低於 `8.0.4`2@2@2.
+Terminal 用戶端在 8.0.4 版本後以後支援使用 Token 進行同步，你可以在 [install_linux_client](https://help.seafile.com/syncing_client/install_linux_client/) 中找到大部分發行版 AMD64 架構的來源，如果你所使用的套件管理器中 `seafile` 或 `seafile-cli` 版本號低於 `8.0.4`，可以安裝並參考後面替換部分文件的方法，也可以直接手動編譯最新版。
 
 #### 獲取 Token
 
