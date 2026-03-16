@@ -100,7 +100,7 @@ La entrada es el botón "Lavadora cercana" en la parte inferior de la página de
 ¿Sigues trabajando duro para conseguir una lavadora? ¿Sigues sufriendo por correr de un lado a otro sólo para descubrir que no hay lavadora? este servicio
 ¡Ayudarte a detectar el estado de la lavadora, y conocer las tendencias de las lavadoras de todo el colegio con un clic sin salir de casa!
 
-El código fuente está en el directorio aux del repositorio. Actualmente desplegado en trabajadores de cf en [https://washer.thu.services](@@0@@)
+El código fuente está en el directorio aux del repositorio. Actualmente desplegado en trabajadores de cf en [https://washer.thu.services](https://washer.thu.services)
 
 Para implementar la búsqueda, necesitamos agregar parámetros. Actualmente acepta tres parámetros, "s", "j" y "p". "s" es la búsqueda
 Para edificios de apartamentos, las cadenas generalmente aceptadas son "Edificio x, Bauhinia" o "Edificio x, Distrito Sur". Por ejemplo
@@ -231,7 +231,7 @@ Actualmente disponible: [plan de intercambio de información del curso CourseX](
 
 Actualmente los siguientes proyectos han cesado en mantenimiento y operación:
 
-En [https://wmcgcdn.rika.tech/](@@0@@), la dirección de su proyecto es [this](https://github.com/RikaKagurasaka/where-my-course-gone-backend).
+En [https://wmcgcdn.rika.tech/](https://wmcgcdn.rika.tech/), la dirección de su proyecto es [this](https://github.com/RikaKagurasaka/where-my-course-gone-backend).
 
 ## Marca de registro (para billetes de tren)
 

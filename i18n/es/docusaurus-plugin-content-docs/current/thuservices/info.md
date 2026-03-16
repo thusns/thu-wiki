@@ -103,7 +103,7 @@ Para conocer el estado de operación de los autobuses escolares en tiempo real, 
 
 ## Código Tsinghua Bauhinia
 
-El enlace es [https://zijing.tsinghua.edu.cn/tp\_jp/h6?m=jp#act=jp/serviceapplication](@@0@@)
+El enlace es [https://zijing.tsinghua.edu.cn/tp\_jp/h6?m=jp#act=jp/serviceapplication](https://zijing.tsinghua.edu.cn/tp_jp/h6?m=jp#act=jp/serviceapplication)
 
 El método de uso es: después de abrir e iniciar sesión por primera vez, abra la página web nuevamente (o actualícela directamente) y se mostrará el código Bauhinia. De esta manera no estará restringido por la plataforma WeChat.
 
