@@ -321,7 +321,7 @@ Selon le précédent document « Introduction à l'utilisation », IPv4 bloque l
 
 Pour l'IP dynamique, nous pouvons utiliser DDNS pour le résoudre. Les principaux fournisseurs tels que DNSPod, dns.he.net et cloudflare proposent ce service.
 
-En prenant dns.he.net comme exemple, commencez par ajouter un enregistrement A/AAAA et choisissez d'utiliser DDNS. Après l'avoir créé, créez un jeton de mise à jour, marqué comme T. Nous écrivons le script suivant
+En prenant dns.he.net comme exemple, ajoutez d'abord un enregistrement A/AAAA et choisissez d'utiliser DDNS. Après l'avoir créé, créez un jeton de mise à jour, marqué comme T. Nous écrivons le script suivant
 
 ```
 #!/bin/sh
