@@ -129,7 +129,7 @@ iOS 12 이상 사용자는 이 [链接](https://www.icloud.com/shortcuts/ffc9d9f
 
 이 인터페이스 [Konano](https://github.com/Konano)을 기반으로 Erha라는 텔레그램 봇이 개발되었습니다.
 
-프로젝트 주소는 [此](https://github.com/Konano/Tuna-Erha-Bot)입니다. 세탁기 상태 조회 기능 외에도 더 많은 기능이 있습니다.
+프로젝트 주소는 [여기](https://github.com/Konano/Tuna-Erha-Bot)입니다. 세탁기 상태 조회 기능 외에도 더 많은 기능이 있습니다.
 
 봇은 [t.me/erhabot](https://t.me/erhabot)을 통해 액세스할 수 있습니다.
 
@@ -164,23 +164,23 @@ GPA는 한 번만 계산하면 되는데, 이는 매우 부담스럽습니다.
 
 소개는 이전 섹션을 참조하세요.
 
-"INFO-전체성적" 페이지에서 각 학기별 평점과 필수 및 필수 성적 합계를 계산해 보세요. 스크립트 주소는 [此](https://greasyfork.org/zh-CN/scripts/420540-清华大学gpa查询)입니다.
+"INFO-전체성적" 페이지에서 각 학기별 평점과 필수 및 필수 성적 합계를 계산해 보세요. 스크립트 주소는 [여기](https://greasyfork.org/zh-CN/scripts/420540-清华大学gpa查询)입니다.
 
 ## 비 교실 도우미
 
 이 사용자 스크립트는 대형 화면 장치(PC, 태블릿)에서 Rain Classroom 학생들에게 더 나은 사용자 경험을 제공하도록 설계되었습니다.
 
-프로젝트 주소는 [此](https://github.com/RainEggplant/rain-classroom-helper)입니다.
+프로젝트 주소는 [여기](https://github.com/RainEggplant/rain-classroom-helper)입니다.
 
 ## 청화대학교 통합 플랫폼 비디오 자동 재생
 
-스크립트는 [此](https://github.com/Co1lin/Tsinghua-Yukuotang-Autoplay)에 있으며 [tsinghua.yuketang.cn](https://github.com/Co1lin/Tsinghua-Yukuotang-Autoplay/blob/main/tsinghua.yuketang.cn)에서 강좌 비디오를 자동으로 재생할 수 있습니다.
+스크립트는 [여기](https://github.com/Co1lin/Tsinghua-Yukuotang-Autoplay)에 있으며 [tsinghua.yuketang.cn](https://github.com/Co1lin/Tsinghua-Yukuotang-Autoplay/blob/main/tsinghua.yuketang.cn)에서 강좌 비디오를 자동으로 재생할 수 있습니다.
 
 ## Xuetang 온라인 비디오가 자동으로 재생됩니다.
 
 백그라운드에서 MOOC를 공부할 때 멈췄는지 자주 확인하시나요? 스크립트가 자동으로 다음 레슨을 재생해 드립니다!
 
-스크립트는 [此](https://greasyfork.org/en/scripts/373881-清华学堂在线视频自动播放)에 있습니다.
+스크립트는 [여기](https://greasyfork.org/en/scripts/373881-清华学堂在线视频自动播放)에 있습니다.
 
 이 스크립트는 역사가 길고, 오랫동안 유지되지 않았으며, 일부 버그도 포함하고 있기 때문에 장기적인 가용성을 보장할 수 없습니다. 문제를 발견하거나 코드를 개선하는 경우 원저자 @RikaSugisawa에게 문의하세요.
 
@@ -188,19 +188,19 @@ GPA는 한 번만 계산하면 되는데, 이는 매우 부담스럽습니다.
 
 아직도 리뷰를 준비하면서 영상을 하나씩 넘기고 자막을 다운로드하고 계시나요? 이 스크립트가 도움이 됩니다!
 
-Rabbit Hu 버전: 스크립트는 [此](https://greasyfork.org/zh-CN/scripts/408878-xuetangx-caption-crawler)에 있고, 프로젝트 주소는 [此](https://github.com/Rabbit-Hu/xuetangx-caption-crawler)에 있습니다.
+Rabbit Hu 버전: 스크립트는 [여기](https://greasyfork.org/zh-CN/scripts/408878-xuetangx-caption-crawler)에 있고, 프로젝트 주소는 [여기](https://github.com/Rabbit-Hu/xuetangx-caption-crawler)에 있습니다.
 
-Roberts 홀더 버전: 프로젝트 주소는 [此](https://github.com/rcy17/MOOC_subtitle_spider)입니다.
+Roberts 홀더 버전: 프로젝트 주소는 [여기](https://github.com/rcy17/MOOC_subtitle_spider)입니다.
 
-Rynco Maekawa 버전: 프로젝트 주소는 [此](https://github.com/lynzrand/xuetangx_sub)입니다.
+Rynco Maekawa 버전: 프로젝트 주소는 [여기](https://github.com/lynzrand/xuetangx_sub)입니다.
 
-c7w 버전: 프로젝트 주소는 [此](https://github.com/c7w/TsinghuaMoocCaptionCrawler)입니다.
+c7w 버전: 프로젝트 주소는 [여기](https://github.com/c7w/TsinghuaMoocCaptionCrawler)입니다.
 
 ## Rain Classroom 코스웨어 다운로더
 
 현재는 '장강비교실'에만 적용 가능하나, 수정 후 연지비교실에서도 사용이 가능합니다.
 
-프로젝트 주소는 [此](https://github.com/ShevonKuan/yuektang_ppt2pdf)입니다.
+프로젝트 주소는 [여기](https://github.com/ShevonKuan/yuektang_ppt2pdf)입니다.
 
 ## 청화 교육 참고서 크롤링
 
@@ -218,11 +218,11 @@ API 변경으로 인해 다음 두 항목을 사용할 수 없습니다.
 
 원문 인용: 최근 전염병이 심해 교과서 구입이 어려워졌습니다. 모든 사람의 온라인 학습을 촉진하기 위해 저는 Tsinghua 교재를 크롤링하는 Python 스크립트를 작성했습니다.
 
-프로젝트 주소는 [此](https://github.com/lflame/TsinghuaBookCrawler)입니다.
+프로젝트 주소는 [여기](https://github.com/lflame/TsinghuaBookCrawler)입니다.
 
 원문 인용 : 책 각 페이지의 원문 이미지를 자동으로 다운로드합니다.
 
-프로젝트 주소는 [此](https://github.com/i207M/reserves-lib-tsinghua-downloader)입니다.
+프로젝트 주소는 [여기](https://github.com/i207M/reserves-lib-tsinghua-downloader)입니다.
 
 ### 원취안 아카데미
 
@@ -234,7 +234,7 @@ Wenquan Xuetang은 Tsinghua University Press에서 도서를 검색하는 데 �
 
 현재 다음 프로젝트의 유지 관리 및 운영이 중단되었습니다.
 
-[https://wmcgcdn.rika.tech/](https://wmcgcdn.rika.tech/)에서 해당 프로젝트 주소는 [此](https://github.com/RikaKagurasaka/where-my-course-gone-backend)입니다.
+[https://wmcgcdn.rika.tech/](https://wmcgcdn.rika.tech/)에서 해당 프로젝트 주소는 [여기](https://github.com/RikaKagurasaka/where-my-course-gone-backend)입니다.
 
 ## 등록 표시(열차 티켓용)
 
@@ -268,7 +268,7 @@ aux 디렉터리에서 `TsinghuaBills.py`을 참조하세요.
 
 식당이 너무 많아서 어디서 식사해야 할지 모르시나요? 도움이 될 난수 생성기!
 
-[此](https://github.com/SuXY15/RandomCanteen)의 프로젝트
+[여기](https://github.com/SuXY15/RandomCanteen)의 프로젝트
 
 미니 프로그램 QR 코드
 
@@ -280,7 +280,7 @@ aux 디렉터리에서 `TsinghuaBills.py`을 참조하세요.
 
 또한 텔레그램 봇은 온라인 밀크티 마시기, 온라인 카푸치노 마시기, 온라인 음료 생산 등의 인터랙티브 기능도 제공합니다.
 
-프로젝트 주소는 [此](https://github.com/Lancern/thufood-tgbot)입니다.
+프로젝트 주소는 [여기](https://github.com/Lancern/thufood-tgbot)입니다.
 
 BOT 주소는 https://t.me/thufood_bot입니다.
 

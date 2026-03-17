@@ -129,7 +129,7 @@ Les utilisateurs disposant d'iOS 12 ou supérieur peuvent installer le raccourci
 
 Sur la base de cette interface [Konano](https://github.com/Konano), un Telegram Bot nommé Erha a été développé.
 
-L'adresse du projet est [此](https://github.com/Konano/Tuna-Erha-Bot). En plus de la fonction de requête sur l'état de la machine à laver, il existe d'autres fonctions.
+L'adresse du projet est [ici](https://github.com/Konano/Tuna-Erha-Bot). En plus de la fonction de requête sur l'état de la machine à laver, il existe d'autres fonctions.
 
 Le bot est accessible via [t.me/erhabot](https://t.me/erhabot).
 
@@ -164,23 +164,23 @@ obtenir.
 
 Reportez-vous à la section précédente pour l'introduction.
 
-Calculez la moyenne cumulative pour chaque semestre et le total des notes requises et requises sur la page « INFO-Toutes les notes ». L'adresse du script est [此](https://greasyfork.org/zh-CN/scripts/420540-清华大学gpa查询)
+Calculez la moyenne cumulative pour chaque semestre et le total des notes requises et requises sur la page « INFO-Toutes les notes ». L'adresse du script est [ici](https://greasyfork.org/zh-CN/scripts/420540-清华大学gpa查询)
 
 ## Aide en classe sous la pluie
 
 Ce script utilisateur est conçu pour offrir une meilleure expérience utilisateur aux étudiants de Rain Classroom sur des appareils à grand écran (PC, tablette).
 
-L'adresse du projet est [此](https://github.com/RainEggplant/rain-classroom-helper)
+L'adresse du projet est [ici](https://github.com/RainEggplant/rain-classroom-helper)
 
 ## Lecture automatique de vidéos sur la plate-forme intégrée de l'Université Tsinghua
 
-Le script se trouve dans [此](https://github.com/Co1lin/Tsinghua-Yukuotang-Autoplay) et peut lire automatiquement la vidéo du cours sur [tsinghua.yuketang.cn](https://github.com/Co1lin/Tsinghua-Yukuotang-Autoplay/blob/main/tsinghua.yuketang.cn).
+Le script se trouve dans [ici](https://github.com/Co1lin/Tsinghua-Yukuotang-Autoplay) et peut lire automatiquement la vidéo du cours sur [tsinghua.yuketang.cn](https://github.com/Co1lin/Tsinghua-Yukuotang-Autoplay/blob/main/tsinghua.yuketang.cn).
 
 ## La vidéo en ligne Xuetang est lue automatiquement
 
 Vérifiez-vous souvent si cela s’est arrêté lorsque vous étudiez des MOOC en arrière-plan ? Un script jouera automatiquement la prochaine leçon pour vous !
 
-Le script est dans [此](https://greasyfork.org/en/scripts/373881-清华学堂在线视频自动播放)
+Le script est dans [ici](https://greasyfork.org/en/scripts/373881-清华学堂在线视频自动播放)
 
 Étant donné que ce script a une longue histoire, n'a pas été maintenu depuis longtemps et contient également quelques bugs, sa disponibilité à long terme ne peut être garantie. Lorsque vous rencontrez des problèmes ou améliorez le code, vous pouvez contacter l'auteur original @RikaSugisawa
 
@@ -188,19 +188,19 @@ Le script est dans [此](https://greasyfork.org/en/scripts/373881-清华学堂�
 
 Êtes-vous toujours en train de feuilleter les vidéos une par une et de télécharger des sous-titres lorsque vous vous préparez à les visionner ? Ce script vous aide !
 
-Version Rabbit Hu : le script est à [此](https://greasyfork.org/zh-CN/scripts/408878-xuetangx-caption-crawler) et l'adresse du projet est à [此](https://github.com/Rabbit-Hu/xuetangx-caption-crawler).
+Version Rabbit Hu : le script est à [ici](https://greasyfork.org/zh-CN/scripts/408878-xuetangx-caption-crawler) et l'adresse du projet est à [ici](https://github.com/Rabbit-Hu/xuetangx-caption-crawler).
 
-Version Roberts Holder : L'adresse du projet est [此](https://github.com/rcy17/MOOC_subtitle_spider)
+Version Roberts Holder : L'adresse du projet est [ici](https://github.com/rcy17/MOOC_subtitle_spider)
 
-Version Rynco Maekawa : L'adresse du projet est [此](https://github.com/lynzrand/xuetangx_sub)
+Version Rynco Maekawa : L'adresse du projet est [ici](https://github.com/lynzrand/xuetangx_sub)
 
-Version c7w : L'adresse du projet est [此](https://github.com/c7w/TsinghuaMoocCaptionCrawler)
+Version c7w : L'adresse du projet est [ici](https://github.com/c7w/TsinghuaMoocCaptionCrawler)
 
 ## Téléchargeur de didacticiels Rain Classroom
 
 Actuellement, il n'est applicable qu'à la « Classe de pluie du fleuve Yangtze », mais il peut être utilisé dans la classe de pluie de Lotus Pond après modification.
 
-L'adresse du projet est [此](https://github.com/ShevonKuan/yuektang_ppt2pdf).
+L'adresse du projet est [ici](https://github.com/ShevonKuan/yuektang_ppt2pdf).
 
 ## Livre de référence pédagogique Tsinghua rampant
 
@@ -218,11 +218,11 @@ Les deux éléments suivants ne sont pas disponibles en raison de modifications 
 
 Cité du texte original : La récente épidémie a été grave et il a été difficile d'acheter des manuels. Afin de faciliter l'apprentissage en ligne de chacun, j'ai écrit un script python pour explorer le matériel pédagogique Tsinghua.
 
-L'adresse du projet est [此](https://github.com/lflame/TsinghuaBookCrawler)
+L'adresse du projet est [ici](https://github.com/lflame/TsinghuaBookCrawler)
 
 Citer le texte original : Téléchargez automatiquement les images originales de chaque page du livre.
 
-L'adresse du projet est [此](https://github.com/i207M/reserves-lib-tsinghua-downloader)
+L'adresse du projet est [ici](https://github.com/i207M/reserves-lib-tsinghua-downloader)
 
 ### Académie Wenquan
 
@@ -234,7 +234,7 @@ Actuellement disponible : [courseX 课程信息共享计划](https://tsinghua.a
 
 Les projets suivants ont actuellement cessé leur maintenance et leur exploitation :
 
-Dans [https://wmcgcdn.rika.tech/](https://wmcgcdn.rika.tech/), son adresse de projet est [此](https://github.com/RikaKagurasaka/where-my-course-gone-backend).
+Dans [https://wmcgcdn.rika.tech/](https://wmcgcdn.rika.tech/), son adresse de projet est [ici](https://github.com/RikaKagurasaka/where-my-course-gone-backend).
 
 ## Marque d'immatriculation (pour les billets de train)
 
@@ -268,7 +268,7 @@ Il existe actuellement une version macOS, projet [在此](https://github.com/Lyr
 
 Il y a trop de cantines et vous ne savez pas où manger ? Générateur de nombres aléatoires pour vous aider !
 
-Projet dans [此](https://github.com/SuXY15/RandomCanteen)
+Projet dans [ici](https://github.com/SuXY15/RandomCanteen)
 
 Code QR du mini-programme
 
@@ -280,7 +280,7 @@ Comme ci-dessus.
 
 En outre, Telegram Bot propose également des fonctions interactives telles que la consommation de thé au lait en ligne, la consommation de cappuccino en ligne et la production de boissons en ligne.
 
-L'adresse du projet est [此](https://github.com/Lancern/thufood-tgbot)
+L'adresse du projet est [ici](https://github.com/Lancern/thufood-tgbot)
 
 L'adresse du BOT est https://t.me/thufood_bot
 

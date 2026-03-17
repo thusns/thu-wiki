@@ -1,6 +1,3 @@
----
-
----
 # INFO recopilación de información importante
 
 ## Calendario Escolar
@@ -9,22 +6,22 @@ Ruta de acceso rápido: INFORMACIÓN (se requiere VPN fuera del campus)->Iniciar
 
 ### año escolar 2022-2023
 
-![2022 - 2023 学年 春季](pathname:///docs/thuservices/image/cal/2022-2023-2-cn.jpg)
+![2022 - 2023 学年 春季](image/cal/2022-2023-2-cn.jpg)
 
-![2023 - 2024 学年 秋季](pathname:///docs/thuservices/image/cal/2023-2024qiuji.jpg)
+![2023 - 2024 学年 秋季](image/cal/2023-2024qiuji.jpg)
 
-![2023 - 2024 学年 春季](pathname:///docs/thuservices/image/cal/2023-2024chunji.jpg)
+![2023 - 2024 学年 春季](image/cal/2023-2024chunji.jpg)
 
 ## Programa de formación profesional de pregrado.
 
-__JUE_WIKI_TOKEN_0__
+[Enlace del programa de capacitación del sitio web oficial de Tsinghua] (https://www.tsinghua.edu.cn/jyjx/bksjy/bkzy.htm)
 
-__JUE_WIKI_TOKEN_0__
+[Versión informativa del programa de capacitación de nivel 19 del Departamento de Ciencias de la Computación (es necesario iniciar sesión en información)](http://zhjw.cic.tsinghua.edu.cn/jhBks.vjhBksPyfakzbBs.do?m=pyfakzFrame&fajhh=193024111&theModule=pyfa)
 
 Se puede observar que el 19 en 193024111 en la dirección anterior indica el plan de capacitación de nivel 19, y el siguiente 3024111 es
 Códigos relacionados con el departamento
 
-__JUE_WIKI_TOKEN_0__
+[Planes de capacitación para todos los niveles y departamentos (es necesario iniciar sesión en la información)](http://zhjw.cic.tsinghua.edu.cn/jhBks.vjhBksPyfabBs.do?theModule=pyfa)
 
 Aquí está el índice de cada grado y departamento.
 
@@ -37,13 +34,13 @@ Folleto en inglés, versión en chino, versión en inglés del video promocional
 
 Ruta de acceso rápido: INFORMACIÓN -> Inicio -> Mitad de la parte inferior de la página
 
-__JUE_WIKI_TOKEN_0__
+[Materiales promocionales de la escuela (se requiere VPN fuera de la escuela)](http://info.tsinghua.edu.cn/html/xxxczl/xczlxz.htm)
 
 ### Versión casera
 
 Descripción general de la Universidad de Tsinghua, folletos, himno escolar y vídeos promocionales.
 
-__JUE_WIKI_TOKEN_0__
+[Materiales promocionales escolares] (https://www.tsinghua.edu.cn/zjqh/syxx/xczy.htm)
 
 ## Horario de selección de cursos
 
@@ -52,7 +49,7 @@ Ruta de acceso rápido: [ACADEMIC](http://academic.tsinghua.edu.cn/) (se requier
 
 ## Acceso directo a la selección de cursos
 
-__JUE_WIKI_TOKEN_0__
+[Inicio de sesión de selección de cursos (en el campus o SSLVPN) (válido durante el período de selección de cursos)](http://zhjwxk.cic.tsinghua.edu.cn/xklogin.do)
 
 ## Instrucciones relacionadas con el sistema de selección de cursos.
 
@@ -71,38 +68,38 @@ Este último es similar al del medio, solo necesita cambiar la URL relevante dur
 
 Solía ​​​​haber un método de filtrado en Info, pero desafortunadamente, por alguna razón, Info eliminó esta función. Ahora Info solo tiene información de exámenes para todos los cursos.
 
-Ahora debes iniciar sesión en [ACADEMIC](http://academic.tsinghua.edu.cn/), ingresar al portal y ver los cursos de este semestre.
+Ahora debes iniciar sesión en [ACADEMIC](http://academic.tsinghua.edu.cn/) e ingresar al portal para ver los cursos de este semestre.
 
 ## Catálogos de cursos de pregrado a lo largo de los años.
 
-__JUE_WIKI_TOKEN_0__
+[Catálogo de cursos de pregrado a lo largo de los años (en el campus o SSLVPN)](http://announce.cic.tsinghua.edu.cn/node/25833)
 
 ## Sistema de orientación de la Universidad de Tsinghua
 
 El Sistema de Orientación de la Universidad de Tsinghua es un sitio web donde los candidatos pueden verificar su información de registro en el sitio y si el proceso de registro se ha completado.
 
-__JUE_WIKI_TOKEN_0__
+[Sistema de Orientación de la Universidad de Tsinghua] (http://szyx.cic.tsinghua.edu.cn/index.jsp)
 
 ## Marca de registro (para billetes de tren para estudiantes)
 
 Ruta de acceso rápido: INFORMACIÓN (se requiere VPN fuera del campus) -> Iniciar sesión -> General -> "Información del estado del estudiante" en la foto en la esquina superior derecha -> Marcas de registro anteriores
 
-Se pueden encontrar tokens de registro adicionales en la sección [utils.md](utils.md).
+Se pueden encontrar indicadores registrados adicionales en la sección [utils.md](utils.md).
 
 ## Autobús escolar en el campus
 
-__JUE_WIKI_TOKEN_0__
-__JUE_WIKI_TOKEN_0__
+[Introducción al transporte universitario](https://www.tsinghua.edu.cn/zjqh/syxx/xyjt.htm)
+[Mapa de rutas de tráfico de autobuses escolares](https://www.tsinghua.edu.cn/__local/3/BB/BE/7260A578E48A6BA827528DE4F74_004A1626_73CEC.png)
 
 Para conocer el estado de operación de los autobuses escolares en tiempo real, puede utilizar la APP y/o miniprograma mencionado en "Introducción al Transporte Escolar"
 
 ## Mapa del campus (versión estática)
 
-__JUE_WIKI_TOKEN_0__
+[Mapa del campus](https://www.tsinghua.edu.cn/zjqh/xyfg/xydt.htm)
 
 ## Sistema de cuestionarios de la Universidad de Tsinghua
 
-__JUE_WIKI_TOKEN_0__
+[Sistema de cuestionarios de la Universidad de Tsinghua] (https://wenjuan.tsinghua.edu.cn)
 
 ## Código Tsinghua Bauhinia
 
@@ -122,7 +119,7 @@ Visita https://guestman.tsinghua.edu.cn:8443/ para registrarte. Nota: Solo se pu
 
 Nota: En la actualidad, este método es básicamente inválido y solo se puede acceder a él cuando el sistema de segundo grado está abierto.
 
-Después de iniciar sesión en INFO, visita http://jxgl.cic.tsinghua.edu.cn/jxpg/f/xssq/exwfx/xssqb/cksqs para ver tu GPA.
+Después de iniciar sesión en INFO, visite http://jxgl.cic.tsinghua.edu.cn/jxpg/f/xssq/exwfx/xssqb/cksqs para ver su GPA.
 
 ## Plataforma de servicios integrales de logística de la Universidad de Tsinghua
 
@@ -150,7 +147,7 @@ http://ecard.tsinghua.edu.cn/user/Index.do
 
 ## Descargue ACM/IEEE/HowNet y otros artículos (Shibboleth u OpenAthens)
 
-Consulte autenticación institucional en http://lib.tsinghua.edu.cn/tjfw/xwfw.htm.
+Consulte Autenticación de identidad institucional en http://lib.tsinghua.edu.cn/tjfw/xwfw.htm.
 
 ## Bono de reembolso de billete de tren
 

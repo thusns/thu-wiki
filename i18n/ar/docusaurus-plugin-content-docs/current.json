@@ -1,6 +1,6 @@
 {
   "version.label": {
-    "message": "Next",
+    "message": "التالي",
     "description": "The label for version current"
   },
   "sidebar.tutorialSidebar.category.THU Services": {
@@ -8,87 +8,87 @@
     "description": "The label for category THU Services in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.THU Services.link.generated-index.description": {
-    "message": "Credit: thu.services",
+    "message": "الائتمان: thu.services",
     "description": "The generated-index page description for category THU Services in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.体育": {
-    "message": "Sports",
+    "message": "الرياضة",
     "description": "The label for category 体育 in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.马约翰杯竞赛总规程": {
-    "message": "Ma Yuehan Cup General Rules",
+    "message": "القواعد العامة لكأس Ma Yuehan",
     "description": "The label for category 马约翰杯竞赛总规程 in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.“马约翰杯”极限飞盘": {
-    "message": "Ma Yuehan Cup Ultimate Frisbee",
+    "message": "كأس Ma Yuehan الفريسبي النهائي",
     "description": "The label for category “马约翰杯”极限飞盘 in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.新生赤足运动会": {
-    "message": "Freshmen Barefoot Sports Games",
+    "message": "ألعاب رياضية حفاة المبتدئين",
     "description": "The label for category 新生赤足运动会 in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.各院所机关热线": {
-    "message": "Department & Office Hotlines",
+    "message": "الخطوط الساخنة للإدارة والمكاتب",
     "description": "The label for category 各院所机关热线 in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.学习相关": {
-    "message": "Study Resources",
+    "message": "مصادر الدراسة",
     "description": "The label for category 学习相关 in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.授课老师特点（": {
-    "message": "Course Instructor Notes",
+    "message": "ملاحظات مدرس الدورة",
     "description": "The label for category 授课老师特点（ in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.选课": {
-    "message": "Course Selection",
+    "message": "اختيار الدورة",
     "description": "The label for category 选课 in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.志愿": {
-    "message": "Volunteering",
+    "message": "التطوع",
     "description": "The label for category 志愿 in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.本科大事件相关": {
-    "message": "Undergraduate Milestones",
+    "message": "معالم المرحلة الجامعية",
     "description": "The label for category 本科大事件相关 in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.校内外生活": {
-    "message": "Campus & Off-campus Life",
+    "message": "الحياة داخل الحرم الجامعي وخارج الحرم الجامعي",
     "description": "The label for category 校内外生活 in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.校内办事": {
-    "message": "On-campus Procedures",
+    "message": "الإجراءات داخل الحرم الجامعي",
     "description": "The label for category 校内办事 in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.衣食住行": {
-    "message": "Daily Life",
+    "message": "الحياة اليومية",
     "description": "The label for category 衣食住行 in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.北京旅游指南": {
-    "message": "Beijing Travel Guide",
+    "message": "دليل السفر إلى بكين",
     "description": "The label for category 北京旅游指南 in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.校园历史文化": {
-    "message": "Campus History & Culture",
+    "message": "تاريخ وثقافة الحرم الجامعي",
     "description": "The label for category 校园历史文化 in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.社会实践": {
-    "message": "Social Practice",
+    "message": "الممارسة الاجتماعية",
     "description": "The label for category 社会实践 in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.社团": {
-    "message": "Clubs",
+    "message": "الأندية",
     "description": "The label for category 社团 in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.学生社团": {
-    "message": "Student Clubs",
+    "message": "الأندية الطلابية",
     "description": "The label for category 学生社团 in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.科研": {
-    "message": "Research",
+    "message": "بحث",
     "description": "The label for category 科研 in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.经验分享": {
-    "message": "Experience Sharing",
+    "message": "مشاركة الخبرة",
     "description": "The label for category 经验分享 in sidebar tutorialSidebar"
   }
 }

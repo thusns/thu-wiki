@@ -129,7 +129,7 @@ iOS 12 以上的使用者可以透過此[链接](https://www.icloud.com/shortcut
 
 基於此介面[Konano](https://github.com/Konano)開發了一個 Telegram Bot，名為二哈。
 
-項目地址在[此](https://github.com/Konano/Tuna-Erha-Bot)，在洗衣機狀態查詢功能外，還有更多功能。
+項目地址在[此處](https://github.com/Konano/Tuna-Erha-Bot)，在洗衣機狀態查詢功能外，還有更多功能。
 
 可以透過[t.me/erhabot](https://t.me/erhabot) 存取該 Bot。
 
@@ -164,23 +164,23 @@ iOS 12 以上的使用者可以透過此[链接](https://www.icloud.com/shortcut
 
 介紹參考上一節。
 
-在「INFO-全部成績」頁面計算各學期以及總的必限以及必限任的GPA。腳本地址在[此](https://greasyfork.org/zh-CN/scripts/420540-清华大学gpa查询)
+在「INFO-全部成績」頁面計算各學期以及總的必限以及必限任的GPA。腳本地址在[此處](https://greasyfork.org/zh-CN/scripts/420540-清华大学gpa查询)
 
 ## Rain Classroom Helper
 
 此使用者腳本旨在為大螢幕裝置（PC、平板）提供更好的雨課堂學生端使用體驗。
 
-項目地址在[此](https://github.com/RainEggplant/rain-classroom-helper)
+項目地址在[此處](https://github.com/RainEggplant/rain-classroom-helper)
 
 ## 清華大學一體化平台影片自動播放
 
-腳本在[此](https://github.com/Co1lin/Tsinghua-Yukuotang-Autoplay)，可自動播放 [tsinghua.yuketang.cn](https://github.com/Co1lin/Tsinghua-Yukuotang-Autoplay/blob/main/tsinghua.yuketang.cn) 上的課程影片。
+腳本在[此處](https://github.com/Co1lin/Tsinghua-Yukuotang-Autoplay)，可自動播放 [tsinghua.yuketang.cn](https://github.com/Co1lin/Tsinghua-Yukuotang-Autoplay/blob/main/tsinghua.yuketang.cn) 上的課程影片。
 
 ## 學堂線上影片自動播放
 
 還在後台刷慕課時經常查看是否停止嗎，一個腳本幫你自動播放下一課！
 
-腳本在[此](https://greasyfork.org/en/scripts/373881-清华学堂在线视频自动播放)
+腳本在[此處](https://greasyfork.org/en/scripts/373881-清华学堂在线视频自动播放)
 
 由於此腳本歷史較久，較久未維護，也存在一些bug，不保證其長期的可用性。發現問題時或改進程式碼時可聯絡原作者 @RikaSugisawa
 
@@ -188,19 +188,19 @@ iOS 12 以上的使用者可以透過此[链接](https://www.icloud.com/shortcut
 
 還在準備複習的時候一個個翻影片下載字幕嗎？這個腳本幫你忙！
 
-Rabbit Hu 版本：腳本在[此](https://greasyfork.org/zh-CN/scripts/408878-xuetangx-caption-crawler)，項目地址在[此](https://github.com/Rabbit-Hu/xuetangx-caption-crawler)。
+Rabbit Hu 版本：腳本在[此處](https://greasyfork.org/zh-CN/scripts/408878-xuetangx-caption-crawler)，項目地址在[此處](https://github.com/Rabbit-Hu/xuetangx-caption-crawler)。
 
-Roberts Holder 版本：專案地址在[此](https://github.com/rcy17/MOOC_subtitle_spider)
+Roberts Holder 版本：專案地址在[此處](https://github.com/rcy17/MOOC_subtitle_spider)
 
-Rynco Maekawa 版本：專案地址在[此](https://github.com/lynzrand/xuetangx_sub)
+Rynco Maekawa 版本：專案地址在[此處](https://github.com/lynzrand/xuetangx_sub)
 
-c7w 版本：項目位址在[此](https://github.com/c7w/TsinghuaMoocCaptionCrawler)
+c7w 版本：項目位址在[此處](https://github.com/c7w/TsinghuaMoocCaptionCrawler)
 
 ## 雨課堂課件下載器
 
 目前僅適用於「長江雨教室」，不過改改可用於荷塘雨教室。
 
-項目地址在[此](https://github.com/ShevonKuan/yuektang_ppt2pdf)。
+項目地址在[此處](https://github.com/ShevonKuan/yuektang_ppt2pdf)。
 
 ## 清華教學參考書爬取
 
@@ -218,11 +218,11 @@ c7w 版本：項目位址在[此](https://github.com/c7w/TsinghuaMoocCaptionCraw
 
 引自原文：最近疫情嚴重，購買教材較為困難，為了方便大家在線學習，寫了一個爬取清華教參的 python 腳本。
 
-項目地址在[此](https://github.com/lflame/TsinghuaBookCrawler)
+項目地址在[此處](https://github.com/lflame/TsinghuaBookCrawler)
 
 引用原文：自動下載書籍每一頁的原圖。
 
-項目地址在[此](https://github.com/i207M/reserves-lib-tsinghua-downloader)
+項目地址在[此處](https://github.com/i207M/reserves-lib-tsinghua-downloader)
 
 ### 文泉學堂
 
@@ -234,7 +234,7 @@ c7w 版本：項目位址在[此](https://github.com/c7w/TsinghuaMoocCaptionCraw
 
 以下項目目前已經停止維護與營運：
 
-在[https://wmcgcdn.rika.tech/](https://wmcgcdn.rika.tech/)中，其項目位址為[此](https://github.com/RikaKagurasaka/where-my-course-gone-backend)。
+在[https://wmcgcdn.rika.tech/](https://wmcgcdn.rika.tech/)中，其項目位址為[此處](https://github.com/RikaKagurasaka/where-my-course-gone-backend)。
 
 ## 註冊標誌（用於火車票）
 
@@ -268,7 +268,7 @@ c7w 版本：項目位址在[此](https://github.com/c7w/TsinghuaMoocCaptionCraw
 
 食堂太多不知道去哪裡吃？隨機數字產生器幫您忙！
 
-項目在[此](https://github.com/SuXY15/RandomCanteen)
+項目在[此處](https://github.com/SuXY15/RandomCanteen)
 
 小程式二維碼
 
@@ -280,7 +280,7 @@ c7w 版本：項目位址在[此](https://github.com/c7w/TsinghuaMoocCaptionCraw
 
 另外，Telegram Bot 也提供線上喝奶茶、線上喝卡布奇諾、線上生產飲品等互動功能。
 
-項目地址在[此](https://github.com/Lancern/thufood-tgbot)
+項目地址在[此處](https://github.com/Lancern/thufood-tgbot)
 
 BOT 位址為 https://t.me/thufood_bot
 

@@ -129,7 +129,7 @@ https://washer.thu.services/?s=紫荆1号楼
 
 На основе этого интерфейса [Konano](https://github.com/Konano) был разработан Telegram-бот под названием Erha.
 
-Адрес проекта: [此](https://github.com/Konano/Tuna-Erha-Bot). Помимо функции запроса состояния стиральной машины, есть и другие функции.
+Адрес проекта: [здесь](https://github.com/Konano/Tuna-Erha-Bot). Помимо функции запроса состояния стиральной машины, есть и другие функции.
 
 Доступ к боту можно получить через [t.me/erhabot](https://t.me/erhabot).
 
@@ -164,23 +164,23 @@ https://washer.thu.services/?s=紫荆1号楼
 
 Обратитесь к предыдущему разделу для ознакомления.
 
-Рассчитайте средний балл за каждый семестр, а также общее количество обязательных и обязательных оценок на странице «ИНФО-Все оценки». Адрес скрипта: [此](https://greasyfork.org/zh-CN/scripts/420540-清华大学gpa查询).
+Рассчитайте средний балл за каждый семестр, а также общее количество обязательных и обязательных оценок на странице «ИНФО-Все оценки». Адрес скрипта: [здесь](https://greasyfork.org/zh-CN/scripts/420540-清华大学gpa查询).
 
 ## Дождь, помощник в классе
 
 Этот пользовательский скрипт предназначен для повышения удобства работы учащихся Rain Classroom на устройствах с большим экраном (ПК, планшет).
 
-Адрес проекта: [此](https://github.com/RainEggplant/rain-classroom-helper).
+Адрес проекта: [здесь](https://github.com/RainEggplant/rain-classroom-helper).
 
 ## Автоматическое воспроизведение видео на интегрированной платформе Университета Цинхуа
 
-Скрипт находится в [此](https://github.com/Co1lin/Tsinghua-Yukuotang-Autoplay) и может автоматически воспроизводить видео курса на [tsinghua.yuketang.cn](https://github.com/Co1lin/Tsinghua-Yukuotang-Autoplay/blob/main/tsinghua.yuketang.cn).
+Скрипт находится в [здесь](https://github.com/Co1lin/Tsinghua-Yukuotang-Autoplay) и может автоматически воспроизводить видео курса на [tsinghua.yuketang.cn](https://github.com/Co1lin/Tsinghua-Yukuotang-Autoplay/blob/main/tsinghua.yuketang.cn).
 
 ## Онлайн-видео Сюэтанг воспроизводится автоматически
 
 Часто ли вы проверяете, остановилось ли оно, когда изучаете МООК в фоновом режиме? Скрипт автоматически воспроизведет для вас следующий урок!
 
-Скрипт находится в [此](https://greasyfork.org/en/scripts/373881-清华学堂在线视频自动播放).
+Скрипт находится в [здесь](https://greasyfork.org/en/scripts/373881-清华学堂在线视频自动播放).
 
 Поскольку этот скрипт имеет долгую историю, долгое время не поддерживался, а также содержит некоторые ошибки, его долгосрочная доступность не может быть гарантирована. Если вы обнаружите проблемы или улучшите код, вы можете связаться с первоначальным автором @RikaSugisawa.
 
@@ -188,19 +188,19 @@ https://washer.thu.services/?s=紫荆1号楼
 
 Вы все еще листаете видео одно за другим и загружаете субтитры, готовясь к просмотру? Этот скрипт поможет вам!
 
-Версия Rabbit Hu: сценарий находится по адресу [此](https://greasyfork.org/zh-CN/scripts/408878-xuetangx-caption-crawler), а адрес проекта — [此](https://github.com/Rabbit-Hu/xuetangx-caption-crawler).
+Версия Rabbit Hu: сценарий находится по адресу [здесь](https://greasyfork.org/zh-CN/scripts/408878-xuetangx-caption-crawler), а адрес проекта — [здесь](https://github.com/Rabbit-Hu/xuetangx-caption-crawler).
 
-Версия Робертса Холдера: адрес проекта: [此](https://github.com/rcy17/MOOC_subtitle_spider).
+Версия Робертса Холдера: адрес проекта: [здесь](https://github.com/rcy17/MOOC_subtitle_spider).
 
-Версия Rynco Maekawa: адрес проекта: [此](https://github.com/lynzrand/xuetangx_sub).
+Версия Rynco Maekawa: адрес проекта: [здесь](https://github.com/lynzrand/xuetangx_sub).
 
-версия c7w: адрес проекта — [此](https://github.com/c7w/TsinghuaMoocCaptionCrawler).
+версия c7w: адрес проекта — [здесь](https://github.com/c7w/TsinghuaMoocCaptionCrawler).
 
 ## Загрузчик курсов Rain Classroom
 
 В настоящее время он применим только к «Дождевому классу на реке Янцзы», но после модификации его можно использовать в Дождевом классе у пруда с лотосами.
 
-Адрес проекта: [此](https://github.com/ShevonKuan/yuektang_ppt2pdf).
+Адрес проекта: [здесь](https://github.com/ShevonKuan/yuektang_ppt2pdf).
 
 ## Цинхуа обучает ползанию по справочнику
 
@@ -218,11 +218,11 @@ https://washer.thu.services/?s=紫荆1号楼
 
 Цитата из оригинального текста: Недавняя эпидемия была серьезной, и было трудно покупать учебники. Чтобы облегчить каждому онлайн-обучение, я написал скрипт на Python для сканирования учебных материалов Цинхуа.
 
-Адрес проекта: [此](https://github.com/lflame/TsinghuaBookCrawler).
+Адрес проекта: [здесь](https://github.com/lflame/TsinghuaBookCrawler).
 
 Цитирование оригинального текста: Автоматически загружайте оригинальные изображения каждой страницы книги.
 
-Адрес проекта: [此](https://github.com/i207M/reserves-lib-tsinghua-downloader).
+Адрес проекта: [здесь](https://github.com/i207M/reserves-lib-tsinghua-downloader).
 
 ### Академия Вэньцюань
 
@@ -234,7 +234,7 @@ Wenquan Xuetang используется для поиска книг из из�
 
 Следующие проекты в настоящее время прекратили обслуживание и эксплуатацию:
 
-В [https://wmcgcdn.rika.tech/](https://wmcgcdn.rika.tech/) адрес проекта — [此](https://github.com/RikaKagurasaka/where-my-course-gone-backend).
+В [https://wmcgcdn.rika.tech/](https://wmcgcdn.rika.tech/) адрес проекта — [здесь](https://github.com/RikaKagurasaka/where-my-course-gone-backend).
 
 ## Регистрационный знак (для билетов на поезд)
 
@@ -268,7 +268,7 @@ Wenquan Xuetang используется для поиска книг из из�
 
 Столовых слишком много, и вы не знаете, где поесть? Генератор случайных чисел в помощь!
 
-Проект в [此](https://github.com/SuXY15/RandomCanteen)
+Проект в [здесь](https://github.com/SuXY15/RandomCanteen)
 
 QR-код мини-программы
 
@@ -280,7 +280,7 @@ QR-код мини-программы
 
 Кроме того, Telegram Bot также предоставляет интерактивные функции, такие как онлайн-питье чая с молоком, онлайн-питье капучино и онлайн-производство напитков.
 
-Адрес проекта: [此](https://github.com/Lancern/thufood-tgbot).
+Адрес проекта: [здесь](https://github.com/Lancern/thufood-tgbot).
 
 Адрес BOT: https://t.me/thufood_bot.
 

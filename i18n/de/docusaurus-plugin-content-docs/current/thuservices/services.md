@@ -1,9 +1,6 @@
----
-
----
 # Tsinghua Service Usage Guide (hauptsächlich für Linux-Benutzer)
 
-Dieser Artikel konzentriert sich auf die Nutzungsanweisungen einiger Tsinghua-Dienste auf Linux-Maschinen, einschließlich Remote-Servern.
+Dieser Artikel konzentriert sich auf die Anweisungen zur Verwendung einiger Tsinghua-Dienste auf Linux-Maschinen, einschließlich Remote-Servern.
 
 und Aktivierungsanleitung für Windows 10 auf dem Campus
 
@@ -55,21 +52,21 @@ openconnect --protocol=pulse https://sslvpn.tsinghua.edu.cn --useragent Pulse-Se
 
 Nach Eingabe Ihres Accounts und Passwortes werden Sie mit dem Campusnetz verbunden und können auf die Campus-Dienste zugreifen (INFO/USEREG).
 
-Es ist erwähnenswert, dass der Verkehr, der nichts mit der Tsinghua-Universität zu tun hat, immer noch über die ursprüngliche Route weitergeleitet wird. Dieses Verhalten unterscheidet sich von dem unter Windows. (Bedarfsbescheinigung für diesen Artikel)
+Es ist zu beachten, dass der Verkehr, der nichts mit der Tsinghua-Universität zu tun hat, immer noch über die ursprüngliche Route weitergeleitet wird. Dieses Verhalten unterscheidet sich von dem unter Windows. (Bedarfsbescheinigung für diesen Artikel)
 
 ## Internetauthentifizierung
 
 ### Grundkenntnisse des Campusnetzwerks
 
-[清华大学校园网使用简介](https://its.tsinghua.edu.cn/helpsystem/train/CampusNetworkLectureNotes201909.pdf) (Da der Link zum Upgrade der Webseite abgelaufen ist, lesen Sie bitte [备份](pathname:///docs/thuservices/file/CampusNetworkLectureNotes201909.pdf) auf dieser Website.)
+[Einführung in das Tsinghua University Campus Network] (https://its.tsinghua.edu.cn/helpsystem/train/CampusNetworkLectureNotes201909.pdf) (Da der Link zum Upgrade der Webseite abgelaufen ist, lesen Sie bitte die [Sicherung] (file/CampusNetworkLectureNotes201909.pdf) dieser Website.)
 
-[准入上网使用说明](http://166.111.5.8/commsoft/helpsystem/wirednetwork/RealNameAuthentication20190121.pdf) (diese Seite[备份](pathname:///docs/thuservices/file/RealNameAuthentication20190121.pdf))
+[Anweisungen für den Zugriff auf das Internet](http://166.111.5.8/commsoft/helpsystem/wirednetwork/RealNameAuthentication20190121.pdf) (Diese Seite [Backup](file/RealNameAuthentication20190121.pdf))
 
-[清华大学校园网有线局域网用户准入系统使用说明（问与答）](https://its.tsinghua.edu.cn/helpsystem/wirednetwork/RealNameAuthenticationFAQ20190614.pdf) (Da der Link zum Upgrade der Webseite abgelaufen ist, lesen Sie bitte [备份](pathname:///docs/thuservices/file/RealNameAuthenticationFAQ20190614.pdf) auf dieser Website.)
+[Anweisungen zur Verwendung des Tsinghua University Campus Network Wired LAN User Access System (Q&A)] (https://its.tsinghua.edu.cn/helpsystem/wirednetwork/RealNameAuthenticationFAQ20190614.pdf) (Da der Link zum Upgrade der Webseite abgelaufen ist, lesen Sie bitte die [Sicherung] (file/RealNameAuthenticationFAQ20190614.pdf) dieser Website.)
 
 Das obige Dokument ist zu lang und ich möchte es nicht lesen: Es gibt zwei Schritte, um auf das Campus-Netzwerk auf das Internet zuzugreifen: der eine ist der Zugriff und der andere der Zugriff.
 
-Wenn kein Zugriff und Zugriff besteht, kann die Maschine nur `166.111.8.28` und `2402:f000:1:801::8:28` anpingen, wenn Sie über die entsprechenden v4- und v6-Adressen verfügen. Andere Adressen auf dem Campus sind nicht verfügbar.
+Wenn kein Zugang oder Ausgang besteht, kann die Maschine `166.111.8.28` und `2402:f000:1:801::8:28` nur anpingen, wenn Sie über die entsprechenden v4- und v6-Adressen verfügen. Andere Adressen auf dem Campus sind nicht verfügbar.
 
 Wenn bei IPv4 Zugriff besteht, aber kein Zugriff vorhanden ist, kann der Computer den Computer auf dem Campus anpingen, aber nicht den Computer außerhalb des Campus, d. h. er kann nicht auf das externe Netzwerk zugreifen. Nur wenn eine Berechtigung zum Betreten und Verlassen vorliegt, kann die Maschine eine Verbindung zum externen Netzwerk herstellen.
 
@@ -101,7 +98,7 @@ auth-thu online # 保持机器在线
 
 Normale Benutzer können es in ihrem Home-Verzeichnis ablegen und es als Befehlszeilentool verwenden, um die meisten Authentifizierungsanforderungen zu erfüllen.
 
-Bekanntes Problem: Nachdem der Benutzer `auth-thu auth -C` (nur Eintritt) übergibt und `auth-thu login` (nur Ausstieg) aufruft, schlägt der Ausstieg fehl.
+Bekanntes Problem: Nachdem der Benutzer `auth-thu auth -C` (nur Einlass) übergeben und `auth-thu login` (nur Ausstieg) aufgerufen hat, schlägt der Ausstieg fehl.
 
 #### automatische Authentifizierung
 
@@ -109,53 +106,53 @@ Für Systemadministratoren besteht möglicherweise die Notwendigkeit, dass Serve
 
 Nachdem Sie die Datei heruntergeladen haben, legen Sie sie bitte im entsprechenden Verzeichnis ab (z. B. /usr/local/bin). Legen Sie gleichzeitig die Konfigurationsdatei in einem geeigneten Verzeichnis ab und Sie können sie verwenden.
 
-Um eine automatische **genaue Ausgabe** zu erreichen, müssen Sie den angehängten `goauthing.service` oder `goauthing@.service` im Ordner `/etc/systemd/system/` ablegen und den entsprechenden Inhalt so anpassen, dass er mit dem Pfad der Programmdatei und der Konfigurationsdatei übereinstimmt
+Um eine automatische **genaue Ausgabe** zu erreichen, müssen Sie das angehängte `goauthing.service` oder `goauthing@.service` im Ordner `/etc/systemd/system/` ablegen und den entsprechenden Inhalt so anpassen, dass er mit dem Pfad der Programmdatei und der Konfigurationsdatei übereinstimmt
 
 ``` bash
 $ systemctl enable goauthing.service
 ```
 
-Starten Sie den entsprechenden Dienst, um den Zweck der automatischen Authentifizierung zu erreichen. Wenn Sie Kontoinformationen im Home-Verzeichnis des Benutzers statt in `/etc` speichern möchten, können Sie auf `goauthing@.service` verweisen.
+Starten Sie den entsprechenden Dienst, um den Zweck der automatischen Authentifizierung zu erreichen. Wenn Sie Kontoinformationen im Home-Verzeichnis des Benutzers anstelle von `/etc` speichern möchten, beziehen Sie sich bitte auf `goauthing@.service`.
 
-Wenn Sie die automatische Zulassung von `v6` implementieren möchten, lesen Sie bitte `goauthing6.service` und `goauthing6@.service`. Wenn Sie nur die automatische v4-Zulassung wünschen, müssen Sie `auth` in `goauthing.service` in `auth -C` ändern und die Zeile `login` löschen.
+Wenn Sie die automatische Zulassung von `v6` implementieren möchten, beziehen Sie sich bitte auf `goauthing6.service` und `goauthing6@.service`. Wenn Sie nur die automatische Zulassung für Version 4 wünschen, müssen Sie `auth` in `goauthing.service` in `auth -C` ändern und die Zeile `login` löschen.
 
-Wenn jemand dies verpackt, bitte PR. Das Paket `auth-thu-bin` existiert derzeit im AUR (das Paket `auth-thu` ist veraltet).
+Wenn jemand dies verpackt, bitte PR. Derzeit gibt es `auth-thu-bin` Pakete im AUR (`auth-thu` Pakete sind veraltet).
 
 ### Authentifizierung des Remote-Servers
 
 (Aus Erfahrung des Autors hat usereg weniger Feedback zum Erfolg und Misserfolg des Ein- und Ausstiegs. Es wird empfohlen, die Befehlszeilen- und Webseitenauthentifizierung zu verwenden und usereg nur als Statusfeld zu verwenden.)
 
-Auf einigen Servern können Sie [net.tsinghua.edu.cn](https://net.tsinghua.edu.cn) nicht mit einem Browser zur Authentifizierung öffnen. Sie können nur [命令行工具](### 命令行认证 自动认证) oder „Zugriffsauthentifizierung“ verwenden, um Zugriff zu erhalten.
+Auf einigen Servern können Sie [net.tsinghua.edu.cn](https://net.tsinghua.edu.cn) nicht mit einem Browser zur Authentifizierung öffnen. Sie können nur [Befehlszeilentool](### 命令行认证 自动认证) oder „Zugriffsauthentifizierung“ verwenden, um Zugriff zu erhalten.
 
-Für die Proxy-Authentifizierung müssen Sie zunächst die IPv4-Adresse des Servers in der Form `166.111.x.x` oder `59.66.x.x` oder `101.x.x.x` kennen. Öffnen Sie dann den Abschnitt [usereg.tsinghua.edu.cn](https://usereg.tsinghua.edu.cn) „Zugriff auf Proxy-Authentifizierung“ und geben Sie die IP ein, um Zugriff zu erhalten. Beim Einlass können Sie wählen, ob der Zugang aktiviert werden soll.
+Für die Proxy-Authentifizierung müssen Sie zunächst die IPv4-Adresse des Servers in der Form `166.111.x.x` oder `59.66.x.x` oder `101.x.x.x` kennen, dann den Abschnitt „Zugriffs-Proxy-Authentifizierung“ von [usereg.tsinghua.edu.cn](https://usereg.tsinghua.edu.cn) öffnen, die IP eingeben, um Zugriff zu erhalten, und Sie können wählen, ob die Zugriffsautorisierung während der Zulassung aktiviert werden soll.
 
 Wenn Sie bei einigen Maschinen mit dreischichtigem Zugriff Zugriff auf Version 6 erreichen möchten, können Sie den Zugriff auch über „Access Agency Authentication“ erreichen.
 
 Für einige Server, die Zugriff haben, aber keinen Zugriff haben, können Sie „Mit anderen IPs verbinden“ verwenden, um Zugriff zu erhalten.
 
-Bezüglich Fragen der Ein- und Ausreise sind PRs willkommen.
+Bei Ein- und Ausstiegsthemen sind PRs willkommen.
 
 Hinsichtlich der Performance von IPv4 und IPv6 bei Online- und Offline-Ein- und -Austritt sowie der Performance des Layer-2-Zugangs/Layer-3-Zugangs auf dem Campus sind PRs willkommen.
 
 ### Authentifizierung der Remote-Server-Webseite
 
-Manchmal sind die Informationen in `usereg` nicht korrekt. Wenn Sie sich zu diesem Zeitpunkt noch mit `ssh` am Computer anmelden können, können Sie neben der zuvor erwähnten „Befehlszeilenauthentifizierung“ auch Optionen beim Anmelden verwenden.
+Manchmal sind die Informationen in `usereg` nicht korrekt. Wenn sich `ssh` zu diesem Zeitpunkt noch am Computer anmelden kann, können Sie neben der zuvor erwähnten „Befehlszeilenauthentifizierung“ auch die Option beim Anmelden verwenden.
 
 ```
 ssh -D <port> host
 ```
 
-Auf diese Weise wird lokal ein Socks5-Proxy mit `<port>` als Port erstellt. Wenn Sie diesen Proxy im Browser verwenden, können Sie wie gewohnt eine Webseitenauthentifizierung erreichen.
+Auf diese Weise wird lokal ein Socks5-Proxy mit `<port>` als Port erstellt. Wenn Sie diesen Proxy im Browser verwenden, können Sie wie gewohnt eine Webseitenauthentifizierung durchführen.
 
-Insbesondere ist es wichtig zu beachten, dass Sie zur Authentifizierung nicht direkt auf auth4/auth6 zugreifen können (siehe Fragen und Antworten). Sie müssen über Jump auf auth4/auth6 zugreifen, um die richtige ac\_id zu erhalten. Im Allgemeinen können Sie auf info/learn/login zugreifen, um zu springen, oder Sie können durch 3.3.3.3 und [3:3:3::3] springen. Letzteres ist eine bequemere Lösung für Benutzer mit dreistufigem Zugriff, um auf auth6 zuzugreifen.
+Insbesondere ist es wichtig zu beachten, dass Sie zur Authentifizierung nicht direkt auf auth4/auth6 zugreifen können (siehe Fragen und Antworten). Sie müssen über Jump auf auth4/auth6 zugreifen, um die richtige ac\_id zu erhalten. Im Allgemeinen können Sie auf info/learn/login zugreifen, um zu springen, oder Sie können durch 3.3.3.3 und [3:3:3::3] springen. Letzteres ist eine bequemere Lösung für Benutzer mit dreischichtigem Zugriff, um auf auth6 zuzugreifen.
 
 ### Tsinghua-Sicher
 
-Wenn es sich um eine Umgebung auf dem Campus handelt, stellen Sie zunächst eine Verbindung zu `Tsinghua-Secure无线网使用指南` her, um [usereg.tsinghua.edu.cn](https://usereg.tsinghua.edu.cn) einzugeben. Legen Sie nach der Anmeldung das von Tsinghua-Secure verwendete Passwort in `自注册及修改口令处` fest. Dieses Passwort muss nicht mit dem Info-Passwort identisch sein.
+Wenn es sich um eine Umgebung auf dem Campus handelt, verbinden Sie zuerst `Tsinghua-Secure无线网使用指南`, um [usereg.tsinghua.edu.cn](https://usereg.tsinghua.edu.cn) einzugeben. Legen Sie nach der Anmeldung das von Tsinghua-Secure verwendete Passwort auf `自注册及修改口令处` fest. Dieses Passwort muss nicht mit dem Info-Passwort identisch sein.
 
 #### NetzwerkManager
 
-Nach der Einrichtung können Sie mit `NetworkManager` eine Verbindung zum WLAN herstellen. Sie können sich auf die Dokumentation [清华大学无线校园网 802.1x 认证登录客户端配置说明](https://its.tsinghua.edu.cn/info/1333/2318.htm) (diese Website [备份](pathname:///docs/thuservices/file/tsinghua-secure-config.pdf)) beziehen.
+Nach der Einrichtung können Sie mit `NetworkManager` eine Verbindung zum WLAN herstellen. Sie können sich auf das Dokument [Tsinghua University Wireless Campus Network 802.1x Authentication Login Client Configuration Instructions] (https://its.tsinghua.edu.cn/info/1333/2318.htm) (Diese Seite [Backup] (file/tsinghua-secure-config.pdf)) beziehen.
 
 Die Beispielkonfiguration `/etc/NetworkManager/system-connections/Tsinghua-Secure.nmconnection` lautet wie folgt
 
@@ -196,18 +193,18 @@ token=::114:514:1919:810
 [proxy]
 ```
 
-Diese Beispielkonfiguration aktiviert nur IPv6 und erhält ein bestimmtes Suffix (bitte wählen Sie das Suffix selbst, um Adresskollisionen zu vermeiden) und verwendet `identity` von `identity`, um sicherzustellen, dass das Kontingent nicht belegt ist.
+Diese Beispielkonfiguration aktiviert nur IPv6 und erhält ein bestimmtes Suffix (bitte wählen Sie das Suffix selbst, um Adresskonflikte zu vermeiden) und verwendet `@tsinghua` und `identity`, um sicherzustellen, dass das Kontingent nicht belegt ist.
 
 Besonderes Augenmerk sollte darauf gelegt werden, wenn Sie die folgenden drei Bedingungen gleichzeitig erfüllen:
 
 1.  `NetworkManager` verwendet das Backend `wpa_supplicant`
-1.  Verwendung von Version 3.0.0 und höher von `openssl`
-1.  In der verwendeten Distribution ist `wpa_supplicant` nicht mit [修复 tls 1.0/1.1 连接的 patch](https://launchpad.net/ubuntu/+source/wpa/2:2.10-6ubuntu2) markiert (derzeit wird bestätigt, dass Ubuntu über einen Patch verfügt, NixOS jedoch nicht über einen Patch).
+1.  Mit Version 3.0.0 und höher `openssl`
+1.  Die verwendete Distributionsversion wurde für `wpa_supplicant` nicht mit [Patch zum Reparieren der TLS 1.0/1.1-Verbindung](https://launchpad.net/ubuntu/+source/wpa/2:2.10-6ubuntu2) markiert (es wird derzeit bestätigt, dass Ubuntu über einen Patch verfügt, NixOS jedoch nicht).
 
 Dann kann Ihr `NetworkManager` möglicherweise keine Verbindung zu `Tsinghua-Secure` herstellen, da die TLS 1.0-Verbindung deaktiviert ist. In diesem Fall gibt es zwei Lösungen, von denen jede gelöst werden kann:
 
-1.  Aktualisieren Sie NetworkManager auf `1.41.5-dev` und höher. Um genau zu sein, stellen Sie sicher, dass [这个 commit](https://gitlab.freedesktop.org/NetworkManager/NetworkManager/-/commit/98dd4180ec163af63fe1e0fda00158ac7f0047df) enthalten ist. Fügen Sie eine Zeile `phase1-auth-flags=32` (`tls-1-0-enable` in `NetworkManager`) zum Abschnitt `[802-1x]` der obigen Konfigurationsdatei hinzu. Diese Option entspricht `0x20`, konvertiert in Dezimalzahl `32`. Diese Konvertierungsbeziehung ist derzeit nicht im Dokument aufgezeichnet, daher gibt es keine Garantie dafür, dass die Zahl 32 immer gültig ist. Eine sicherere Methode besteht darin, `802-1x.phase1-auth-flags` mithilfe von `nmcli` manuell auf `tls-1-0-enable` zu setzen.
-1.  Wenden Sie den oben genannten Patch auf Ihren `wpa_supplicant` an.
+1.  Aktualisieren Sie NetworkManager auf `1.41.5-dev` und höher. Um genau zu sein, stellen Sie sicher, dass [dieses Commit](https://gitlab.freedesktop.org/NetworkManager/NetworkManager/-/commit/98dd4180ec163af63fe1e0fda00158ac7f0047df) enthalten ist. Fügen Sie eine Zeile `phase1-auth-flags=32` im Abschnitt `[802-1x]` der obigen Konfigurationsdatei hinzu (die Option `tls-1-0-enable` in `NetworkManager` entspricht `0x20` und wird in eine Dezimalzahl umgewandelt: `32`. Diese Konvertierungsbeziehung wird nicht im Dokument aufgezeichnet, daher gibt es keine Garantie dafür, dass die Zahl 32 immer gültig ist. Eine effektivere Methode besteht darin, `nmcli` manuell zu verwenden, um `Tsinghua-Secure` und `802-1x.phase1-auth-flags` auf `tls-1-0-enable` zu setzen).
+1.  Wenden Sie den oben genannten Patch auf Ihr `wpa_supplicant` an.
 
 #### wpa_supplicant
 
@@ -244,9 +241,9 @@ Hinweis: Diese Konfiguration wurde von [orv](http://hep.tsinghua.edu.cn/~orv) be
 
 #### iwd
 
-Aufgrund des Zertifikatproblems von Tsinghua-Secure (die Länge von p in dhparams beträgt nur 1024, was nicht mit [Linux 内核的 1536 长度需求](https://elixir.bootlin.com/linux/v6.0/source/crypto/dh.c#L52) übereinstimmt) und iwd auf dem Kryptografie-Tool des Kernels basiert, kann die Standardverwendung von iwd keine Verbindung herstellen.
+Aufgrund eines Zertifikatsproblems mit Tsinghua-Secure (die Länge von p in dhparams beträgt nur 1024, was nicht der [Linux-Kernel-Längenanforderung von 1536](https://elixir.bootlin.com/linux/v6.0/source/crypto/dh.c#L52) entspricht) und iwd auf dem Kryptografietool des Kernels basiert, kann bei der Standardverwendung von iwd keine Verbindung hergestellt werden.
 
-[NickCao](https://github.com/NickCao) stellt zu diesem Zweck [dhack 内核模块](https://github.com/NickCao/dhack) und alle Tool-Patches (unten) bereit; Ersteres implementiert den Patch, indem es die entsprechenden Symbole entführt, und letzteres ersetzt die Parameter direkt im Quellcode, wenn nix das Softwarepaket erstellt. Benutzer können analog ihre eigenen Kernel und Tools erstellen.
+[NickCao](https://github.com/NickCao) stellt für diesen Zweck das Dhack-Kernelmodul (https://github.com/NickCao/dhack) und den Ell-Tool-Patch (unten) bereit; Ersteres implementiert den Patch, indem es die entsprechenden Symbole entführt, und letzteres ersetzt beim Erstellen des Nix-Softwarepakets direkt die Parameter im Quellcode. Benutzer können analog ihre eigenen Kernel und Tools erstellen.
 
 ```nix
 iwd.override {
@@ -274,7 +271,7 @@ AutoConnect=true
 
 ### Tsinghua-Secure, nur Anmeldemethode auf dem Campus
 
-Wir haben festgestellt, dass die nach der Verbindung mit Tsinghua-Secure erhaltene IPv4-Adresse automatisch in die Tabelle der zulässigen ausgehenden Daten eingetragen wird, die unter unerwarteten Umständen die vorhandenen ausgehenden ausgehenden Geräte belegen kann.
+Wir haben festgestellt, dass die nach der Verbindung mit Tsinghua-Secure erhaltene IPv4-Adresse automatisch in die zulässige Ausgangstabelle aufgenommen wird, die unter unerwarteten Umständen die vorhandenen ausgehenden Ausgangsgeräte belegen kann.
 
 Nach Tests wurde festgestellt, dass das Anmeldeverhalten dasselbe ist wie bei „Nur Anmeldung auf dem Campus“, wenn der beim Anmelden verwendete Benutzername „Benutzername@tsinghua“ ist (z. B. lh14@tsinghua). In diesem Fall hat v4 nur Zugriff und v6 hat Zugriff und Ausgang.
 
@@ -348,9 +345,9 @@ Wir können das statische Suffix über iproute2 oder das traditionelle Paket kon
 ip token set ::114:514:1919:810/64 dev wlan0
 ```
 
-**Bevor wir diesen Befehl ausführen**, müssen wir beachten, dass wir `forwarding` der Netzwerkkarte deaktivieren müssen (**während der Konfiguration**, die Weiterleitung kann nach der Konfiguration aktiviert werden), `accept_ra` und `autoconf` öffnen und die v6-Funktion anderer DHCP-Clients deaktivieren müssen.
+**Bevor wir diesen Befehl ausführen**, müssen wir beachten, dass wir `forwarding` der Netzwerkkarte deaktivieren müssen (**während der Konfiguration** kann die Weiterleitung nach der Konfiguration aktiviert werden), `accept_ra` und `autoconf` öffnen und die v6-Funktion anderer DHCP-Clients deaktivieren.
 
-(Tucao: Obwohl dhcpcd ein DHCP-Client ist, übernimmt er auch SLAAC, was sehr ärgerlich ist. Traditionell müssen Sie nur `accept_ra` und `autoconf` öffnen, und der Linux-Kernel konfiguriert automatisch die v6-Adresse. Wenn `forwarding=1` verwendet wird, müssen wir `accept_ra=2` verwenden.)
+(Tucao: Obwohl dhcpcd ein DHCP-Client ist, übernimmt er auch SLAAC, was sehr ärgerlich ist. Traditionell müssen Sie nur `accept_ra` und `autoconf` aktivieren, und der Linux-Kernel konfiguriert automatisch die v6-Adresse. Wenn `forwarding=1` verwendet wird, müssen wir `accept_ra=2` verwenden.)
 
 ```bash
 sysctl net/ipv6/conf/wlan0/accept_ra=1
@@ -374,7 +371,7 @@ ia_na 64:1a:ff:ff/2402:f000:4:3:888:1926:8:17
 
 Einige Informationen in der Konfiguration wurden bearbeitet. Informationen zur Konfiguration finden Sie in der Manpage und in der tatsächlichen Netzwerkumgebung.
 
-Im Anhang finden Sie einige Protokolle, die den Prozess des Inkrafttretens dieser Konfiguration untersuchen. Der Autor ist der Ansicht, dass diese Konfiguration erst verwendet werden kann, nachdem die alte Lease abgelaufen ist oder die alte Adresse vorbelegt wurde.
+Im Anhang finden Sie einige Protokolle, die den Prozess des Inkrafttretens dieser Konfiguration untersuchen. Der Autor ist der Ansicht, dass diese Konfiguration erst verwendet werden kann, nachdem die alte Lease abgelaufen ist oder die alte Adresse vorgezogen wurde.
 
 ```
 Apr 02 07:00:21 Zenith dhcpcd[497]: enp3s0: IAID 64:1a:ff:ff
@@ -403,7 +400,7 @@ Eine Möglichkeit besteht darin, die private temporäre IPv6-Adresse zu deaktivi
 >
 > Laut relevanten Quellen wird nur DUID Typ 1, also DUID-LLT, erkannt. Die entsprechende Konfigurationsmethode von dhcpcd ist unten angegeben.
 >
-> Öffnen Sie zunächst `duid` in `/etc/dhcpcd.conf` und stellen Sie sicher, dass `clientid` nicht geöffnet ist. Anschließend überprüfen wir die folgenden Dateien
+> Öffnen Sie zuerst `duid` in `/etc/dhcpcd.conf` und stellen Sie sicher, dass `clientid` nicht geöffnet ist. Anschließend überprüfen wir die folgenden Dateien
 >
 > ```
 > $ cat /var/lib/dhcpcd/duid
@@ -416,21 +413,21 @@ Eine Möglichkeit besteht darin, die private temporäre IPv6-Adresse zu deaktivi
 >
 > Einige Erfahrungen finden Sie unter https://pwe.cat/zijing-dhcpv6/
 
-Bei jüngsten Versuchen wurde festgestellt, dass die Verwendung einer neueren Version von `systemd-networkd` die Adresse stabil erhalten kann.
+Bei jüngsten Versuchen wurde festgestellt, dass mit einer neueren Version von `systemd-networkd` Adressen stabil abgerufen werden können.
 
 ### Wenn 30 Minuten lang kein Verkehr herrscht, verlieren Sie den Zugang.
 
 Gemäß der zuvor erwähnten „Anleitung für den Internetzugang“ schließt das Authentifizierungssystem seine Netzwerkverbindung, wenn der Computer das Netzwerk längere Zeit (derzeit 30 Minuten) nicht nutzt. <del>Bei Bedarf kann der Server alle 10 Minuten einen Ping an ping.tsinghua.edu.cn senden. </del>(Abgelaufen)
 
-### Es ist nicht möglich, den genauen Ausgang korrekt zu beenden, nachdem der genaue Ausgang verloren gegangen ist
+### Es ist nicht möglich, den genauen Ausgang korrekt zu verlassen, nachdem der genaue Ausgang verloren gegangen ist
 
-Einige Computer, die schon seit längerem in Betrieb sind, können möglicherweise keine Verbindung zum Netzwerk außerhalb des Campus herstellen. In diesem Fall versuchen viele Schüler möglicherweise einen **genauen Export** in usereg oder der Befehlszeile, stellen jedoch fest, dass der genaue Export nicht erfolgreich ist. **Bei Benutzerregistrierung kann von der Maschine aus nicht auf das Netzwerk außerhalb des Campus zugegriffen werden, selbst wenn die Maschine in der genauen Exportliste angezeigt wird**. Wir gehen davon aus, dass dies ein Problem bei der Statussynchronisierung einiger Geräte im Campusnetzwerk ist.
+Einige Computer, die schon seit längerem in Betrieb sind, können möglicherweise keine Verbindung zum Netzwerk außerhalb des Campus herstellen. In diesem Fall versuchen viele Schüler möglicherweise einen **genauen Export** in usereg oder der Befehlszeile, stellen jedoch fest, dass der genaue Export nicht erfolgreich ist. **Bei der Benutzerregistrierung kann auf dem Computer nicht auf das Netzwerk außerhalb des Campus zugegriffen werden, selbst wenn der Computer in der genauen Exportliste angezeigt wird**. Wir gehen davon aus, dass dies ein Problem bei der Statussynchronisierung einiger Geräte im Campusnetzwerk ist.
 
 Eine mögliche Lösung für dieses Problem besteht darin, sich zuerst abzumelden, dann einzutreten und zu verlassen. Dadurch kann der Status einiger Maschinen in der Schule aktualisiert werden, sodass der Ausstieg erfolgreich sein kann. Beachten! Das Abmelden ist ein sehr gefährlicher Vorgang! Es kann sein, dass SSH-Verbindungen unterbrochen werden und der Kontakt zu Ihrem Computer dauerhaft verloren geht! Bitte bedienen Sie es, nachdem Sie die Bedeutung dieses Vorgangs vollständig verstanden haben und wissen, wie Sie den Zugriff nach dem Abmelden wiederherstellen können!
 
 ### Kein Verlassen nach der Zulassung möglich (nur nach Anmeldung am Campus)
 
-Wir haben oben die Tsinghua-Secure-Anmeldemethode nur auf dem Campus erwähnt. Es gibt auch entsprechende On-Campus-Login-Lösungen auf der Kommandozeile (bitte entsprechende Parameter prüfen) und der Webseite (Kontrollkästchen nur On-Campus auf der Zugangsoberfläche). Einige Studenten stellten jedoch fest, dass nach der Anmeldung auf dem Campus die Anmeldung über net.tsinghua.edu.cn und die Benutzerregistrierungsanmeldung fehlschlugen. Wie das oben genannte Problem dürfte es sich auch hier um ein Problem mit dem Status bestimmter Geräte handeln, für das es derzeit keine Lösung gibt.
+Wir haben oben die Tsinghua-Secure-Anmeldemethode nur auf dem Campus erwähnt. Es gibt auch entsprechende On-Campus-Login-Lösungen auf der Kommandozeile (bitte entsprechende Parameter überprüfen) und der Webseite (Kontrollkästchen nur On-Campus auf der Zugangsoberfläche). Einige Studenten stellten jedoch fest, dass die Anmeldung über net.tsinghua.edu.cn und die Benutzerregistrierungsanmeldung fehlschlugen, nachdem sie sich nur auf dem Campus angemeldet hatten. Wie das oben genannte Problem dürfte es sich auch hier um ein Problem mit dem Status bestimmter Geräte handeln, für das es derzeit keine Lösung gibt.
 
 ### Wenn dies nicht zulässig ist, können andere Maschinen pingen, aber kein SSH.
 
@@ -440,7 +437,7 @@ Ob ein Ping möglich ist, hängt ebenfalls von der Vorrichtlinie ab, dies ist je
 
 ## Tsinghua-Wolkenscheibe
 
-Es wird empfohlen, in [seafile.com/download](https://seafile.com/download) den Linux-Client anstelle des Terminal-Clients zu verwenden, da der Terminal-Client ein eigenständiges Passwort benötigt. Dieses Passwort unterscheidet sich vom INFO-Passwort und kann nicht abgerufen werden, sodass Sie sich nicht über den Terminal-Client anmelden können.
+Es wird empfohlen, den Linux-Client in [seafile.com/download](https://seafile.com/download) anstelle des Terminal-Clients zu verwenden, da der Terminal-Client ein unabhängiges Passwort erfordert. Dieses Passwort unterscheidet sich vom INFO-Passwort und kann nicht abgerufen werden, sodass Sie sich nicht über den Terminal-Client anmelden können.
 
 Da eine manuelle Softwareinstallation nicht empfohlen wird, verwenden Sie bitte einen Paketmanager, um die entsprechende Software zu erhalten. Für Arch Linux-Benutzer ist der Linux-Client
 
@@ -452,13 +449,13 @@ Anstelle von `pacman -S seafile` ist dieses Paket der Terminal-Client. Für ande
 
 ### Verwenden des Terminal-Clients
 
-Der Terminal-Client unterstützt die Verwendung von Token zur Synchronisierung ab Version 8.0.4. Die Quelle der AMD64-Architektur für die meisten Versionen finden Sie in [install_linux_client](https://help.seafile.com/syncing_client/install_linux_client/). Wenn die Versionsnummer von `seafile` oder `seafile-cli` im von Ihnen verwendeten Paketmanager niedriger als `8.0.4` ist, können Sie es installieren und später auf die Methode zum Ersetzen einiger Dateien zurückgreifen, oder Sie können die neueste Version direkt manuell kompilieren.
+Der Terminal-Client unterstützt die Verwendung von Token zur Synchronisierung ab Version 8.0.4. Die Quelle der AMD64-Architektur für die meisten Distributionen finden Sie unter [install_linux_client](https://help.seafile.com/syncing_client/install_linux_client/). Wenn die Versionsnummer von `seafile` oder `seafile-cli` im von Ihnen verwendeten Paketmanager niedriger als `8.0.4` ist, können Sie es installieren und später auf die Methode zum Ersetzen einiger Dateien zurückgreifen, oder Sie können die neueste Version direkt manuell kompilieren.
 
 #### Token erhalten
 
-Melden Sie sich im Browser bei Tsinghua Cloud Disk an. Der `seahub_auth` im Cookie sollte dem Muster von `用户名（学号@tsinghua.edu.cn）@Token` entsprechen und der letzte Absatz ist das Token. Der Token jedes Kontos ist einzigartig und läuft nicht ab.
+Melden Sie sich im Browser bei Tsinghua Cloud Disk an. Das `seahub_auth` im Cookie sollte dem Muster `用户名（学号@tsinghua.edu.cn）@Token` entsprechen und der letzte Absatz ist das Token. Der Token jedes Kontos ist einzigartig und läuft nicht ab.
 
-Nachdem `seaf-cli` normal ausgeführt werden kann, können Sie die Befehlszeile verwenden, um Synchronisierungsvorgänge durchzuführen.
+Nachdem `seaf-cli` normal ausgeführt werden kann, können Sie Synchronisierungsvorgänge über die Befehlszeile ausführen.
 
 ```
 seaf-cli init -d ~
@@ -469,7 +466,7 @@ seaf-cli desync -d <existing-folder>
 
 #### Ersetzen Sie einige Dateien, um die Token-Anmeldung zu implementieren
 
-`seaf-cli` kommuniziert im Wesentlichen mit `seaf-daemon` über `pysearpc`, sodass die niedrigere Version von `seafile` in den Standardquellen der meisten Distributionen problemlos funktioniert, indem einfach `seaf-cli` ersetzt wird. Hier ist eine einfache Möglichkeit, die Token-Anmeldung zu implementieren, indem Sie `seaf-cli` nach der Installation des Terminal-Clients ersetzen.
+`seaf-cli` kommuniziert im Wesentlichen mit `seaf-daemon` über `pysearpc`, sodass die niedrigere Version von `seafile` in der Standardquelle der meisten Distributionen einwandfrei funktioniert, indem nur `seaf-cli` ersetzt wird. Hier ist eine einfache Möglichkeit, die Token-Anmeldung zu implementieren, indem nach der Installation des Terminal-Clients `seaf-cli` ersetzt wird.
 
 ```
 git clone https://github.com/haiwen/seafile
@@ -484,9 +481,9 @@ cp -r python/seafile $(python3 -m site --user-site)
 Informationen zum spezifischen Kompilierungsprozess finden Sie unter [build_seafile](https://manual.seafile.com/build_seafile/linux/). Es sind jedoch einige Punkte zu beachten:
 
 - Laden Sie den neuesten Quellcode oder die neueste Version in jedem Warehouse herunter und kompilieren Sie ihn
-- Sie können den Teil `ccnet` im Dokument ignorieren, das Lager ist verschwunden und es gibt keine relevanten Abhängigkeiten.
+- Sie können den `ccnet`-Teil im Dokument ignorieren, das Warehouse ist verschwunden und es gibt keine relevanten Abhängigkeiten.
 - Es besteht die Wahrscheinlichkeit, dass make scheitert. Du kannst es noch ein paar Mal versuchen.
-- Wenn `seaf-cli` nach Abschluss der Installation einen Fehler meldet, z. B. `No module named 'seafile'`, können Sie im vorherigen Abschnitt nachschlagen, um das Paket `seafile` manuell zu kopieren
+- Wenn nach Abschluss der Installation ein `seaf-cli`-Fehler gemeldet wird, beispielsweise `No module named 'seafile'`, können Sie im vorherigen Abschnitt nachschlagen, um das `seafile`-Paket manuell zu kopieren
 
 ### Chrome warnt davor, dass heruntergeladene Dateien gefährlich sind
 
@@ -498,9 +495,9 @@ Bitte ignorieren Sie diese Erinnerung. Wenn Sie eine wirklich fantastische Datei
 
 Derzeit ist der Dienst gestoppt.
   
-Referenz [ipv6.tsinghua.edu.cn](https://ipv6.tsinghua.edu.cn). Es gibt auch [AUR 包 thu-isatap](https://aur.archlinux.org/packages/thu-isatap) als Referenz.
+Referenz [ipv6.tsinghua.edu.cn](https://ipv6.tsinghua.edu.cn). Es gibt auch [AUR-Paket thu-isatap](https://aur.archlinux.org/packages/thu-isatap) als Referenz.
 
-Derzeit können nur öffentliche IPv4-Benutzer auf dem Campus diesen Dienst nutzen, nicht jedoch Benutzer außerhalb des Campus. Beachten Sie, dass diese IP nicht auf Ping-Pakete `166.111.21.1` reagiert.
+Derzeit können nur öffentliche IPv4-Benutzer auf dem Campus diesen Dienst nutzen, nicht jedoch Benutzer außerhalb des Campus. Beachten Sie, dass `166.111.21.1` diese IP nicht auf Ping-Pakete antwortet.
 
 ### Holen Sie sich IPv6-verknüpftes PT
 
@@ -524,7 +521,7 @@ Führen Sie dann das Skript aus, während Sie mit SSLVPN verbunden sind, um es z
 
 ## Original-Betriebssystem- und Software-Downloads
 
-### SEIN
+### ES IST
 
 Besuchen Sie https://its.tsinghua.edu.cn und melden Sie sich an, um die Download-Methode für Originalsoftware wie Win10, Antivirensoftware, WPS, MS Visio, MS Visual Studio, MATLAB usw. zu erhalten.
 
@@ -534,7 +531,7 @@ Besuchen Sie https://mirrors.tuna.tsinghua.edu.cn und klicken Sie, um den Downlo
 
 ## IP-Segment auf dem Campus
 
-Es gibt 6/16 in der Schule, siehe https://bgp.he.net/AS45576
+Es gibt 6/16 in der Schule, bitte wenden Sie sich an https://bgp.he.net/AS45576
 
 ```
 ; 重要校园服务基本位于此网段，例如主页
@@ -553,4 +550,4 @@ Es gibt 6/16 in der Schule, siehe https://bgp.he.net/AS45576
 118.229.0.0/20
 ```
 
-v6 __THU_WIKI_TOKEN_0 __, und __THU_WIKI_TOKEN_1 __ (Web College). Es gibt einen __thU_WiKI_Token_2_, aber es wird nicht verwendet。
+v6 verwendet im Allgemeinen `2402:f000::/32` und einige Bereiche verwenden `2001:250:200::/48` (Network Research Institute). Es gibt einen Absatz `2001:da8:200::/48`, der jedoch nicht verwendet wird.

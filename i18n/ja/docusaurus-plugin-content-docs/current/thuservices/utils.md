@@ -129,7 +129,7 @@ iOS 12 以降のユーザーは、この [链接](https://www.icloud.com/shortcu
 
 このインターフェイス [Konano](https://github.com/Konano) に基づいて、Erha という名前のテレグラム ボットが開発されました。
 
-プロジェクトのアドレスは [此](https://github.com/Konano/Tuna-Erha-Bot) です。洗濯機の状態照会機能以外にも様々な機能があります。
+プロジェクトのアドレスは [こちら](https://github.com/Konano/Tuna-Erha-Bot) です。洗濯機の状態照会機能以外にも様々な機能があります。
 
 ボットには [t.me/erhabot](https://t.me/erhabot) 経由でアクセスできます。
 
@@ -164,23 +164,23 @@ cksqs または有料成績証明書を通じて取得され、計算には含�
 
 導入については前のセクションを参照してください。
 
-「INFO-全成績」ページで各学期のGPAと必修・必修成績の合計を計算します。スクリプトのアドレスは [此](https://greasyfork.org/zh-CN/scripts/420540-清华大学gpa查询) です
+「INFO-全成績」ページで各学期のGPAと必修・必修成績の合計を計算します。スクリプトのアドレスは [こちら](https://greasyfork.org/zh-CN/scripts/420540-清华大学gpa查询) です
 
 ## 雨の教室ヘルパー
 
 このユーザー スクリプトは、大画面デバイス (PC、タブレット) 上の Rain Classroom の生徒により良いユーザー エクスペリエンスを提供するように設計されています。
 
-プロジェクトのアドレスは [此](https://github.com/RainEggplant/rain-classroom-helper) です
+プロジェクトのアドレスは [こちら](https://github.com/RainEggplant/rain-classroom-helper) です
 
 ## 清華大学統合プラットフォームビデオ自動再生
 
-スクリプトは [此](https://github.com/Co1lin/Tsinghua-Yukuotang-Autoplay) にあり、[tsinghua.yuketang.cn](https://github.com/Co1lin/Tsinghua-Yukuotang-Autoplay/blob/main/tsinghua.yuketang.cn) でコースビデオを自動的に再生できます。
+スクリプトは [こちら](https://github.com/Co1lin/Tsinghua-Yukuotang-Autoplay) にあり、[tsinghua.yuketang.cn](https://github.com/Co1lin/Tsinghua-Yukuotang-Autoplay/blob/main/tsinghua.yuketang.cn) でコースビデオを自動的に再生できます。
 
 ## Xuetang オンラインビデオが自動的に再生されます
 
 MOOCsをバックグラウンドで学習しているときに、停止していないかよく確認しますか?スクリプトによって次のレッスンが自動的に再生されます。
 
-スクリプトは [此](https://greasyfork.org/en/scripts/373881-清华学堂在线视频自动播放) にあります
+スクリプトは [こちら](https://greasyfork.org/en/scripts/373881-清华学堂在线视频自动播放) にあります
 
 このスクリプトには長い歴史があり、長期間メンテナンスされておらず、いくつかのバグも含まれているため、長期的な可用性は保証されません。問題を発見したり、コードを改善したりした場合は、原作者 @RikaSugiwa に連絡してください。
 
@@ -188,19 +188,19 @@ MOOCsをバックグラウンドで学習しているときに、停止してい
 
 復習の準備をするときに、まだビデオを 1 つずつめくって字幕をダウンロードしていますか?このスクリプトが役に立ちます!
 
-Rabbit Hu バージョン: スクリプトは [此](https://greasyfork.org/zh-CN/scripts/408878-xuetangx-caption-crawler) にあり、プロジェクト アドレスは [此](https://github.com/Rabbit-Hu/xuetangx-caption-crawler) にあります。
+Rabbit Hu バージョン: スクリプトは [こちら](https://greasyfork.org/zh-CN/scripts/408878-xuetangx-caption-crawler) にあり、プロジェクト アドレスは [こちら](https://github.com/Rabbit-Hu/xuetangx-caption-crawler) にあります。
 
-Roberts Holder バージョン: プロジェクトのアドレスは [此](https://github.com/rcy17/MOOC_subtitle_spider) です
+Roberts Holder バージョン: プロジェクトのアドレスは [こちら](https://github.com/rcy17/MOOC_subtitle_spider) です
 
-前川リンコ版: プロジェクトのアドレスは [此](https://github.com/lynzrand/xuetangx_sub) です
+前川リンコ版: プロジェクトのアドレスは [こちら](https://github.com/lynzrand/xuetangx_sub) です
 
-c7w バージョン: プロジェクトのアドレスは [此](https://github.com/c7w/TsinghuaMoocCaptionCrawler) です
+c7w バージョン: プロジェクトのアドレスは [こちら](https://github.com/c7w/TsinghuaMoocCaptionCrawler) です
 
 ## Rain Classroom コースウェア ダウンローダー
 
 現在は「長江の雨の教室」のみに適用されていますが、改修後は蓮池の雨の教室でも使用できるようになります。
 
-プロジェクトのアドレスは [此](https://github.com/ShevonKuan/yuektang_ppt2pdf) です。
+プロジェクトのアドレスは [こちら](https://github.com/ShevonKuan/yuektang_ppt2pdf) です。
 
 ## 清華教の参考書クロール
 
@@ -218,11 +218,11 @@ API変更により、以下の2点が利用できなくなりました。
 
 原文より引用： 最近の疫病は深刻で、教科書の購入が困難になっています。みんなのオンライン学習を促進するために、清華大学の教材をクロールするための Python スクリプトを書きました。
 
-プロジェクトのアドレスは [此](https://github.com/lflame/TsinghuaBookCrawler) です
+プロジェクトのアドレスは [こちら](https://github.com/lflame/TsinghuaBookCrawler) です
 
 元のテキストを引用する:本の各ページの元の画像を自動的にダウンロードします。
 
-プロジェクトのアドレスは [此](https://github.com/i207M/reserves-lib-tsinghua-downloader) です
+プロジェクトのアドレスは [こちら](https://github.com/i207M/reserves-lib-tsinghua-downloader) です
 
 ### 文泉学院
 
@@ -234,7 +234,7 @@ Wenquan Xuetang は、清華大学出版局の書籍を検索するために使�
 
 以下のプロジェクトは現在メンテナンスと運用を停止しています。
 
-[https://wmcgcdn.rika.tech/](https://wmcgcdn.rika.tech/) では、プロジェクト アドレスは [此](https://github.com/RikaKagurasaka/where-my-course-gone-backend) です。
+[https://wmcgcdn.rika.tech/](https://wmcgcdn.rika.tech/) では、プロジェクト アドレスは [こちら](https://github.com/RikaKagurasaka/where-my-course-gone-backend) です。
 
 ## 登録マーク（乗車券用）
 
@@ -268,7 +268,7 @@ aux ディレクトリの `TsinghuaBills.py` を参照してください。
 
 食堂が多すぎてどこで食べればいいのか分からない？乱数ジェネレーターが役立ちます!
 
-[此](https://github.com/SuXY15/RandomCanteen) のプロジェクト
+[こちら](https://github.com/SuXY15/RandomCanteen) のプロジェクト
 
 ミニプログラムQRコード
 
@@ -280,7 +280,7 @@ aux ディレクトリの `TsinghuaBills.py` を参照してください。
 
 さらに、Telegram Botは、オンラインでミルクティーを飲む、オンラインでカプチーノを飲む、ドリンクをオンラインで製造するなどのインタラクティブな機能も提供します。
 
-プロジェクトのアドレスは [此](https://github.com/Lancern/thufood-tgbot) です
+プロジェクトのアドレスは [こちら](https://github.com/Lancern/thufood-tgbot) です
 
 BOT アドレスは https://t.me/thufood_bot です
 

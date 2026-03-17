@@ -1,87 +1,84 @@
----
-
----
-# LaTeX 等模板
+# LaTeX およびその他のテンプレート
 
 
-ppt 模板：https://github.com/atomiechen/THU-PPT-Theme
+pptテンプレート：https://github.com/atomiechen/THU-PPT-Theme
 
-以下模板均可在 https://overleaf.tsinghua.edu.cn/templates/ 中找到并使用。
+次のテンプレートは https://overleaf.tsinghua.edu.cn/templates/ で見つけて使用できます。
 
-## 《如何使用 LaTeX 排版论文》讲稿
+## 「LaTeXを使って論文を整形する方法」の講義ノート
 
-2015 年起，每年 4 月、11 月清华大学图书馆专题培训讲座 《如何使用 LaTeX 排版论文》
+清華大学図書館では2015年から毎年4月と11月に「LaTeXを使って論文をフォーマットする方法」という特別研修講座を開催している。
 
-项目地址在[此](https://github.com/alick/thulib-latex-talk)以及其较新分支分支在[此](https://github.com/tuna/thulib-latex-talk)
+プロジェクトのアドレスは [ここ](https://github.com/alick/thulib-latex-talk) で、その新しいブランチは [ここ](https://github.com/tuna/thulib-latex-talk) です。
 
-## ThuThesis
+## 論文
 
-ThuThesis 是 Tsinghua University Thesis LaTeX Template 的缩写。
+ThuThesis は清華大学論文 LaTeX Template の略称です。
 
-此宏包旨在建立一个简单易用的清华大学学位论文 LaTeX 模板，包括本科综合论文训练、硕士论文、博士论文以及博士后出站报告。
+このマクロ パッケージは、学部の包括的な論文トレーニング、修士論文、博士論文、ポスドクの海外向けレポートなど、シンプルで使いやすい清華大学の論文 LaTeX テンプレートを作成するように設計されています。
 
-项目地址在[此](https://github.com/tuna/thuthesis)
+プロジェクトのアドレスは[こちら](https://github.com/tuna/thuthesis)です。
 
-## ThuWordThesis
+## 木言葉論文
 
-清华本科毕业论文Word模板
+清華大学の卒業論文 - Wordテンプレート
 
-项目地址在[此](https://github.com/qbh16/ThuWordThesis)
+プロジェクトのアドレスは[こちら](https://github.com/qbh16/ThuWordThesis)です。
 
-[清华云盘下载](https://cloud.tsinghua.edu.cn/d/5e264d25ce124695b3de)
+[清華クラウドディスクのダウンロード](https://cloud.tsinghua.edu.cn/d/5e264d25ce124695b3de)
 
-## THU-Beamer-Theme
+## THU-ビーマー-テーマ
 
-A LaTeX beamer theme template for Tsinghua students.
+清華大学の学生向けの LaTeX ビーマー テーマ テンプレート。
 
-项目地址在[此](https://github.com/Trinkle23897/THU-Beamer-Theme)
+プロジェクトのアドレスは[こちら](https://github.com/Trinkle23897/THU-Beamer-Theme)です。
 
-Overleaf模板位于：https://www.overleaf.com/latex/templates/thu-beamer-theme/vwnqmzndvwyb ，可以直接点开
+オーバーリーフ テンプレートは https://www.overleaf.com/latex/templates/thu-beamer-theme/vwnqmzndvwyb にあり、直接クリックできます。
 
-## 清华大学中文Beamer 模板
+## 清華大学中国語ビーマー テンプレート
 
 https://www.overleaf.com/latex/templates/qing-hua-da-xue-zhong-wen-beamer-mo-ban/djcnhxpwhrks
 
-## TsinghuaBeamear
+## 清華ビームメア
 
 https://www.overleaf.com/latex/templates/tsinghuabeamer/gwchbskgbvrm
 
-## Report Presentation for Tsinghua University
+## 清華大学報告発表会
 
 https://www.overleaf.com/latex/templates/report-presentation-for-tsinghua-university/yxcbdvyctybp
 
-## thubeamer
+## チューブマー
 
 https://github.com/YangLaTeX/thubeamer
 
-## THU coursework Template
+## 木曜日のコースワーク テンプレート
 
-LaTeX package for students in Tsinghua University to write coursework more efficiently, also can be used by students from other university.
+清華大学の学生がより効率的に授業を作成するための LaTeX パッケージ。他の大学の学生も使用できます。
 
-项目地址在[此](https://github.com/zhaofeng-shu33/THU-coursework-template)
+プロジェクトのアドレスは[こちら](https://github.com/zhaofeng-shu33/THU-coursework-template)です。
 
-## 清华大学近代物理实验报告模版
+## 清華大学現代物理学実験レポートテンプレート
 
 https://www.overleaf.com/latex/templates/thu-emp-qing-hua-da-xue-jin-dai-wu-li-shi-yan-bao-gao-mo-ban/mbgqcryqhwqd
 
-## THU Letter of Recommendation Template
+## THU 推薦状テンプレート
 
 https://www.overleaf.com/latex/templates/thu-letter-of-recommendation-template/ghjfgfhykprk
 
-## A Simple Tsinghua Letterhead Template
+## シンプルな清華社のレターヘッド テンプレート
 
 https://www.overleaf.com/latex/templates/a-simple-tsinghua-letterhead-template/zhpywsjswnjs
 
-## CV-tsinghua-template
+## CV-清華-テンプレート
 
 https://github.com/K-Wu/CV-tsinghua-template
 
-## THU-Exam-LaTeX-Template
+## THU-試験-LaTeX-テンプレート
 
 https://github.com/VicaYang/THU-Exam-LaTeX-Template
 
-## ilatex
+## イラテックス
 
-课程作业, 实验报告模板
+コースワーク、ラボレポートテンプレート
 
 https://github.com/liblaf/ilatex

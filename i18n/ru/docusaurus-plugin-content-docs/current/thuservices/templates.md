@@ -1,87 +1,84 @@
----
-
----
-# LaTeX 等模板
+# LaTeX и другие шаблоны
 
 
-ppt 模板：https://github.com/atomiechen/THU-PPT-Theme
+шаблон п.п.: https://github.com/atomiechen/THU-PPT-Theme
 
-以下模板均可在 https://overleaf.tsinghua.edu.cn/templates/ 中找到并使用。
+Следующие шаблоны можно найти и использовать в https://overleaf.tsinghua.edu.cn/templates/.
 
-## 《如何使用 LaTeX 排版论文》讲稿
+## Конспект лекций «Как использовать LaTeX для форматирования документов»
 
-2015 年起，每年 4 月、11 月清华大学图书馆专题培训讲座 《如何使用 LaTeX 排版论文》
+С 2015 года библиотека Университета Цинхуа каждый апрель и ноябрь проводит специальные обучающие лекции «Как использовать LaTeX для форматирования документов».
 
-项目地址在[此](https://github.com/alick/thulib-latex-talk)以及其较新分支分支在[此](https://github.com/tuna/thulib-latex-talk)
+Адрес проекта — [здесь](https://github.com/alick/thulib-latex-talk), а его новая ветка — [здесь](https://github.com/tuna/thulib-latex-talk)
 
-## ThuThesis
+## Диссертация
 
-ThuThesis 是 Tsinghua University Thesis LaTeX Template 的缩写。
+ThuThesis — это аббревиатура LaTeX-шаблона диссертации Университета Цинхуа.
 
-此宏包旨在建立一个简单易用的清华大学学位论文 LaTeX 模板，包括本科综合论文训练、硕士论文、博士论文以及博士后出站报告。
+Этот пакет макросов предназначен для создания простого и удобного в использовании шаблона LaTeX диссертации Университета Цинхуа, включая комплексную подготовку бакалаврской диссертации, магистерскую диссертацию, докторскую диссертацию и исходящий отчет постдокторской диссертации.
 
-项目地址在[此](https://github.com/tuna/thuthesis)
+Адрес проекта [здесь](https://github.com/tuna/thuthesis)
 
-## ThuWordThesis
+## ЧтСловоДиссертация
 
-清华本科毕业论文Word模板
+Словарный шаблон дипломной работы бакалавриата Цинхуа
 
-项目地址在[此](https://github.com/qbh16/ThuWordThesis)
+Адрес проекта [здесь](https://github.com/qbh16/ThuWordThesis)
 
-[清华云盘下载](https://cloud.tsinghua.edu.cn/d/5e264d25ce124695b3de)
+[Загрузка облачного диска Цинхуа](https://cloud.tsinghua.edu.cn/d/5e264d25ce124695b3de)
 
-## THU-Beamer-Theme
+## THU-Beamer-тема
 
-A LaTeX beamer theme template for Tsinghua students.
+Шаблон темы LaTeX для студентов Цинхуа.
 
-项目地址在[此](https://github.com/Trinkle23897/THU-Beamer-Theme)
+Адрес проекта [здесь](https://github.com/Trinkle23897/THU-Beamer-Theme)
 
-Overleaf模板位于：https://www.overleaf.com/latex/templates/thu-beamer-theme/vwnqmzndvwyb ，可以直接点开
+Шаблон Overleaf находится по адресу: https://www.overleaf.com/latex/templates/thu-beamer-theme/vwnqmzndvwyb, вы можете щелкнуть по нему напрямую.
 
-## 清华大学中文Beamer 模板
+## Шаблон китайского проекторного устройства Университета Цинхуа
 
 https://www.overleaf.com/latex/templates/qing-hua-da-xue-zhong-wen-beamer-mo-ban/djcnhxpwhrks
 
-## TsinghuaBeamear
+## ЦинхуаБемир
 
 https://www.overleaf.com/latex/templates/tsinghuabeamer/gwchbskgbvrm
 
-## Report Presentation for Tsinghua University
+## Презентация отчета для Университета Цинхуа
 
 https://www.overleaf.com/latex/templates/report-presentation-for-tsinghua-university/yxcbdvyctybp
 
-## thubeamer
+## трубомер
 
 https://github.com/YangLaTeX/thubeamer
 
-## THU coursework Template
+## Шаблон курсовой работы THU
 
-LaTeX package for students in Tsinghua University to write coursework more efficiently, also can be used by students from other university.
+Пакет LaTeX для студентов Университета Цинхуа, позволяющий более эффективно писать курсовые работы, также может использоваться студентами других университетов.
 
-项目地址在[此](https://github.com/zhaofeng-shu33/THU-coursework-template)
+Адрес проекта [здесь](https://github.com/zhaofeng-shu33/THU-coursework-template)
 
-## 清华大学近代物理实验报告模版
+## Шаблон отчета об эксперименте по современной физике Университета Цинхуа
 
 https://www.overleaf.com/latex/templates/thu-emp-qing-hua-da-xue-jin-dai-wu-li-shi-yan-bao-gao-mo-ban/mbgqcryqhwqd
 
-## THU Letter of Recommendation Template
+## THU Шаблон рекомендательного письма
 
 https://www.overleaf.com/latex/templates/thu-letter-of-recommendation-template/ghjfgfhykprk
 
-## A Simple Tsinghua Letterhead Template
+## Простой шаблон фирменного бланка Цинхуа
 
 https://www.overleaf.com/latex/templates/a-simple-tsinghua-letterhead-template/zhpywsjswnjs
 
-## CV-tsinghua-template
+## Шаблон резюме-цинхуа
 
 https://github.com/K-Wu/CV-tsinghua-template
 
-## THU-Exam-LaTeX-Template
+## ЧТ-Экзамен-LaTeX-Шаблон
 
 https://github.com/VicaYang/THU-Exam-LaTeX-Template
 
-## ilatex
+## латекс
 
-课程作业, 实验报告模板
+Курсовая работа, Шаблон отчета о лабораторной работе
 
 https://github.com/liblaf/ilatex

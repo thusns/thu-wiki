@@ -12,7 +12,7 @@ ppt 模板： https://github.com/atomiechen/THU-PPT-Theme
 
 2015 年起，每年 4 月、11 月清華大學圖書館專題訓練講座 《如何使用 LaTeX 排版論文》
 
-項目位址在[此](https://github.com/alick/thulib-latex-talk)以及其較新分支分支在[此](https://github.com/tuna/thulib-latex-talk)
+項目位址在[此處](https://github.com/alick/thulib-latex-talk)以及其較新分支分支在[此處](https://github.com/tuna/thulib-latex-talk)
 
 ## ThuThesis
 
@@ -20,21 +20,21 @@ ThuThesis 是 Tsinghua University Thesis LaTeX Template 的縮寫。
 
 此宏包旨在建立一個簡單易用的清華大學學位論文 LaTeX 模板，包括本科綜合論文訓練、碩士論文、博士論文以及博士後出站報告。
 
-項目地址在[此](https://github.com/tuna/thuthesis)
+項目地址在[此處](https://github.com/tuna/thuthesis)
 
 ## ThuWordThesis
 
 清華本科畢業論文Word模板
 
-項目地址在[此](https://github.com/qbh16/ThuWordThesis)
+項目地址在[此處](https://github.com/qbh16/ThuWordThesis)
 
-[清华云盘下载](https://cloud.tsinghua.edu.cn/d/5e264d25ce124695b3de)
+[清華雲盤下載](https://cloud.tsinghua.edu.cn/d/5e264d25ce124695b3de)
 
 ## THU-Beamer-Theme
 
 A LaTeX beamer theme template for Tsinghua students.
 
-項目地址在[此](https://github.com/Trinkle23897/THU-Beamer-Theme)
+項目地址在[此處](https://github.com/Trinkle23897/THU-Beamer-Theme)
 
 Overleaf模板位於： https://www.overleaf.com/latex/templates/thu-beamer-theme/vwnqmzndvwyb ，可以直接點開
 
@@ -58,7 +58,7 @@ https://github.com/YangLaTeX/thubeamer
 
 LaTeX package for students in Tsinghua University to write coursework more efficiently, also can be used by students from other university.
 
-項目地址在[此](https://github.com/zhaofeng-shu33/THU-coursework-template)
+項目地址在[此處](https://github.com/zhaofeng-shu33/THU-coursework-template)
 
 ## 清華大學近代物理實驗報告模版
 

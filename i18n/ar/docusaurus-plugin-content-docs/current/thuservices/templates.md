@@ -1,87 +1,84 @@
----
-
----
-# LaTeX 等模板
+# LaTeX والقوالب الأخرى
 
 
-ppt 模板：https://github.com/atomiechen/THU-PPT-Theme
+قالب ppt: https://github.com/atomiechen/THU-PPT-Theme
 
-以下模板均可在 https://overleaf.tsinghua.edu.cn/templates/ 中找到并使用。
+يمكن العثور على القوالب التالية واستخدامها في https://overleaf.tsinghua.edu.cn/templates/.
 
-## 《如何使用 LaTeX 排版论文》讲稿
+## ملاحظات محاضرة حول "كيفية استخدام LaTeX لتنسيق الأوراق"
 
-2015 年起，每年 4 月、11 月清华大学图书馆专题培训讲座 《如何使用 LaTeX 排版论文》
+منذ عام 2015، عقدت مكتبة جامعة تسينغهوا محاضرات تدريبية خاصة حول "كيفية استخدام LaTeX لتنسيق الأوراق" كل أبريل ونوفمبر.
 
-项目地址在[此](https://github.com/alick/thulib-latex-talk)以及其较新分支分支在[此](https://github.com/tuna/thulib-latex-talk)
+عنوان المشروع هو [هنا](https://github.com/alick/thulib-latex-talk) وفرعه الأحدث هو [هنا](https://github.com/tuna/thulib-latex-talk)
 
-## ThuThesis
+## أُطرُوحَة
 
-ThuThesis 是 Tsinghua University Thesis LaTeX Template 的缩写。
+ThuThesis هو اختصار لقالب LaTeX لأطروحة جامعة تسينغهوا.
 
-此宏包旨在建立一个简单易用的清华大学学位论文 LaTeX 模板，包括本科综合论文训练、硕士论文、博士论文以及博士后出站报告。
+تم تصميم حزمة الماكرو هذه لإنشاء قالب LaTeX لأطروحة جامعة تسينغهوا بسيط وسهل الاستخدام، بما في ذلك التدريب الشامل على الأطروحة الجامعية وأطروحة الماجستير وأطروحة الدكتوراه والتقرير الصادر لما بعد الدكتوراه.
 
-项目地址在[此](https://github.com/tuna/thuthesis)
+عنوان المشروع هو [هنا](https://github.com/tuna/thuthesis)
 
 ## ThuWordThesis
 
-清华本科毕业论文Word模板
+قالب كلمة أطروحة جامعة تسينغهوا
 
-项目地址在[此](https://github.com/qbh16/ThuWordThesis)
+عنوان المشروع هو [هنا](https://github.com/qbh16/ThuWordThesis)
 
-[清华云盘下载](https://cloud.tsinghua.edu.cn/d/5e264d25ce124695b3de)
+[تنزيل القرص السحابي Tsinghua](https://cloud.tsinghua.edu.cn/d/5e264d25ce124695b3de)
 
 ## THU-Beamer-Theme
 
-A LaTeX beamer theme template for Tsinghua students.
+قالب موضوع LaTeX متعاطي المخدرات لطلاب تسينغهوا.
 
-项目地址在[此](https://github.com/Trinkle23897/THU-Beamer-Theme)
+عنوان المشروع هو [هنا](https://github.com/Trinkle23897/THU-Beamer-Theme)
 
-Overleaf模板位于：https://www.overleaf.com/latex/templates/thu-beamer-theme/vwnqmzndvwyb ，可以直接点开
+قالب Overleaf موجود في: https://www.overleaf.com/latex/templates/thu-beamer-theme/vwnqmzndvwyb، يمكنك النقر عليه مباشرة
 
-## 清华大学中文Beamer 模板
+## قالب متعاطي المخدرات الصيني بجامعة تسينغهوا
 
 https://www.overleaf.com/latex/templates/qing-hua-da-xue-zhong-wen-beamer-mo-ban/djcnhxpwhrks
 
-## TsinghuaBeamear
+## تسينغهوابيمير
 
 https://www.overleaf.com/latex/templates/tsinghuabeamer/gwchbskgbvrm
 
-## Report Presentation for Tsinghua University
+## عرض تقرير لجامعة تسينغهوا
 
 https://www.overleaf.com/latex/templates/report-presentation-for-tsinghua-university/yxcbdvyctybp
 
-## thubeamer
+## com.thubeamer
 
 https://github.com/YangLaTeX/thubeamer
 
-## THU coursework Template
+## قالب الدورات الدراسية THU
 
-LaTeX package for students in Tsinghua University to write coursework more efficiently, also can be used by students from other university.
+حزمة LaTeX للطلاب في جامعة تسينغهوا لكتابة الدورات الدراسية بشكل أكثر كفاءة، ويمكن أيضًا استخدامها من قبل الطلاب من الجامعات الأخرى.
 
-项目地址在[此](https://github.com/zhaofeng-shu33/THU-coursework-template)
+عنوان المشروع هو [هنا](https://github.com/zhaofeng-shu33/THU-coursework-template)
 
-## 清华大学近代物理实验报告模版
+## قالب تقرير تجربة الفيزياء الحديثة بجامعة تسينغهوا
 
 https://www.overleaf.com/latex/templates/thu-emp-qing-hua-da-xue-jin-dai-wu-li-shi-yan-bao-gao-mo-ban/mbgqcryqhwqd
 
-## THU Letter of Recommendation Template
+## نموذج خطاب التوصية THU
 
 https://www.overleaf.com/latex/templates/thu-letter-of-recommendation-template/ghjfgfhykprk
 
-## A Simple Tsinghua Letterhead Template
+## قالب ترويسة تسينغهوا بسيط
 
 https://www.overleaf.com/latex/templates/a-simple-tsinghua-letterhead-template/zhpywsjswnjs
 
-## CV-tsinghua-template
+## قالب السيرة الذاتية تسينغهوا
 
 https://github.com/K-Wu/CV-tsinghua-template
 
-## THU-Exam-LaTeX-Template
+## THU-امتحان-LaTeX-قالب
 
 https://github.com/VicaYang/THU-Exam-LaTeX-Template
 
-## ilatex
+## إيلاتكس
 
-课程作业, 实验报告模板
+الدورات الدراسية، قالب تقرير المختبر
 
 https://github.com/liblaf/ilatex

@@ -129,7 +129,7 @@ https://washer.thu.services/?s=紫荆1号楼
 
 بناءً على هذه الواجهة [Konano](https://github.com/Konano)، تم تطوير روبوت Telegram اسمه Erha.
 
-عنوان المشروع هو [此](https://github.com/Konano/Tuna-Erha-Bot). بالإضافة إلى وظيفة الاستعلام عن حالة الغسالة، هناك المزيد من الوظائف.
+عنوان المشروع هو [هنا](https://github.com/Konano/Tuna-Erha-Bot). بالإضافة إلى وظيفة الاستعلام عن حالة الغسالة، هناك المزيد من الوظائف.
 
 يمكن الوصول إلى الروبوت عبر [t.me/erhabot](https://t.me/erhabot).
 
@@ -164,23 +164,23 @@ https://washer.thu.services/?s=紫荆1号楼
 
 الرجوع إلى القسم السابق للمقدمة.
 
-احتساب المعدل التراكمي لكل فصل دراسي ومجموع الدرجات المطلوبة والمطلوبة في صفحة "معلومات-جميع الدرجات". عنوان البرنامج النصي هو [此](https://greasyfork.org/zh-CN/scripts/420540-清华大学gpa查询)
+احتساب المعدل التراكمي لكل فصل دراسي ومجموع الدرجات المطلوبة والمطلوبة في صفحة "معلومات-جميع الدرجات". عنوان البرنامج النصي هو [هنا](https://greasyfork.org/zh-CN/scripts/420540-清华大学gpa查询)
 
 ## مساعد المطر الفصول الدراسية
 
 تم تصميم البرنامج النصي للمستخدم هذا لتوفير تجربة مستخدم أفضل لطلاب Rain Classroom على الأجهزة ذات الشاشات الكبيرة (الكمبيوتر الشخصي والكمبيوتر اللوحي).
 
-عنوان المشروع هو [此](https://github.com/RainEggplant/rain-classroom-helper)
+عنوان المشروع هو [هنا](https://github.com/RainEggplant/rain-classroom-helper)
 
 ## جامعة تسينغهوا منصة متكاملة للتشغيل التلقائي للفيديو
 
-النص موجود في [此](https://github.com/Co1lin/Tsinghua-Yukuotang-Autoplay) ويمكنه تشغيل فيديو الدورة التدريبية تلقائيًا على [tsinghua.yuketang.cn](https://github.com/Co1lin/Tsinghua-Yukuotang-Autoplay/blob/main/tsinghua.yuketang.cn).
+النص موجود في [هنا](https://github.com/Co1lin/Tsinghua-Yukuotang-Autoplay) ويمكنه تشغيل فيديو الدورة التدريبية تلقائيًا على [tsinghua.yuketang.cn](https://github.com/Co1lin/Tsinghua-Yukuotang-Autoplay/blob/main/tsinghua.yuketang.cn).
 
 ## يتم تشغيل فيديو Xuetang عبر الإنترنت تلقائيًا
 
 هل تتحقق في كثير من الأحيان مما إذا كان الأمر قد توقف عندما تدرس MOOCs في الخلفية؟ سيقوم البرنامج النصي تلقائيًا بتشغيل الدرس التالي لك!
 
-النص موجود في [此](https://greasyfork.org/en/scripts/373881-清华学堂在线视频自动播放)
+النص موجود في [هنا](https://greasyfork.org/en/scripts/373881-清华学堂在线视频自动播放)
 
 نظرًا لأن هذا البرنامج النصي له تاريخ طويل، ولم تتم صيانته لفترة طويلة، ويحتوي أيضًا على بعض الأخطاء، فلا يمكن ضمان توفره على المدى الطويل. عندما تجد مشاكل أو تقوم بتحسين الكود، يمكنك الاتصال بالمؤلف الأصلي @RikaSugisawa
 
@@ -188,19 +188,19 @@ https://washer.thu.services/?s=紫荆1号楼
 
 هل مازلت تقلب مقاطع الفيديو واحدًا تلو الآخر وتقوم بتنزيل الترجمة عند الاستعداد للمراجعة؟ هذا البرنامج النصي يساعدك!
 
-إصدار Rabbit Hu: النص موجود في [此](https://greasyfork.org/zh-CN/scripts/408878-xuetangx-caption-crawler)، وعنوان المشروع موجود في [此](https://github.com/Rabbit-Hu/xuetangx-caption-crawler).
+إصدار Rabbit Hu: النص موجود في [هنا](https://greasyfork.org/zh-CN/scripts/408878-xuetangx-caption-crawler)، وعنوان المشروع موجود في [هنا](https://github.com/Rabbit-Hu/xuetangx-caption-crawler).
 
-نسخة روبرتس هولدر: عنوان المشروع هو [此](https://github.com/rcy17/MOOC_subtitle_spider)
+نسخة روبرتس هولدر: عنوان المشروع هو [هنا](https://github.com/rcy17/MOOC_subtitle_spider)
 
-إصدار Rynco Maekawa: عنوان المشروع هو [此](https://github.com/lynzrand/xuetangx_sub)
+إصدار Rynco Maekawa: عنوان المشروع هو [هنا](https://github.com/lynzrand/xuetangx_sub)
 
-إصدار c7w: عنوان المشروع هو [此](https://github.com/c7w/TsinghuaMoocCaptionCrawler)
+إصدار c7w: عنوان المشروع هو [هنا](https://github.com/c7w/TsinghuaMoocCaptionCrawler)
 
 ## تحميل البرامج التعليمية Rain Classroom
 
 حاليًا، لا ينطبق هذا إلا على "فصل المطر في نهر اليانغتسى"، ولكن يمكن استخدامه في فصل المطر في Lotus Pond بعد التعديل.
 
-عنوان المشروع هو [此](https://github.com/ShevonKuan/yuektang_ppt2pdf).
+عنوان المشروع هو [هنا](https://github.com/ShevonKuan/yuektang_ppt2pdf).
 
 ## تسينغهوا كتاب مرجعي للتدريس الزحف
 
@@ -218,11 +218,11 @@ https://washer.thu.services/?s=紫荆1号楼
 
 مقتبس من النص الأصلي: لقد كان الوباء الأخير شديدًا وكان من الصعب شراء الكتب المدرسية. من أجل تسهيل التعلم عبر الإنترنت للجميع، كتبت نصًا بلغة بايثون للزحف إلى المواد التعليمية في تسينغهوا.
 
-عنوان المشروع هو [此](https://github.com/lflame/TsinghuaBookCrawler)
+عنوان المشروع هو [هنا](https://github.com/lflame/TsinghuaBookCrawler)
 
 اقتباس النص الأصلي: قم بتنزيل الصور الأصلية لكل صفحة من صفحات الكتاب تلقائيًا.
 
-عنوان المشروع هو [此](https://github.com/i207M/reserves-lib-tsinghua-downloader)
+عنوان المشروع هو [هنا](https://github.com/i207M/reserves-lib-tsinghua-downloader)
 
 ### أكاديمية وينكوان
 
@@ -234,7 +234,7 @@ https://washer.thu.services/?s=紫荆1号楼
 
 المشاريع التالية توقفت حاليا عن الصيانة والتشغيل:
 
-في [https://wmcgcdn.rika.tech/](https://wmcgcdn.rika.tech/)، عنوان المشروع هو [此](https://github.com/RikaKagurasaka/where-my-course-gone-backend).
+في [https://wmcgcdn.rika.tech/](https://wmcgcdn.rika.tech/)، عنوان المشروع هو [هنا](https://github.com/RikaKagurasaka/where-my-course-gone-backend).
 
 ## علامة التسجيل (لتذاكر القطار)
 
@@ -268,7 +268,7 @@ https://washer.thu.services/?s=紫荆1号楼
 
 هناك الكثير من المقاصف ولا تعرف أين تأكل؟ مولد رقم عشوائي للمساعدة!
 
-المشروع في [此](https://github.com/SuXY15/RandomCanteen)
+المشروع في [هنا](https://github.com/SuXY15/RandomCanteen)
 
 رمز QR للبرنامج المصغر
 
@@ -280,7 +280,7 @@ https://washer.thu.services/?s=紫荆1号楼
 
 بالإضافة إلى ذلك، يوفر Telegram Bot أيضًا وظائف تفاعلية مثل شرب الشاي بالحليب عبر الإنترنت، وشرب الكابتشينو عبر الإنترنت، وإنتاج المشروبات عبر الإنترنت.
 
-عنوان المشروع هو [此](https://github.com/Lancern/thufood-tgbot)
+عنوان المشروع هو [هنا](https://github.com/Lancern/thufood-tgbot)
 
 عنوان BOT هو https://t.me/thufood_bot
 
