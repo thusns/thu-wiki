@@ -281,7 +281,7 @@ Après avoir utilisé cette méthode d'authentification, le test de l'auteur peu
 
 ### Isolation de deuxième couche/isolation par découverte de voisin
 
-Une caractéristique majeure du réseau du campus est l’isolation de couche 2/découverte des voisins. Pour la v4, c'est le premier ; pour la v6, c'est ce dernier. This mechanism is designed for security, but it is inconvenient for many developers/users.
+Une caractéristique majeure du réseau du campus est l’isolation de couche 2/découverte des voisins. Pour la v4, c'est le premier ; pour la v6, c'est ce dernier. Ce mécanisme est conçu pour la sécurité, mais il est peu pratique pour de nombreux développeurs/utilisateurs.
 
 Cette fonctionnalité divise essentiellement le domaine de diffusion par le commutateur principal afin qu'un seul client et une seule passerelle se trouvent dans le même domaine de diffusion.
 
@@ -321,7 +321,7 @@ Selon le précédent document « Introduction à l'utilisation », IPv4 bloque l
 
 Pour l'IP dynamique, nous pouvons utiliser DDNS pour le résoudre. Les principaux fournisseurs tels que DNSPod, dns.he.net et cloudflare proposent ce service.
 
-Taking dns.he.net as an example, first add an A/AAAA record and choose to use DDNS. Après l'avoir créé, créez un jeton de mise à jour, marqué comme T. Nous écrivons le script suivant
+En prenant dns.he.net comme exemple, ajoutez d'abord un enregistrement A/AAAA et choisissez d'utiliser DDNS. Après l'avoir créé, créez un jeton de mise à jour, marqué comme T. Nous écrivons le script suivant
 
 ```
 #!/bin/sh
