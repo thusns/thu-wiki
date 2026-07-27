@@ -44,5 +44,8 @@
   },
   "engines": {
     "node": "24.x"
+  },
+  "overrides": {
+    "shell-quote": "1.10.0"
   }
 }
