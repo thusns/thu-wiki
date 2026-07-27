@@ -46,6 +46,10 @@
     "node": "24.x"
   },
   "overrides": {
-    "shell-quote": "1.10.0"
+    "shell-quote": "1.10.0",
+    "postcss": "8.5.23",
+    "js-yaml@3": "3.15.0",
+    "js-yaml@4": "4.3.0",
+    "brace-expansion": "5.0.8"
   }
 }
