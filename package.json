@@ -50,6 +50,18 @@
     "postcss": "8.5.23",
     "js-yaml@3": "3.15.0",
     "js-yaml@4": "4.3.0",
-    "brace-expansion": "5.0.8"
+    "brace-expansion": "5.0.8",
+    "@babel/core": "7.29.6",
+    "body-parser": "1.20.6",
+    "fast-uri": "3.1.4",
+    "http-proxy-middleware": "2.0.10",
+    "joi": "17.13.4",
+    "launch-editor": "2.14.1",
+    "qs": "6.15.2",
+    "serialize-javascript": "7.0.5",
+    "svgo": "3.3.4",
+    "uuid": "11.1.1",
+    "webpack-dev-server": "5.2.6",
+    "websocket-driver": "0.7.5"
   }
 }
