@@ -20,6 +20,7 @@
     "@giscus/react": "^3.1.0",
     "@mdx-js/react": "^3.0.0",
     "clsx": "^2.1.1",
+    "image-size": "file:vendor/image-size",
     "mitt": "^3.0.1",
     "prism-react-renderer": "^2.4.1",
     "react": "^18.0.0",
