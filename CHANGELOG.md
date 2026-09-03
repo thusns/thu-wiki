@@ -1,4 +1,11 @@
-# THU Wiki Changelog
+# Changelogs for thu-wiki
+> Created and Maintained by @erbanku and fellow AI agents
+
+## 09/03/2026
+
+- fix(deps): bump transitive `browserslist` 4.28.2 → 4.28.8 (CVE-2026-73088 / GHSA-73wf-gq98-2v4g, CVE-2026-73089 / GHSA-c83g-rgw3-j3cx).
+- fix(deps): bump override `fast-uri` 3.1.5 → 3.1.7 (CVE-2026-75931).
+- fix(deps): bump remaining `postcss-selector-parser` 6.x 6.1.2 → 6.1.4 (CVE-2026-9358); 7.x stays at 7.1.5.
 
 ## 09/02/2026
 
