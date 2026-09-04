@@ -20,7 +20,7 @@
     "@giscus/react": "^3.1.0",
     "@mdx-js/react": "^3.0.0",
     "clsx": "^2.1.1",
-    "image-size": "file:vendor/image-size",
+    "image-size": "file:./vendor/image-size",
     "mitt": "^3.0.1",
     "prism-react-renderer": "^2.4.1",
     "react": "^18.0.0",
@@ -44,8 +44,10 @@
     ]
   },
   "engines": {
-    "node": "24.x"
+    "node": "24.x",
+    "bun": ">=1.4.0"
   },
+  "packageManager": "bun@1.4.0",
   "overrides": {
     "shell-quote": "1.10.0",
     "postcss": "8.5.23",
@@ -61,7 +63,7 @@
     "http-proxy-middleware": "2.0.10",
     "joi": "17.13.4",
     "launch-editor": "2.14.1",
-    "qs": "6.15.2",
+    "qs": "6.16.0",
     "serialize-javascript": "7.0.5",
     "svgo": "3.3.4",
     "uuid": "11.1.1",
