@@ -1,6 +1,11 @@
 # Changelogs for thu-wiki
 > Created and Maintained by @erbanku and fellow AI agents
 
+## 09/04/2026
+
+- fix(deps): bump override `qs` 6.15.2 → 6.16.0 (CVE-2026-82417, CVE-2026-82562; Moderate).
+- chore: switch package manager from npm (`package-lock.json`) to Bun (`bun.lock`).
+
 ## 09/03/2026
 
 - fix(deps): bump transitive `browserslist` 4.28.2 → 4.28.8 (CVE-2026-73088 / GHSA-73wf-gq98-2v4g, CVE-2026-73089 / GHSA-c83g-rgw3-j3cx).
