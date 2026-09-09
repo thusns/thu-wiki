@@ -9,7 +9,7 @@
     "related_applications": [
         {
             "platform": "webapp",
-            "url": "https://thu.wiki/manifest.json"
+            "url": "https://thuwiki.dev/manifest.json"
         }
     ],
     "icons": [

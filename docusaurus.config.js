@@ -7,7 +7,7 @@ const darkCodeTheme = prismThemes.dracula;
 const config = {
   title: "THU Wiki",
   tagline: "Tsinghua University Student Network Service Team",
-  url: "https://thu.wiki",
+  url: "https://thuwiki.dev",
   baseUrl: "/",
   onBrokenLinks: "throw",
   favicon: "img/favicon.ico",
@@ -207,7 +207,7 @@ const config = {
               },
               {
                 label: "/thu-services",
-                href: "https://thu.wiki/docs/category/thu-services",
+                to: "/docs/category/thu-services",
               },
             ],
           },
