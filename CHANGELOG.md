@@ -1,6 +1,10 @@
 # Changelogs for thu-wiki
 > Created and Maintained by @erbanku and fellow AI agents
 
+## 09/20/2026
+
+- fix(seo): add `static/robots.txt` and `sitemap-index.xml` covering all 11 locales so Algolia DocSearch does not crawl only zh-Hans and trip the "too many missing records" safety check.
+
 ## 09/04/2026
 
 - fix(deps): bump override `qs` 6.15.2 → 6.16.0 (CVE-2026-82417, CVE-2026-82562; Moderate).
