@@ -122,6 +122,12 @@ const config = {
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
         },
+        sitemap: {
+          lastmod: "date",
+          changefreq: "weekly",
+          priority: 0.5,
+          filename: "sitemap.xml",
+        },
       }),
     ],
   ],
@@ -255,6 +261,7 @@ const config = {
       },
     }),
   plugins: [
+    require.resolve("./src/plugins/locale-sitemap-index"),
     [
       "@docusaurus/plugin-pwa",
       {

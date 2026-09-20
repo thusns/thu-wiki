@@ -20,9 +20,15 @@ Transitive CVEs are pinned here; do not drop them without replacing with an equa
 
 Vendored `image-size@2.0.3` lives in `vendor/image-size` (upstream archived at 2.0.2). Declared as `file:./vendor/image-size`.
 
+## Search (Algolia DocSearch)
+
+- App `6EWYEL4M0G`, public search index `thu`. Production currently holds ~10k heading-level records across all locales.
+- Docusaurus emits **one sitemap per locale**: `/sitemap.xml` (zh-Hans) and `/{locale}/sitemap.xml`. A crawl that only reads the default sitemap (~112 URLs) drops most records and Algolia blocks `finishReindexing` (`Too many missing records`, default 10% loss).
+- Combined index is written at `/sitemap-index.xml`; `static/robots.txt` lists every locale sitemap. Crawler `sitemaps` must include all of them (or `sitemap-index.xml`). Do not click **Replace production index** unless that drop is intentional.
+
 ## Commands
 
 - `bun install` then `bun run typecheck` for a cheap check.
 - `bun run build` is the full Docusaurus build (heavier).
 
-Last updated: 2026-09-04
+Last updated: 2026-09-20

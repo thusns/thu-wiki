@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://thuwiki.dev/sitemap-index.xml
+Sitemap: https://thuwiki.dev/sitemap.xml
+Sitemap: https://thuwiki.dev/en/sitemap.xml
+Sitemap: https://thuwiki.dev/zh-Hant/sitemap.xml
+Sitemap: https://thuwiki.dev/ja/sitemap.xml
+Sitemap: https://thuwiki.dev/ar/sitemap.xml
+Sitemap: https://thuwiki.dev/ru/sitemap.xml
+Sitemap: https://thuwiki.dev/fr/sitemap.xml
+Sitemap: https://thuwiki.dev/es/sitemap.xml
+Sitemap: https://thuwiki.dev/de/sitemap.xml
+Sitemap: https://thuwiki.dev/pt/sitemap.xml
+Sitemap: https://thuwiki.dev/ko/sitemap.xml
