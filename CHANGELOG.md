@@ -1,6 +1,10 @@
 # Changelogs for thu-wiki
 > Created and Maintained by @erbanku and fellow AI agents
 
+## 09/22/2026
+
+- fix(seo): write every locale URL into `/sitemap.xml`. Algolia DocSearch seeds from that file and does not follow `sitemap-index.xml`, so crawls kept only zh-Hans and failed `finishReindexing` with too many missing records.
+
 ## 09/20/2026
 
 - fix(seo): add `static/robots.txt` and `sitemap-index.xml` covering all 11 locales so Algolia DocSearch does not crawl only zh-Hans and trip the "too many missing records" safety check.

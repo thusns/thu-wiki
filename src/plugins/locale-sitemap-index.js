@@ -1,6 +1,45 @@
 const fs = require("fs");
 const path = require("path");
 
+/**
+ * DocSearch seeds from `/sitemap.xml` only. Docusaurus writes that file for the
+ * default locale, so a crawl never sees `/en`, `/ja`, and the other locales.
+ * Duplicate each default-locale URL under every other locale prefix.
+ *
+ * @param {import('@docusaurus/plugin-sitemap').CreateSitemapItemsParams & {
+ *   defaultCreateSitemapItems: import('@docusaurus/plugin-sitemap').CreateSitemapItemsFn
+ * }} params
+ */
+async function createLocaleSitemapItems(params) {
+  const { defaultCreateSitemapItems, ...rest } = params;
+  const items = await defaultCreateSitemapItems(rest);
+  const { defaultLocale, locales } = params.siteConfig.i18n;
+  const current = process.env.DOCUSAURUS_CURRENT_LOCALE;
+  if (current && current !== defaultLocale) {
+    return items;
+  }
+
+  const origin = params.siteConfig.url.replace(/\/$/, "");
+  const extras = [];
+  for (const item of items) {
+    const pathname = item.url.startsWith(origin)
+      ? item.url.slice(origin.length) || "/"
+      : new URL(item.url).pathname;
+    const suffix = pathname.startsWith("/") ? pathname : `/${pathname}`;
+    for (const locale of locales) {
+      if (locale === defaultLocale) {
+        continue;
+      }
+      const url =
+        suffix === "/"
+          ? `${origin}/${locale}/`
+          : `${origin}/${locale}${suffix}`;
+      extras.push({ ...item, url });
+    }
+  }
+  return items.concat(extras);
+}
+
 /** Writes a sitemap index covering every Docusaurus locale after the default-locale build. */
 function localeSitemapIndexPlugin(context) {
   return {
@@ -33,3 +72,4 @@ ${entries}
 }
 
 module.exports = localeSitemapIndexPlugin;
+module.exports.createLocaleSitemapItems = createLocaleSitemapItems;
