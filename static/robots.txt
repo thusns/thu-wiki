@@ -1,8 +1,8 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://thuwiki.dev/sitemap-index.xml
 Sitemap: https://thuwiki.dev/sitemap.xml
+Sitemap: https://thuwiki.dev/sitemap-index.xml
 Sitemap: https://thuwiki.dev/en/sitemap.xml
 Sitemap: https://thuwiki.dev/zh-Hant/sitemap.xml
 Sitemap: https://thuwiki.dev/ja/sitemap.xml

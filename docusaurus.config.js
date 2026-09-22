@@ -1,5 +1,8 @@
 // @ts-check
 const { themes: prismThemes } = require("prism-react-renderer");
+const {
+  createLocaleSitemapItems,
+} = require("./src/plugins/locale-sitemap-index");
 const lightCodeTheme = prismThemes.github;
 const darkCodeTheme = prismThemes.dracula;
 
@@ -127,6 +130,7 @@ const config = {
           changefreq: "weekly",
           priority: 0.5,
           filename: "sitemap.xml",
+          createSitemapItems: createLocaleSitemapItems,
         },
       }),
     ],
